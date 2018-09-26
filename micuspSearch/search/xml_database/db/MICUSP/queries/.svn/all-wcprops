@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/402/micusp-search/micusp/search/xml_database/db/MICUSP/queries
+END
+summary.xql
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/206/micusp-search/micusp/search/xml_database/db/MICUSP/queries/summary.xql
+END
+countParas.xql
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/206/micusp-search/micusp/search/xml_database/db/MICUSP/queries/countParas.xql
+END
+distribution.xql
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/304/micusp-search/micusp/search/xml_database/db/MICUSP/queries/distribution.xql
+END
+test.xql
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/206/micusp-search/micusp/search/xml_database/db/MICUSP/queries/test.xql
+END
+browse.xql
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/304/micusp-search/micusp/search/xml_database/db/MICUSP/queries/browse.xql
+END
+type.xql
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/206/micusp-search/micusp/search/xml_database/db/MICUSP/queries/type.xql
+END
+searchSummary.xql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/402/micusp-search/micusp/search/xml_database/db/MICUSP/queries/searchSummary.xql
+END
+__contents__.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/402/micusp-search/micusp/search/xml_database/db/MICUSP/queries/__contents__.xml
+END
+query.xql
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/206/micusp-search/micusp/search/xml_database/db/MICUSP/queries/query.xql
+END
+search.xql
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/206/micusp-search/micusp/search/xml_database/db/MICUSP/queries/search.xql
+END
+departments.xql
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/206/micusp-search/micusp/search/xml_database/db/MICUSP/queries/departments.xql
+END
+query2.xql
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/402/micusp-search/micusp/search/xml_database/db/MICUSP/queries/query2.xql
+END
+wordCounts.xql
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/402/micusp-search/micusp/search/xml_database/db/MICUSP/queries/wordCounts.xql
+END
+view.xql
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/402/micusp-search/micusp/search/xml_database/db/MICUSP/queries/view.xql
+END

@@ -1,0 +1,4928 @@
+%PDF-1.3
+1 0 obj
+<<
+/Kids [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R ]
+/Type /Pages
+/Count 10
+>>
+endobj
+2 0 obj
+<<
+/Producer (Python PDF Library \055 http\072\057\057pybrary\056net\057pyPdf\057)
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+>>
+endobj
+4 0 obj
+<<
+/Parent 1 0 R
+/Contents 14 0 R
+/Resources <<
+/ExtGState <<
+/GS1 15 0 R
+>>
+/Font <<
+/TT8 16 0 R
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+/TT2 18 0 R
+/TT4 20 0 R
+/TT6 22 0 R
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Type /Page
+>>
+endobj
+5 0 obj
+<<
+/Parent 1 0 R
+/Contents 24 0 R
+/Resources <<
+/ExtGState <<
+/GS1 15 0 R
+>>
+/Font <<
+/TT8 16 0 R
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+/TT2 18 0 R
+/TT4 20 0 R
+/TT10 25 0 R
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Type /Page
+>>
+endobj
+6 0 obj
+<<
+/Parent 1 0 R
+/Contents 27 0 R
+/Resources <<
+/ExtGState <<
+/GS1 15 0 R
+>>
+/Font <<
+/TT8 16 0 R
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+/TT2 18 0 R
+/TT4 20 0 R
+/TT12 28 0 R
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Type /Page
+>>
+endobj
+7 0 obj
+<<
+/Parent 1 0 R
+/Contents 30 0 R
+/Resources <<
+/ExtGState <<
+/GS1 15 0 R
+>>
+/Font <<
+/TT8 16 0 R
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+/TT2 18 0 R
+/TT4 20 0 R
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Type /Page
+>>
+endobj
+8 0 obj
+<<
+/Parent 1 0 R
+/Contents 31 0 R
+/Resources <<
+/ExtGState <<
+/GS1 15 0 R
+>>
+/Font <<
+/TT8 16 0 R
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+/TT2 18 0 R
+/TT4 20 0 R
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Type /Page
+>>
+endobj
+9 0 obj
+<<
+/Parent 1 0 R
+/Contents 32 0 R
+/Resources <<
+/ExtGState <<
+/GS1 15 0 R
+>>
+/Font <<
+/TT8 16 0 R
+/TT12 28 0 R
+/TT2 18 0 R
+/TT4 20 0 R
+/TT6 22 0 R
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Type /Page
+>>
+endobj
+10 0 obj
+<<
+/Parent 1 0 R
+/Contents 33 0 R
+/Resources <<
+/ExtGState <<
+/GS1 15 0 R
+>>
+/Font <<
+/TT8 16 0 R
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+/TT2 18 0 R
+/TT4 20 0 R
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Type /Page
+>>
+endobj
+11 0 obj
+<<
+/Parent 1 0 R
+/Contents 34 0 R
+/Resources <<
+/ExtGState <<
+/GS1 15 0 R
+>>
+/Font <<
+/TT8 16 0 R
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+/TT2 18 0 R
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Type /Page
+>>
+endobj
+12 0 obj
+<<
+/Parent 1 0 R
+/Contents 35 0 R
+/Resources <<
+/ExtGState <<
+/GS1 15 0 R
+>>
+/Font <<
+/TT8 16 0 R
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+/TT2 18 0 R
+/TT4 20 0 R
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Type /Page
+>>
+endobj
+13 0 obj
+<<
+/Parent 1 0 R
+/Contents 36 0 R
+/Resources <<
+/ExtGState <<
+/GS1 15 0 R
+>>
+/Font <<
+/TT8 16 0 R
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+/TT2 18 0 R
+/TT4 20 0 R
+/TT12 28 0 R
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Type /Page
+>>
+endobj
+14 0 obj
+<<
+/Length 14198
+>>
+stream
+q
+/GS1 gs
+BT
+/TT2 1 Tf
+11.2898 0 0 11.2898 106.02 35.76 Tm
+0 g
+0 Tc
+0 Tw
+( ) Tj
+34.9323 -0.0053 TD
+(1) Tj
+0.5049 60.1603 TD
+-0.0002 Tc
+(  ) Tj
+-9.3854 -1.1533 TD
+-0.0012 Tc
+0.001 Tw
+[ (University) -11.4 ( of M) -4.9 (i) 5.6 (chig) -6.1 (an) -6.1 ( ) ] TJ
+-1.1692 -1.1479 TD
+0.0001 Tc
+0.005 Tw
+[ (Departm) 12.6 (e) -2.5 (n) -4.8 (t) 1.6 ( of ) 5.3 (Ph) -4.8 (i) 6.9 (l) 1.6 (oso) -4.8 (phy ) ] TJ
+6.0001 -1.1479 TD
+-0.001 Tc
+0 Tw
+[ (Pros) -5.1 (em) 11.5 (i) -4.8 (n) -0.6 (ar) -8.1 ( ) ] TJ
+4.5545 -1.1532 TD
+-0.0002 Tc
+(  ) Tj
+-35.4372 -1.1479 TD
+0 Tc
+( ) Tj
+/TT4 1 Tf
+13.1527 0 0 13.1527 114.84 635.1 Tm
+0.0015 Tc
+-0.0036 Tw
+[ (The problem of necess) 7.5 (ar) 7.4 (y\057) ] TJ
+/TT6 1 Tf
+11.2631 0 TD
+0.0004 Tc
+-0.0041 Tw
+[ (a p) -6 (o) -1.4 (steriori) ] TJ
+/TT4 1 Tf
+4.7032 0 TD
+-0.0001 Tc
+-0.0005 Tw
+[ ( a) -6.5 (n) -5 (d c) 5.8 (o) -6.5 (ntingent \057) ] TJ
+/TT6 1 Tf
+7.1529 0 TD
+0.001 Tc
+-0.0001 Tw
+[ (a prior) 7 (i) ] TJ
+/TT4 1 Tf
+3.0883 0 TD
+0.0033 Tc
+-0.007 Tw
+[ ( tr) 4.7 (uths) 4.7 ( ) ] TJ
+/TT2 1 Tf
+11.2898 0 0 11.2898 106.02 621.84 Tm
+0 Tc
+0 Tw
+( ) Tj
+/TT4 1 Tf
+13.1527 0 0 13.1527 106.02 607.02 Tm
+0.0009 Tc
+[ (Intr) 6.8 (o) -5.5 (duction ) ] TJ
+/TT2 1 Tf
+11.2898 0 0 11.2898 106.02 586.2 Tm
+0.0007 Tc
+(In ) Tj
+/TT8 1 Tf
+1.403 0 TD
+-0.0014 Tc
+0.3201 Tw
+[ (Naming \046) 11.1 ( ) -5.3 (Nec) -4 (ess) -5.5 (ity) ] TJ
+/TT2 1 Tf
+8.838 0 TD
+-0.0007 Tc
+0.3194 Tw
+[ ( \133198) -5.6 (0\135 Kripke ) 5.4 (claim) 11.8 (s) -10.1 ( th) -5.6 (a) 7.4 (t) 0.8 ( t) 6.1 (h) -5.6 (ere ) 5.4 (are truth) -5.6 (s) 0.5 ( ) 5.4 (that ) 5.4 (are both) -5.6 ( ) ] TJ
+-10.2411 -1.7272 TD
+-0.0002 Tc
+0.085 Tw
+[ (conting) -5.1 (e) 7.9 (n) -5.1 (t) 1.3 ( and know) -6.1 (n ) ] TJ
+/TT8 1 Tf
+9.3961 0 TD
+0.0019 Tc
+0.0829 Tw
+[ (a pri) 8.7 (o) 2.3 (ri) ] TJ
+/TT2 1 Tf
+3.1674 0 TD
+0 Tc
+0.0848 Tw
+[ (\054) -5.1 ( a) 8.1 (n) 0.4 (d) -4.9 ( ) -5.3 (o) -4.9 (t) 6.8 (hers ) -5.3 (t) 6.8 (h) 0.4 (at ) -5.3 (are) 8.1 ( bo) -4.9 (t) 6.8 (h) -4.9 ( necessary) -10.2 ( and ) ] TJ
+/TT8 1 Tf
+16.661 0 TD
+-0.0009 Tc
+0.091 Tw
+[ (a po) -5.8 (ste) 7.2 (r) -10.3 (iori) ] TJ
+/TT2 1 Tf
+4.7831 0 TD
+-0.0002 Tc
+0.085 Tw
+[ (\056 I) -7.3 (n) -5.1 ( ) ] TJ
+-34.0076 -1.7219 TD
+0.0005 Tc
+0.2172 Tw
+[ (this p) -4.4 (a) 8.6 (p) -4.4 (e) 3.2 (r I ) 5.3 (ai) -8.7 (m) 13 ( at two goal) 7.3 (s) -3.6 (\072 ) 5.3 (\0501\051 t) 7.3 (o) 0.9 ( study) -9.7 ( t) 12.6 (h) -4.4 (e) 8.6 ( ) -5.3 (ca) 8.6 (ses ) 5.3 (of) -6.6 ( nece) 8.6 (ssary) -9.7 (\057) ] TJ
+/TT8 1 Tf
+28.608 0 TD
+0.0004 Tc
+0.212 Tw
+[ (a poste) 8.5 (r) -9 (i) 7.2 (ori) ] TJ
+/TT2 1 Tf
+4.9106 0 TD
+0.0043 Tc
+0.2081 Tw
+[ ( and ) ] TJ
+-33.5186 -1.7272 TD
+0.0049 Tc
+0 Tw
+[ (c) 7.6 (o) 5.3 (n) 5.3 (t) 1.1 (i) 6.4 (n) 5.3 (ge) 13 (nt) 6.4 (\057) ] TJ
+/TT8 1 Tf
+4.4961 0 TD
+0.0045 Tc
+0.0963 Tw
+[ (a p) 4.9 (r) 5.7 (i) 6 (o) 4.9 (ri) ] TJ
+/TT2 1 Tf
+3.1887 0 TD
+0 Tc
+0.1008 Tw
+[ ( truth) -4.9 (s) 1.2 ( using S) -7.2 (t) 1.5 (alnak) -4.9 (e) 8.1 (r\222s t) 6.8 (w) -5.9 (o di) -9.1 (m) 17.9 (e) -2.6 (ns) -9.4 (i) 6.8 (o) 0.4 (n) -4.9 (a) 2.7 (l ) -5.3 (app) -4.9 (a) 8.1 (r) -7.1 (a) 8.1 (tus\073 ) -5.3 (and\054 g) -4.9 (i) 1.5 (v) -4.9 (e) 8.1 (n) -4.9 ( th) -4.9 (e ) ] TJ
+-7.6848 -1.7272 TD
+-0.0005 Tc
+0.0109 Tw
+[ (results of suc) 7.6 (h) -5.4 ( ev) -5.4 (alu) -5.4 (a) -3.1 (t) 6.3 (i) 1 (o) -5.4 (n) -0.1 (\054 \0502\051 defen) -5.4 (d) -0.1 ( th) -5.4 (at th) -5.4 (ere is a pu) -5.4 (zzle h) -5.4 (e) 2.2 (re\054) -5.6 ( a genu) -5.4 (ine ph) -5.4 (il) 6.3 (osop) -5.4 (hica) -8.4 (l ) ] TJ
+0 -1.7219 TD
+-0.0003 Tc
+0.0001 Tw
+[ (befuddle) -8.2 (m) 12.2 (ent th) -5.2 (at) 6.5 ( ) -5.3 (shou) -5.2 (ld be properly) -5.2 ( solved\056 ) ] TJ
+/TT4 1 Tf
+13.1527 0 0 13.1527 106.02 467.46 Tm
+-0.001 Tc
+0.0019 Tw
+[ (The appa) -7.4 (ra) -7.4 (tus ) ] TJ
+/TT2 1 Tf
+11.2898 0 0 11.2898 106.02 446.58 Tm
+-0.0004 Tc
+0.1065 Tw
+[ (S) -7.6 (t) 6.4 (aln) -5.3 (a) 2.3 (k) -5.3 (e) 7.7 (r\222) -7.5 (s t) 6.4 (w) -6.3 (o dim) 12.1 (e) -3 (nsional ) -5.3 (app) -5.3 (a) 7.7 (ratus is a tech) ] TJ
+19.6265 0 TD
+-0.0005 Tc
+0.1066 Tw
+[ (nical dev) -5.4 (i) 1 (ce t) 6.3 (h) -5.4 (at is ) -10.6 (m) 12 (e) 2.2 (a) -8.4 (n) -0.1 (t t) 6.3 (o) -0.1 ( b) -5.4 (e) 2.2 ( useful ) ] TJ
+-19.6265 -1.7272 TD
+-0.0004 Tc
+0.0746 Tw
+[ (for understan) -5.3 (d) 0 (i) 6.4 (n) 0 (g) -5.3 ( a) 7.7 ( p) -5.3 (a) 2.3 (rticu) -5.3 (l) 1.1 (ar ki) 6.4 (nd) -5.3 ( of ) 5.3 (speech act\054 ) 5.3 (th) -5.3 (at ) 5.3 (of ) ] TJ
+/TT8 1 Tf
+23.3945 0 TD
+-0.0005 Tc
+0 Tw
+[ (as) -4.6 (sertion) ] TJ
+/TT2 1 Tf
+3.667 0 TD
+0.0011 Tc
+0.0678 Tw
+[ (\056 It works ) -5.3 (m) 13.6 (a) -1.5 (inl) 7.9 (y) -9.1 ( b) 6.9 (y) -9.1 ( ) ] TJ
+-27.0615 -1.7219 TD
+-0.0004 Tc
+0.3137 Tw
+[ (acc) 7.7 (o) -5.3 (un) -5.3 (t) 6.4 (i) 1.1 (ng ) -10.7 (for the differen) -5.3 (t) 6.4 ( ) -5.4 (t) 6.4 (h) -5.3 (ings) -9.8 ( \050e\056g\056 prop) -5.3 (ositions\051 that) 6.4 ( ) -16 (m) 12.1 (i) 1.1 (gh) -5.3 (t b) -5.3 (e) 2.3 ( ) -5.4 (sai) 6.4 (d) -5.3 ( by) -10.6 ( ) 5.3 (\050i\056e\056) -5.5 ( ) ] TJ
+0 -1.7272 TD
+0.0001 Tw
+[ (express) -9.7 (e) 7.8 (d) -5.2 ( a) 7.8 (s) -9.7 ( t) 6.5 (h) -5.2 (e) 7.8 ( ) -5.3 (con) -5.2 (t) 1.2 (en) -5.2 (t ) -5.3 (of\051 diffe) 7.8 (rent ) -5.3 (asse) 7.8 (rtiv) -5.2 (e utteran) -5.2 (c) -2.9 (e) 7.8 (s) -4.4 ( of an) 5.4 (y) -10.5 ( parti) 6.5 (c) 2.4 (u) -5.2 (l) -4.1 (ar sente) 7.8 (n) -5.2 (ce\056 ) -5.3 ( ) ] TJ
+1.4987 -1.7219 TD
+-0.0024 Tc
+0.0075 Tw
+[ (A) -8.3 (s) -1.2 (s) -6.5 (e) 5.7 (rtions a) -5 (r) -4.2 (e the sp) -7.3 (ee) -5 (ch ac) -5 (ts by) -12.6 ( ) 5.3 (w) -8.3 (h) 3.4 (ich w) -8.3 (e) 0.3 ( co) -12.6 (mmu) -7.3 (ni) -6.2 (cat) -6.2 (e tr) -9.5 (u) -7.3 (t) 4.4 (hs) -6.5 (\056 It is) -6.5 ( ) -10.6 (m) 15.5 (y) -12.6 ( ) 5.3 (goal ) -5.3 (to fin) -7.3 (d) -7.3 ( ) ] TJ
+-1.4987 -1.7272 TD
+-0.0005 Tc
+0.1331 Tw
+[ (out wheth) -5.4 (e) 7.6 (r) -7.6 ( ce) 7.6 (r) -7.6 (t) 1 (ain ) 5.3 (p) -5.4 (a) 2.2 (rtic) 7.6 (u) -5.4 (l) -4.3 (ar ) 5.3 (statem) 6.7 (en) -5.4 (ts expr) -7.6 (ess truths t) 6.3 (h) -0.1 (at ) 5.3 (ar) -7.6 (e ) 5.3 (bo) -5.4 (t) 6.3 (h) -0.1 ( n) -5.4 (e) -3.1 (c) 7.6 (e) 2.2 (ssary) -10.7 ( ) 5.3 (and ) ] TJ
+/TT8 1 Tf
+34.9376 0 TD
+-0.0004 Tc
+0 Tw
+(a ) Tj
+-34.9376 -1.7272 TD
+0.0014 Tc
+[ (post) 8.2 (e) 4.1 (r) -8 (i) 8.2 (ori) ] TJ
+/TT2 1 Tf
+3.9434 0 TD
+-0.0013 Tc
+0.0064 Tw
+[ (\056 Thus) -5.4 ( if th) -6.2 (ere) -3.9 ( ) -5.3 (are) 6.8 ( s) -5.4 (u) -6.2 (ch ) -5.3 (tru) -6.2 (t) 0.2 (hs) -5.4 ( we cou) -6.2 (l) 5.5 (d) -6.2 (\054) -6.4 ( ) ] TJ
+16.1402 0 TD
+-0.002 Tc
+0.0071 Tw
+[ (at ) -5.3 (leas) -11.4 (t in) -6.9 ( p) -6.9 (r) -3.8 (incip) -6.9 (l) -5.8 (e\054 ) -5.3 (ass) -6.1 (e) 0.7 (rt ) -5.3 (th) -6.9 (e) -4.6 (m) 10.5 (\056) -7.1 ( I w) -7.9 (i) 4.8 (l) -5.8 (l) -5.8 ( ) ] TJ
+-20.0835 -1.7219 TD
+0.0007 Tc
+0.0735 Tw
+(focus on the ) Tj
+/TT8 1 Tf
+5.3623 0 TD
+0 Tc
+0.0742 Tw
+[ (content d) -4.9 (e) -2.6 (te) 8.1 (rmination) ] TJ
+/TT2 1 Tf
+8.8752 0 TD
+[ ( fea) 8.1 (t) 1.5 (ure of S) -7.2 (t) 1.5 (a) 8.1 (l) 1.5 (n) -4.9 (a) 2.7 (k) -4.9 (e) 2.7 (r\222s apparatus in o) -4.9 (r) -1.8 (der to explor) -7.1 (e ) ] TJ
+-14.2376 -1.7272 TD
+-0.0019 Tc
+0.007 Tw
+[ (w) -7.8 (h) -1.5 (e) 6.2 (t) -0.4 (h) -6.8 (e) 0.8 (r ) 5.3 (ther) -9 (e) 6.2 ( are any) -12.1 ( ) 5.3 (asse) 6.2 (rtions th) -6.8 (at ma) 6.2 (y) -12.1 ( ) 5.3 (co) -12.1 (mm) 10.6 (u) -12.1 (n) -1.5 (ica) -4.5 (t) -0.4 (e ) 5.3 (so) -12.1 (me) -4.5 (th) -6.8 (ing ) 5.3 (th) -6.8 (at is both ) 5.3 (ne) -4.5 (ces) -6 (sa) -4.5 (ry) -12.1 ( ) ] TJ
+0 -1.7219 TD
+-0.001 Tc
+0 Tw
+(and ) Tj
+/TT8 1 Tf
+1.9823 0 TD
+0.0007 Tc
+0.2861 Tw
+[ (a po) -4.2 (ste) 8.8 (r) -3.4 (iori) ] TJ
+/TT2 1 Tf
+4.985 0 TD
+0 Tc
+0 Tw
+(\056) Tj
+7.5077 0 0 7.5077 187.56 276.48 Tm
+(1) Tj
+11.2898 0 0 11.2898 191.34 271.3201 Tm
+-0.0005 Tc
+0.2873 Tw
+[ ( That) -4.3 ( is ) -5.3 (why) -10.7 ( the tw) -6.4 (o di) -9.7 (m) 6.7 (e) -8.4 (nsional) 6.3 ( ) -10.6 (app) -5.4 (a) 2.2 (ratus) -4.6 ( is ) -5.3 (rele) 7.6 (v) -5.4 (a) 2.2 (n) -5.4 (t) 1 ( f) -7.6 (o) -0.1 (r the ) ] TJ
+-7.5572 -1.7219 TD
+-0.0008 Tc
+0.0006 Tw
+[ (discussion\056 ) -5.3 (So\054 let us s) -10.2 (ee how) -6.7 ( th) -5.7 (e) 7.3 ( ap) -5.7 (paratus w) -6.7 (o) -0.4 (rks\056 ) ] TJ
+1.4987 -1.7272 TD
+-0.0005 Tc
+0.0056 Tw
+[ ( ) 5.3 (S) -7.7 (o) -5.4 (m) 12 (e) 2.2 ( de) 7.6 (fin) -5.4 (i) -4.3 (ti) 6.3 (on) -5.4 (s are im) 6.7 (portant t) 6.3 (o) -0.1 ( ) 5.3 (b) -5.4 (e) -3.1 (ar ) 5.3 (in ) -5.3 (m) 12 (i) 1 (n) -5.4 (d) -5.4 (\072) 1 ( ) ] TJ
+/TT4 1 Tf
+-1.4987 -1.7219 TD
+0.0005 Tc
+0 Tw
+(\050W\051) Tj
+/TT2 1 Tf
+1.6688 0 TD
+0.0045 Tc
+-0.0047 Tw
+[ ( A p) 4.9 (o) 10.3 (s) 5.7 (s) 0.4 (i) 6 (b) 4.9 (l) 11.3 (e) 7.2 ( wo) 4.9 (rl) 6 (d) 4.9 ( \050) ] TJ
+/TT8 1 Tf
+7.6635 0 TD
+0.0026 Tc
+0 Tw
+(w ) Tj
+/TT2 1 Tf
+0.9194 0 TD
+-0.0003 Tc
+0.0001 Tw
+[ (fro) -5.2 (m) 12.2 ( now) -6.2 ( on\051 is a ) -5.3 (co) -10.5 (m) 17.6 (p) -5.2 (lete) 7.8 ( w) -6.2 (a) 2.4 (y) -10.5 ( i) 6.5 (n) -5.2 ( ) 5.3 (which th) -5.2 (e) 7.8 ( w) -11.5 (o) 0.1 (rld ) -10.6 (m) 12.2 (i) 6.5 (gh) -5.2 (t b) -5.2 (e) 2.4 (\056) -5.4 ( ) ] TJ
+/TT4 1 Tf
+-10.2517 -1.7272 TD
+0.0011 Tc
+0 Tw
+(\050P\051) Tj
+/TT2 1 Tf
+1.2808 0 TD
+0 Tc
+0.0157 Tw
+[ (\072 A prop) 5.8 (osi) 6.8 (t) -3.8 (ion \050) ] TJ
+/TT8 1 Tf
+6.6803 0 TD
+0 Tw
+(P) Tj
+/TT2 1 Tf
+0.6112 0 TD
+-0.0003 Tc
+0.016 Tw
+[ ( fro) -10.5 (m) 17.6 ( now on\051 is a repr) -7.4 (e) 7.8 (s) -4.4 (ent) 6.5 (a) -2.9 (tion of t) 6.5 (h) -5.2 (e wo) -5.2 (rl) 6.5 (d as b) -5.2 (e) 2.4 (ing ) -5.3 (in a) 7.8 ( ) -5.3 (cer) -7.4 (t) 6.5 (ain) -5.2 ( ) ] TJ
+-8.5723 -1.7219 TD
+-0.0005 Tc
+0.0003 Tw
+[ (w) -6.4 (a) 12.9 (y) -10.7 ( \050) -7.6 (m) 17.4 (o) -5.4 (r) -2.3 (e for) -7.6 (m) 12 (al) -4.3 (ly) -5.4 (\054) -5.6 ( i) 6.3 (t) 1 ( is) -4.6 ( a functi) 6.3 (o) -5.4 (n) -0.1 ( f) -7.6 (r) -2.3 (o) -5.4 (m) 12 ( ) ] TJ
+/TT8 1 Tf
+16.6929 0 TD
+0 Tc
+0 Tw
+(w) Tj
+/TT2 1 Tf
+0.6643 0 TD
+0.0002 Tc
+-0.0004 Tw
+[ (\222s to truth val) 7 (u) -4.7 (es\051\056) -4.9 (  ) ] TJ
+-17.3572 -3.2525 TD
+0 Tc
+0 Tw
+(                                                ) Tj
+ET
+106.02 139.68 135.48 0.53999 re
+f
+BT
+11.2898 0 0 11.2898 241.5 137.2801 Tm
+( ) Tj
+5.6449 0 0 5.6449 106.02 130.86 Tm
+(1) Tj
+8.4675 0 0 8.4675 108.84 127.08 Tm
+0.0017 Tc
+0.0813 Tw
+[ ( Th) 5.7 (roug) 5.7 (ho) 5.7 (ut this p) 5.7 (a) -0.9 (per i) 10.3 (t) 3.2 ( ) -7.1 (will) 10.3 ( b) -8.5 (e) -0.9 ( i) 10.3 (m) 0.1 (p) 5.7 (o) -1.4 (rt) 10.3 (ant) 10.3 ( ) -7.1 (to keep i) 10.3 (n) -1.4 ( min) 5.7 (d) -1.4 ( t) 10.3 (h) -1.4 (a) -8 (t) 3.2 ( this ap) 5.7 (paratu) 5.7 (s off) 8.8 (e) -0.9 (rs a ) ] TJ
+/TT8 1 Tf
+36.0673 0 TD
+0.0025 Tc
+0 Tw
+[ (pr) 9 (ag) 6.5 (matic) ] TJ
+/TT2 1 Tf
+4.124 0 TD
+0.0027 Tc
+0.0803 Tw
+[ ( as) 9.2 ( op) 6.7 (po) 6.7 (sed t) 11.3 (o) -0.4 ( ) -7.1 (a ) ] TJ
+/TT8 1 Tf
+-40.5244 -1.155 TD
+0.0003 Tc
+0 Tw
+[ (sem) 6.8 (a) -2.8 (ntic) ] TJ
+/TT2 1 Tf
+3.5571 0 TD
+0.0015 Tc
+0.117 Tw
+[ ( ) 7.1 (un) 5.5 (derst) 10.1 (a) -1.1 (nd) 5.5 (ing) 5.5 ( of) 8.6 ( ) -7.1 (th) 5.5 (e s) -6.2 (p) 5.5 (eech ) 7.1 (act) 10.1 (\056 T) 10 (h) -1.6 (at m) 7 (eans\054) 10.6 ( am) 7 (on) 5.5 (g oth) 5.5 (e) -1.1 (r ) 7.1 (thin) 5.5 (gs\054) 10.6 ( ) -7.1 (th) 5.5 (at i) 10.1 (t) 3 ( is ) 7.1 (not g) 5.5 (o) -8.7 (i) 10.1 (n) -1.6 (g) 5.5 ( ) -7.1 (to) 5.5 ( te) -8.1 (l) 10.1 (l) 3 ( ) 7.1 (u) -8.7 (s) 8 ( wh) 5.5 (at ) -7.1 (the ) ] TJ
+-3.5571 -1.1479 TD
+0.0024 Tc
+0.2011 Tw
+[ (m) 7.9 (eanin) 6.4 (g of) 9.5 ( a sen) 6.4 (t) 3.9 (en) 6.4 (c) -7.3 (e) -0.2 (\054) 11.5 ( say ) 7.1 (\221G) 8.9 (ol) 11 (d h) 6.4 (a) -0.2 (s a) -7.3 (t) 3.9 (o) 6.4 (m) 0.8 (ic ) -7.1 (n) 6.4 (u) -0.7 (m) 7.9 (b) 6.4 (e) -7.3 (r) 2.4 ( 7) 6.4 (9) -0.7 (\222\054) 4.4 ( is but) 11 ( only) 6.4 ( wh) 6.4 (a) -7.3 (t) 3.9 ( c) -7.2 (a) -0.2 (n b) 6.4 (e) -0.2 ( ) ] TJ
+/TT8 1 Tf
+36.0602 0 TD
+-0.0032 Tc
+0 Tw
+[ (c) -5.8 (o) -6.3 (mmun) -6.3 (i) -8.8 (c) -5.8 (ate) -5.8 (d) ] TJ
+/TT2 1 Tf
+5.8317 0 TD
+0.0034 Tc
+0.2001 Tw
+[ ( by) 7.4 ( diff) 10.5 (eren) 7.4 (t ) ] TJ
+-41.8919 -1.1479 TD
+0.0017 Tc
+0.0388 Tw
+[ (ut) 10.3 (terances) 8.2 ( ) -7.1 (o) 5.7 (f) 8.8 ( ) -7.1 (s) 8.2 (u) -1.4 (ch) 5.7 ( ) -7.1 (s) 8.2 (e) -0.9 (nt) 10.3 (e) -8 (n) 5.7 (ce\056 Thi) 10.3 (s) 1.1 (\054 ) -7.1 (h) 5.7 (o) -1.4 (wev) 5.7 (e) -0.9 (r\054 sho) 5.7 (u) -1.4 (l) 10.3 (d) -1.4 ( no) 5.7 (t affect) 10.3 ( ) -7.1 (m) 7.2 (y) 5.7 ( ) -14.2 (arg) 5.7 (u) -1.4 (m) 7.2 (e) -0.9 (nt) 10.3 ( sin) 5.7 (ce ) -7.1 (the sem) 7.2 (a) -0.9 (nt) 10.3 (ic con) 5.7 (t) 3.2 (en) 5.7 (t of) 8.8 ( a) -8 ( s) 8.2 (t) 3.2 (atem) 7.2 (e) -8 (n) -1.4 (t ) ] TJ
+T*
+0.0022 Tc
+0.0383 Tw
+[ (certai) 10.8 (n) -0.9 (ly) 6.2 ( ) -7.1 (is am) 7.7 (o) -8 (n) 6.2 (g th) 6.2 (e ) -7.1 (i) 10.8 (n) -0.9 (f) 9.3 (o) -0.9 (rm) 7.7 (atio) 6.2 (n con) 6.2 (v) -0.9 (eyed) 13.3 ( ) -7.1 (b) 6.2 (y) -0.9 ( ) 7.1 (an ass) 8.7 (e) -0.4 (rt) 10.8 (io) 6.2 (n ) ] TJ
+24.7865 0 TD
+[ (of) 9.3 ( ) -7.1 (it\056 If) 9.3 ( Kri) 10.8 (p) -0.9 (k) 6.2 (e) -0.4 ( ) -7.1 (i) 10.8 (s) 1.6 ( correct and) 6.2 ( a st) 10.8 (atem) 7.7 (ent) 10.8 ( such) 6.2 ( ) -7.1 (as) 8.7 ( ) -7.1 (\221Gol) 10.8 (d) -8 ( ) ] TJ
+-24.7865 -1.155 TD
+0.0024 Tc
+0.0027 Tw
+[ (has) 8.9 ( ato) 6.4 (m) 7.9 (ic n) 6.4 (u) -0.7 (mber ) 7.1 (79) 6.4 (\222 ) 14.2 (can) 6.4 ( ) ] TJ
+/TT8 1 Tf
+11.0895 0 TD
+0.0018 Tc
+0 Tw
+[ (exp) 5.8 (r) 8.3 (e) -0.8 (ss) ] TJ
+/TT2 1 Tf
+2.9903 0 TD
+0.0014 Tc
+-0.0034 Tw
+[ ( ) -7.1 (\050here s) 7.9 (e) -1.2 (m) 6.9 (a) -1.2 (nt) 10 (icall) 10 (y) -1.7 (\051 a) -8.3 ( necess) 7.9 (a) 5.9 (ry ) -7.1 (an) 5.4 (d a po) 5.4 (steri) 10 (o) -1.7 (ri) 10 ( ) -7.1 (truth) 5.4 (\054) 3.4 ( ) -7.1 (th) 5.4 (en so) -8.8 (m) 6.9 (e) -1.2 ( or ) -7.1 (o) 5.4 (t) 2.9 (her asse) 5.9 (rt) 10 (io) 5.4 (n) -15.9 ( ) ] TJ
+-14.0797 -1.1479 TD
+0.0016 Tc
+-0.0036 Tw
+[ (sh) 5.6 (ou) 5.6 (ld be ab) 5.6 (le ) -7.1 (t) 10.2 (o) -8.6 ( co) 5.6 (m) 7.1 (m) 7.1 (unicate \050here prag) 5.6 (m) 7.1 (a) -1 (tical) 10.2 (ly) 5.6 (\051 su) 5.6 (ch a ) ] TJ
+23.8512 0 TD
+0 Tc
+-0.002 Tw
+[ (trut) 8.6 (h) -10.2 (\056) 2 ( F) -3.6 (i) 1.5 (nding) -10.2 ( that) 8.6 ( out is ) ] TJ
+9.9415 0 TD
+[ (the ) -7.1 (task of thi) -5.6 (s) 6.5 ( ) -7.1 (paper\056 ) ] TJ
+ET
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 PHI\056G1\05602\0562 \055 Philosophy \055 First year Graduate \055 Male \055 NNS \050L1\072 Spanish\051 \055 Research Paper) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(1) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+15 0 obj
+<<
+/OPM 1
+/Type /ExtGState
+/SM 0.02
+/OP false
+/SA false
+/op false
+>>
+endobj
+16 0 obj
+<<
+/FirstChar 32
+/Widths [ 250 0 0 0 0 0 778 0 0 0 0 0 250 0 250 0 0 500 500 500 0 0 0 500 0 500 0 0 0 0 0 0 0 0 0 667 0 0 0 722 0 333 0 0 0 833 667 0 611 0 0 500 556 722 0 833 0 0 0 0 0 0 0 0 0 500 500 444 500 444 278 500 500 278 278 444 278 722 500 500 500 0 389 389 278 500 444 667 444 444 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 333 ]
+/Encoding /WinAnsiEncoding
+/Type /Font
+/BaseFont /TimesNewRomanPS-ItalicMT
+/LastChar 146
+/FontDescriptor 17 0 R
+/Subtype /TrueType
+>>
+endobj
+17 0 obj
+<<
+/FontBBox [ -498 -307 1120 1023 ]
+/StemV 71.742
+/Descent -216
+/XHeight -546
+/Flags 98
+/FontStretch /Normal
+/Ascent 891
+/FontName /TimesNewRomanPS-ItalicMT
+/Type /FontDescriptor
+/FontWeight 400
+/ItalicAngle -15
+/FontFamily (Times New Roman)
+/CapHeight 656
+>>
+endobj
+18 0 obj
+<<
+/FirstChar 32
+/Widths [ 250 0 0 0 0 0 0 0 333 333 0 0 250 333 250 278 500 500 500 500 500 500 500 500 500 500 278 278 0 0 0 444 0 722 667 667 722 611 556 722 722 333 389 722 611 889 722 722 556 0 667 556 611 722 0 944 0 722 0 333 0 333 0 0 0 444 500 444 500 444 333 500 500 278 278 500 278 778 500 500 500 500 333 389 278 500 500 722 500 500 444 0 0 0 0 0 0 0 0 0 0 1000 0 0 0 0 0 0 0 0 0 0 0 333 333 444 444 0 500 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 333 ]
+/Encoding /WinAnsiEncoding
+/Type /Font
+/BaseFont /TimesNewRomanPSMT
+/LastChar 180
+/FontDescriptor 19 0 R
+/Subtype /TrueType
+>>
+endobj
+19 0 obj
+<<
+/FontBBox [ -568 -307 2000 1007 ]
+/StemV 82
+/Descent -216
+/XHeight -546
+/Flags 34
+/FontStretch /Normal
+/Ascent 891
+/FontName /TimesNewRomanPSMT
+/Type /FontDescriptor
+/FontWeight 400
+/ItalicAngle 0
+/FontFamily (Times New Roman)
+/CapHeight 656
+>>
+endobj
+20 0 obj
+<<
+/FirstChar 32
+/Widths [ 250 0 0 0 0 0 0 0 333 333 0 0 250 0 0 278 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 500 0 722 667 722 0 0 0 0 0 389 0 0 0 0 0 0 611 0 722 556 667 0 0 1000 0 0 0 0 0 0 0 0 0 500 556 444 556 444 333 500 556 278 0 0 278 833 556 500 556 0 444 389 333 556 500 0 0 500 ]
+/Encoding /WinAnsiEncoding
+/Type /Font
+/BaseFont /TimesNewRomanPS-BoldMT
+/LastChar 121
+/FontDescriptor 21 0 R
+/Subtype /TrueType
+>>
+endobj
+21 0 obj
+<<
+/FontBBox [ -558 -307 2000 1026 ]
+/StemV 136
+/Descent -216
+/XHeight -546
+/Flags 34
+/FontStretch /Normal
+/Ascent 891
+/FontName /TimesNewRomanPS-BoldMT
+/Type /FontDescriptor
+/FontWeight 700
+/ItalicAngle 0
+/FontFamily (Times New Roman)
+/CapHeight 656
+>>
+endobj
+22 0 obj
+<<
+/FirstChar 32
+/Widths [ 250 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 500 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 889 0 0 0 0 0 0 0 0 0 500 0 0 0 444 0 0 0 278 0 0 0 0 0 500 500 0 389 389 278 ]
+/Encoding /WinAnsiEncoding
+/Type /Font
+/BaseFont /TimesNewRomanPS-BoldItalicMT
+/LastChar 116
+/FontDescriptor 23 0 R
+/Subtype /TrueType
+>>
+endobj
+23 0 obj
+<<
+/FontBBox [ -547 -307 1206 1032 ]
+/StemV 116.867
+/Descent -216
+/XHeight -531
+/Flags 98
+/FontStretch /Normal
+/Ascent 891
+/FontName /TimesNewRomanPS-BoldItalicMT
+/Type /FontDescriptor
+/FontWeight 700
+/ItalicAngle -15
+/FontFamily (Times New Roman)
+/CapHeight 656
+>>
+endobj
+24 0 obj
+<<
+/Length 14477
+>>
+stream
+q
+/GS1 gs
+BT
+/TT2 1 Tf
+11.2898 0 0 11.2898 106.02 35.76 Tm
+0 g
+0 Tc
+0 Tw
+( ) Tj
+34.9323 -0.0053 TD
+(2) Tj
+/TT4 1 Tf
+-34.9323 60.1603 TD
+0.0011 Tc
+(\050PC\051 ) Tj
+/TT2 1 Tf
+2.2746 0 TD
+-0.001 Tc
+0.0274 Tw
+[ (A) -6.9 ( ) 5.4 (prop) 4.8 (ositi) 5.8 (o) -5.9 (nal co) -5.9 (ncept \050) ] TJ
+/TT8 1 Tf
+10.257 0 TD
+-0.0012 Tc
+0 Tw
+(PC ) Tj
+/TT2 1 Tf
+1.5518 0 TD
+0.0007 Tc
+0.0257 Tw
+[ (fro) -9.5 (m) 18.6 ( ) 5.4 (now) -5.2 ( on\051 i) 7.5 (s) -3.4 ( ) 5.4 (a functi) 7.5 (o) -4.2 (n) -4.2 ( ) 5.4 (fro) -4.2 (m) 18.6 ( ord) -4.2 (e) 3.4 (red pai) 7.5 (r) -1.1 (s ) 5.4 (o) -4.2 (f) -1.1 ( ) ] TJ
+/TT8 1 Tf
+19.9507 0 TD
+0 Tc
+0 Tw
+(w) Tj
+/TT2 1 Tf
+0.6696 0 TD
+0.0056 Tc
+(\222s ) Tj
+-34.7038 -1.7272 TD
+-0.0008 Tc
+0.0059 Tw
+[ (into trut) 6 (h v) -5.7 (a) 1.9 (lues\056) -5.9 ( ) ] TJ
+/TT4 1 Tf
+0 -1.7219 TD
+0.0018 Tc
+0 Tw
+[ (\050S) -5.4 (P) 6.8 (\051) ] TJ
+/TT2 1 Tf
+1.8335 0 TD
+-0.0004 Tc
+0.1968 Tw
+[ ( A) -6.3 ( ) 10.6 (spea) 7.7 (k) -5.3 (e) 2.3 (r presupp) -5.3 (osition ) ] TJ
+/TT8 1 Tf
+11.4368 0 TD
+0 Tw
+(SP) Tj
+/TT2 1 Tf
+1.1107 0 TD
+-0.0005 Tc
+0.1969 Tw
+[ ( i) 6.3 (s) -4.6 ( a) 7.6 ( propos) -4.6 (ition) ] TJ
+/TT8 1 Tf
+6.9939 0 TD
+0 Tc
+0 Tw
+( ) Tj
+/TT2 1 Tf
+0.4464 0 TD
+-0.0006 Tc
+0.197 Tw
+[ (th) -5.5 (e) 7.5 ( tr) -7.7 (uth of ) 5.3 (w) -6.5 (h) -0.2 (ich) -5.5 ( ) 5.3 (is tak) -5.5 (e) 7.5 (n) -5.5 ( as a ) ] TJ
+-21.8214 -1.7272 TD
+-0.0003 Tc
+0.0001 Tw
+[ (background assu) -10.5 (m) 12.2 (p) -5.2 (ti) 6.5 (on) -5.2 ( f) -7.4 (o) 0.1 (r t) 6.5 (h) -5.2 (e) 7.8 ( conv) -5.2 (ersation\056) -5.4 ( ) ] TJ
+/TT4 1 Tf
+T*
+0.0016 Tc
+0 Tw
+(\050CS\051) Tj
+/TT2 1 Tf
+1.9504 0 TD
+-0.0021 Tc
+0.0019 Tw
+[ ( ) 5.3 (A) -8 ( c) 6 (o) -1.7 (n) -7 (t) -0.6 (ext s) -6.2 (e) 0.6 (t ) ] TJ
+/TT8 1 Tf
+5.7716 0 TD
+-0.0027 Tc
+0 Tw
+(CS) Tj
+/TT2 1 Tf
+1.1639 0 TD
+-0.0012 Tc
+0.001 Tw
+[ ( is) -5.3 ( the s) -5.3 (e) 1.5 (t of ) -5.3 (all ) ] TJ
+/TT8 1 Tf
+6.3296 0 TD
+0 Tc
+0 Tw
+(w) Tj
+/TT2 1 Tf
+0.6643 0 TD
+-0.0007 Tc
+0.0058 Tw
+[ (\222s) -4.8 ( ) 5.3 (which are) 7.4 ( co) -10.9 (m) 11.8 (p) -5.6 (atible ) 5.3 (wi) -4.5 (th all ) ] TJ
+/TT8 1 Tf
+13.1109 0 TD
+-0.0004 Tc
+0 Tw
+(SP) Tj
+/TT2 1 Tf
+1.1107 0 TD
+0.0001 Tc
+(\222s\056 ) Tj
+-30.1014 -1.7219 TD
+0 Tc
+( ) Tj
+1.4987 -1.7272 TD
+0.0038 Tc
+-0.004 Tw
+[ (St) 5.3 (a) 11.9 (l) 5.3 (na) 6.5 (ke) 6.5 (r\222s) 5 ( a) 6.5 (p) 4.2 (pa) 6.5 (ra) 6.5 (t) 10.6 (u) -1.1 (s) 5 ( has) 5 ( t) 5.3 (h) 4.2 (e) 6.5 ( fo) 4.2 (ll) 10.6 (o) 4.2 (w) -2.1 (in) 4.2 (g) 4.2 ( t) 5.3 (e) 11.9 (net) 5.3 (s) 5 (\072 ) ] TJ
+/TT4 1 Tf
+0 -1.7219 TD
+0.0002 Tc
+0 Tw
+(\050i\051) Tj
+/TT10 1 Tf
+0.946 0 TD
+0 Tc
+( ) Tj
+/TT2 1 Tf
+2.0567 0 TD
+-0.0014 Tc
+0.0012 Tw
+[ (An u) -6.3 (t) 5.4 (ter) -8.5 (a) 1.3 (nce ) ] TJ
+/TT8 1 Tf
+5.3783 0 TD
+0 Tc
+0 Tw
+(U) Tj
+/TT2 1 Tf
+0.7281 0 TD
+-0.0015 Tc
+0.0013 Tw
+[ ( of a sen) -6.4 (t) -5.3 (e) 6.6 (n) -6.4 (ce ) ] TJ
+/TT8 1 Tf
+5.7131 0 TD
+0 Tc
+0 Tw
+(S) Tj
+/TT2 1 Tf
+0.4996 0 TD
+0.0004 Tc
+-0.0006 Tw
+[ ( ) -5.3 (expresse) 8.5 (s a propo) -4.5 (sition ) ] TJ
+/TT8 1 Tf
+9.8372 0 TD
+0 Tc
+0 Tw
+(P) Tj
+/TT2 1 Tf
+0.6059 0 TD
+0.0051 Tc
+(\056  ) Tj
+/TT4 1 Tf
+-25.7648 -1.7272 TD
+-0.0007 Tc
+(\050ii\051) Tj
+/TT10 1 Tf
+1.2223 0 TD
+0 Tc
+( ) Tj
+/TT2 1 Tf
+1.7804 0 TD
+-0.0004 Tc
+0.0002 Tw
+[ (A pro) -5.3 (positi) 6.4 (o) -5.3 (n) 0 ( ) ] TJ
+/TT8 1 Tf
+5.7769 0 TD
+0 Tc
+0 Tw
+(P) Tj
+/TT2 1 Tf
+0.6112 0 TD
+-0.001 Tc
+0.0008 Tw
+[ ( is d) -5.9 (e) 1.7 (t) -4.8 (e) 1.7 (rm) 6.2 (in) -5.9 (ed by) -11.2 ( the s) -5.1 (e) 1.7 (t of ) ] TJ
+/TT8 1 Tf
+11.0754 0 TD
+-0.0005 Tc
+0 Tw
+(w\222s) Tj
+/TT2 1 Tf
+1.3924 0 TD
+-0.0006 Tc
+0.0004 Tw
+[ ( which it) 6.2 ( repr) -7.7 (esen) -5.5 (ts\056) -5.7 ( ) ] TJ
+/TT4 1 Tf
+-21.8586 -1.7219 TD
+-0.0008 Tc
+0 Tw
+(\050iii\051) Tj
+/TT10 1 Tf
+1.504 0 TD
+0 Tc
+( ) Tj
+/TT2 1 Tf
+1.4987 0 TD
+-0.0004 Tc
+0.0002 Tw
+[ (A pro) -5.3 (positi) 6.4 (o) -5.3 (n) 0 ( ) ] TJ
+/TT8 1 Tf
+5.7769 0 TD
+0 Tc
+0 Tw
+(P) Tj
+/TT2 1 Tf
+0.6112 0 TD
+-0.001 Tc
+0.0008 Tw
+[ ( is d) -5.9 (e) 1.7 (t) -4.8 (e) 1.7 (rm) 6.2 (in) -5.9 (ed by) -11.2 ( the s) -5.1 (e) 1.7 (t of ) ] TJ
+/TT8 1 Tf
+11.0754 0 TD
+-0.0005 Tc
+0 Tw
+(w\222s) Tj
+/TT2 1 Tf
+1.3924 0 TD
+-0.0008 Tc
+0.0006 Tw
+[ ( in) -5.7 ( which ) ] TJ
+/TT8 1 Tf
+3.9699 0 TD
+0 Tc
+0 Tw
+(S) Tj
+/TT2 1 Tf
+0.4996 0 TD
+0.0001 Tc
+-0.0003 Tw
+[ ( is ) -5.3 (utte) 8.2 (red\056) -5 ( ) ] TJ
+/TT4 1 Tf
+-26.3281 -1.7272 TD
+-0.0001 Tc
+0 Tw
+(\050iv\051) Tj
+/TT10 1 Tf
+1.4455 0 TD
+0 Tc
+( ) Tj
+/TT2 1 Tf
+1.5572 0 TD
+-0.0003 Tc
+0.388 Tw
+[ (The ) -5.4 (m) 6.9 (a) -2.9 (i) 6.5 (n) 0.1 ( ) -5.4 (goal of a) 7.8 (sserti) 6.5 (o) 0.1 (n) -5.2 ( is ) -5.4 (t) 6.5 (o) -5.2 ( reduce) 7.8 ( ) ] TJ
+/TT8 1 Tf
+18.8612 0 TD
+-0.0027 Tc
+0 Tw
+(CS) Tj
+/TT2 1 Tf
+1.1692 0 TD
+-0.0025 Tc
+0.3902 Tw
+[ ( ) 5.3 (as) -6.6 ( to el) -6.3 (imi) -6.3 (n) -7.4 (ate ) -5.4 (all) -6.3 ( ) ] TJ
+/TT8 1 Tf
+9.513 0 TD
+0 Tc
+0 Tw
+(w) Tj
+/TT2 1 Tf
+0.6643 0 TD
+0.003 Tc
+(\222s ) Tj
+-30.2077 -1.7272 TD
+-0.0008 Tc
+0.0006 Tw
+[ (inco) -5.7 (m) 11.7 (p) -5.7 (at) -4.6 (ible w) -6.7 (i) 6 (th ) ] TJ
+/TT8 1 Tf
+7.4935 0 TD
+-0.0013 Tc
+0.0064 Tw
+[ (wha) -6.2 (t) 5.5 ( is ) 5.3 (s) -5.4 (a) -0.9 (id) ] TJ
+/TT2 1 Tf
+4.7777 0 TD
+0.0051 Tc
+0 Tw
+(\056 ) Tj
+-15.2739 -1.7166 TD
+0 Tc
+( ) Tj
+/TT4 1 Tf
+0 -1.7272 TD
+0.0002 Tc
+(\050i\051) Tj
+/TT2 1 Tf
+0.946 0 TD
+-0.0002 Tc
+0.0584 Tw
+[ ( ) -5.4 (i) 6.6 (s) -4.3 ( an) -5.1 ( ass) -9.6 (u) -10.4 (m) 12.3 (p) 0.2 (tion ) -5.4 (t) 6.6 (h) -5.1 (at ) -5.4 (a good) -5.1 ( nu) -5.1 (m) 7 (b) -5.1 (er of ) -5.4 (ph) -5.1 (i) 6.6 (l) -4 (osophers share) 7.9 ( ) -5.4 (now) -6.1 (aday) -5.1 (s\056 ) -5.4 (I ) 5.3 (w) -6.1 (i) 6.6 (ll no) -10.4 (t ) ] TJ
+-2.4447 -1.7219 TD
+-0.0008 Tc
+0.1016 Tw
+[ (co) -11 (mm) 6.4 (ent on) -5.7 ( that) 6 ( ) -5.3 (in thi) 6 (s) -4.9 ( ) -5.3 (pap) -5.7 (e) 7.3 (r\054 alt) 6 (h) -5.7 (o) -5.7 (ugh I t) 6 (h) -0.4 (ink ) 5.4 (it ) -5.3 (m) 11.7 (i) -4.6 (ght b) -5.7 (e) 1.9 ( a) 7.3 ( prob) -5.7 (l) 6 (e) -8.7 (m) 6.4 (a) -3.4 (tic ten) -5.7 (e) -3.4 (t\056 What ) ] TJ
+0 -1.7272 TD
+-0.0011 Tc
+0 Tw
+(about ) Tj
+/TT4 1 Tf
+2.6838 0 TD
+0.0015 Tc
+(\050ii\051 ) Tj
+/TT2 1 Tf
+1.6953 0 TD
+0.0004 Tc
+(and ) Tj
+/TT4 1 Tf
+1.9185 0 TD
+-0.0002 Tc
+[ (\050i) 6.6 (ii\051) ] TJ
+/TT2 1 Tf
+1.4934 0 TD
+-0.0006 Tc
+0.2183 Tw
+[ (\077) -8.5 ( A) -6.5 (c) 12.8 (cording ) -5.3 (t) 6.2 (o) -5.5 ( ) ] TJ
+/TT4 1 Tf
+6.8451 0 TD
+0.0071 Tc
+0 Tw
+[ (\050P) 6.8 (\051) ] TJ
+/TT2 1 Tf
+1.2861 0 TD
+0.0002 Tc
+0.2175 Tw
+[ (\054 for ) -5.3 (eve) 8.3 (r) -1.6 (y) -10 ( ) ] TJ
+/TT8 1 Tf
+5.0488 0 TD
+0 Tc
+0 Tw
+(P) Tj
+/TT2 1 Tf
+0.6112 0 TD
+-0.0011 Tc
+0.2188 Tw
+[ ( there i) -4.9 (s) 0.1 ( ) -5.3 (a) 7 ( ) -5.3 (set of ) ] TJ
+/TT8 1 Tf
+7.8655 0 TD
+-0.0005 Tc
+0 Tw
+(w\222s) Tj
+/TT2 1 Tf
+1.3871 0 TD
+-0.0001 Tc
+0.2231 Tw
+[ ( which ) 5.3 (are ) ] TJ
+-30.8348 -1.7272 TD
+-0.0018 Tc
+0.0866 Tw
+[ (represen) -6.7 (t) -5.6 (e) 0.9 (d by) -12 ( ) ] TJ
+/TT8 1 Tf
+6.2818 0 TD
+0 Tc
+0 Tw
+(P) Tj
+/TT2 1 Tf
+0.6059 0 TD
+-0.0005 Tc
+0.0853 Tw
+[ ( and which sh) -5.4 (are that) 6.3 ( p) -5.4 (a) 2.2 (rtic) 7.6 (u) -5.4 (l) -4.3 (ar wa) 7.6 (y) -5.4 ( of b) -5.4 (e) 7.6 (ing\056 Bu) -5.4 (t) 6.3 ( not only) -10.7 (\054) 5 ( it is also) -5.4 ( ) ] TJ
+-6.8876 -1.7219 TD
+-0.0006 Tc
+0.1332 Tw
+[ (true th) -5.5 (at for ) -5.4 (e) 7.5 (v) -0.2 (ery) -5.5 ( ) -5.4 (set of ) ] TJ
+/TT8 1 Tf
+10.6875 0 TD
+-0.0005 Tc
+0 Tw
+(w\222s) Tj
+/TT2 1 Tf
+1.3871 0 TD
+-0.0019 Tc
+0.1345 Tw
+[ ( ) -5.4 (th) -6.8 (a) 6.2 (t) -0.4 ( ) -5.4 (share a p) -6.8 (a) 0.8 (rti) -5.7 (c) 6.2 (ul) -5.7 (ar w) -7.8 (a) 6.2 (y) -12.1 ( of ) -5.4 (being) -6.8 ( ther) -9 (e) 6.2 ( ) -5.4 (is a ) ] TJ
+/TT8 1 Tf
+19.9188 0 TD
+0 Tc
+0 Tw
+(P) Tj
+/TT2 1 Tf
+0.6059 0 TD
+0.0019 Tc
+0.1361 Tw
+[ ( which ) ] TJ
+-32.5992 -1.7272 TD
+-0.0005 Tc
+0.2713 Tw
+[ (represen) -5.4 (ts ) -5.3 (that) 6.3 (\056) -5.6 ( Thus\054) -5.6 ( ) 5.3 (there ) -5.3 (i) 6.3 (s) -4.6 (\054 ) -5.3 (a) 7.6 (s) -4.6 ( S) -7.7 (t) 1 (a) 7.6 (l) 1 (n) -5.4 (a) 2.2 (k) -5.4 (e) 2.2 (r puts it\054 ) -5.3 (a on) -5.4 (e ) 5.3 (o) -5.4 (n) -0.1 ( ) 5.3 (o) -5.4 (n) -5.4 (e) 7.6 ( ) -5.3 (correspond) -5.4 (e) 7.6 (n) -5.4 (ce ) ] TJ
+0 -1.7219 TD
+-0.002 Tc
+0 Tw
+[ (betw) -7.9 (een) -6.9 ( ) ] TJ
+/TT8 1 Tf
+3.6404 0 TD
+0 Tc
+(P) Tj
+/TT2 1 Tf
+0.6112 0 TD
+0.0035 Tc
+0.0547 Tw
+[ (\222s) 4.7 ( ) -5.4 (a) 11.6 (n) 3.9 (d se) 6.2 (t) 5 (s) 4.7 ( of ) ] TJ
+/TT8 1 Tf
+5.745 0 TD
+0 Tc
+0 Tw
+(w) Tj
+/TT2 1 Tf
+0.6643 0 TD
+-0.0004 Tc
+0.0586 Tw
+[ (\222s\056 ) -5.4 ( The pr) -7.5 (opos) -4.5 (ition w) -6.3 (i) -4.2 (l) 6.4 (l) 1.1 ( b) -5.3 (e) 2.3 ( ) -5.4 (true in ) -10.7 (a) 7.7 (l) -4.2 (l ) -5.4 (the ) ] TJ
+/TT8 1 Tf
+17.2456 0 TD
+0 Tc
+0 Tw
+(w) Tj
+/TT2 1 Tf
+0.6643 0 TD
+0.0035 Tc
+0.0601 Tw
+[ (\222s) 4.7 ( of ) 5.4 (t) 5 (h) 3.9 (at) 10.3 ( se) 6.2 (t) 5 ( a) 6.2 (nd ) ] TJ
+-28.5708 -1.7272 TD
+-0.0005 Tc
+0.1013 Tw
+[ (false i) 6.3 (n) -5.4 ( all others\056) -5.6 ( ) 5.4 (Th) -5.4 (at i) 6.3 (s) -4.6 ( wh) 5.3 (y) -10.7 ( it) 6.3 ( ) -5.3 (m) 6.7 (a) -3.1 (k) -5.4 (e) 2.2 (s ) ] TJ
+16.8417 0 TD
+0.0003 Tc
+0.1005 Tw
+[ (sense to und) -4.6 (erstand propositions as functi) 7.1 (on) -9.9 (s ) ] TJ
+-16.8417 -1.7272 TD
+0.0028 Tc
+0 Tw
+[ (from) 15.3 ( ) ] TJ
+/TT8 1 Tf
+2.1896 0 TD
+0 Tc
+(w) Tj
+/TT2 1 Tf
+0.6643 0 TD
+-0.0001 Tc
+-0.0001 Tw
+[ (\222s to ) -5.3 (t) 6.7 (r) -1.9 (uth valu) -5 (es\073 and ) -5.3 (al) 6.7 (so why) -5 ( ) ] TJ
+/TT4 1 Tf
+12.7548 0 TD
+-0.0007 Tc
+0 Tw
+(\050ii\051) Tj
+/TT2 1 Tf
+1.2223 0 TD
+-0.001 Tc
+0.0008 Tw
+[ ( is part ) -5.3 (of the ten) -5.9 (e) -3.6 (ts of the ) -5.3 (appar) -8.1 (a) 7.1 (tus) -5.1 (\056) -6.1 ( ) ] TJ
+-15.3324 -1.7219 TD
+-0.0077 Tc
+0.05 Tw
+[ (B) -10.3 (u) -7.3 (t t) -6.2 (h) -12.6 (e c) -5 (o) -7.3 (n) -12.6 (t) -11.5 (en) -12.6 (t) -6.2 ( ) 5.3 (o) -7.3 (f) -9.5 ( ) ] TJ
+/TT8 1 Tf
+7.5944 0 TD
+0 Tc
+0 Tw
+(S) Tj
+/TT2 1 Tf
+0.4996 0 TD
+-0.0014 Tc
+0.0384 Tw
+[ ( is n) -6.3 (o) -1 (t ) 5.3 (o) -6.3 (n) -6.3 (l) 5.4 (y) -11.6 ( deter) -8.5 (m) 11.1 (i) -5.2 (n) -1 (ed) -6.3 ( ) 5.3 (by) -11.6 ( the ) 5.3 (s) -10.8 (e) 6.7 (t) -5.2 ( of ) ] TJ
+/TT8 1 Tf
+11.2898 0 0 11.2898 383.34 286.5001 Tm
+-0.0027 Tc
+0 Tw
+[ (w\222) -9.8 (s) ] TJ
+/TT2 1 Tf
+1.3924 0 TD
+-0.0001 Tc
+0.0371 Tw
+[ ( which it ) 5.3 (represen) -5 (ts bu) -5 (t ) ] TJ
+-25.9561 -1.7272 TD
+-0.0008 Tc
+0.1919 Tw
+[ (also by) -11 ( the) 7.3 ( s) -4.9 (e) 7.3 (t of ) ] TJ
+/TT8 1 Tf
+7.9718 0 TD
+0 Tw
+(w\222s ) Tj
+/TT2 1 Tf
+1.8282 0 TD
+0.1919 Tw
+[ (in which ) ] TJ
+/TT8 1 Tf
+4.0975 0 TD
+0 Tc
+0 Tw
+(S) Tj
+/TT2 1 Tf
+0.4996 0 TD
+-0.0016 Tc
+0.198 Tw
+[ ( is) -5.7 ( ) 10.6 (as) -5.7 (ser) -8.7 (t) -0.1 (e) 6.5 (d) -1.2 (\056 The c) 6.5 (o) -1.2 (n) -6.5 (t) -0.1 (ent) -5.4 ( ) 5.3 (of ) 10.6 (an ) 5.3 (utt) -5.4 (e) 6.5 (r) -8.7 (a) 1.1 (n) -6.5 (ce ) 5.3 (\050) -8.7 (e) 6.5 (\056g) -6.5 (\056 ) 10.6 (t) -5.4 (h) -6.5 (e) -4.2 ( ) ] TJ
+-14.397 -1.7219 TD
+-0.0003 Tc
+0.0267 Tw
+(assertion of ) Tj
+/TT8 1 Tf
+4.9372 0 TD
+0 Tc
+0 Tw
+(P) Tj
+/TT2 1 Tf
+0.6112 0 TD
+-0.0011 Tc
+0.0221 Tw
+[ (\051 is ) -5.4 (deter) -13.5 (m) 6.1 (ined ) -5.4 (by) -6 ( ) -5.4 (t) 5.7 (h) -0.7 (e ) -5.4 (fact) 5.7 (s) -5.2 ( o) -6 (f) -2.9 ( the ) -10.7 (world ) -5.4 (in w) -7 (h) 4.7 (ic) 7 (h) -6 ( i) -4.9 (t) 0.4 ( is) -5.2 ( ass) -10.5 (e) -3.7 (rt) 5.7 (ed\056 ) -5.4 (The w) -7 (o) -0.7 (rld ) ] TJ
+-5.5484 -1.7272 TD
+0.0275 Tw
+[ (play) -11.3 (s a ) 5.4 (deter) -8.2 (m) 6.1 (in) -6 (ing role as) -5.2 ( ) 5.4 (the ) -5.3 (c) 7 (o) -0.7 (n) -6 (t) 0.4 (ext of ) 5.4 (u) -6 (t) 5.7 (teran) -6 (ce\056 This i) 5.7 (s) -5.2 ( another sens) -5.2 (e in which ) 5.4 (a set) -4.9 ( ) ] TJ
+T*
+0.0007 Tc
+0 Tw
+(of ) Tj
+/TT8 1 Tf
+1.0842 0 TD
+0 Tc
+(w) Tj
+/TT2 1 Tf
+0.6643 0 TD
+0.0001 Tc
+-0.0003 Tw
+[ (\222s determ) 7.3 (in) -4.8 (es a pro) -4.8 (posi) 6.9 (t) -3.7 (ion\054 an) -4.8 (d which is ) -5.3 (im) 7.3 (p) -4.8 (l) -3.7 (i) 6.9 (c) -2.5 (it) 6.9 ( ) -5.3 (i) 6.9 (n) 0.5 ( ) ] TJ
+/TT4 1 Tf
+21.0455 0 TD
+0.0033 Tc
+0 Tw
+[ (\050iii) 4.8 (\051) ] TJ
+/TT2 1 Tf
+1.5093 0 TD
+-0.0002 Tc
+(\056  ) Tj
+-22.8046 -1.7219 TD
+0.0016 Tc
+0.0301 Tw
+[ (As for ) ] TJ
+/TT4 1 Tf
+2.8486 0 TD
+-0.0001 Tc
+0 Tw
+(\050iv\051) Tj
+/TT2 1 Tf
+1.4455 0 TD
+-0.0009 Tc
+0.0379 Tw
+[ (\054 ) 10.6 (s) -5 (u) -0.5 (ffic) 7.2 (e) 1.8 ( i) -4.7 (t) 5.9 ( to ) 5.3 (s) -5 (a) 1.8 (y) -5.8 ( ) 5.3 (that ) 5.3 (w) -6.8 (h) -0.5 (en a speak) -5.8 (e) 7.2 (r) -2.7 ( ass) -5 (e) 7.2 (rts) -5 ( ) 5.3 (s) -5 (o) -11.1 (m) 11.6 (e) -3.5 (thing it i) 5.9 (s) -5 ( ) 5.3 (her int) 5.9 (e) 1.8 (n) -5.8 (tio) -5.8 (n) -5.8 ( ) ] TJ
+-5.7928 -1.7272 TD
+-0.0002 Tc
+0.0584 Tw
+[ (to g) -5.1 (e) 2.5 (t th) -5.1 (e h) -5.1 (e) -2.8 (are) 7.9 (r) -2 ( ) -10.7 (t) 6.6 (o) -5.1 ( b) -5.1 (e) 2.5 (lieve ) -5.4 (in w) -6.1 (h) 0.2 (at ) -5.4 (is ) -5.4 (asser) -7.3 (t) 1.3 (ed) -5.1 ( \050e\056g\056 a pro) -5.1 (positi) 6.6 (on\051 ) -10.7 (and ) -5.4 (th) -5.1 (us\054 ) -5.4 (t) 6.6 (o) 0.2 ( ) -10.7 (take the ) ] TJ
+0 -1.7219 TD
+-0.0008 Tc
+0.0484 Tw
+[ (act) 6 (u) -5.7 (al world) -5.7 ( ) 5.3 (as being in ) -5.3 (t) 6 (h) -0.4 (at ) 5.3 (w) -6.7 (a) 1.9 (y) -11 (\056) -0.6 ( ) 10.6 (In order ) 5.3 (to do ) 5.3 (this i) -4.6 (t) 6 ( is ) 5.3 (n) -5.7 (e) 1.9 (cess) -4.9 (a) 7.3 (r) -2.6 (y) -11 ( to ) 10.6 (reduce ) 5.3 (th) -5.7 (e ) 5.3 (s) -4.9 (e) 1.9 (t of ) ] TJ
+0 -1.7272 TD
+-0.0009 Tc
+0.0379 Tw
+[ (pos) -5 (sibl) -4.7 (e) 7.2 ( situ) -5.8 (ations) -5 ( ) 5.3 (co) -11.1 (m) 11.6 (p) -11.1 (atibl) -4.7 (e) 1.8 ( ) 5.3 (w) -6.8 (i) -4.7 (t) 5.9 (h) -0.5 ( ) -5.3 (what i) 5.9 (s) -5 ( ) 5.3 (s) -10.3 (a) 7.2 (id ) -5.3 (so that) 5.9 (\054 at) 5.9 ( th) -5.8 (e ) 5.3 (end of t) 5.9 (h) -5.8 (e ) -5.3 (day) -11.1 (\054) -0.7 ( ) 5.3 (there ) 5.3 (w) -6.8 (i) 5.9 (l) -4.7 (l) -4.7 ( ) ] TJ
+0 -1.7219 TD
+-0.0013 Tc
+0.0914 Tw
+[ (be one ) ] TJ
+/TT8 1 Tf
+3.0612 0 TD
+0 Tc
+0 Tw
+(P) Tj
+/TT2 1 Tf
+0.6112 0 TD
+-0.0005 Tc
+0.0906 Tw
+[ ( ) -5.3 (t) 6.3 (a) -3.1 (ken to b) -5.4 (e) 2.2 ( sai) 6.3 (d) -5.4 ( a) 7.6 (nd o) -5.4 (n) -5.4 (e) 7.6 ( ) ] TJ
+/TT8 1 Tf
+10.7566 0 TD
+0 Tc
+0 Tw
+(w) Tj
+/TT2 1 Tf
+0.6696 0 TD
+-0.0005 Tc
+0.0906 Tw
+[ ( ) 5.3 (t) -4.3 (a) 2.2 (ken ) -5.3 (to be ) 5.3 (th) -5.4 (e actu) -5.4 (al\056 If thi) 6.3 (s) -4.6 ( were not t) 6.3 (r) -2.3 (u) -5.4 (e) 7.6 (\054 ) -5.3 (th) -5.4 (en) -5.4 ( ) ] TJ
+-15.0985 -1.7272 TD
+-0.0004 Tc
+0.064 Tw
+[ (asserting w) -6.3 (ould stop ) -5.3 (being ) -5.3 (useful\054 and perh) ] TJ
+17.7398 0 TD
+0.0639 Tw
+[ (aps ) -5.3 (end up b) -5.2 (e) 2.4 (in) -5.2 (g a) -8.2 (m) 12.2 (ong ) -5.3 (t) 6.5 (h) -5.2 (e endeavors ) -5.3 (that ) ] TJ
+ET
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 PHI\056G1\05602\0562 \055 Philosophy \055 First year Graduate \055 Male \055 NNS \050L1\072 Spanish\051 \055 Research Paper) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(2) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+25 0 obj
+<<
+/FirstChar 32
+/Widths [ 278 ]
+/Encoding /WinAnsiEncoding
+/Type /Font
+/BaseFont /Arial-BoldMT
+/LastChar 32
+/FontDescriptor 26 0 R
+/Subtype /TrueType
+>>
+endobj
+26 0 obj
+<<
+/FontBBox [ -628 -376 2000 1010 ]
+/StemV 138
+/Descent -211
+/XHeight 515
+/Flags 32
+/FontStretch /Normal
+/Ascent 905
+/FontName /Arial-BoldMT
+/Type /FontDescriptor
+/FontWeight 700
+/ItalicAngle 0
+/FontFamily (Arial)
+/CapHeight 718
+>>
+endobj
+27 0 obj
+<<
+/Length 15066
+>>
+stream
+q
+/GS1 gs
+BT
+/TT2 1 Tf
+11.2898 0 0 11.2898 106.02 35.76 Tm
+0 g
+0 Tc
+0 Tw
+( ) Tj
+34.9323 -0.0053 TD
+(3) Tj
+-34.9323 60.1603 TD
+0.0039 Tc
+0.1819 Tw
+[ (h) 4.3 (u) -6.3 (m) 16.4 (a) 6.6 (n) 4.3 (s) 5.1 ( ) -5.3 (t) 5.4 (a) 6.6 (ke) 6.6 ( ) 5.3 (j) 5.4 (u) 4.3 (st) 10.7 ( fo) 4.3 (r fu) 4.3 (n) 4.3 (\056) 4.1 ( No) 4.3 ( wo) 4.3 (n) 9.6 (d) 4.3 (e) 6.6 (r) 2.1 ( wh) 4.3 (y) -6.3 ( ) 10.6 (St) 5.4 (a) 12 (l) 5.4 (na) 6.6 (ke) 6.6 (r t) 5.4 (a) 6.6 (kes) 5.1 ( ) ] TJ
+/TT8 1 Tf
+25.1004 0 TD
+-0.0027 Tc
+0 Tw
+(CS) Tj
+/TT2 1 Tf
+1.1639 0 TD
+-0.001 Tc
+0.1868 Tw
+[ ( and ) ] TJ
+/TT8 1 Tf
+2.3118 0 TD
+0.0049 Tc
+0 Tw
+(SP) Tj
+/TT2 1 Tf
+1.1161 0 TD
+-0.0068 Tc
+0.1926 Tw
+[ ( to) -6.4 ( b) -6.4 (e) -4.1 ( ) -5.3 (c) -9.4 (e) -4.1 (n) -11.7 (t) 0 (r) -8.6 (a) -4.1 (l) -10.6 ( ) ] TJ
+-29.6922 -1.7272 TD
+-0.0012 Tc
+0.001 Tw
+[ (notions for) -8.3 ( the ) -5.3 (char) -8.3 (act) -5 (eriza) -3.8 (tion of sp) -6.1 (e) -3.8 (ech ) -5.3 (c) 6.9 (o) -6.1 (n) -6.1 (t) 5.6 (ex) -6.1 (t) -5 (s) 0 (\056 ) ] TJ
+1.4987 -1.7219 TD
+-0.0008 Tc
+0.075 Tw
+[ (To b) -5.7 (e) 7.3 ( fair t) -4.6 (o) -0.4 ( the way) -5.7 (s) -4.9 ( i) 6 (n) -5.7 ( which the c) 7.3 (o) -5.7 (ntent of an as) -4.9 (s) -4.9 (e) 1.9 (rt) 6 (ion) -5.7 ( is) -4.9 ( deter) -13.2 (m) 11.7 (in) -5.7 (ed one ) -10.6 (m) 11.7 (u) -0.4 (s) -4.9 (t) -4.6 ( ) ] TJ
+-1.4987 -1.7272 TD
+-0.0003 Tc
+0.1011 Tw
+[ (tak) -5.2 (e) 2.4 ( an ord) -5.2 (e) -2.9 (red pai) 6.5 (r) -2.1 ( of ) ] TJ
+/TT8 1 Tf
+9.8053 0 TD
+-0.0027 Tc
+0 Tw
+(w\222) Tj
+/TT2 1 Tf
+0.9991 0 TD
+0.0014 Tc
+0.0994 Tw
+[ (s a) 9.5 (nd ) ] TJ
+/TT8 1 Tf
+2.5297 0 TD
+0 Tc
+0 Tw
+(P) Tj
+/TT2 1 Tf
+0.6112 0 TD
+0.0007 Tc
+0.1001 Tw
+[ (\222s\054 such t) 7.5 (h) -4.2 (at f) -6.4 (o) 1.1 (r e) 8.8 (v) 1.1 (ery) -9.5 ( ) ] TJ
+/TT8 1 Tf
+9.4598 0 TD
+0 Tc
+0 Tw
+(w) Tj
+/TT2 1 Tf
+0.6643 0 TD
+0.0059 Tc
+0.0949 Tw
+[ ( we) 14 ( g) 6.3 (e) 3.3 (t) 7.4 ( ) -5.3 (a) 14 ( ) ] TJ
+/TT8 1 Tf
+4.2304 0 TD
+0 Tc
+0 Tw
+(P) Tj
+/TT2 1 Tf
+0.6112 0 TD
+0.0001 Tc
+0.1007 Tw
+[ (\056 ) -5.3 (Suppo) -4.8 (se t) 6.9 (h) 0.5 (at I ) ] TJ
+-28.911 -1.7272 TD
+0.0008 Tc
+-0.001 Tw
+[ (assert) 7.6 ( \0501\051\054  ) ] TJ
+0 -1.7219 TD
+0 Tc
+0 Tw
+( ) Tj
+1.4987 -1.7272 TD
+0.0034 Tc
+(\0501\051) Tj
+/TT12 1 Tf
+1.1692 0 TD
+0 Tc
+( ) Tj
+/TT2 1 Tf
+0.3348 0 TD
+0.0016 Tc
+-0.0018 Tw
+[ (T) 6.6 (h) -3.3 (e) 9.7 ( standard ) -10.6 (m) 14.1 (e) -1 (te) 9.7 (r is one) 9.7 ( ) -10.6 (m) 14.1 (e) -1 (ter ) -5.3 (l) 8.4 (o) 2 (ng\056 ) ] TJ
+-1.504 -1.7219 TD
+0 Tc
+0 Tw
+( ) Tj
+-1.4987 -1.7272 TD
+-0.0004 Tc
+0.1862 Tw
+[ (and le) 7.7 (t us ) 5.3 (tak) -5.3 (e) 2.3 ( i) 6.4 (t) 1.1 ( ) -5.3 (as an) -5.3 ( e) 7.7 (x) 0 (a) -8.3 (m) 12.1 (p) -5.3 (l) -4.2 (e ) 5.3 (of) -7.5 ( a stipu) -5.3 (l) -4.2 (a) 7.7 (t) -4.2 (io) -5.3 (n\056 Now) -6.3 (\054) 5.1 ( e) 7.7 (v) -5.3 (a) 7.7 (l) 1.1 (u) -5.3 (a) -3 (te) 7.7 ( ) -5.3 (it according t) 6.4 (o) -5.3 ( the ) ] TJ
+0 -1.7219 TD
+0.0001 Tc
+0.0422 Tw
+[ (following diffe) 8.2 (rent worlds\072 where ) 5.3 (the sta) 8.2 (nda) 8.2 (rd m) 7.3 (e) -2.5 (ter i) 6.9 (s) -4 ( ) 5.3 (one ) -5.3 (m) 12.6 (e) -2.5 (ter l) 6.9 (o) 0.5 (ng ) 5.3 (\050) ] TJ
+/TT8 1 Tf
+29.3202 0 TD
+0 Tc
+0 Tw
+(w) Tj
+7.5077 0 0 7.5077 444.54 538.2 Tm
+(1) Tj
+/TT2 1 Tf
+11.2898 0 0 11.2898 448.32 539.64 Tm
+-0.0002 Tc
+0.0425 Tw
+[ (\051\054 ) 5.3 (whe) 7.9 (r) -2 (e i) 6.6 (t) 1.3 ( is) -9.6 ( ) ] TJ
+-30.3193 -1.7272 TD
+0.0003 Tc
+0.0951 Tw
+[ (two m) 12.8 (e) -2.3 (te) 8.4 (r) -6.8 (s) 1.5 ( long ) 5.3 (\050) ] TJ
+/TT8 1 Tf
+7.2968 0 TD
+0 Tc
+0 Tw
+(w) Tj
+7.5077 0 0 7.5077 195.9 518.7 Tm
+(2) Tj
+/TT2 1 Tf
+11.2898 0 0 11.2898 199.68 520.14 Tm
+0.0901 Tw
+[ (\051\054 and where it) 6.8 ( is t) 6.8 (h) 0.4 (ree ) -10.7 (m) 12.5 (e) -2.6 (ters long \050) ] TJ
+/TT8 1 Tf
+15.1782 0 TD
+0 Tw
+(w) Tj
+7.5077 0 0 7.5077 378.54 518.7 Tm
+(3) Tj
+/TT2 1 Tf
+11.2898 0 0 11.2898 382.38 520.14 Tm
+0.0001 Tc
+0.09 Tw
+[ (\051\056 This i) 6.9 (s) -4 ( supposed t) 6.9 (o) 0.5 ( b) -4.8 (e) -2.5 ( ) -5.3 (a ) ] TJ
+-24.4786 -1.7272 TD
+-0.0003 Tc
+0.0532 Tw
+[ (case of ) -5.3 (a st) -4.1 (at) 6.5 (e) -8.2 (m) 6.9 (ent ) -5.3 (that) 6.5 ( ) -10.7 (e) 7.8 (x) 0.1 (p) -5.2 (r) -2.1 (e) 7.8 (s) -4.4 (s) -4.4 (e) 2.4 (s ) -5.3 (a) 7.8 ( ) -10.7 (conting) -5.2 (e) 2.4 (nt ) -5.3 (a priori truth\073) -4.1 ( let) 6.5 (\222) -7.4 (s ass) -4.4 (u) -10.5 (m) 6.9 (e) 2.4 (\054 if only) -10.5 ( ) 5.3 (for a ) ] TJ
+0 -1.7166 TD
+-0.0002 Tc
+0.0797 Tw
+[ (brief ) -10.6 (m) 12.3 (o) -10.4 (m) 7 (e) -2.8 (nt\054 th) -5.1 (at by) -10.4 ( \221trut) 6.6 (h) -5.1 (s\222 we ) -5.3 (m) 7 (ean \221what ) -5.3 (is s) -4.3 (a) 2.5 (id\222 by) -10.4 ( the u) -5.1 (t) 1.3 (t) -4 (e) 7.9 (ran) -5.1 (ce of th) -5.1 (e sen) -5.1 (t) 1.3 (ence ) ] TJ
+0 -1.7272 TD
+-0.0005 Tc
+0.1278 Tw
+[ (\050i\056e\056 ) 5.3 (in ) -5.3 (t) 6.3 (h) -5.4 (i) 6.3 (s) -4.6 ( case a proposition\051\056 ) ] TJ
+/TT4 1 Tf
+13.3235 0 TD
+0 Tc
+0 Tw
+(A) Tj
+/TT2 1 Tf
+0.7281 0 TD
+-0.0012 Tc
+0.1232 Tw
+[ ( ) 5.3 (w) -7.1 (i) 0.3 (ll ) -5.3 (b) -6.1 (e) 1.5 ( th) -6.1 (e ) -5.3 (propo) -6.1 (sition) -6.1 (a) -3.8 (l) 0.3 ( con) -6.1 (c) -3.8 (ept of) -8.3 ( ) -5.3 (\0501\051\054 where the) -3.8 ( ) ] TJ
+-14.0516 -1.7219 TD
+0 Tc
+0.1698 Tw
+[ (horizontal lines represent ) ] TJ
+/TT8 1 Tf
+10.8682 0 TD
+-0.0033 Tc
+0.1731 Tw
+[ (wha) -8.2 (t) -1.8 ( is) -7.4 ( s) -7.4 (a) -2.9 (id) ] TJ
+/TT2 1 Tf
+5.1179 0 TD
+-0.0002 Tc
+0.17 Tw
+[ ( by) -10.4 ( utte) 7.9 (r) -7.3 (a) 7.9 (n) -5.1 (ces of \050) -7.3 (1) 0.2 (\051 i) 6.6 (n) 0.2 ( ) -5.4 (di) 6.6 (ffer) -7.3 (e) 2.5 (nt ) ] TJ
+/TT8 1 Tf
+14.2163 0 TD
+0 Tc
+0 Tw
+(w) Tj
+/TT2 1 Tf
+0.6643 0 TD
+0.0005 Tc
+0.1693 Tw
+[ (\222s taken ) -5.4 (as ) ] TJ
+-30.8667 -1.7272 TD
+-0.0007 Tc
+0.0005 Tw
+[ (contex) -5.6 (t) 6.1 (s) -4.8 (\056  ) ] TJ
+/TT4 1 Tf
+5.8991 -1.7325 TD
+0.0006 Tc
+2.7468 Tw
+[ (A ) 616.5 (  ) -5.3 (  ) ] TJ
+/TT2 1 Tf
+0.8503 -1.1426 TD
+0 Tc
+0 Tw
+( ) Tj
+/TT8 1 Tf
+2.1205 -0.0053 TD
+(w) Tj
+7.5077 0 0 7.5077 213.66 388.86 Tm
+(1) Tj
+11.2898 0 0 11.2898 217.44 390.3 Tm
+1.0042 Tc
+( w) Tj
+7.5077 0 0 7.5077 239.1 388.86 Tm
+0 Tc
+(2) Tj
+11.2898 0 0 11.2898 242.88 390.3 Tm
+0.9989 Tc
+( W) Tj
+7.5077 0 0 7.5077 266.4 388.86 Tm
+0 Tc
+(3) Tj
+11.2898 0 0 11.2898 270.12 390.3 Tm
+( ) Tj
+-7.7858 -1.1958 TD
+(W) Tj
+7.5077 0 0 7.5077 191.64 375.42 Tm
+(1) Tj
+11.2898 0 0 11.2898 195.36 376.8 Tm
+( ) Tj
+/TT2 1 Tf
+0.9566 0.0053 TD
+-0.0022 Tc
+1.3944 Tw
+[ (T F ) -53.1 (F ) ] TJ
+ET
+200.88 387.36 0.42001 0.48001 re
+f
+200.88 387.36 76.62 0.48001 re
+f
+200.88 374.34 0.42001 13.02 re
+f
+226.26 374.34 0.48001 13.02 re
+f
+251.64 374.34 0.48 13.02 re
+f
+277.08 374.34 0.42001 13.02 re
+f
+BT
+/TT8 1 Tf
+11.2898 0 0 11.2898 182.22 363.36 Tm
+0 Tc
+0 Tw
+(W) Tj
+7.5077 0 0 7.5077 191.64 361.98 Tm
+(2) Tj
+11.2898 0 0 11.2898 195.36 363.36 Tm
+( ) Tj
+/TT2 1 Tf
+0.9566 0.0053 TD
+0.0019 Tc
+1.4434 Tw
+[ (F T) 6.9 ( ) 53.1 (F) 5.3 ( ) ] TJ
+ET
+200.88 373.86 76.62 0.48001 re
+f
+200.88 360.9 0.42001 12.96 re
+f
+226.26 360.9 0.48001 12.96 re
+f
+251.64 360.9 0.48 12.96 re
+f
+277.08 360.9 0.42001 12.96 re
+f
+BT
+/TT8 1 Tf
+11.2898 0 0 11.2898 182.22 349.92 Tm
+0 Tc
+0 Tw
+(W) Tj
+7.5077 0 0 7.5077 191.64 348.54 Tm
+(3) Tj
+11.2898 0 0 11.2898 195.36 349.92 Tm
+( ) Tj
+/TT2 1 Tf
+0.9566 0.0053 TD
+0.0011 Tc
+1.4442 Tw
+[ (F F) 4.5 ( T ) ] TJ
+ET
+200.88 360.42 76.62 0.47998 re
+f
+200.88 346.92 0.42001 13.5 re
+f
+200.88 346.92 25.38 0.47998 re
+f
+226.26 346.92 0.48001 13.5 re
+f
+226.74 346.92 24.9 0.47998 re
+f
+251.64 346.92 0.48 13.5 re
+f
+252.12 346.92 24.96 0.47998 re
+f
+277.08 346.92 0.42001 13.5 re
+f
+277.08 346.92 0.42001 0.47998 re
+f
+BT
+/TT4 1 Tf
+11.2898 0 0 11.2898 106.02 336.42 Tm
+0 Tc
+0 Tw
+( ) Tj
+/TT2 1 Tf
+0 -1.1426 TD
+-0.0005 Tc
+0.0853 Tw
+[ (We ca) 7.6 (n s) -9.9 (e) -3.1 (e) 7.6 ( ) -5.3 (that ) -5.3 (t) 6.3 (h) -0.1 (er) -7.6 (e ar) -7.6 (e only) -5.4 ( ) -5.3 (c) 7.6 (ontingent propo) -5.4 (sitions represented ) -5.3 (i) 6.3 (n) -0.1 ( ) ] TJ
+/TT4 1 Tf
+28.7887 0 TD
+0 Tc
+0 Tw
+(A) Tj
+/TT2 1 Tf
+0.7228 0 TD
+0.001 Tc
+0.0838 Tw
+[ (\056 This see) -6.9 (m) 13.5 (s ) -5.3 (a ) ] TJ
+-29.5115 -1.7272 TD
+-0.0006 Tc
+0.0482 Tw
+[ (li) -4.4 (t) 6.2 (t) -4.4 (l) -4.4 (e) 2.1 ( ) 5.3 (b) -5.5 (it aw) -6.5 (kw) -6.5 (a) 7.5 (r) -2.4 (d) -5.5 (\056) -0.4 ( ) 5.3 (A) -6.5 (t) 6.2 ( a first ) 5.3 (gl) -4.4 (an) -5.5 (ce\054) -5.7 ( if ) 5.3 (I st) -4.4 (ipul) -4.4 (ate ) 5.3 (th) -5.5 (e l) -4.4 (e) 2.1 (ngth) -5.5 ( ) 5.3 (o) -5.5 (f) -2.4 ( a ) -5.3 (m) 6.6 (e) -3.2 (ter by) -5.5 ( ) 5.3 (ass) -10 (e) 2.1 (rt) 6.2 (ing) -5.5 ( t) 6.2 (h) -5.5 (at) ] TJ
+/TT8 1 Tf
+35.4372 0 TD
+0 Tc
+0 Tw
+( ) Tj
+-35.4372 -1.7219 TD
+-0.0007 Tc
+0.1599 Tw
+[ (T) -7.9 (h) -0.3 (e) 7.4 ( ) -5.3 (standard ) -5.3 (mete) 7.4 (r is one m) -6.6 (e) 2 (ter ) -5.3 (long) ] TJ
+/TT2 1 Tf
+15.9435 0 TD
+-0.0016 Tc
+0.1608 Tw
+[ (\054) -6.7 ( what I sa) 6.5 (y) -11.8 ( is) -5.7 ( ) 5.3 (so) -6.5 (m) 5.6 (e) 1.1 (th) -6.5 (i) 5.2 (n) -1.2 (g) -6.5 ( t) 5.2 (h) -6.5 (at i) -5.4 (s) -0.4 ( true in ev) -6.5 (ery) -11.8 ( ) ] TJ
+-15.9435 -1.7219 TD
+-0.0011 Tc
+0.0062 Tw
+[ (w) -7 (o) -0.7 (rld) -6 ( where I ) -5.3 (m) 11.4 (a) 1.6 (k) -6 (e) 1.6 ( ) -5.3 (the ) -5.3 (a) 7 (s) -5.2 (sert) -4.9 (ion) -6 ( \050i\056) -6.2 (e) -3.7 (\056 in ) -5.3 (eve) 7 (r) -2.9 (y) -11.3 ( world where I) -8.2 ( ) -10.6 (m) 11.4 (a) 1.6 (k) -6 (e) 7 ( ) -5.3 (th) -6 (e st) -4.9 (i) -4.9 (pulation\051\054 ) -5.3 (an) -6 (d\054) -6.2 ( ) ] TJ
+T*
+-0.0004 Tc
+0.0108 Tw
+[ (thus\054 should ) -5.3 (so) -5.3 (m) 12.1 (e) -3 (how have tru) -5.3 (e) 2.3 ( ev) -5.3 (aluations i) 6.4 (n) -5.3 ( ) ] TJ
+19.01 0 TD
+0.0001 Tc
+0.0103 Tw
+[ (every) -10.1 ( world\056 ) 5.3 ( Pu) -4.8 (t) 6.9 ( in oth) -4.8 (e) 2.8 (r) -7 ( words\054 t) 6.9 (h) 0.5 (ere ) -5.3 (is ) ] TJ
+-19.01 -1.7272 TD
+-0.0004 Tc
+0.048 Tw
+[ (cert) 6.4 (ain) -5.3 (l) 1.1 (y) -5.3 ( ) 5.3 (a sense in which ) 5.3 (I ca) 7.7 (n) -5.3 (not) 6.4 ( b) -5.3 (e) 2.3 ( ) -5.3 (m) 12.1 (i) 1.1 (stak) ] TJ
+18.2872 0 TD
+-0.0007 Tc
+0.0483 Tw
+[ (en about ) 5.3 (th) -5.6 (e ) 5.3 (truth of m) 17.2 (y) -10.9 ( a) 7.4 (s) -4.8 (sertion\054 a ) 5.3 (sen) -5.6 (s) 0.5 (e ) ] TJ
+-18.2872 -1.7272 TD
+-0.0012 Tc
+0.0063 Tw
+[ (in which ) -5.3 (it i) -5 (s) -5.3 ( ) 5.3 (n) -6.1 (e) 6.9 (cess) -10.6 (a) 6.9 (r) -3 (ily) -6.1 ( true\056 Th) -6.1 (is) -5.3 ( b) -6.1 (e) 6.9 (ing s) -5.3 (u) -6.1 (c) 6.9 (h) -6.1 ( b) -6.1 (e) 1.5 (cause ) -5.3 (in ev) -6.1 (ery) -11.4 ( ) 5.3 (w) -7.1 (o) -0.8 (rld ) ] TJ
+/TT8 1 Tf
+28.3423 0 TD
+-0.0018 Tc
+0 Tw
+(where) Tj
+/TT2 1 Tf
+2.4341 0 TD
+0 Tc
+( ) Tj
+/TT8 1 Tf
+0.2551 0 TD
+0.0024 Tc
+0.0027 Tw
+[ (I as) 3.6 (se) 5.1 (rt) 3.9 ( ) ] TJ
+/TT2 1 Tf
+3.2365 0 TD
+0.0013 Tc
+0 Tw
+(\0501\051 ) Tj
+-34.268 -1.7219 TD
+0.0003 Tc
+-0.0005 Tw
+[ (I know) -5.6 ( ) ] TJ
+/TT8 1 Tf
+3.0612 0 TD
+0.001 Tc
+-0.0012 Tw
+[ (a pri) 7.8 (o) 1.4 (ri) ] TJ
+/TT2 1 Tf
+3.0771 0 TD
+-0.0004 Tc
+0.0002 Tw
+[ ( \050i) 6.4 (\056e\056 ) -5.3 (th) -5.3 (an) -5.3 (ks to ) -10.6 (m) 17.5 (y) -10.6 ( stipulat) 6.4 (ion\051) ] TJ
+/TT8 1 Tf
+12.0214 0 TD
+0 Tc
+0 Tw
+( ) Tj
+/TT2 1 Tf
+0.2498 0 TD
+-0.001 Tc
+0.0008 Tw
+[ (w) -6.9 (h) -0.6 (at) 5.8 ( ) -5.3 (th) -5.9 (e l) -4.8 (e) 7.1 (ng) -5.9 (th) -5.9 ( of the s) -5.1 (t) 0.5 (and) -5.9 (a) 1.7 (rd ) -10.6 (m) 11.5 (e) -3.6 (ter is\056) ] TJ
+7.5077 0 0 7.5077 495.1199 192.42 Tm
+0 Tc
+0 Tw
+(2) Tj
+11.2898 0 0 11.2898 498.9 187.2601 Tm
+-0.0002 Tc
+(  ) Tj
+-34.7994 -3.7574 TD
+0 Tc
+(                                                ) Tj
+ET
+106.02 147.24 135.48 0.53999 re
+f
+BT
+11.2898 0 0 11.2898 241.5 144.84 Tm
+( ) Tj
+6.0965 0 0 6.0965 106.02 137.9401 Tm
+(2) Tj
+9.427 0 0 9.427 109.08 133.6801 Tm
+0.0011 Tc
+0.0735 Tw
+[ ( O) 4.1 (f) 3.1 ( c) 5.8 (ourse) 5.8 ( ) 6.4 (th) 4.7 (is) 8.4 ( o) 4.7 (n) -1.7 (l) 5.3 (y) 4.7 ( w) 4.1 (o) -1.7 (rks) 8.4 ( fo) 4.7 (r) 9.5 ( the) 5.8 ( w) 4.1 (o) -1.7 (rl) 5.2 (ds) 8.4 ( ta) 5.8 (ken) 4.7 ( ) 6.4 (as c) 5.8 (o) 4.7 (nt) 5.3 (ex) 4.7 (t) 5.3 (s) 2 ( bec) 5.8 (a) 5.8 (u) -1.7 (se) 5.8 ( t) 5.3 (h) -1.7 (a) 5.8 (t) -1.1 ( ) 6.4 (is as) 8.4 ( far ) 6.4 (a) 5.8 (s) 2 ( m) 8.8 (y) -1.7 ( ) 6.4 (sti) 5.3 (p) -1.7 (u) 4.7 (l) -1.1 (a) 5.8 (tio) 4.7 (n ) 6.4 (ca) 5.8 (n ) ] TJ
+-0.3246 -1.152 TD
+-0.003 Tc
+0.0458 Tw
+[ (g) -5.8 (e) -4.7 (t me t) -5.2 (o) -5.8 ( know so) -5.8 (met) -5.2 (h) 0.6 (i) -5.2 (n) -5.8 (g) -5.8 (\056) ] TJ
+11.2898 0 0 11.2898 209.82 122.82 Tm
+0 Tc
+0 Tw
+( ) Tj
+9.427 0 0 9.427 213 122.82 Tm
+-0.005 Tc
+0.0478 Tw
+[ (R) -6.3 (e) -6.7 (me) -6.7 (mb) -7.8 (e) -6.7 (r) -3 (\054 t) -13.6 (h) -1.4 (e s) -10.4 (t) -0.9 (i) -7.2 (pul) -13.6 (ati) -7.2 (o) -1.4 (n) -7.8 ( is ) -6.3 (abo) -7.8 (u) -1.4 (t) -13.6 ( ) 6.4 (t) -7.2 (h) -7.8 (e ref) -9.3 (e) -0.3 (re) -6.7 (n) -7.8 (c) -6.7 (e of) -9.3 ( \221on) -7.8 (e) -6.7 ( ) 6.4 (me) -6.7 (t) -7.2 (e) -6.7 (r\222 \226) -7.8 ( wh) -7.8 (i) -7.2 (c) -0.3 (h wi) -7.2 (l) -13.6 (l) -13.6 ( ) ] TJ
+-11.3482 -1.1456 TD
+0.0017 Tc
+0.0283 Tw
+[ (be t) 5.9 (h) -1.1 (e sam) 9.4 (e) 0 ( fo) 5.3 (r eve) 6.4 (r) 3.7 (y ) ] TJ
+/TT8 1 Tf
+9.006 0 TD
+0 Tc
+0 Tw
+(w) Tj
+/TT2 1 Tf
+0.6747 0 TD
+-0.0034 Tc
+0.0334 Tw
+[ ( as ) -6.4 (arg) -6.2 (u) -6.2 (m) -2.1 (ent) -5.6 (\054) -1.6 ( on) -6.2 (c) -5.1 (e) -5.1 ( we ) -6.4 (fi) -5.6 (x) -6.2 ( th) -6.2 (e) -5.1 ( ) ] TJ
+/TT8 1 Tf
+12.2011 0 TD
+0 Tc
+0 Tw
+(w) Tj
+/TT2 1 Tf
+0.6683 0 TD
+-0.0038 Tc
+0.0338 Tw
+[ ( ) -6.4 (as ) -6.4 (t) -6 (h) -6.6 (e ) -6.4 (c) 7.2 (o) -6.6 (nt) -12.4 (e) 7.2 (x) -0.2 (t) -12.4 ( of) -8.1 ( a) -5.5 (ssert) -6 (i) -6 (o) -0.2 (n) -6.6 ( \226) -6.6 ( ) 6.3 (n) -6.6 (o) -0.2 (t) -6 ( a) -5.5 (b) -6.6 (out) -6 ( t) -6 (h) -6.6 (e l) -12.4 (e) 7.2 (ngt) -6 (h ) ] TJ
+-22.5501 -1.1456 TD
+0.0012 Tc
+0.0352 Tw
+[ (of ) 6.4 (t) 5.4 (h) -1.6 (e s) 8.5 (t) -7.4 (a) 12.2 (ndard) 4.8 ( m) 8.9 (e) -0.5 (ter \226 w) 4.2 (h) 4.8 (ic) 5.9 (h) 4.8 ( b) 4.8 (y) -1.6 ( ass) 8.5 (u) -1.6 (mp) 4.8 (ti) 5.4 (o) 4.8 (n) 4.8 ( ) -6.4 (va) 5.9 (ries) 8.5 ( w) 4.2 (i) 5.4 (t) -7.4 (h) 4.8 (i) 5.4 (n) -1.6 ( ) 6.4 (t) 5.4 (h) -8 (e) 5.9 ( ) ] TJ
+/TT8 1 Tf
+25.4778 0 TD
+0 Tc
+0 Tw
+(w) Tj
+/TT2 1 Tf
+0.6747 0 TD
+0.0011 Tc
+0.0353 Tw
+[ (\222s\056) 9.2 ( If\054) 9.2 ( ) -6.4 (how) 10.4 (e) 5.8 (v) -1.7 (er\054) 9.2 ( I w) 4.1 (a) -0.6 (nt t) 5.3 (o) -1.7 ( k) 4.7 (now) 4.1 ( w) 4.1 (h) -1.7 (a) 5.8 (t) -1.1 ( ) 6.4 (t) 5.3 (h) -1.7 (e) -6.9 ( ) ] TJ
+-26.1525 -1.152 TD
+0.0015 Tc
+0.0604 Tw
+[ (len) 5.1 (g) 5.1 (t) -0.7 (h ) 6.4 (of t) 5.7 (h) -1.3 (e s) 8.8 (t) -0.7 (an) 5.1 (dar) 9.9 (d) -1.3 ( me) 6.2 (t) -7.1 (e) 6.2 (r is u) 5.1 (nder c) 6.2 (e) -0.2 (rta) 6.2 (i) -0.7 (n c) 6.2 (i) -7.1 (r) 9.9 (c) -0.2 (um) 9.2 (st) -7.1 (a) 12.6 (n) -1.3 (ce) 6.2 (s tha) 6.2 (t) -0.7 ( a) 6.2 (ppl) 5.6 (y t) 5.7 (o) 5.1 ( cou) 5.1 (n) -1.3 (ter) 9.9 (f) -2.8 (ac) 12.6 (tua) 6.2 (l) -0.7 ( w) 10.8 (o) -7.7 (r) 9.9 (l) -0.7 (d) -7.7 (s) 2.4 ( I) 9.9 ( need) 5.1 ( to) 5.1 ( ) ] TJ
+0 -1.1456 TD
+0.0011 Tc
+-0.0029 Tw
+[ (do som) 8.8 (e) -0.6 ( e) 5.8 (m) 2.4 (piric) 5.8 (a) -0.6 (l re) 5.8 (sear) 9.5 (ch\056) ] TJ
+11.2898 0 0 11.2898 211.56 79.5601 Tm
+0.0051 Tc
+0 Tw
+(  ) Tj
+9.427 0 0 9.427 106.02 68.76 Tm
+0 Tc
+( ) Tj
+ET
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 PHI\056G1\05602\0562 \055 Philosophy \055 First year Graduate \055 Male \055 NNS \050L1\072 Spanish\051 \055 Research Paper) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(3) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+28 0 obj
+<<
+/FirstChar 32
+/Widths [ 278 ]
+/Encoding /WinAnsiEncoding
+/Type /Font
+/BaseFont /ArialMT
+/LastChar 32
+/FontDescriptor 29 0 R
+/Subtype /TrueType
+>>
+endobj
+29 0 obj
+<<
+/FontBBox [ -665 -325 2000 1006 ]
+/StemV 88
+/Descent -211
+/XHeight 515
+/Flags 32
+/FontStretch /Normal
+/Ascent 905
+/FontName /ArialMT
+/Type /FontDescriptor
+/FontWeight 400
+/ItalicAngle 0
+/FontFamily (Arial)
+/CapHeight 718
+>>
+endobj
+30 0 obj
+<<
+/Length 13477
+>>
+stream
+q
+/GS1 gs
+BT
+/TT2 1 Tf
+11.2898 0 0 11.2898 106.02 35.76 Tm
+0 g
+0 Tc
+0 Tw
+( ) Tj
+34.9323 -0.0053 TD
+(4) Tj
+-33.4336 60.1603 TD
+0.0848 Tw
+[ (This h) -4.9 (a) 2.7 (s t) 6.8 (o) -4.9 ( b) -4.9 (e) 8.1 ( ) -5.3 (a) -7.9 (m) 12.5 (ong ) -5.3 (th) -4.9 (e ) -5.3 (t) 6.8 (h) -4.9 (i) 6.8 (ngs ) -5.3 (that I could) -4.9 ( say) -4.9 ( b) 5.8 (y) -10.2 ( an ass) -9.4 (e) 2.7 (rt) 6.8 (ion of \0501) -4.9 (\051\073) 6.8 ( ) -5.3 (i\056e\056) -5.1 ( it) 6.8 ( is a) -7.9 (t) -3.8 ( ) ] TJ
+-1.4987 -1.7272 TD
+0.0044 Tc
+0.3089 Tw
+[ (l) 5.9 (e) 1.8 (a) 12.5 (s) 0.3 (t) 5.9 ( ) -5.4 (am) 16.9 (ong t) 5.9 (h) 4.8 (e) 7.1 ( i) 5.9 (n) 4.8 (fo) 4.8 (rm) 11.6 (a) 7.1 (t) 0.6 (i) 5.9 (o) 4.8 (n) 4.8 ( ) -5.4 (t) 5.9 (h) -0.5 (a) 7.1 (t) 5.9 ( ) -5.4 (c) 7.1 (o) 4.8 (u) 4.8 (l) 11.2 (d be) 7.1 ( im) 16.9 (pa) 12.5 (rte) 7.1 (d) 4.8 ( by ) -5.4 (i) 11.2 (t) 5.9 (\056) 4.6 ( Ho) 4.8 (we) 12.5 (v) 4.8 (e) 7.1 (r\054) 4.6 ( ) -5.3 (t) 11.2 (h) 4.8 (e) 7.1 (r) -2.7 (e) 7.1 ( is) 5.6 ( ) -5.4 (n) 4.8 (o) 4.8 ( ) ] TJ
+0 -1.7219 TD
+-0.0008 Tc
+0.2982 Tw
+[ (horizont) -4.6 (al repres) -4.9 (entatio) -5.7 (n ) 5.3 (of such a ) 5.3 (propo) -5.7 (sitio) -5.7 (n in ) ] TJ
+/TT4 1 Tf
+21.9702 0 TD
+0 Tc
+0 Tw
+(A) Tj
+/TT2 1 Tf
+0.7281 0 TD
+-0.0021 Tc
+0.2995 Tw
+[ (\056 ) 5.3 (N) -8 (o) 3.6 (neth) -7 (e) -4.7 (l) -0.6 (ess\054 s) -6.2 (u) -1.7 (ch ne) -4.7 (ces) -6.2 (sa) -4.7 (ry) -7 ( ) ] TJ
+-22.6983 -1.7272 TD
+-0.0007 Tc
+0.0217 Tw
+[ (propo) -5.6 (sit) 6.1 (i) 0.8 (on ) -5.4 (is in fact repr) -7.8 (e) 7.4 (s) -4.8 (en) -5.6 (ted ) ] TJ
+/TT8 1 Tf
+13.4563 0 TD
+0.0002 Tc
+0 Tw
+[ (diag) -4.7 (onally) ] TJ
+/TT2 1 Tf
+4.2729 0 TD
+0.0005 Tc
+0.0205 Tw
+[ ( fro) -9.7 (m) 13 ( ) -5.4 (le) 8.6 (ft to ri) 7.3 (ght ) -5.4 (and fro) -9.7 (m) 13 ( t) 7.3 (o) -4.4 (p to bott) 7.3 (o) -9.7 (m) 13 ( ) -5.4 (in ) ] TJ
+/TT4 1 Tf
+-17.7292 -1.7272 TD
+0 Tc
+0 Tw
+(A) Tj
+/TT2 1 Tf
+0.7281 0 TD
+-0.001 Tc
+0.022 Tw
+[ (\056 ) 5.3 (S) -8.2 (i) 5.8 (n) -5.9 (c) 7.1 (e th) -5.9 (er) -8.1 (e) 7.1 ( is only) -11.2 ( on) 4.8 (e such prop) -5.9 (osition\054 we ) -5.4 (can call ) -5.4 (t) 5.8 (h) -5.9 (i) 5.8 (s) -5.1 ( ) ] TJ
+/TT8 1 Tf
+23.6708 0 TD
+-0.0004 Tc
+0.0214 Tw
+[ (the d) -5.3 (i) 1.1 (agonal proposi) 6.4 (tion) ] TJ
+/TT2 1 Tf
+9.9275 0 TD
+[ ( of) -7.5 ( ) ] TJ
+/TT4 1 Tf
+-34.3264 -1.7219 TD
+0 Tc
+0 Tw
+(A) Tj
+/TT2 1 Tf
+0.7281 0 TD
+-0.0004 Tc
+0.0055 Tw
+[ (\056  We can ) -5.3 (m) 6.8 (a) 2.3 (k) -5.3 (e) 2.3 ( use of ) -5.3 (a two d) -5.3 (i) -9.5 (m) 12.1 (e) -3 (n) -5.3 (s) 0.8 (ional) 6.4 ( o) -5.3 (p) -5.3 (e) 7.7 (rator \050i\056e\056 on) -5.3 (e that ) -5.3 (a) 7.7 ( ) ] TJ
+/TT8 1 Tf
+26.2856 0 TD
+0.0056 Tc
+0 Tw
+(PC) Tj
+/TT2 1 Tf
+1.2808 0 TD
+0.0022 Tc
+0.0029 Tw
+[ ( a) 4.9 (n) -2.7 (d ) -10.6 (m) 14.7 (a) 4.9 (ke) 4.9 (s ) -5.3 (i) 3.7 (t) 3.7 ( into ) ] TJ
+-28.2945 -1.7272 TD
+-0.0027 Tc
+0 Tw
+(a ) Tj
+/TT8 1 Tf
+0.7547 0 TD
+0.0056 Tc
+(PC) Tj
+/TT2 1 Tf
+1.2808 0 TD
+0.0004 Tc
+0.0632 Tw
+[ (\051 called) -4.5 ( ) ] TJ
+/TT8 1 Tf
+3.3535 0 TD
+-0.0004 Tc
+0 Tw
+[ (da) -5.3 (gge) 7.7 (r) ] TJ
+/TT2 1 Tf
+2.8326 0 TD
+-0.0016 Tc
+0.0705 Tw
+[ ( ) 5.3 (op) -6.5 (e) -4.2 (r) -3.4 (ator\054 ) 5.3 (such) -6.5 ( that) -5.4 ( ) 5.3 (i) -5.4 (t) -0.1 ( tak) -6.5 (e) 1.1 (s ) -5.3 (the so c) -4.2 (a) 1.1 (ll) -5.4 (ed) -6.5 ( ) ] TJ
+/TT8 1 Tf
+16.8736 0 TD
+-0.0005 Tc
+0 Tw
+(diagonal) Tj
+/TT2 1 Tf
+3.5554 0 TD
+0.0005 Tc
+0.0631 Tw
+[ ( pr) -6.6 (opositi) 7.3 (o) 0.9 (n) -4.4 ( of ) -5.3 (a ) ] TJ
+/TT8 1 Tf
+-28.6505 -1.7219 TD
+0.0003 Tc
+0 Tw
+(PC) Tj
+/TT2 1 Tf
+1.2755 0 TD
+-0.0008 Tc
+0.1016 Tw
+[ ( and projects it ) 5.4 (in) -5.7 (to a ) ] TJ
+/TT8 1 Tf
+9.2579 0 TD
+-0.005 Tc
+0 Tw
+(PC) Tj
+/TT2 1 Tf
+1.2702 0 TD
+0.0051 Tc
+(\056 ) Tj
+/TT4 1 Tf
+0.6005 0 TD
+-0.0004 Tc
+[ (d) -7.6 (agA) ] TJ
+/TT2 1 Tf
+2.2799 0 TD
+-0.0017 Tc
+0.1025 Tw
+[ ( is the ) ] TJ
+/TT8 1 Tf
+2.9336 0 TD
+0.0003 Tc
+0 Tw
+(PC) Tj
+/TT2 1 Tf
+1.2755 0 TD
+0.0001 Tc
+0.1007 Tw
+[ ( w) -5.8 (h) 0.5 (ic) 8.2 (h) -4.8 ( ) 5.4 (results fro) -4.8 (m) 18 ( ) -5.3 (apply) -10.1 (i) 1.6 (ng) 5.8 ( t) 6.9 (h) 0.5 (e dagger) -7 ( ) ] TJ
+-18.8931 -1.7272 TD
+-0.0001 Tc
+-0.0001 Tw
+(operator into ) Tj
+/TT4 1 Tf
+5.3836 0 TD
+0 Tc
+0 Tw
+(A) Tj
+/TT2 1 Tf
+0.7281 0 TD
+-0.0002 Tc
+-0.0053 Tw
+(\056  ) Tj
+-6.1117 -1.7219 TD
+0 Tc
+0 Tw
+( ) Tj
+/TT4 1 Tf
+0 -1.1586 TD
+0.0002 Tc
+2.7525 Tw
+[ ( dagA) -5.7 ( ) 2758.2 ( ) ] TJ
+0 -1.1479 TD
+0 Tc
+0 Tw
+( ) Tj
+0 -1.1533 TD
+( ) Tj
+0 -1.1426 TD
+( ) Tj
+0 -1.1479 TD
+( ) Tj
+0 -1.1532 TD
+( ) Tj
+1.4987 -1.1426 TD
+-0.0004 Tc
+[ (d) -7.6 (agA) ] TJ
+/TT2 1 Tf
+2.2799 0 TD
+-0.0009 Tc
+0.0857 Tw
+[ ( accou) -5.8 (n) -0.5 (ts for the pos) -5 (sibility) -11.1 ( of ) -5.3 (m) 17 (y) -11.1 ( express) -5 (i) 0.6 (ng a truth i) -4.7 (n) -0.5 ( e) 7.2 (v) -5.8 (e) 7.2 (r) -2.7 (y) -5.8 ( ) ] TJ
+/TT8 1 Tf
+25.7754 0 TD
+0.0026 Tc
+0 Tw
+(w ) Tj
+/TT2 1 Tf
+1.0044 0 TD
+-0.0081 Tc
+0.0929 Tw
+[ (as) -12.2 ( a) -5.4 ( co) -13 (n) -7.7 (t) -6.6 (e) -5.4 (x) -7.7 (t) -11.9 ( ) ] TJ
+-30.5584 -1.7272 TD
+-0.0011 Tc
+0.0328 Tw
+[ (by) -11.3 (  a) 7 (s) -5.2 (serting) -6 ( ) 5.3 (\0501\051\056) -6.2 ( ) 5.3 ( Le) 7 (t us then tak) -6 (e) 1.6 ( ) ] TJ
+/TT4 1 Tf
+14.0888 0 TD
+0 Tc
+0 Tw
+(A) Tj
+/TT2 1 Tf
+0.7281 0 TD
+-0.0004 Tc
+0.0321 Tw
+[ ( a) 7.7 (nd ) ] TJ
+/TT4 1 Tf
+1.9983 0 TD
+0 Tw
+[ (d) -7.6 (agA) ] TJ
+/TT2 1 Tf
+2.2852 0 TD
+0 Tc
+0.0317 Tw
+[ ( as offeri) 6.8 (n) -4.9 (g) 0.4 ( ) 5.3 (the set) 6.8 ( of proposi) 6.8 (t) -3.8 (ions that) 6.8 ( ) -5.3 (a ) ] TJ
+-19.1004 -1.7219 TD
+0.0005 Tc
+0.0577 Tw
+[ (spe) 8.6 (a) 3.2 (k) -4.4 (e) 3.2 (r ) -10.7 (m) 13 (a) 3.2 (y) -9.7 ( conv) -4.4 (ey) -9.7 ( by) -4.4 ( ) 5.3 (asse) 8.6 (rting \0501\051\073 ) -5.4 (whic) 8.6 (h) -4.4 (\054) 0.7 ( as ) ] TJ
+/TT4 1 Tf
+19.669 0 TD
+-0.0001 Tc
+0 Tw
+(\050iv\051) Tj
+/TT2 1 Tf
+1.4455 0 TD
+-0.001 Tc
+0.0592 Tw
+[ ( ) -5.4 (say) -11.2 (s) 0.2 (\054 will b) -11.2 (e) 7.1 ( ) -5.4 (i) 5.8 (d) -5.9 (eal) -4.8 (l) 5.8 (y) -11.2 ( reduced ) -10.7 (t) 5.8 (o) -0.6 ( ) -5.4 (u) -5.9 (p) -5.9 ( ) ] TJ
+-21.1146 -1.7272 TD
+-0.0004 Tc
+0.0002 Tw
+[ (to one ) -5.3 (li) 6.4 (n) -5.3 (e) 2.3 (\054 s) -9.8 (u) 0 (ch t) 6.4 (h) -5.3 (at both speak) -5.3 (er an) -5.3 (d hea) 7.7 (r) -2.2 (ers will) 6.4 ( k) -5.3 (now ) ] TJ
+/TT8 1 Tf
+22.9853 0 TD
+-0.0016 Tc
+0 Tw
+[ (wha) -6.5 (t) ] TJ
+/TT2 1 Tf
+1.9451 0 TD
+-0.0011 Tc
+0.0009 Tw
+[ ( is ) -5.3 (ass) -5.2 (e) 1.6 (rted\056) -6.2 ( ) ] TJ
+-23.4317 -1.7272 TD
+-0.0003 Tc
+0.0107 Tw
+[ (This is ) -5.3 (enou) -5.2 (gh about ) -5.3 (th) -5.2 (e ) 5.3 (tw) -6.2 (o dim) 12.2 (e) -2.9 (nsional ) -5.3 (appa) 7.8 (r) -7.4 (a) -2.9 (tus for ou) -5.2 (r ) 5.3 (purposes\056) -5.4 ( ) 5.3 (With i) 6.5 (t) 1.2 ( w) -6.2 (e) 7.8 ( ) -5.3 (are ) ] TJ
+-1.4987 -1.7219 TD
+-0.0002 Tc
+0.2976 Tw
+[ (able ) -5.3 (to s) -9.6 (e) 7.9 (e ) -5.3 (which pro) -5.1 (p) 0.2 (o) -5.1 (s) 1 (itions can be ) -5.3 (expr) ] TJ
+19.0685 0 TD
+0 Tc
+0.2974 Tw
+[ (essed by) -10.2 ( ) -5.3 (the asse) 8.1 (r) -7.1 (tion ) -5.3 (o) -4.9 (f) -1.8 ( a p) -4.9 (a) 2.7 (rticular) -7.1 ( ) ] TJ
+-19.0685 -1.7272 TD
+-0.0002 Tc
+0.1382 Tw
+[ (st) 6.6 (atem) 7 (ent\056 ) 5.4 (T) -5.8 (h) 0.2 (ese propositions a) 7.9 (r) -2 (e t) 6.6 (h) -5.1 (e c) 7.9 (o) 0.2 (n) -10.4 (t) 6.6 (en) -5.1 (ts \050t) 6.6 (ru) -5.1 (t) 6.6 (h) 0.2 (s ) 5.4 (and\057o) -5.1 (r) -2 ( ) 5.4 (falsehoods) -9.6 (\054 ) 5.4 (according to) -5.1 ( ) ] TJ
+0 -1.7219 TD
+-0.0011 Tc
+0.2347 Tw
+[ (our ) -5.3 (a) 7 (s) -5.2 (su) -6 (m) 11.4 (p) -6 (t) -4.9 (i) 0.4 (on\051 tha) -3.7 (t) 5.7 ( ) -5.3 (a) 7 ( ) -10.6 (speak) -6 (er ge) -3.7 (ts) -5.2 ( to ass) -5.2 (e) 7 (rt\056) -6.2 ( N) -7 (o) 4.7 (w ) -5.3 (we are up to ) -5.3 (see wheth) -6 (e) 1.6 (r t) -4.9 (h) -0.7 (is) -5.2 ( ) ] TJ
+0 -1.7272 TD
+-0.0002 Tc
+0.0372 Tw
+[ (st) 6.6 (andpo) -5.1 (int h) -5.1 (e) 7.9 (lps ) 5.3 (us ) 5.3 (find) -5.1 (ing out ) 5.3 (if ) -5.3 (t) 6.6 (h) 0.2 (ere a) 7.9 (r) -7.3 (e con) -5.1 (tin) -5.1 (gent ) ] TJ
+/TT8 1 Tf
+21.9436 0 TD
+0.0072 Tc
+0.0245 Tw
+[ (a p) 7.6 (r) -2.2 (i) 14 (o) 7.6 (ri) ] TJ
+/TT2 1 Tf
+3.1249 0 TD
+0 Tc
+0.037 Tw
+[ ( truths ) -5.3 (and) -4.9 (\057) 1.5 (or nece) 8.1 (ssary) -4.9 ( ) ] TJ
+/TT8 1 Tf
+9.869 0 TD
+-0.0004 Tc
+0 Tw
+(a ) Tj
+-34.9376 -1.7272 TD
+0.0014 Tc
+[ (post) 8.2 (e) 4.1 (r) -8 (i) 8.2 (ori) ] TJ
+/TT2 1 Tf
+3.9434 0 TD
+-0.0002 Tc
+(\056 ) Tj
+/TT4 1 Tf
+13.1527 0 0 13.1527 106.02 252.1801 Tm
+0.0008 Tc
+0.0001 Tw
+(Which truth\077 ) Tj
+/TT2 1 Tf
+11.2898 0 0 11.2898 106.02 231.3 Tm
+-0.0001 Tc
+0.069 Tw
+[ (A) -6 (t) 6.7 ( ) -5.3 (t) 6.7 (h) 0.3 (is ) -5.3 (poin) -5 (t) 6.7 ( y) -10.3 (ou ) -5.3 (m) 12.4 (i) 1.4 (gh) -5 (t) 6.7 ( ) -10.6 (wonder w) -6 (h) 0.3 (et) 6.7 (her ) -5.3 (I stil) 6.7 (l n) -5 (e) -2.7 (ed to sa) 8 (y) -10.3 ( ) -5.3 (s) 6.4 (o) -10.3 (m) 12.4 (e) -2.7 (t) 6.7 (h) 0.3 (ing ) -10.6 (i) 6.7 (n) -5 ( ) -5.3 (order to show ) ] TJ
+0 -1.7272 TD
+-0.001 Tc
+0.1708 Tw
+[ (that) 5.8 ( th) -5.9 (ere ) -5.4 (is) -5.1 ( a trut) 5.8 (h ) -5.4 (th) -5.9 (at) -4.8 ( i) 5.8 (s) -5.1 ( con) -5.9 (t) 5.8 (ing) -5.9 (e) -3.6 (nt ) ] TJ
+/TT8 1 Tf
+16.2411 0 TD
+0.0019 Tc
+0.1679 Tw
+[ (a pri) 8.7 (o) 2.3 (ri) ] TJ
+/TT2 1 Tf
+3.2525 0 TD
+-0.0001 Tc
+0.1699 Tw
+[ (\056) -5.2 ( You ) -5.4 (m) 12.4 (i) 1.4 (gh) -5 (t) -3.9 ( e) 8 (v) 0.3 (en ) -5.4 (think) -5 ( that) 6.7 ( I a) -8 (m) 12.4 ( ) -5.4 (t) -3.9 (o) 0.3 (o) -5 ( ) ] TJ
+-19.4936 -1.7272 TD
+0 Tc
+0.021 Tw
+[ (st) 6.8 (ubb) -4.9 (orn i) 6.8 (n) 0.4 ( ) -5.4 (ai) -9.2 (m) 17.9 (i) -3.8 (ng) -4.9 ( at this sa) -7.9 (m) 12.5 (e) -2.6 ( spot ) -5.4 (once ag) -4.9 (ai) 6.8 (n\056 ) -5.4 (A) -5.9 (nd ) 5.3 (y) -10.2 (ou ) -5.4 (m) 17.9 (i) -3.8 (ght be ri) 6.8 (ght\054) -5.1 ( but not ) 5.3 (for) -7.1 ( ) 5.3 (the ) ] TJ
+0 -1.7219 TD
+-0.0003 Tc
+0.0532 Tw
+[ (proper rea) 7.8 (s) -4.4 (o) -5.2 (n) 0.1 (s\056 Yes\054 ) ] TJ
+/TT4 1 Tf
+8.567 0 TD
+0 Tc
+0 Tw
+(A) Tj
+/TT2 1 Tf
+0.7228 0 TD
+-0.0007 Tc
+0.0536 Tw
+[ ( clearl) 6.1 (y) -10.9 ( has propositions that ) 5.3 (ar) -7.8 (e ) ] TJ
+13.5254 0 TD
+-0.0001 Tc
+0.053 Tw
+[ (contin) -5 (ge) 8 (n) -5 (t) 6.7 (\056) -5.2 ( And\054 y) -10.3 (e) 2.6 (s\054 ) 5.3 (thanks ) 5.3 (to ) ] TJ
+-22.8152 -1.7219 TD
+-0.0003 Tc
+0.0213 Tw
+[ (the d) -5.2 (e) 7.8 (v) -5.2 (i) -4.1 (ce o) -5.2 (f) -2.1 ( ) -5.4 (the ) -5.4 (d) -5.2 (i) 1.2 (agon) -5.2 (al p) -5.2 (r) -2.1 (opositi) 6.5 (o) -5.2 (n\054) -5.4 ( it is) -4.4 ( ) ] TJ
+17.5698 0 TD
+-0.0006 Tc
+0.027 Tw
+[ (also ) -5.3 (clear t) 6.2 (h) -10.8 (at t) 6.2 (h) -5.5 (ere ) -5.3 (is ) -5.3 (a) 7.5 ( propo) -5.5 (sition th) -5.5 (at) 6.2 ( is ) ] TJ
+/TT8 1 Tf
+17.3625 0 TD
+0.0049 Tc
+0 Tw
+(a ) Tj
+-34.9323 -1.7219 TD
+0.003 Tc
+[ (pri) 9.8 (o) 3.4 (ri) ] TJ
+/TT2 1 Tf
+2.3331 0 TD
+-0.0009 Tc
+0.1495 Tw
+[ (\056 ) 5.3 (Bu) -5.8 (t\054 no\054 up ) 5.3 (to ) 5.3 (n) -5.8 (o) -0.5 (w) -6.8 ( ) 5.3 (w) -6.8 (e) 7.2 ( have no ) 5.3 (clue as to ) ] TJ
+/TT8 1 Tf
+18.7655 0 TD
+0.0036 Tc
+0.145 Tw
+[ (whi) 10.4 (c) 6.3 (h one) ] TJ
+/TT2 1 Tf
+4.2304 0 TD
+-0.0014 Tc
+0.15 Tw
+[ ( i) 5.4 (s) -5.5 ( th) -6.3 (e truth) -6.3 ( ) 5.3 (that is) -5.5 ( ) ] TJ
+/TT8 1 Tf
+8.3225 0 TD
+-0.001 Tc
+0 Tw
+[ (bo) -5.9 (th) ] TJ
+/TT2 1 Tf
+1.7857 0 TD
+0 Tc
+( ) Tj
+-35.4372 -1.7272 TD
+-0.0006 Tc
+0.0695 Tw
+[ (conting) -5.5 (e) 7.5 (n) -5.5 (t) 6.2 ( and ) ] TJ
+/TT8 1 Tf
+6.2871 0 TD
+0.0019 Tc
+0.0563 Tw
+[ (a pri) 8.7 (o) 2.3 (ri) ] TJ
+/TT2 1 Tf
+3.1409 0 TD
+-0.0001 Tc
+0.0583 Tw
+[ (\056 ) -5.4 (I a) -8 (m) 12.4 ( s) -9.5 (a) 8 (d ) -5.4 (to ) -5.4 (say) -10.3 ( that \050giv) -5 (en our ) -5.4 (a) 8 (s) -4.2 (su) -5 (m) 7.1 (p) -5 (tions\051 ) -5.4 (no such ) -10.7 (c) 8 (l) 1.4 (u) -5 (e) 2.6 ( ) -5.4 (w) -6 (i) 6.7 (ll ) ] TJ
+-9.4279 -1.7272 TD
+-0.0006 Tc
+0.0004 Tw
+[ (be offered\054 o) -5.5 (r) -2.4 ( so) -5.5 ( I ) 5.3 (will) 6.2 ( ) -5.3 (ar) -7.7 (gue\056) -5.7 ( ) ] TJ
+5.5484 36.8561 TD
+0 Tc
+0 Tw
+( ) Tj
+/TT8 1 Tf
+2.1205 -0.0053 TD
+(w) Tj
+7.5077 0 0 7.5077 200.16 509.64 Tm
+(1) Tj
+11.2898 0 0 11.2898 203.94 511.02 Tm
+0.9989 Tc
+( W) Tj
+7.5077 0 0 7.5077 227.46 509.64 Tm
+0 Tc
+(2) Tj
+11.2898 0 0 11.2898 231.18 511.02 Tm
+0.8342 Tc
+( w) Tj
+7.5077 0 0 7.5077 250.92 509.64 Tm
+0 Tc
+(3) Tj
+11.2898 0 0 11.2898 254.7 511.02 Tm
+( ) Tj
+-7.621 -1.1904 TD
+(w) Tj
+7.5077 0 0 7.5077 176.16 496.14 Tm
+(1) Tj
+11.2898 0 0 11.2898 179.94 497.58 Tm
+( ) Tj
+/TT2 1 Tf
+1.1214 0.0053 TD
+0.0003 Tc
+1.3919 Tw
+[ (T T ) 5.3 (T ) ] TJ
+ET
+187.26 508.14 0.42 0.41998 re
+f
+187.26 508.14 76.68 0.41998 re
+f
+187.26 495.06 0.42 13.08 re
+f
+212.64 495.06 0.48 13.08 re
+f
+238.08 495.06 0.42 13.08 re
+f
+263.46 495.06 0.48001 13.08 re
+f
+BT
+/TT8 1 Tf
+11.2898 0 0 11.2898 168.66 484.14 Tm
+0 Tc
+0 Tw
+(w) Tj
+7.5077 0 0 7.5077 176.16 482.7 Tm
+(2) Tj
+11.2898 0 0 11.2898 179.94 484.14 Tm
+( ) Tj
+/TT2 1 Tf
+1.1214 0.0053 TD
+0.0003 Tc
+1.3919 Tw
+[ (T T ) 5.3 (T ) ] TJ
+ET
+187.26 494.64 76.68 0.42001 re
+f
+187.26 481.62 0.42 13.02 re
+f
+212.64 481.62 0.48 13.02 re
+f
+238.08 481.62 0.42 13.02 re
+f
+263.46 481.62 0.48001 13.02 re
+f
+BT
+/TT8 1 Tf
+11.2898 0 0 11.2898 168.66 470.7 Tm
+0 Tc
+0 Tw
+(w) Tj
+7.5077 0 0 7.5077 176.16 469.26 Tm
+(3) Tj
+11.2898 0 0 11.2898 179.94 470.7 Tm
+( ) Tj
+/TT2 1 Tf
+1.1214 0.0053 TD
+0.0003 Tc
+1.3919 Tw
+[ (T T ) 5.3 (T ) ] TJ
+ET
+187.26 481.2 76.68 0.41998 re
+f
+187.26 467.7 0.42 13.5 re
+f
+187.26 467.7 25.38 0.41998 re
+f
+212.64 467.7 0.48 13.5 re
+f
+213.12 467.7 24.96 0.41998 re
+f
+238.08 467.7 0.42 13.5 re
+f
+238.5 467.7 24.96 0.41998 re
+f
+263.46 467.7 0.48001 13.5 re
+f
+263.46 467.7 0.48001 0.41998 re
+f
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 PHI\056G1\05602\0562 \055 Philosophy \055 First year Graduate \055 Male \055 NNS \050L1\072 Spanish\051 \055 Research Paper) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(4) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+31 0 obj
+<<
+/Length 13467
+>>
+stream
+q
+/GS1 gs
+BT
+/TT2 1 Tf
+11.2898 0 0 11.2898 106.02 35.76 Tm
+0 g
+0 Tc
+0 Tw
+( ) Tj
+34.9323 -0.0053 TD
+(5) Tj
+-33.4336 60.1603 TD
+-0.0008 Tc
+0.1388 Tw
+[ (We ) 5.4 (can see here ) 5.4 (th) -5.7 (at a part) 6 (icu) -5.7 (l) 0.7 (ar ) 5.4 (r) -7.9 (e) 1.9 (la) ] TJ
+15.7363 0 TD
+-0.0003 Tc
+0.1329 Tw
+[ (tion ho) -5.2 (ld) -5.2 (s between the diagon) -5.2 (al ) -5.4 (proposi) 6.5 (tion) -10.5 ( ) ] TJ
+-17.235 -1.7272 TD
+-0.0015 Tc
+0.0119 Tw
+[ (and th) -6.4 (e \050) ] TJ
+/TT8 1 Tf
+3.5182 0 TD
+-0.0008 Tc
+0.0112 Tw
+(a priori) Tj
+/TT2 1 Tf
+3.0877 0 TD
+0.0104 Tc
+0 Tw
+( \057) Tj
+/TT8 1 Tf
+0.5368 0 TD
+-0.0001 Tc
+0.0105 Tw
+(a posteriori) Tj
+/TT2 1 Tf
+4.7033 0 TD
+-0.0006 Tc
+0.011 Tw
+[ (\051 ty) -5.5 (pe ) 5.3 (o) -5.5 (f) -2.4 ( knowledge t) 6.2 (h) -5.5 (at ) -5.3 (th) -5.5 (e) 7.5 ( speaker has of the propositio) -5.5 (n) -5.5 ( ) ] TJ
+-11.846 -1.7219 TD
+-0.0008 Tc
+0.2344 Tw
+[ (ass) -4.9 (e) 1.9 (rted ) -5.3 (ac) -3.4 (c) -3.4 (o) -0.4 (rding to t) -4.6 (h) -0.4 (e con) -5.7 (t) 0.7 (ext\056 ) -5.3 (Which re) ] TJ
+18.7018 0 TD
+0.0003 Tc
+0.2386 Tw
+[ (la) 8.4 (tion ) 5.3 (this ) -5.4 (m) 12.8 (i) -8.9 (ght ) 5.3 (be is not) 7.1 ( clear ) 5.3 (at) 7.1 ( ) -5.3 (a) 8.4 (ll\056) -4.8 ( ) ] TJ
+-18.7018 -1.7272 TD
+0.0047 Tc
+-0.0049 Tw
+[ (St) 11.5 (a) 7.4 (l) 6.2 (na) 7.4 (ke) 12.8 (r ) -5.3 (p) 5.1 (u) 5.1 (t) 11.5 (s it) 11.5 ( t) 6.2 (h) -0.2 (i) 6.2 (s) 5.9 ( wa) 12.8 (y) -5.5 (  ) ] TJ
+12.7495 -1.7272 TD
+-0.0004 Tc
+0.1118 Tw
+[ (A) -6.3 (n) 0 ( a) 7.7 ( priori truth is ) -5.3 (a ) 5.3 (s) -9.8 (t) 1.1 (at) -4.2 (em) 12.1 (en) -5.3 (t ) -5.3 (t) 6.4 (h) 0 (at) -4.2 (\054 while perh) -5.3 (aps not) -4.2 ( ) ] TJ
+0 -1.1479 TD
+-0.0009 Tc
+0.0857 Tw
+[ (express) -5 (i) 0.6 (ng ) -5.3 (a n) -5.8 (e) 7.2 (cess) -5 (a) 7.2 (r) -8 (y) -5.8 ( proposition\054 expresses) -5 ( a) 7.2 ( tr) -8 (uth in) -5.8 ( ) ] TJ
+T*
+-0.0007 Tc
+0.1493 Tw
+[ (ev) -5.6 (ery) -10.9 ( context) 6.1 (\056) -5.8 ( Thi) 6.1 (s) -4.8 ( will be th) -5.6 (e ) -5.3 (ca) 7.4 (s) -10.1 (e) 2 ( if and only) -5.6 ( if the ) ] TJ
+0 -1.1533 TD
+-0.0002 Tc
+0.4039 Tw
+[ (diagon) -5.1 (al proposi) 6.6 (t) -4 (ion is n) -5.1 (e) 7.9 (cess) -9.6 (a) 7.9 (r) 3.3 (y) -10.4 (\056) 0 ( \133Stal) 6.6 (n) -5.1 (a) 7.9 (k) -5.1 (er\054) -5.3 ( 1) -5.1 (978\054 ) ] TJ
+0 -1.1479 TD
+-0.0009 Tc
+0.006 Tw
+[ (p\05683) -5.8 (\135\056  ) ] TJ
+0 -1.1533 TD
+0 Tc
+0 Tw
+( ) Tj
+-11.2508 -1.1479 TD
+-0.0006 Tc
+0.1279 Tw
+[ (If we ta) 7.5 (k) -5.5 (e) -3.2 ( ) -5.3 (Stal) 6.2 (n) -5.5 (a) 2.1 (k) -5.5 (e) 2.1 (r\222s clai) -9.8 (m) 11.9 ( to) -5.5 ( be ) -5.3 (m) 6.6 (e) 2.1 (r) -7.7 (e) 2.1 (ly) -10.8 ( a) 7.5 (b) -0.2 (o) -5.5 (u) -0.2 (t) 6.2 ( senten) -5.5 (c) 7.5 (e) 2.1 (s) -10 ( \226 i) 6.2 (\056) -5.7 (e\056 ) -5.3 (about ) -5.3 (things ) -5.3 (l) 6.2 (i) 0.9 (k) -5.5 (e) -3.2 ( ) ] TJ
+-1.4987 -1.7219 TD
+0.0004 Tc
+0.1429 Tw
+[ (\221The stand) -4.5 (a) -2.2 (rd ) -5.3 (m) 12.9 (e) -2.2 (te) 8.5 (r ) -10.6 (i) 7.2 (s) -3.7 ( one ) -10.6 (m) 12.9 (e) -2.2 (ter ) -5.3 (long\222 \226 ) -5.3 (t) 7.2 (h) 0.8 (en) -4.5 ( ) ] TJ
+19.8338 0 TD
+-0.0004 Tc
+0.149 Tw
+[ (i) 6.4 (t) 1.1 ( is t) 6.4 (r) -7.5 (i) 6.4 (v) -5.3 (ially) -5.3 ( ) 5.3 (true ) 5.3 (that there) 7.7 ( ) -5.3 (i) 6.4 (s) -4.5 ( ) 5.3 (a tr) -7.5 (uth ) ] TJ
+-19.8338 -1.7272 TD
+-0.0002 Tc
+0.0425 Tw
+[ (w) -6.1 (h) 0.2 (i) 6.6 (c) 2.5 (h is bo) -5.1 (th conti) 6.6 (n) 0.2 (g) -5.1 (e) 2.5 (nt a) 7.9 (n) -5.1 (d ) ] TJ
+/TT8 1 Tf
+12.0002 0 TD
+0.0005 Tc
+0.0418 Tw
+(a priori) Tj
+/TT2 1 Tf
+3.1249 0 TD
+-0.0023 Tc
+0.0446 Tw
+[ (\056 Bu) -7.2 (t ) 5.3 (th) -7.2 (is ju) -7.2 (s) -6.4 (t) -0.8 ( ) -5.3 (m) 10.2 (e) -4.9 (an) -7.2 (s th) -7.2 (a) -4.9 (t) -0.8 ( ) 5.3 (th) -7.2 (e ) 5.3 (s) -11.7 (e) 0.4 (nten) -7.2 (c) -4.9 (e) 0.4 ( can expr) -9.4 (ess) -11.7 ( ) ] TJ
+-15.1251 -1.7272 TD
+0 Tc
+0.0157 Tw
+[ (conting) -4.9 (e) 8.1 (n) -4.9 (t) 1.5 ( and ) ] TJ
+/TT8 1 Tf
+6.1967 0 TD
+-0.0002 Tc
+0.0159 Tw
+(a priori ) Tj
+/TT2 1 Tf
+3.3694 0 TD
+-0.0011 Tc
+0.0168 Tw
+[ (c) -3.7 (onte) 7 (n) -6 (ts) -5.2 (\056 ) 5.3 (Wh) -6 (at) -4.9 (ev) -6 (e) 7 (r) -2.9 ( is) -5.2 ( con) -6 (ting) -6 (e) 1.6 (nt ) -5.3 (and ) -5.3 (what) -4.9 (ever is ) ] TJ
+/TT8 1 Tf
+19.9985 0 TD
+0.0001 Tc
+0.0156 Tw
+[ (a pri) 6.9 (o) -4.8 (ri) ] TJ
+/TT2 1 Tf
+3.0984 0 TD
+0.0035 Tc
+0.0122 Tw
+[ ( wo) 3.9 (ul) 5 (d ) ] TJ
+-32.663 -1.7166 TD
+-0.0005 Tc
+0.1225 Tw
+[ (not be ) 5.3 (th) -5.4 (e ) 5.3 (truth \050i) 6.3 (\056e\056 th) -5.4 (e) 7.6 ( sen) -5.4 (t) 1 (en) -5.4 (ce) 7.6 (\051 but t) 6.3 (h) -5.4 (e con) -5.4 (t) 1 (ent of ) 5.3 (th) -5.4 (e t) 6.3 (r) -7.6 (uth \050whatev) -5.4 (e) 7.6 (r) -7.6 ( ) 5.3 (that) 6.3 ( ) -10.6 (m) 12 (eans\051\056 ) ] TJ
+0 -1.7272 TD
+-0.001 Tc
+0.0433 Tw
+[ (Y) -6.9 (ou m) 11.5 (i) -4.8 (ght then argue ) -5.3 (th) -5.9 (a) 7.1 (t) 0.5 ( ) -5.3 (it i) 5.8 (s) -5.1 ( ) 5.3 (no) -5.9 (t the sen) -5.9 (t) -4.8 (en) -5.9 (c) 7.1 (e) 1.7 ( ) -5.3 (but ) 5.3 (th) -5.9 (e ) 5.3 (w) -6.9 (hole) 7.1 ( of ) ] TJ
+/TT4 1 Tf
+26.5035 0 TD
+0 Tc
+0 Tw
+(A) Tj
+/TT2 1 Tf
+0.7228 0 TD
+-0.0007 Tc
+0.043 Tw
+[ ( which ) 5.3 (is con) -5.6 (ting) -5.6 (e) 2 (n) -5.6 (t) -4.5 ( ) ] TJ
+-27.2262 -1.7219 TD
+-0.001 Tc
+0 Tw
+(and ) Tj
+/TT8 1 Tf
+1.706 0 TD
+0.0005 Tc
+0.0152 Tw
+(a priori) Tj
+/TT2 1 Tf
+3.093 0 TD
+-0.001 Tc
+0.0167 Tw
+[ (\056) -6.1 ( This canno) -5.9 (t) -4.8 ( ) 5.3 (be the truth ) -5.3 (in quest) -4.8 (ion\054 for several re) -3.6 (asons) -5.1 (\056 First\054 according t) -4.8 (o) -5.9 ( ) ] TJ
+-4.799 -1.7272 TD
+-0.0018 Tc
+0 Tw
+[ (ten) -6.7 (e) 0.9 (t ) ] TJ
+/TT4 1 Tf
+2.2108 0 TD
+0.0002 Tc
+(\050i\051) Tj
+/TT2 1 Tf
+0.946 0 TD
+-0.0005 Tc
+0.0215 Tw
+[ ( when uttering \0501\051 I e) 7.6 (x) -5.4 (pre) 7.6 (s) -4.6 (sed so) -5.4 (m) 12 (e) -3.1 ( ) -5.4 (content or oth) -5.4 (e) 7.6 (r a) -8.4 (m) 12 (ong ) -5.4 (the) 7.6 ( o) -5.4 (n) -0.1 (es ) 5.3 (th) -5.4 (at ) ] TJ
+/TT4 1 Tf
+29.6869 0 TD
+0 Tc
+0 Tw
+(A) Tj
+/TT2 1 Tf
+0.7281 0 TD
+0.0026 Tc
+0.0184 Tw
+[ ( has\054) -2.5 ( ) ] TJ
+/TT8 1 Tf
+-33.5718 -1.7272 TD
+-0.0007 Tc
+0.0483 Tw
+[ (but not) 6.1 ( all) ] TJ
+/TT2 1 Tf
+4.1932 0 TD
+-0.0005 Tc
+0.0481 Tw
+[ ( ) 5.3 (o) -5.4 (f) -2.3 ( t) 6.3 (h) -0.1 (e) -8.4 (m) 12 (\056 Wh) -5.4 (at ) 5.3 (I) -7.6 ( ) 5.3 (expressed is a) 7.6 ( proposi) 6.3 (t) -4.3 (ion\054 not) 6.3 ( five\054 ) 5.3 (or te) 7.6 (n\054 or a) 7.6 ( thousand) -5.4 ( of ) ] TJ
+-4.1932 -1.7219 TD
+0.0534 Tw
+[ (the) -8.4 (m) 12 (\056 ) 5.3 (Secon) -5.4 (d) -0.1 (\054 a) 7.6 (c) -3.1 (cording) -5.4 ( t) 6.3 (o) -0.1 ( te) 7.6 (n) -5.4 (e) 2.2 (t ) ] TJ
+/TT4 1 Tf
+13.5892 0 TD
+-0.0001 Tc
+0 Tw
+[ (\050iv\051) -7.2 (\054) ] TJ
+/TT2 1 Tf
+1.7006 0 TD
+0.0005 Tc
+0.0524 Tw
+[ ( i) 7.3 (f) -1.3 ( I) 4 ( ) 5.3 (were) 8.6 ( to ) 5.3 (do thi) 7.3 (s) -3.6 ( ) 5.3 (\050i\056e\056 ) 5.3 (assert) 7.3 ( ) ] TJ
+/TT4 1 Tf
+12.622 0 TD
+0 Tc
+0 Tw
+(A) Tj
+/TT2 1 Tf
+0.7228 0 TD
+0.0001 Tc
+0.0475 Tw
+[ ( ) -5.3 (and not just) 6.9 ( ) -5.3 (one ) ] TJ
+-28.6346 -1.7272 TD
+-0.0004 Tc
+0.0746 Tw
+[ (propo) -5.3 (sit) 6.4 (i) 1.1 (on) -5.3 ( ) -5.3 (a) -8.3 (m) 12.1 (ong) -5.3 ( th) -5.3 (e set\051 ) -5.3 (th) -5.3 (en ) -10.6 (m) 17.5 (y) -10.6 ( ) -5.3 (assertion wo) -5.3 (uld b) -5.3 (e) 2.3 ( us) -9.8 (eless\056 I w) -6.3 (ould ) -5.3 (not b) -5.3 (e) 2.3 ( ) -5.3 (a) 7.7 (b) -5.3 (le ) -5.3 (to) -5.3 ( ) ] TJ
+0 -1.7219 TD
+-0.0006 Tc
+0 Tw
+(reduce ) Tj
+/TT8 1 Tf
+2.9336 0 TD
+0.0026 Tc
+(CS) Tj
+/TT2 1 Tf
+1.1692 0 TD
+-0.0005 Tc
+0.0215 Tw
+[ ( and\054 hen) -5.4 (c) -3.1 (e\054 ) 5.3 (to co) -10.7 (mm) 17.4 (u) -5.4 (n) -10.7 (icate so) -10.7 (m) 6.7 (e) -3.1 (th) -5.4 (in) -5.4 (g ) 5.3 (at ) -5.4 (a) 7.6 (l) -4.3 (l\056 My) -10.7 ( ) 5.3 (asse) 7.6 (rtion wo) -5.4 (uld not h) -5.4 (e) 7.6 (lp ) -5.4 (to) -5.4 ( ) ] TJ
+-4.1028 -1.7272 TD
+-0.0006 Tc
+0.011 Tw
+[ (carve logical) 6.2 ( space ) -5.3 (in a ) -5.3 (w) -6.5 (a) 12.8 (y) -10.8 ( that ) -5.3 (it h) -5.5 (e) 2.1 (l) 6.2 (p) -5.5 (s us ) -5.3 (lo) -5.5 (cating th) -5.5 (e actu) -5.5 (al w) -6.5 (o) -0.2 (rl) 6.2 (d\056) -5.7 ( ) 5.3 (P) -7.8 (r) 2.9 (oposi) 6.2 (t) -4.4 (ions see) -13.8 (m) 6.6 ( ) ] TJ
+T*
+-0.0011 Tc
+0.2081 Tw
+[ (to be) 7 ( ) -5.4 (a ) 5.3 (g) -6 (o) -0.7 (o) -6 (d) -0.7 ( ) 5.3 (cand) -6 (i) 0.4 (d) -6 (a) 1.6 (te) -3.7 ( for ) 10.6 (w) -7 (h) -0.7 (ate) 7 (v) -6 (er is e) 7 (xpr) -8.2 (es) -5.2 (sed in our utteran) -6 (c) -3.7 (e) 7 (s) -5.2 (\056) ] TJ
+7.5077 0 0 7.5077 431.7 311.16 Tm
+0 Tc
+0 Tw
+(3) Tj
+11.2898 0 0 11.2898 435.48 305.94 Tm
+-0.0017 Tc
+0.2034 Tw
+[ ( Wh) 4 (y) -11.9 ( ) -5.3 (not ) -5.4 (t) 5.1 (a) -4.3 (k) -6.6 (e) -4.3 ( ) ] TJ
+-29.182 -1.7219 TD
+-0.0001 Tc
+-0.0001 Tw
+[ (propo) -5 (sit) 6.7 (i) 1.4 (ons) -9.5 ( t) 6.7 (o) -5 ( be) 8 ( ) -5.3 (th) -5 (e tru) -5 (t) 1.4 (h i) 6.7 (n) -5 ( qu) -5 (e) 8 (s) -4.2 (ti) 6.7 (o) -5 (n) 0.3 (\077 ) ] TJ
+1.4987 -1.7272 TD
+0 Tc
+0.2017 Tw
+[ (This option\054) -5.1 ( however\054 is ) 5.3 (also prob) -4.9 (lem) 12.5 (a) -2.6 (tic) 8.1 (\056 W) -7.4 (e) -2.6 ( ) 5.3 (should ) 5.3 (b) -4.9 (e) 2.7 ( ) -5.4 (ca) 8.1 (reful no) -4.9 (t to ) -10.7 (m) 17.9 (i) -3.8 (stak) -4.9 (e ) ] TJ
+-1.4987 -1.7219 TD
+-0.0003 Tc
+0.1117 Tw
+[ (S) -7.5 (t) 6.5 (aln) -5.2 (a) 2.4 (k) -5.2 (e) 7.8 (r\222) -7.4 (s ) 5.3 (c) 7.8 (l) -4.1 (ai) -9.5 (m) 17.6 ( ) -5.3 (abov) -5.2 (e\056 It) 6.5 ( ) -5.3 (m) 12.2 (i) -4.1 (ght ) 5.3 (b) -5.2 (e) 2.4 ( ta) 7.8 (k) -5.2 (e) 2.4 (n to say) -10.5 ( ) 5.3 (that t) 6.5 (h) -5.2 (e diagon) -5.2 (al proposi) 6.5 (t) -4.1 (ion is t) 6.5 (h) 0.1 (a) -8.2 (t) -4.1 ( ) ] TJ
+0 -1.7272 TD
+-0.0008 Tc
+0.0431 Tw
+[ (w) -6.7 (h) -0.4 (i) 6 (c) 1.9 (h constit) 6 (u) -5.7 (tes ) -5.3 (the) 7.3 ( ) -5.3 (a priori t) 6 (r) -2.6 (uth\056 ) -5.3 (But ) 5.3 (th) -5.7 (is) ] TJ
+17.6601 0 TD
+-0.0002 Tc
+0.0425 Tw
+[ ( i) 6.6 (s) -4.3 ( a ) -5.3 (m) 12.3 (i) 1.3 (stak) -5.1 (e\054 sin) -5.1 (ce th) -5.1 (e) 7.9 ( dia) 7.9 (g) -5.1 (o) -5.1 (n) 0.2 (a) 7.9 (l) 1.3 ( proposition ) ] TJ
+-17.6601 -1.7272 TD
+0.0006 Tc
+0.0258 Tw
+[ (is nece) 8.7 (ssa) 3.3 (r) -1.2 (y) -9.6 ( ) 5.4 (a) 3.3 (nd the ) ] TJ
+/TT8 1 Tf
+8.3225 0 TD
+-0.0009 Tc
+0.0219 Tw
+[ (a p) -5.8 (r) -5 (iori) ] TJ
+/TT2 1 Tf
+3.109 0 TD
+-0.0001 Tc
+0.0265 Tw
+[ ( ) -5.3 (t) 6.7 (r) -1.9 (uth \226 ) -5.3 (at) 6.7 ( least in our) -7.2 ( case \226 i) 6.7 (s) -4.2 ( ) -5.3 (c) 8 (o) -5 (nting) -5 (e) 2.6 (nt\056) -5.2 ( ) 5.4 (It see) -8 (m) 12.4 (s ) -5.3 (t) 6.7 (h) 0.3 (at w) -6 (e) -2.7 ( ) ] TJ
+-11.4315 -1.7219 TD
+-0.0004 Tc
+0.0214 Tw
+[ (should ) 5.3 (tak) -5.3 (e) 2.3 ( claim) 12.1 ( ) -5.4 (th) -5.3 (at) 6.4 ( ) -5.4 (th) -5.3 (e ) 5.3 (p) -5.3 (r) -2.2 (opositi) 6.4 (o) -5.3 (n that cons) ] TJ
+19.0578 0 TD
+0.0213 Tw
+[ (titute) 7.8 (s an a pr) -7.4 (iori) 6.5 ( truth) -5.2 ( i) 6.5 (s) -4.4 ( ) -5.4 (not) 6.5 ( a n) -5.2 (e) -2.9 (cessary) -5.2 ( ) ] TJ
+-19.0578 -1.7272 TD
+0 Tw
+[ (propo) -5.3 (sit) 6.4 (i) 1.1 (on\054 ) ] TJ
+/TT8 1 Tf
+5.1072 0 TD
+(but) Tj
+/TT2 1 Tf
+1.2755 0 TD
+-0.0008 Tc
+0.0484 Tw
+[ ( th) -5.7 (at ) -5.3 (in o) -5.7 (r) -2.6 (der f) -7.9 (o) -0.4 (r it to) -5.7 ( be ) ] TJ
+/TT8 1 Tf
+10.2304 0 TD
+0.0007 Tc
+0.0469 Tw
+[ (a pri) 7.5 (o) 1.1 (r) -8.7 (i) ] TJ
+/TT2 1 Tf
+3.1303 0 TD
+-0.0008 Tc
+0.0537 Tw
+[ (\054) -5.9 ( the ) 5.3 (d) -5.7 (i) -4.6 (a) 7.3 (g) -5.7 (on) -5.7 (al propositio) -5.7 (n ) 5.3 (of t) 6 (h) -0.4 (e ) ] TJ
+/TT8 1 Tf
+13.3341 0 TD
+0.0003 Tc
+0 Tw
+(PC) Tj
+/TT2 1 Tf
+1.2808 0 TD
+-0.001 Tc
+0.0539 Tw
+[ ( in ) ] TJ
+-34.3583 -1.7219 TD
+-0.0005 Tc
+0.1544 Tw
+[ (w) -6.4 (h) -0.1 (i) 6.3 (c) 2.2 (h su) -5.4 (ch proposit) 6.3 (ion is ) 5.3 (represen) -5.4 (ted ) -5.3 (m) 12 (u) -0.1 (s) -9.9 (t) 1 ( ) 5.3 (b) -5.4 (e) 2.2 ( a ) 5.3 (n) -5.4 (e) -3.1 (c) 7.6 (e) 2.2 (ssary) -5.4 ( ) 5.3 (one alt) 6.3 (h) -5.4 (ou) -5.4 (gh ) ] TJ
+/TT8 1 Tf
+30.6807 0 TD
+0.0005 Tc
+0.1534 Tw
+[ (not the on) -4.4 (e ) ] TJ
+-30.6807 -1.7272 TD
+-0.0005 Tc
+0.0003 Tw
+[ (which constit) 6.3 (u) -5.4 (tes th) -5.4 (e a p) -5.4 (r) -4.6 (i) 6.3 (o) -0.1 (ri t) 6.3 (r) -4.6 (u) -5.4 (t) 6.3 (h) ] TJ
+/TT2 1 Tf
+13.9134 0 TD
+-0.0009 Tc
+0.006 Tw
+[ (\056 This) -5 ( ) 5.3 (seem) 11.6 (s) -5 ( like a ) 5.3 (n) -5.8 (i) 0.6 (ce in) -5.8 (te) 7.2 (rp) -5.8 (ret) -4.7 (a) 1.8 (tion\054 bu) -5.8 (t) 5.9 ( ) 5.3 (i) -4.7 (t) 0.6 ( ) 5.3 (is ) 5.3 (no) -5.8 (t\056  ) ] TJ
+-13.9134 -3.5395 TD
+0 Tc
+0 Tw
+(                                                ) Tj
+ET
+106.02 93.12 135.48 0.53998 re
+f
+BT
+11.2898 0 0 11.2898 241.5 90.72 Tm
+( ) Tj
+6.0965 0 0 6.0965 106.02 83.76 Tm
+(3) Tj
+9.427 0 0 9.427 109.08 79.5601 Tm
+0.0012 Tc
+0.0607 Tw
+[ ( I a) 5.9 (m) 2.5 ( ) 6.4 (awar) 9.6 (e that L) 7.4 (i) -1 (n) 4.8 (a) -0.5 ( Ja) 5.9 (nss) 8.5 (o) 4.8 (n ) 6.4 (tries ) 6.4 (t) 5.4 (o) -1.6 ( de) 5.9 (fe) 12.3 (nd) 4.8 ( an ) 6.4 (i) 5.3 (d) -1.6 (ea s) 8.5 (o) 4.8 (m) 8.9 (e) -0.5 (wha) 5.9 (t) -7.4 ( ) 6.4 (sim) 15.3 (i) -7.4 (la) 12.2 (r\056 I) 9.6 ( a) -6.8 (m) 8.9 ( unawa) 5.9 (re\054) 9.3 ( howeve) 5.9 (r) 3.2 (\054 o) 4.8 (f) 3.2 ( ) 6.4 (h) -8 (e) 5.9 (r ) ] TJ
+-0.3246 -1.1456 TD
+0.0015 Tc
+-0.0096 Tw
+[ (argum) 9.2 (en) 5.1 (ts\056 Thus\054 ) -6.3 (no) 5.1 (th) 5.1 (i) 5.7 (ng ) -6.3 (o) 5.1 (f) -2.8 ( w) 4.5 (h) -1.3 (at ) -6.3 (I) 9.9 ( ) -6.3 (her) 9.9 (e) -0.2 ( sa) 6.2 (y ) -6.3 (shou) 5.1 (l) 5.6 (d) -1.3 ( ) -6.3 (be ta) 6.2 (ke) 6.2 (n t) -7.1 (o) -1.3 ( ad) 5.1 (dre) 6.2 (s) -4 (s he) 6.2 (r posi) 5.7 (t) -0.7 (i) 5.7 (o) 5.1 (n\056 ) ] TJ
+ET
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 PHI\056G1\05602\0562 \055 Philosophy \055 First year Graduate \055 Male \055 NNS \050L1\072 Spanish\051 \055 Research Paper) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(5) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+32 0 obj
+<<
+/Length 13011
+>>
+stream
+q
+/GS1 gs
+BT
+/TT2 1 Tf
+11.2898 0 0 11.2898 106.02 35.76 Tm
+0 g
+0 Tc
+0 Tw
+( ) Tj
+34.9323 -0.0053 TD
+(6) Tj
+-33.4336 60.1603 TD
+-0.0009 Tc
+0.1548 Tw
+[ (We hav) -5.8 (e) 1.8 ( to) -5.8 ( ask now ) ] TJ
+/TT8 1 Tf
+9.1197 0 TD
+0.0065 Tc
+0 Tw
+[ (wh) 6.9 (i) 13.3 (c) 9.2 (h ) ] TJ
+/TT2 1 Tf
+2.7901 0 TD
+0.0002 Tc
+0.1537 Tw
+[ (p) -4.7 (r) -1.6 (opositi) 7 (o) 0.6 (n) -4.7 ( i) 7 (s) -3.9 ( the a ) 5.3 (prior) -6.9 (i) 1.7 ( truth\056 As ) 5.3 (we ) 5.3 (h) -4.7 (a) 2.9 (v) -4.7 (e) 2.9 ( ) 5.3 (s) -9.2 (e) 8.3 (en\054) -4.9 ( ) 5.3 (it ) ] TJ
+-13.4085 -1.7272 TD
+-0.0003 Tc
+0.016 Tw
+[ (cannot b) -5.2 (e) 2.4 ( ) -5.3 (th) -5.2 (e d) -5.2 (i) -4.1 (agonal o) -5.2 (n) -5.2 (e) 7.8 (\054 ) -5.3 (bu) -5.2 (t ) -10.7 (it ) -5.3 (cannot b) -5.2 (e) 2.4 ( ) -10.7 (ei) ] TJ
+18.5742 0 TD
+-0.0008 Tc
+0.0218 Tw
+[ (th) -5.7 (er ) -5.4 (a) 7.3 (n) -5.7 (y) -11 ( ) 5.3 (of the horiz) 7.3 (o) -5.7 (n) -5.7 (t) 0.7 (al p) -5.7 (r) -2.6 (opositi) 6 (o) -5.7 (n) -0.4 (s f) -7.9 (o) -0.4 (r) -7.9 ( ) ] TJ
+-18.5742 -1.7219 TD
+-0.0003 Tc
+0.2286 Tw
+[ (one ) -10.6 (m) 12.2 (a) -2.9 (in r) -7.4 (e) -2.9 (ason\072 non) -5.2 (e o) -5.2 (f) -2.1 ( these p) -5.2 (r) -2.1 (oposi) 6.5 (tions ) -10.6 (e) 7.8 (x) -5.2 (pre) 7.8 (sses ) -5.3 (a ) -5.3 (trut) 6.5 (h ) -10.6 (i) 6.5 (n) -5.2 ( ) ] TJ
+/TT8 1 Tf
+28.337 0 TD
+-0.0025 Tc
+0.2414 Tw
+[ (e) -5.1 (very c) 5.6 (o) -2.1 (n) -7.4 (t) -6.3 (ex) -5.1 (t) ] TJ
+/TT2 1 Tf
+5.5271 0 TD
+0.0051 Tc
+0.2285 Tw
+[ (\054 a) 7.8 (s) 1 ( ) ] TJ
+-33.8641 -1.7272 TD
+-0.0003 Tc
+0.303 Tw
+[ (S) -7.5 (t) 6.5 (aln) -5.2 (a) 2.4 (k) -5.2 (e) 7.8 (r th) -5.2 (i) 6.5 (n) -5.2 (ks t) 6.5 (h) -5.2 (e ) -5.3 (a) 7.8 ( ) -5.3 (priori) 6.5 ( truth) -5.2 ( ) 5.3 (does\056 Of course\054 ) -5.3 (i) 6.5 (f) -2.1 ( ) -5.3 (we ) 5.3 (tak) -5.2 (e) 2.4 ( all th) -5.2 (e) 7.8 ( horizo) -5.2 (n) 0.1 (t) 6.5 (a) -8.2 (l ) ] TJ
+T*
+-0.0008 Tc
+0.1441 Tw
+[ (propo) -5.7 (sit) 6 (i) 0.7 (ons) -10.2 ( toget) 6 (h) -5.7 (er ) -5.3 (we cou) -5.7 (l) 0.7 (d sa) 7.3 (y) -5.7 ( ) -5.3 (t) 6 (h) -5.7 (a) 7.3 (t) 0.7 ( ) -5.3 (ther) -7.9 (e is at least one truth exp) -5.7 (r) -2.6 (essed in ev) -5.7 (ery) -11 ( ) ] TJ
+0 -1.7219 TD
+-0.0005 Tc
+0.1172 Tw
+[ (contex) -5.4 (t) 6.3 (\056) -0.3 ( Bu) -5.4 (t t) 6.3 (h) -5.4 (en we w) -6.4 (ould\054 ) -5.3 (again\054) -5.6 ( be conflicting with ) ] TJ
+/TT4 1 Tf
+23.0384 0 TD
+0.0071 Tc
+0 Tw
+[ (\050i) 13.9 (v) 7.5 (\051) ] TJ
+/TT2 1 Tf
+1.4509 0 TD
+0.0006 Tc
+0.1161 Tw
+[ (\056 Yo) -4.3 (u ) 5.3 (can see) 8.7 ( w) -5.3 (h) 6.3 (y) -9.6 ( ) 5.3 (I think) 6.3 ( ) ] TJ
+-24.4893 -1.7272 TD
+-0.0006 Tc
+0.0057 Tw
+[ (ther) -7.7 (e ) 5.3 (i) 6.2 (s) -4.7 ( a) 7.5 ( problem) 11.9 ( h) -5.5 (e) 2.1 (re\056) -5.7 ( ) ] TJ
+1.4987 -1.7219 TD
+0 Tc
+0.0423 Tw
+[ (Y) -5.9 (ou ) -5.3 (m) 17.9 (i) -3.8 (ght ) -5.3 (wonder whether ) -5.3 (m) 17.9 (y) -10.2 ( a) 8.1 (r) -1.8 (g) -4.9 (u) -10.2 (m) 12.5 (e) 2.7 (n) -4.9 (t) 1.5 ( is ) 5.3 (flawed\056 I ) 5.3 (did ) -5.3 (m) 12.5 (y) -4.9 (sel) 6.8 (f) -1.8 (\054 but I don\222t now\056) 5.5 ( I) -7.1 ( ) ] TJ
+-1.4987 -1.7272 TD
+-0.0005 Tc
+0.1172 Tw
+[ (hav) -5.4 (e) 2.2 ( a) 7.6 ( way) -5.4 ( ) 5.3 (to ) 5.3 (solve this part) 6.3 (icula) 7.6 (r) -7.6 ( ) 5.3 (disagr) -7.6 (ee) -8.4 (m) 6.7 (e) 2.2 (nt about ) -5.3 (m) 17.4 (y) -10.7 ( argu) -5.4 (m) 12 (e) 2.2 (n) -5.4 (t) 6.3 (\056 W) -8 (h) 5.2 (y) -10.7 ( not) 6.3 ( take ) -5.3 (a ) ] TJ
+0 -1.7219 TD
+-0.0001 Tc
+0.0211 Tw
+[ (look ) -5.4 (at th) -5 (e o) -5 (t) 6.7 (her ) -5.4 (inter) -7.2 (e) 2.6 (sting ca) 8 (se) 8 (\054) -5.2 ( th) -5 (at of n) ] TJ
+16.9746 0 TD
+-0.0005 Tc
+0.0215 Tw
+[ (ecessar) -7.6 (y) -5.4 ( and a posteriori ) -5.4 (t) 6.3 (r) -2.3 (u) -5.4 (t) 6.3 (hs) -9.9 (\077 A) -6.4 (c) 7.6 (cording to) -5.4 ( ) ] TJ
+-16.9746 -1.7272 TD
+-0.0012 Tc
+0.001 Tw
+[ (K) -7.1 (r) -3 (ipk) -6.1 (e) 6.9 (\054 s) -5.3 (t) 0.3 (at) -5 (e) -3.8 (m) 6 (en) -6.1 (t \0502\051 c) -3.8 (a) 1.5 (n) -6.1 ( express ) -5.3 (suc) -3.8 (h) -0.8 ( a tru) -6.1 (t) 5.6 (h\056) -6.3 ( ) ] TJ
+1.4987 -1.7272 TD
+0.0034 Tc
+0 Tw
+(\0502\051) Tj
+/TT12 1 Tf
+1.1692 0 TD
+0 Tc
+( ) Tj
+/TT2 1 Tf
+0.3348 0 TD
+-0.0004 Tc
+0.0002 Tw
+[ (Gold has ato) -5.3 (m) 6.8 (ic nu) -10.6 (m) 12.1 (b) -5.3 (er ) -5.3 (79\056 ) ] TJ
+-1.504 -1.7166 TD
+-0.0002 Tc
+0.1647 Tw
+[ (If\054) -5.3 ( sa) 7.9 (y) -10.4 (\054) 0 ( a fam) 12.3 (o) -10.4 (us ch) -5.1 (e) -8.1 (m) 12.3 (ist) 6.6 ( in) -5.1 ( th) -5.1 (e 19) -5.1 (50\222s\054 a) 7.9 (s) -4.3 (serted \0502\051 while talk) -5.1 (ing ) -5.3 (to ) -5.3 (one of h) -5.1 (e) 2.5 (r) -7.3 ( ) ] TJ
+-1.4987 -1.7272 TD
+-0.0005 Tc
+0.08 Tw
+[ (colleagu) -5.4 (e) 2.2 (s \226) -5.4 ( she just fou) -5.4 (nd out abou) -5.4 (t th) -5.4 (e ch) -5.4 (em) 12 (ic) -8.4 (a) 7.6 (l) 1 ( s) -9.9 (t) 6.3 (ructure ) -5.3 (of gold \226 she would hav) -5.4 (e) -3.1 ( ) ] TJ
+0 -1.7219 TD
+-0.0004 Tc
+0.0693 Tw
+[ (utte) 7.7 (r) -7.5 (e) 7.7 (d ) -5.3 (\050i) 6.4 (f ) -10.6 (a ) -5.3 (t) 6.4 (r) -2.2 (uth\051 a n) -5.3 (e) 2.3 (cessa) 7.7 (r) -2.2 (y) -10.6 ( ) -5.3 (t) 6.4 (r) -2.2 (uth for two reason) -5.3 (s\056 O) -6.3 (n) 0 (e) 7.7 (\054) -0.2 ( ) -5.3 (she w) -6.3 (ould hav) -5.3 (e) 7.7 ( ) -5.3 (used ) -5.3 (a rigid) -5.3 ( ) ] TJ
+0 -1.7272 TD
+0.218 Tw
+[ (design) -5.2 (ator\054 a nat) 6.5 (u) 0.1 (ral ) 5.3 (kind te) 7.8 (r) -12.7 (m) 12.2 ( su) -5.2 (ch ) 5.3 (as ) 5.3 (\221) ] TJ
+17.4954 0 TD
+0.0002 Tc
+0.2175 Tw
+[ (gold\222 t) 7 (h) 0.6 (at ) 5.3 (w) -5.7 (ould) -4.7 ( ) 5.3 (refer t) 7 (o) 0.6 ( all ) 5.3 (and only) -10 ( ) 5.3 (the ) ] TJ
+-17.4954 -1.7272 TD
+-0.0005 Tc
+0.0853 Tw
+[ (instance) 7.6 (s) -9.9 ( of gold) -5.4 ( in) -5.4 ( ev) -5.4 (ery) -10.7 ( po) -5.4 (ssible ) -5.3 (world w) -6.4 (h) -0.1 (e) 7.6 (r) -2.3 (e suc) 7.6 (h) -5.4 ( ) -5.3 (natural k) -5.4 (i) 6.3 (n) -5.4 (d) -0.1 ( h) -5.4 (a) 2.2 (s ) -5.3 (instan) -5.4 (ces\056) -5.6 ( Tw) -6.4 (o\054 ) ] TJ
+0 -1.7219 TD
+-0.0024 Tc
+0.1988 Tw
+[ (s) -6.5 (h) -2 (e) 5.7 ( w) -8.3 (ould) -7.3 ( ) 5.3 (hav) -7.3 (e) 0.3 ( as) -6.5 (crib) -7.3 (ed an ) -5.3 (e) 5.7 (s) -6.5 (sen) -7.3 (tial prop) -7.3 (erty) -12.6 (\072 ) ] TJ
+/TT8 1 Tf
+20.2111 0 TD
+-0.0002 Tc
+0.1966 Tw
+[ (having atom) -6.1 (ic) 7.9 ( num) -6.1 (ber 79\056) ] TJ
+/TT2 1 Tf
+11.0861 0 TD
+-0.0014 Tc
+0.1978 Tw
+[ ( Hence\054 ) -5.3 (a) -4 ( ) ] TJ
+-31.2972 -1.7272 TD
+-0.0002 Tc
+0.1435 Tw
+[ (property) -10.4 ( that \050if tru) -5.1 (e) 2.5 (\051 is ) -5.3 (t) 6.6 (r) -2 (ue o) -5.1 (f) -2 ( ) -5.3 (an ) -5.3 (object in) -5.1 ( ) -5.3 (e) 7.9 (v) -5.1 (ery) -10.4 ( ) -5.3 (possible w) -6.1 (o) 0.2 (rl) 6.6 (d) -5.1 ( where such ob) -5.1 (ject ) ] TJ
+0 -1.7219 TD
+0.0425 Tw
+[ (exists\056 So\054 o) 5.6 (u) 0.2 (r chem) 12.3 (ist ) -5.3 (would ha) 7.9 (v) -5.1 (e) 7.9 ( ) -5.3 (uttered so) -10.4 (m) 7 (e) 2.5 (t) 6.6 (h) -5.1 (ing tru) -5.1 (e) 7.9 ( of gold ) 5.3 (here a) 7.9 (nd true ) 5.3 (of gold) -5.1 ( ) ] TJ
+0 -1.7272 TD
+-0.0008 Tc
+0.075 Tw
+[ (in ev) -5.7 (ery) -11 ( possible w) -6.7 (o) -0.4 (rld\056 She w) -6.7 (ould hav) -5.7 (e) 1.9 ( uttere) ] TJ
+19.297 0 TD
+-0.0003 Tc
+0.0745 Tw
+[ (d) -5.2 ( a n) -5.2 (e) -2.9 (c) 7.8 (e) 2.4 (ssary) -5.2 ( truth\056 Bu) -5.2 (t\054 ) -5.3 (of course) 7.8 (\054 ) -10.6 (as I) -7.4 ( ) ] TJ
+-19.297 -1.7272 TD
+0.3136 Tw
+[ (sa) 7.8 (id a) 7.8 (bov) -10.5 (e) 7.8 (\054) -5.4 ( she ) 5.3 (fou) -5.2 (n) 0.1 (d) 5.5 ( ) 5.3 (that) 6.5 ( ou) -5.2 (t ) 5.3 (\050presu) -10.5 (m) 12.2 (a) -2.9 (bly) -5.2 ( ) 5.3 (after ) -5.4 (m) 12.2 (a) -2.9 (n) -5.2 (y) -5.2 ( ) 10.6 (y) -5.2 (ears of ) 10.6 (tough em) 12.2 (p) -5.2 (i) -4.1 (rical ) ] TJ
+0 -1.7219 TD
+0.0001 Tw
+[ (research\051\056 So\054 w) -6.2 (h) 0.1 (at she ) -5.3 (clai) -9.5 (m) 12.2 (s) 0.9 ( ) -5.3 (to kn) -5.2 (ow she knows it) 6.5 ( a pos) -9.7 (t) 6.5 (e) -2.9 (riori\056  ) ] TJ
+1.4987 -1.7272 TD
+0.1437 Tw
+[ (N) -6.3 (o) 0 (w\054 le) 7.7 (t\222s run ) 5.3 (the ) 5.3 (tw) -6.3 (o di) -9.6 (m) 12.1 (e) 2.3 (ns) -4.5 (ion) -5.3 (a) 2.3 (l) -4.2 ( ) 5.3 (app) -5.3 (a) 2.3 (ratus for ) 5.3 (thes) -4.5 (e ) ] TJ
+/TT8 1 Tf
+23.4264 0 TD
+0 Tc
+0 Tw
+(w) Tj
+/TT2 1 Tf
+0.6643 0 TD
+0.0018 Tc
+[ (\222s) -7.6 (\072) 8.6 ( ) ] TJ
+/TT8 1 Tf
+1.3977 0 TD
+0 Tc
+(w) Tj
+7.5077 0 0 7.5077 418.2 265.6201 Tm
+(1) Tj
+/TT2 1 Tf
+11.2898 0 0 11.2898 421.98 267.0001 Tm
+0.0036 Tc
+0.1344 Tw
+[ ( \050t) 5.1 (he) 6.3 ( ) -5.3 (act) 10.4 (ua) 6.3 (l) 5.1 ( wo) 4 (rl) 5.1 (d) 4 ( ) ] TJ
+-27.9862 -1.7219 TD
+-0.0017 Tc
+0.044 Tw
+[ (w) -7.6 (h) -1.3 (e) 6.4 (r) -3.5 (e th) -6.6 (e) 6.4 ( n) -6.6 (a) 1 (tur) -8.8 (a) 6.4 (l k) -6.6 (i) 5.1 (n) -6.6 (d) -1.3 ( ) ] TJ
+/TT8 1 Tf
+9.3801 0 TD
+0.0059 Tc
+0 Tw
+[ (Go) 6.3 (l) 12.7 (d) ] TJ
+/TT2 1 Tf
+1.9983 0 TD
+-0.0003 Tc
+0.0426 Tw
+[ ( is t) 6.5 (h) -10.5 (e) 7.8 ( ) -5.3 (kind ) 5.3 (of elem) 6.9 (en) -5.2 (ts t) 6.5 (h) -5.2 (at ) 5.3 (h) -5.2 (a) 2.4 (v) -5.2 (e) 2.4 ( ato) -10.5 (m) 12.2 (ic ) -5.3 (nu) -10.5 (m) 12.2 (b) 0.1 (er ) 5.3 (7) -5.2 (9) 0.1 (\051\054 ) ] TJ
+/TT8 1 Tf
+21.9915 0 TD
+0 Tc
+0 Tw
+(w) Tj
+7.5077 0 0 7.5077 490.26 246.1201 Tm
+(2) Tj
+/TT2 1 Tf
+11.2898 0 0 11.2898 494.0399 247.5601 Tm
+-0.0005 Tc
+0.0428 Tw
+[ ( \050a ) ] TJ
+-34.369 -1.7272 TD
+-0.0003 Tc
+0.1011 Tw
+[ (counterfactu) -5.2 (a) 2.4 (l ) 10.7 (w) -6.2 (o) 0.1 (rld ) 5.4 (where t) 6.5 (h) -5.2 (e tokens ) 5.4 (of ) ] TJ
+/TT8 1 Tf
+17.235 0 TD
+0.0059 Tc
+0 Tw
+[ (Go) 6.3 (l) 12.7 (d) ] TJ
+/TT2 1 Tf
+2.0036 0 TD
+0 Tc
+0.0954 Tw
+[ ( ) 5.3 (hav) -4.9 (e) 2.7 ( ) -5.4 (at) 6.8 (o) -10.2 (m) 12.5 (ic) -7.9 ( nu) -10.2 (m) 12.5 (b) -4.9 (er ) 5.3 (1) -4.9 (5) 0.4 ( and w) -5.9 (h) 0.4 (er) -7.1 (e) 8.1 ( th) -4.9 (e ) ] TJ
+-19.2385 -1.7272 TD
+-0.0018 Tc
+0.0972 Tw
+[ (el) -5.6 (e) -4.4 (m) 10.7 (e) -4.4 (n) -6.7 (t wit) -5.6 (h) -1.4 ( the ) -5.4 (ato) -12 (m) 16.1 (i) -11 (c) 0.9 ( nu) -12 (m) 10.7 (b) -6.7 (er 79 does ex) -6.7 (is) -5.9 (t) -5.6 (\051) -3.6 (\054 a) 6.3 (n) -1.4 (d) -6.7 ( ) ] TJ
+/TT8 1 Tf
+21.7789 0 TD
+0 Tc
+0 Tw
+(w) Tj
+7.5077 0 0 7.5077 359.46 207.1801 Tm
+(3) Tj
+/TT2 1 Tf
+11.2898 0 0 11.2898 363.24 208.5601 Tm
+0.0003 Tc
+0.0951 Tw
+[ ( ) 5.3 (\050) -6.8 (a) 8.4 ( counterfac) 8.4 (t) -3.5 (ual world wher) -6.8 (e ) ] TJ
+/TT8 1 Tf
+-22.7833 -1.7219 TD
+0.0059 Tc
+0 Tw
+[ (Go) 6.3 (l) 12.7 (d) ] TJ
+/TT2 1 Tf
+1.9983 0 TD
+-0.0016 Tc
+0.0864 Tw
+[ ( ) -5.3 (is) -5.7 ( not ) -5.3 (a) 6.5 ( b) -6.5 (a) 1.1 (s) -5.7 (i) -0.1 (c ) -5.3 (el) -5.4 (e) -4.2 (m) 5.6 (ent ) -5.3 (and whe) -4.2 (r) -3.4 (e th) -6.5 (e) 6.5 (r) -3.4 (e ) -5.3 (is n) -6.5 (o) -1.2 ( el) -5.4 (e) -9.5 (m) 10.9 (en) -6.5 (t h) -6.5 (a) 1.1 (ving ) -5.3 (a) -4.2 (t) 5.2 (o) -11.8 (m) 10.9 (i) -10.7 (c) 1.1 ( nu) -11.8 (m) 10.9 (b) -6.5 (er 7) -6.5 (9) -1.2 (\051\056 ) ] TJ
+-1.9983 -1.7272 TD
+0.0044 Tc
+-0.0046 Tw
+[ (Ac) 12.5 (c) 7.1 (o) 4.8 (rd) 4.8 (i) 5.9 (n) 4.8 (gl) 5.9 (y\054) 4.6 ( t) 5.9 (h) 4.8 (e) 7.1 ( ) ] TJ
+/TT8 1 Tf
+6.9673 0 TD
+0.0003 Tc
+0 Tw
+(PC) Tj
+/TT2 1 Tf
+1.2808 0 TD
+-0.0002 Tc
+[ ( of \0502\051 is given b) -5.1 (y) -5.1 ( ) ] TJ
+/TT4 1 Tf
+7.3925 0 TD
+0 Tc
+(B) Tj
+/TT2 1 Tf
+0.6643 0 TD
+-0.0055 Tc
+(  ) Tj
+/TT4 1 Tf
+-10.4058 -1.7272 TD
+-0.0027 Tc
+(B ) Tj
+/TT2 1 Tf
+0.8503 -1.7219 TD
+0 Tc
+( ) Tj
+/TT8 1 Tf
+2.1258 -0.0053 TD
+(W) Tj
+7.5077 0 0 7.5077 215.64 129.2401 Tm
+(1) Tj
+11.2898 0 0 11.2898 219.36 130.6201 Tm
+0.8342 Tc
+( w) Tj
+7.5077 0 0 7.5077 239.16 129.2401 Tm
+0 Tc
+(2) Tj
+11.2898 0 0 11.2898 242.94 130.6201 Tm
+0.9989 Tc
+( w) Tj
+7.5077 0 0 7.5077 264.54 129.2401 Tm
+0 Tc
+(3) Tj
+11.2898 0 0 11.2898 268.32 130.6201 Tm
+( ) Tj
+/TT6 1 Tf
+-7.6263 -1.1905 TD
+(W) Tj
+7.5077 0 0 7.5077 192.3 115.8 Tm
+(1) Tj
+11.2898 0 0 11.2898 196.02 117.1801 Tm
+( ) Tj
+/TT4 1 Tf
+0.9035 0 TD
+-0.0027 Tc
+1.3364 Tw
+[ (T T) -5.3 ( T ) ] TJ
+ET
+200.94 127.68 0.42001 0.47998 re
+f
+200.94 127.68 76.62 0.47998 re
+f
+200.94 114.72 0.42001 12.96 re
+f
+226.32 114.72 0.48001 12.96 re
+f
+251.7 114.72 0.48 12.96 re
+f
+277.14 114.72 0.42001 12.96 re
+f
+BT
+/TT8 1 Tf
+11.2898 0 0 11.2898 182.22 103.6801 Tm
+0 Tc
+0 Tw
+(W) Tj
+7.5077 0 0 7.5077 191.64 102.3 Tm
+(2) Tj
+11.2898 0 0 11.2898 195.36 103.6801 Tm
+( ) Tj
+/TT2 1 Tf
+0.9619 0.0053 TD
+0.0019 Tc
+1.4381 Tw
+[ (F F ) -5.3 (F) 5.3 ( ) ] TJ
+ET
+200.94 114.24 76.62 0.48001 re
+f
+200.94 101.22 0.42001 13.02 re
+f
+226.32 101.22 0.48001 13.02 re
+f
+251.7 101.22 0.48 13.02 re
+f
+277.14 101.22 0.42001 13.02 re
+f
+BT
+/TT8 1 Tf
+11.2898 0 0 11.2898 182.22 90.2401 Tm
+0 Tc
+0 Tw
+(W) Tj
+7.5077 0 0 7.5077 191.64 88.86 Tm
+(3) Tj
+11.2898 0 0 11.2898 195.36 90.2401 Tm
+( ) Tj
+/TT2 1 Tf
+0.9619 0.0053 TD
+0.0019 Tc
+1.4381 Tw
+[ (F F ) -5.3 (F) 5.3 ( ) ] TJ
+ET
+200.94 100.74 76.62 0.47998 re
+f
+200.94 87.36 0.42001 13.38 re
+f
+200.94 87.36 25.38 0.42001 re
+f
+226.32 87.36 0.48001 13.38 re
+f
+226.8 87.36 24.9 0.42001 re
+f
+251.7 87.36 0.48 13.38 re
+f
+252.18 87.36 24.96 0.42001 re
+f
+277.14 87.36 0.42001 13.38 re
+f
+277.14 87.36 0.42001 0.42001 re
+f
+BT
+11.2898 0 0 11.2898 122.94 76.86 Tm
+0 Tc
+0 Tw
+( ) Tj
+ET
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 PHI\056G1\05602\0562 \055 Philosophy \055 First year Graduate \055 Male \055 NNS \050L1\072 Spanish\051 \055 Research Paper) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(6) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+33 0 obj
+<<
+/Length 13085
+>>
+stream
+q
+/GS1 gs
+BT
+/TT2 1 Tf
+11.2898 0 0 11.2898 106.02 35.76 Tm
+0 g
+0 Tc
+0 Tw
+( ) Tj
+34.9323 -0.0053 TD
+(7) Tj
+-33.4336 60.1603 TD
+0.0034 Tc
+(In ) Tj
+/TT4 1 Tf
+1.2223 0 TD
+0 Tc
+(B) Tj
+/TT2 1 Tf
+0.6643 0 TD
+-0.0004 Tc
+0.1384 Tw
+[ ( we ) 5.4 (find e) 7.7 (i) -4.2 (ther ) 5.4 (n) -5.3 (e) 2.3 (cessary) -10.6 ( t) 6.4 (r) -2.2 (uth) 5.3 (s) -4.5 ( ) 5.4 (or ne) ] TJ
+15.6831 0 TD
+0.0001 Tc
+0.1325 Tw
+[ (c) 8.2 (e) 2.8 (ssary) -4.8 ( falsehood) -4.8 (s \050or ) -5.4 (im) 12.6 (pos) -9.3 (sibil) 6.9 (i) -3.7 (ties if) -7 ( ) ] TJ
+-19.0685 -1.7272 TD
+-0.0005 Tc
+0.0906 Tw
+[ (y) -5.4 (ou ) 5.3 (w) -6.4 (a) 2.2 (nt) 6.3 (\051\054) -5.6 ( ) 5.3 (b) -5.4 (u) -0.1 (t) 6.3 ( no) -5.4 (t) 6.3 (h) -0.1 (ing ) -5.3 (that ) -5.3 (m) 12 (i) -4.3 (ght ) -5.3 (look as a c) 7.6 (o) -5.4 (n) -5.4 (t) 6.3 (ing) -5.4 (e) 2.2 (n) -5.4 (c) 2.2 (y) -10.7 (\056) 5 ( ) 5.3 (How) -6.4 (e) 2.2 (ve) 7.6 (r) -7.6 (\054) -0.3 ( t) 6.3 (h) -0.1 (ere is ) -5.3 (a sense in) -5.4 ( ) ] TJ
+0 -1.7219 TD
+0.0002 Tc
+0.0687 Tw
+[ (w) -5.7 (h) 0.6 (i) 7 (c) 2.9 (h what our ) 5.3 (fam) 12.7 (ous ch) -4.7 (em) 12.7 (ist ) 5.3 (utter) -6.9 (e) 8.3 (d i) 7 (n) -4.7 ( ) 5.3 (1950 ) ] TJ
+19.8391 0 TD
+-0.0007 Tc
+0.0643 Tw
+[ (could h) -5.6 (a) 2 (v) -5.6 (e) 2 ( been false\056 A) -6.6 (f) -2.5 (te) 7.4 (r ) -5.3 (a) 7.4 (l) -4.5 (l\054 th) -5.6 (at) 6.1 (\222) -7.8 (s) -4.8 ( ) ] TJ
+-19.8391 -1.7272 TD
+-0.0009 Tc
+0.006 Tw
+[ (w) -6.8 (h) -0.5 (a) 7.2 (t) 0.6 ( s) -5 (h) -5.8 (e) 7.2 ( fo) -5.8 (u) -5.8 (nd out) -4.7 ( ) 5.3 (aft) -4.7 (e) -3.5 (r so) -5.8 (m) 11.6 (e) -3.5 ( r) -8 (e) 1.8 (s) -5 (earch\054 p) -5.8 (e) 1.8 (rhaps) -5 ( s) -5 (h) -0.5 (e) -3.5 ( ) -10.6 (m) 17 (e) -3.5 (s) -5 (s) 0.3 (ed) -5.8 ( ) -5.3 (up so) -11.1 (m) 11.6 (e) -3.5 ( stu) -5.8 (ff and ) -5.3 (ca) -3.5 (me) -3.5 ( ) -5.3 (ou) -5.8 (t) -4.7 ( ) ] TJ
+T*
+-0.0004 Tc
+0.0905 Tw
+[ (w) -6.3 (i) 6.4 (th a ) -10.7 (m) 12.1 (i) 6.4 (s) -9.8 (t) 1.1 (aken result\056 Who know) -6.3 (s) 6.1 (\077) -3 ( Th) -5.3 (e) 7.7 ( point is that) 6.4 ( it seem) 12.1 (s to b) -5.3 (e) 2.3 ( t) 6.4 (r) -2.2 (ue th) -5.3 (at it is no) -5.3 (t ) ] TJ
+0 -1.7219 TD
+-0.0005 Tc
+0.0906 Tw
+[ (necessary) -10.7 ( that) 6.3 ( sh) -5.4 (e ca) -8.4 (m) 12 (e) -8.4 ( out wit) 6.3 (h) -5.4 ( ) 5.3 (th) -5.4 (ose re) 7.6 (sults and k) -5.4 (nowing wh) -5.4 (a) 7.6 (t) 1 ( sh) -5.4 (e) 7.6 ( k) -5.4 (now) -6.4 (s\056 ) 5.3 (S) -7.7 (o) -0.1 ( ) 5.3 (what ) ] TJ
+0 -1.7272 TD
+-0.0004 Tc
+0.0108 Tw
+[ (she) 7.7 ( kn) -5.3 (ows \226) 5.3 ( w) -6.3 (h) 0 (ic) 7.7 (h alle) 7.7 (g) -5.3 (e) 2.3 (dly) -10.6 ( is what she ass) -9.8 (e) 7.7 (rted ) -5.3 (\226 is so) -5.3 (m) 12.1 (e) -3 (thing c) 7.7 (o) -5.3 (ntingent\056 Thi) 6.4 (s) -4.5 (\054 as ) -5.3 (w) -6.3 (e) -3 ( ) ] TJ
+0 -1.7219 TD
+-0.0015 Tc
+0.1235 Tw
+[ (hav) -6.4 (e) 1.2 ( ) 5.3 (s) -5.6 (e) -4.1 (e) 6.6 (n) -1.1 ( ) -5.3 (i) -5.3 (n) -1.1 ( ) 5.3 (th) -6.4 (e for) -13.9 (m) 11 (er cas) -5.6 (e\054 is no) -6.4 (t a probl) -5.3 (e) -9.4 (m) 16.4 (\056) -6.6 ( Ther) -8.6 (e ) 5.3 (is\054) -6.6 ( a) -4.1 (t) 0 ( l) -5.3 (e) 6.6 (as) -10.9 (t St) -5.3 (aln) -6.4 (a) -4.1 (ker th) -6.4 (inks) -5.6 ( ) 5.3 (s) -10.9 (o) -1.1 (\054) -6.6 ( ) ] TJ
+0 -1.7272 TD
+-0.0003 Tc
+0.4571 Tw
+[ (so) -5.2 (m) 12.2 (e) 2.4 ( ) -10.7 (contingent ) -5.3 (prop) -5.2 (ositi) 6.5 (o) 0.1 (n) -5.2 ( represen) -5.2 (ted in) -5.2 ( ) ] TJ
+/TT4 1 Tf
+19.8231 0 TD
+0 Tc
+0 Tw
+(B) Tj
+/TT2 1 Tf
+0.6643 0 TD
+-0.0009 Tc
+0.4577 Tw
+[ (\056 That is ) -5.3 (th) -5.8 (e s) -5 (o) -0.5 ( called ) -5.3 (d) -5.8 (i) 0.6 (ag) -5.8 (onal) -4.7 ( ) ] TJ
+-20.4874 -1.7219 TD
+-0.0004 Tc
+0.0055 Tw
+[ (propo) -5.3 (sit) 6.4 (i) 1.1 (on\056  ) ] TJ
+1.4987 -1.7272 TD
+0.048 Tw
+[ (We sai) 6.4 (d) 0 ( ) -5.3 (th) -5.3 (a) 7.7 (t) -4.2 ( ) -5.3 (t) 6.4 (h) 0 (e ) -10.6 (t) 6.4 (r) -2.2 (uth ) -10.6 (e) 7.7 (x) -5.3 (p) -5.3 (r) -2.2 (e) 7.7 (s) -4.5 (sed w) -6.3 (a) 2.3 (s a ) -5.3 (prio) ] TJ
+17.5592 0 TD
+0.0479 Tw
+[ (ri) 6.5 ( ) -10.6 (if and o) -5.2 (n) 0.1 (l) 6.5 (y) -5.2 ( ) -5.3 (if the diagon) -5.2 (al) 6.5 ( ) -5.3 (p) -5.2 (r) -2.1 (oposi) 6.5 (tio) -5.2 (n) -5.2 ( ) ] TJ
+-19.0578 -1.7272 TD
+0.003 Tc
+0.2572 Tw
+[ (wa) 11.1 (s a) 5.7 ( ) 5.3 (ne) 5.7 (ces) 4.2 (sa) 11.1 (r) 6.5 (y) -7.2 ( t) 4.5 (r) 1.2 (ut) 4.5 (h\056 ) ] TJ
+/TT8 1 Tf
+10.0657 0 TD
+-0.0007 Tc
+0.2609 Tw
+[ (Mutatis mutandis) ] TJ
+/TT2 1 Tf
+7.2277 0 TD
+[ ( ) 5.3 (w) -6.6 (e) -3.3 ( c) 7.4 (a) 2 (n s) -10.1 (a) 7.4 (y) -10.9 ( th) 5 (at ) -5.3 (t) 6.1 (h) -5.6 (e truth) -5.6 ( expressed ) -5.3 (is ) -5.3 (a ) ] TJ
+-17.2934 -1.7166 TD
+-0.0004 Tc
+0.0321 Tw
+[ (pos) -4.5 (t) 6.4 (e) 2.3 (riori i) 6.4 (f) -2.2 ( ) -5.3 (and on) -5.3 (l) 6.4 (y) -10.6 ( if t) 6.4 (h) 0 (e d) -5.3 (i) 1.1 (a) 7.7 (g) -5.3 (on) -5.3 (al ) -5.3 (proposition ) -5.3 (is) -4.5 ( ) 5.3 (conting) -5.3 (e) 2.3 (nt\056 We ) -5.3 (m) 12.1 (a) 2.3 (y) -10.6 ( a) 7.7 (s) -9.8 (k now\054 which) -5.3 ( ) ] TJ
+0 -1.7272 TD
+-0.0011 Tc
+0.256 Tw
+[ (one is ) -5.3 (th) -6 (e ) -5.3 (nec) 7 (e) 1.6 (ssary) -11.3 ( and a ) ] TJ
+/TT8 1 Tf
+12.1383 0 TD
+0 Tc
+0 Tw
+(posteriori) Tj
+/TT2 1 Tf
+3.9434 0 TD
+0.2549 Tw
+[ ( ) -5.3 (trut) 6.8 (h) -4.9 ( \226) -4.9 ( t) 6.8 (a) 2.7 (k) -4.9 (i) 1.5 (ng ) -5.3 (truths ) ] TJ
+9.699 0 TD
+-0.0001 Tc
+[ (as prop) -5 (ositions\054 not as ) ] TJ
+-25.7807 -1.7219 TD
+-0.001 Tc
+0.0699 Tw
+[ (s) -5.1 (e) 7.1 (nten) -5.9 (ces\056 T) -6.6 (h) -0.6 (is s) -5.1 (hould be easy) -5.9 ( for ) -5.3 (t) 5.8 (h) -0.6 (ere is ) -5.3 (only) -5.9 ( one nece) 7.1 (s) -5.1 (s) -5.1 (a) 1.7 (ry) -11.2 ( proposition ) -5.3 (i) 5.8 (n) -0.6 ( ) ] TJ
+/TT4 1 Tf
+31.6586 0 TD
+0 Tc
+0 Tw
+(B) Tj
+/TT2 1 Tf
+0.6643 0 TD
+0.0011 Tc
+0.0678 Tw
+[ (\056 Is ) -5.3 (t) 7.9 (h) 1.5 (at ) ] TJ
+-32.3229 -1.7272 TD
+-0.0001 Tc
+0.0265 Tw
+[ (our propos) -4.2 (it) 6.7 (ion\077) -8 ( We) 8 (ll\054 it depe) 8 (n) -5 (d) 0.3 (s\056 If our proposition ) 5.4 (cou) -5 (l) 1.4 (d be ) 5.4 (f) -7.2 (a) 8 (lse\054 ) -5.3 (as it) 6.7 ( see) -8 (m) 12.4 (s it) 6.7 ( cou) -5 (l) -3.9 (d\054 ) ] TJ
+T*
+-0.0003 Tc
+0.1648 Tw
+[ (given th) -5.2 (e fact th) -5.2 (at) 6.5 ( it is a post) 6.5 (e) 2.4 (r) -7.4 (i) 1.2 (ori\054) -5.4 ( the) 7.8 (n) 0.1 ( ) -5.3 (t) 6.5 (h) -5.2 (is ) -5.3 (i) 6.5 (s) -4.4 ( not our p) 5.4 (r) 3.2 (opo) -5.2 (sition\056 Well) 6.5 (\054) -5.4 ( t) 6.5 (h) -5.2 (en\054 th) -5.2 (e ) ] TJ
+0 -1.7219 TD
+-0.0005 Tc
+0.0056 Tw
+[ (propo) -5.4 (sit) 6.3 (i) 1 (on ) -5.3 (m) 6.7 (u) -0.1 (s) -9.9 (t) 6.3 ( be ) -5.3 (th) -5.4 (e di) 6.3 (agon) -5.4 (al one\056 That on) -5.4 (e cert) 6.3 (ain) -5.4 (l) 1 (y) -5.4 ( c) 7.6 (o) -5.4 (ul) 6.3 (d b) -5.4 (e) 7.6 ( false ) -5.3 (for different) 6.3 ( ) ] TJ
+/TT8 1 Tf
+33.7844 0 TD
+-0.0027 Tc
+0 Tw
+[ (w\222) -9.8 (s) ] TJ
+/TT2 1 Tf
+1.3977 0 TD
+0.0051 Tc
+(\054 ) Tj
+-35.1821 -1.7272 TD
+-0.0002 Tc
+0.0956 Tw
+[ (it i) 6.6 (s) -4.3 ( ) -5.4 (actually false for diffe) 7.9 (rent ) ] TJ
+/TT8 1 Tf
+12.9462 0 TD
+-0.0005 Tc
+0 Tw
+(w\222s) Tj
+/TT2 1 Tf
+1.3924 0 TD
+0.0001 Tc
+0.0953 Tw
+[ (\056 ) 5.3 ( Is i) 6.9 (t) 1.6 (\077) -7.8 ( ) 5.3 (Wel) 6.9 (l) 1.6 (\054) -5 ( it) 6.9 (s not\056 Our proposit) 6.9 (ion) -4.8 ( is not only) -10.1 ( ) ] TJ
+/TT8 1 Tf
+20.5991 0 TD
+-0.0004 Tc
+0 Tw
+(a ) Tj
+-34.9376 -1.7219 TD
+0.0014 Tc
+[ (post) 8.2 (e) 4.1 (r) -8 (i) 8.2 (ori) ] TJ
+/TT2 1 Tf
+3.9434 0 TD
+-0.0004 Tc
+0.0002 Tw
+[ (\054 it is also necessary) -10.6 ( and the dia) 7.7 (g) 0 (o) -5.3 (n) -5.3 (a) 7.7 (l p) -5.3 (r) -2.2 (oposit) 6.4 (ion ) -5.3 (is no) -5.3 (t) 6.4 (\056) -5.5 ( ) ] TJ
+-2.4447 -1.7272 TD
+0.0004 Tc
+0.0525 Tw
+[ (There see) -7.5 (m) 12.9 (s) -9 ( ) -5.3 (t) 7.2 (o) -4.5 ( be so) -4.5 (m) 12.9 (e) 3.1 ( ) -10.7 (i) 7.2 (n) 0.8 (co) -9.8 (m) 12.9 (p) -4.5 (ati) 7.2 (b) 0.8 (ilit) 7.2 (y) -9.8 ( ) ] TJ
+16.5494 0 TD
+-0.0005 Tc
+0.0587 Tw
+[ (bet) 6.3 (w) -6.4 (e) 7.6 (e) 2.2 (n ) -5.4 (a) 7.6 ( proposi) 6.3 (tio) -5.4 (n ) 5.3 (being necessa) 7.6 (r) -2.3 (y) -5.4 ( and ) ] TJ
+-18.0481 -1.7272 TD
+0.0853 Tw
+[ (its being know) -6.4 (n ) ] TJ
+/TT8 1 Tf
+6.8929 0 TD
+-0.0006 Tc
+0.0854 Tw
+[ (a po) 5.1 (steriori) ] TJ
+/TT2 1 Tf
+4.7671 0 TD
+-0.0002 Tc
+0 Tw
+(\054 ) Tj
+/TT8 1 Tf
+0.5846 0 TD
+-0.0009 Tc
+0.0857 Tw
+[ (m) -6.8 (u) -0.5 (t) 5.9 (a) -5.8 (t) 5.9 (i) -4.7 (s m) -6.8 (u) -0.5 (tandis) ] TJ
+/TT2 1 Tf
+6.9461 0 TD
+-0.0018 Tc
+0.0866 Tw
+[ ( for the other ) -5.3 (cas) -5.9 (e) 6.3 (\056) -1.6 ( ) -5.3 (We ) -5.3 (co) -6.7 (me) -4.4 ( to ) -5.3 (a poi) -5.6 (nt) -5.6 ( ) ] TJ
+-19.1907 -1.7219 TD
+-0.0003 Tc
+0.0213 Tw
+[ (w) -6.2 (h) 0.1 (e) 7.8 (r) -2.1 (e on) -5.2 (e ) -5.4 (m) 6.9 (u) 0.1 (s) -4.4 (t) 1.2 ( s) -4.4 (t) 1.2 (op l) 6.5 (o) -5.2 (ok) -5.2 (i) 6.5 (ng for s) -4.4 (u) 0.1 (ch a propos) -4.4 (ition\054 ) -5.4 (at) 6.5 ( ) -5.4 (lea) 7.8 (s) -4.4 (t w) -6.2 (i) 6.5 (thin) -5.2 ( our tw) -6.2 (o dim) 12.2 (e) -2.9 (ns) -4.4 (ion) -5.2 (a) -2.9 (l ) ] TJ
+0 -1.7272 TD
+0.0001 Tc
+0.3451 Tw
+[ (app) -4.8 (a) 2.8 (rat) 6.9 (u) -4.8 (s\056 ) -5.3 (Thi) 6.9 (s) -4 ( howev) -4.8 (er is no s) -9.3 (a) 2.8 (tisfact) 6.9 (ory) -10.1 ( ) 5.3 (conclusion\054 for o) -4.8 (n) 0.5 (e) 8.2 ( ) -10.7 (m) 12.6 (a) -2.5 (i) -9 (n) 0.5 ( re) 8.2 (ason) -4.8 (\072) 6.9 ( th) -4.8 (e ) ] TJ
+0 -1.7219 TD
+-0.0001 Tc
+0.0371 Tw
+[ (know) -6 (le) 8 (dg) -5 (e ) -5.3 (of t) 6.7 (h) 0.3 (e fa) -8 (m) 17.8 (o) -10.3 (u) -5 (s) 1.1 ( c) 8 (h) 0.3 (e) -8 (m) 12.4 (ist w) -6 (ho a) 8 (s) -4.2 (serted \0502\051 ) ] TJ
+/TT8 1 Tf
+20.8967 0 TD
+-0.002 Tc
+0.0337 Tw
+[ (was) -6.1 ( in ) -5.3 (fac) -4.6 (t) ] TJ
+/TT2 1 Tf
+4.3951 0 TD
+0 Tc
+0.037 Tw
+[ ( ) 5.3 (f) -7.1 (a) 2.7 (lse for di) 6.8 (fferent ) ] TJ
+/TT8 1 Tf
+7.637 0 TD
+0.0022 Tc
+0 Tw
+(w\222s) Tj
+/TT2 1 Tf
+1.3924 0 TD
+-0.0081 Tc
+0.0451 Tw
+[ ( as) -12.2 ( ) ] TJ
+-34.3211 -1.7272 TD
+-0.0006 Tc
+0.0323 Tw
+[ (contex) -5.5 (t) 6.2 (\054) -0.4 ( ) -5.3 (as ) -5.3 (m) 6.6 (u) -5.5 (ch) -5.5 ( ) 5.3 (as ) -10.6 (m) 17.3 (y) -10.8 ( knowledg) -5.5 (e of w) -6.5 (h) -0.2 (a) 7.5 (t) 0.9 ( I ) -5.3 (a) 7.5 (s) -10 (sert ) 5.3 (w) -6.5 (ith \0501\051 ) ] TJ
+/TT8 1 Tf
+24.4574 0 TD
+-0.0015 Tc
+0.0332 Tw
+[ (i) 5.3 (s) -5.6 ( in ) -5.3 (fact) ] TJ
+/TT2 1 Tf
+3.5023 0 TD
+-0.0018 Tc
+0.0388 Tw
+[ ( tr) -8.9 (ue ) 5.3 (in e) 6.3 (v) -6.7 (ery) -12 ( ) ] TJ
+/TT8 1 Tf
+5.6918 0 TD
+0 Tc
+0 Tw
+(w) Tj
+/TT2 1 Tf
+0.6643 0 TD
+-0.0027 Tc
+0.0397 Tw
+[ ( as) -6.8 ( ) ] TJ
+-34.3158 -1.7272 TD
+0 Tc
+0.0901 Tw
+[ (contex) -4.9 (t) 6.8 (\056) 0.2 ( P) -7.2 (r) -1.8 (esu) -4.9 (m) 12.5 (ab) -4.9 (l) 6.8 (y) -10.2 ( ) 5.3 (w) -5.9 (h) 5.8 (at she ) -5.3 (a) 8.1 (n) -4.9 (d I) -7.1 ( know is just w) -5.9 (h) 0.4 (at she and I respecti) 6.8 (v) -4.9 (e) 2.7 (ly) -10.2 ( asse) 8.1 (rted) -4.9 (\056) -5.1 ( ) ] TJ
+0 -1.7219 TD
+-0.0019 Tc
+0.0655 Tw
+[ (But w) -7.8 (h) -1.5 (at ) -5.3 (sh) -6.8 (e ass) -11.3 (e) 6.2 (r) -9 (t) -0.4 (ed is) -6 ( ) -5.3 (ju) -6.8 (st ne) -4.5 (ces) -6 (sary) -12.1 ( \050i\056e\056 true) -4.5 ( in ev) -6.8 (ery) -12.1 ( ) ] TJ
+/TT8 1 Tf
+23.5061 0 TD
+0 Tc
+0 Tw
+(w) Tj
+/TT2 1 Tf
+0.6643 0 TD
+-0.0016 Tc
+0.0652 Tw
+[ (\051 and ) -5.3 (what I ass) -5.7 (e) 1.1 (rted ) -5.3 (is) -5.7 ( ) -5.3 (j) -5.4 (u) -1.2 (st ) ] TJ
+-24.1704 -1.7272 TD
+-0.0009 Tc
+0.0645 Tw
+[ (cont) -4.7 (ing) -5.8 (e) 7.2 (n) -5.8 (t) 5.9 ( \050) -8 (i) 5.9 (\056e\056 true ) 5.4 (in s) -5 (o) -11.1 (m) 11.6 (e) 1.8 ( ) ] TJ
+/TT8 1 Tf
+11.761 0 TD
+-0.0005 Tc
+0 Tw
+(w\222s) Tj
+/TT2 1 Tf
+1.3924 0 TD
+-0.0007 Tc
+0.0589 Tw
+[ ( an) -5.6 (d false ) -5.4 (in others\051\056 ) -5.4 (If ) 5.3 (y) -5.6 (ou ) ] TJ
+11.4634 0 TD
+-0.0011 Tc
+0.0593 Tw
+[ (fee) 7 (l) 0.4 ( ) -5.4 (lik) -6 (e th) -6 (ere is s) -5.2 (o) -11.3 (m) 11.4 (e) 1.6 ( ) -10.7 (sort) -4.9 ( ) ] TJ
+-24.6168 -1.7219 TD
+-0.0007 Tc
+0.0005 Tw
+[ (of pro) -5.6 (b) -0.3 (l) 6.1 (e) -8.6 (m) 11.8 ( ) -5.3 (here y) -10.9 (ou have t) 6.1 (h) -5.6 (e prop) -5.6 (er feel) ] TJ
+16.3528 0 TD
+-0.0003 Tc
+0.0001 Tw
+[ (i) 6.5 (n) -5.2 (gs \050if not\054 y) -10.5 (ou ) 5.3 (should read back ) -5.3 (agai) 6.5 (n\051) -7.4 (\056 ) ] TJ
+/TT4 1 Tf
+13.1527 0 0 13.1527 122.94 128.82 Tm
+0.0019 Tc
+-0.004 Tw
+[ (Som) 9.2 (e) -1.3 ( points of relevanc) 7.8 (e) 3.3 ( ) ] TJ
+/TT2 1 Tf
+11.2898 0 0 11.2898 106.02 108.0001 Tm
+-0.0001 Tc
+0.0637 Tw
+[ (Y) -6 (ou ) -5.3 (m) 12.4 (i) -3.9 (ght stil) 6.7 (l ) -5.3 (th) -5 (ink th) -5 (at) 6.7 ( ) -5.3 (t) 6.7 (h) -5 (is do) -5 (es n) -5 (o) 0.3 (t) 6.7 ( ) -5.3 (prove) ] TJ
+18.4626 0 TD
+-0.001 Tc
+0.0646 Tw
+[ ( Kri) -4.8 (pke to) -5.9 ( be ) -10.6 (mist) -4.8 (aken\056) -6.1 ( I ag) -5.9 (ree\056 W) -8.5 (e) 1.7 ( ) -10.6 (m) 11.5 (u) -5.9 (s) -5.1 (t) -4.8 ( ) ] TJ
+-18.4626 -1.7272 TD
+-0.0004 Tc
+0.0799 Tw
+[ (try) -10.6 ( ) 5.3 (to m) 12.1 (a) -3 (k) -5.3 (e) 2.3 ( sense ) 5.3 (of t) 6.4 (h) -5.3 (is ) 5.3 (so) -5.3 (m) 12.1 (e) -3 (how\054 but ) 5.3 (w) -6.3 (e) 2.3 ( ) 5.3 (shou) -5.3 (ld ) 5.3 (be carefu) -5.3 (l) 6.4 ( not t) 6.4 (o) 0 ( do ) 5.3 (it) 6.4 ( ) 5.3 (in th) -5.3 (e ) 5.3 (w) -6.3 (r) -2.2 (ong ) ] TJ
+ET
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 PHI\056G1\05602\0562 \055 Philosophy \055 First year Graduate \055 Male \055 NNS \050L1\072 Spanish\051 \055 Research Paper) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(7) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+34 0 obj
+<<
+/Length 17920
+>>
+stream
+q
+/GS1 gs
+BT
+/TT2 1 Tf
+11.2898 0 0 11.2898 106.02 35.76 Tm
+0 g
+0 Tc
+0 Tw
+( ) Tj
+34.9323 -0.0053 TD
+(8) Tj
+-34.9323 60.1603 TD
+-0.0001 Tc
+-0.0001 Tw
+[ (w) -6 (a) 13.3 (y) -10.3 (\056) 0.1 ( I) -7.2 ( t) 6.7 (h) 0.3 (ink ) -5.3 (ther) -7.2 (e ) -5.3 (i) 6.7 (s) -4.2 ( a bit of a problem) 7.1 ( ) -5.3 (h) -5 (e) 8 (r) -7.2 (e) 8 ( for) -7.2 ( p) -5 (h) 0.3 (i) 6.7 (l) 1.4 (osoph) -5 (ers to solv) -5 (e\056 Th) -5 (is is b) -5 (e) 2.6 (ca) 8 (u) -5 (s) -4.2 (e\054) -5.2 ( as ) ] TJ
+0 -1.7272 TD
+0.001 Tc
+0.0254 Tw
+[ (I sha) 3.7 (l) -2.8 (l ) 5.4 (a) 3.7 (r) -0.8 (gue\054 Kripke) 3.7 ( i) 7.8 (s) -3.1 ( not) 7.8 ( only) -9.2 ( c) 3.7 (o) 1.4 (rr) 4.5 (ec) 9.1 (t ) -5.3 (in c) 3.7 (l) -2.8 (aim) 13.5 (i) -8.2 (ng t) 7.8 (h) -3.9 (a) 3.7 (t) 2.5 ( ) -5.3 (t) 7.8 (h) -3.9 (e) 3.7 (r) -0.8 (e a) 9.1 (r) -6.1 (e) 9.1 ( nece) 9.1 (ssar) 4.5 (y) -9.2 ( ) ] TJ
+/TT8 1 Tf
+30.7179 0 TD
+-0.0001 Tc
+0.0211 Tw
+[ (a p) -5 (o) 0.3 (steriori) ] TJ
+/TT2 1 Tf
+4.7193 0 TD
+0 Tc
+0 Tw
+( ) Tj
+-35.4372 -1.7219 TD
+-0.0006 Tc
+0.112 Tw
+[ (truths\056 Ev) -5.5 (en) -5.5 ( ) -5.3 (m) 11.9 (o) -0.2 (re\054 Krip) -5.5 (ke ) ] TJ
+/TT8 1 Tf
+11.1073 0 TD
+0.0021 Tc
+0 Tw
+(must) Tj
+/TT2 1 Tf
+1.8867 0 TD
+0.004 Tc
+0.1074 Tw
+[ ( be) 6.7 ( ) -5.3 (c) 12.1 (o) 4.4 (rre) 12.1 (c) 1.4 (t) 5.5 ( i) 5.5 (f) 2.2 ( o) 4.4 (u) -0.9 (r c) 6.7 (o) -6.2 (m) 11.2 (m) 16.5 (ons) 5.2 (en) 4.4 (s) 5.2 (i) 5.5 (ca) 12.1 (l v) 4.4 (i) 0.2 (e) 12.1 (w) -1.9 ( t) 5.5 (h) 4.4 (at) 5.5 ( em) 16.5 (pi) 5.5 (ric) 6.7 (a) 6.7 (l) 0.2 ( ) ] TJ
+-12.994 -1.7272 TD
+0.0003 Tc
+-0.0005 Tw
+[ (sc) 8.4 (ienti) 7.1 (f) -1.5 (ic kn) -4.6 (owledg) -4.6 (e is p) -4.6 (o) 0.7 (ssible) 8.4 ( is t) 7.1 (o) 0.7 ( ) -5.3 (be ) -5.3 (correct) 7.1 (\056) -4.8 ( ) ] TJ
+1.4987 -1.7272 TD
+-0.0006 Tc
+0.0482 Tw
+[ (O) -6.5 (u) -0.2 (r ) 5.3 (p) -5.5 (r) -2.4 (obl) 6.2 (em) 6.6 ( ) -5.3 (goes lik) -5.5 (e this\072 ) 5.3 (th) -5.5 (ere is t) 6.2 (h) -5.5 (i) 6.2 (s) -4.7 ( ) 5.3 (p) -5.5 (ecu) -5.5 (li) 6.2 (ar set) 6.2 ( of t) 6.2 (r) -2.4 (uth) -5.5 (s) -4.7 ( ) 5.3 (w) -6.5 (h) -0.2 (i) 6.2 (c) 2.1 (h we can know ) ] TJ
+/TT8 1 Tf
+33.4389 0 TD
+-0.0004 Tc
+0 Tw
+(a ) Tj
+-34.9376 -1.7219 TD
+0.003 Tc
+[ (pri) 9.8 (o) 3.4 (ri) ] TJ
+/TT2 1 Tf
+2.3331 0 TD
+-0.0001 Tc
+0.3134 Tw
+[ ( reg) -5 (a) 2.6 (r) -7.2 (d) 0.3 (l) 6.7 (e) 2.6 (ss of ) -5.4 (t) 6.7 (h) -5 (eir b) -5 (e) 2.6 (ing ) -5.4 (conting) -5 (e) 2.6 (nt) 6.7 ( ) -5.4 (\050) ] TJ
+/TT8 1 Tf
+16.8895 0 TD
+-0.0008 Tc
+0.3141 Tw
+[ (mutatis m) -6.7 (u) -0.4 (ta) -5.7 (ndi) 6 (s) ] TJ
+/TT2 1 Tf
+7.1746 0 TD
+0.0006 Tc
+0.3127 Tw
+[ ( for ) -5.3 (t) 7.4 (h) 1 (e n) -9.6 (e) 8.7 (cess) -8.8 (a) 8.7 (r) -1.2 (y ) ] TJ
+/TT8 1 Tf
+8.5404 0 TD
+-0.0004 Tc
+0 Tw
+(a ) Tj
+-34.9376 -1.7272 TD
+0.0014 Tc
+[ (post) 8.2 (e) 4.1 (r) -8 (i) 8.2 (ori) ] TJ
+/TT2 1 Tf
+3.9434 0 TD
+-0.0006 Tc
+0.0588 Tw
+[ (\051\073) 6.2 ( ) -10.7 (however\054 th) -5.5 (ere ) -5.4 (is no) -5.5 ( such ) -5.4 (propositio) -5.5 (n which is ) -5.4 (at) 6.2 ( ) -10.7 (t) 6.2 (h) -5.5 (e sa) -8.5 (m) 11.9 (e) 2.1 ( ) -10.7 (t) 6.2 (i) -9.7 (m) 11.9 (e) -3.2 ( ) -5.4 (con) -5.5 (t) 6.2 (ing) -5.5 (e) 2.1 (n) -5.5 (t) -4.4 ( ) ] TJ
+-3.9434 -1.7219 TD
+0.0003 Tc
+0.1695 Tw
+[ (and a priori \050\205\051\056 ) 5.3 (Nevertheless\054 it) 7.1 ( ) -5.4 (seem) 12.8 (s cl) ] TJ
+18.0906 0 TD
+-0.0016 Tc
+0.1714 Tw
+[ (e) -4.2 (a) 1.1 (r th) -6.5 (a) 6.5 (t) -0.1 ( w) -7.5 (h) -1.2 (at is ) -5.4 (express) -11 (e) 6.5 (d) -6.5 ( by) -6.5 ( a sente) 6.5 (n) -6.5 (c) -4.2 (e) -4.2 (\054) -6.7 ( ) ] TJ
+-18.0906 -1.7272 TD
+-0.0002 Tc
+0.0744 Tw
+[ (underst) 6.6 (ood) -5.1 ( ) -5.3 (a) 7.9 (n) -5.1 (d known) -5.1 ( ) -5.3 (b) 5.5 (y) -10.4 ( the sp) -5.1 (eake) 7.9 (r) -2 ( ) -5.3 (who un) -5.1 (d) -5.1 (e) 7.9 (rstands th) -5.1 (e ) ] TJ
+/TT8 1 Tf
+24.5531 0 TD
+-0.0081 Tc
+0 Tw
+[ (co) -7.7 (n) -13 (t) -6.6 (e) -5.4 (n) -13 (t) ] TJ
+/TT2 1 Tf
+2.9389 0 TD
+0.0005 Tc
+0.0737 Tw
+[ ( of) -6.6 ( a utte) 8.6 (ran) -4.4 (ce\054) -4.6 ( ) ] TJ
+/TT8 1 Tf
+6.4997 0 TD
+-0.0015 Tc
+0 Tw
+(is) Tj
+/TT2 1 Tf
+0.6643 0 TD
+0.0026 Tc
+0.0822 Tw
+[ ( a ) ] TJ
+-34.6559 -1.7219 TD
+-0.0004 Tc
+0.0055 Tw
+[ (propo) -5.3 (sit) 6.4 (i) 1.1 (on\056  ) ] TJ
+1.4987 -1.7272 TD
+0.0008 Tc
+0.1372 Tw
+[ (O) -5.1 (n) 1.2 (e ) 5.4 (w) -5.1 (a) 8.9 (y) -9.4 ( to ) 5.4 (elim) 13.3 (in) -4.1 (at) 7.6 (e ) 5.4 (this problem) 8 ( would be) ] TJ
+18.7549 0 TD
+-0.0001 Tc
+0.1381 Tw
+[ ( to ) 5.4 (clai) -9.3 (m) 12.4 ( th) -5 (at nothing) -5 ( can ) 5.4 (be\054 ) -5.3 (at th) -5 (e ) ] TJ
+-20.2536 -1.7272 TD
+0.0002 Tc
+0.3185 Tw
+[ (sam) 12.7 (e) -2.4 ( ) -5.3 (tim) 12.7 (e) -2.4 (\054) -4.9 ( conting) -4.7 (e) 2.9 (ntly) -4.7 ( true and) -4.7 ( k) -4.7 (nown ) ] TJ
+/TT8 1 Tf
+18.2235 0 TD
+0.0049 Tc
+0.3138 Tw
+[ (a p) 5.3 (r) 6.1 (i) 6.4 (o) 5.3 (r) 6.1 (i) ] TJ
+/TT2 1 Tf
+3.4013 0 TD
+0.0008 Tc
+0.3232 Tw
+[ ( ) 5.3 (\050) -6.3 (t) 7.6 (he sam) 13.3 (e) -1.8 ( ) 5.4 (for the ) 5.3 (n) -9.4 (e) 8.9 (cess) -8.6 (a) 8.9 (r) -1 (y ) ] TJ
+/TT8 1 Tf
+13.3182 0 TD
+-0.0058 Tc
+0 Tw
+(a ) Tj
+-34.9429 -1.7166 TD
+0.0014 Tc
+[ (post) 8.2 (e) 4.1 (r) -8 (i) 8.2 (ori) ] TJ
+/TT2 1 Tf
+3.9434 0 TD
+-0.0008 Tc
+0.0537 Tw
+[ (\051\056 Kn) -5.7 (owledge ) -5.3 (and truth go) -5.7 ( ) -5.3 (together in ) -10.7 (only) -5.7 ( one w) -6.7 (a) 1.9 (y) -5.7 (\054) -0.6 ( if it is ) -5.3 (necessary) -5.7 ( it) 6 ( ) -16 (m) 6.4 (u) -0.4 (st ) ] TJ
+-3.9434 -1.7272 TD
+-0.0016 Tc
+0 Tw
+(be ) Tj
+/TT8 1 Tf
+1.2649 0 TD
+-0.0002 Tc
+0.0744 Tw
+(a priori) Tj
+/TT2 1 Tf
+3.1568 0 TD
+-0.0005 Tc
+0.0747 Tw
+[ (\054 if it) 6.3 ( ) -5.3 (i) 6.3 (s) -4.6 ( ) ] TJ
+/TT8 1 Tf
+3.3747 0 TD
+0.0009 Tc
+0.0733 Tw
+[ (a post) 7.7 (e) 3.6 (r) -8.5 (i) 7.7 (ori) ] TJ
+/TT2 1 Tf
+4.7671 0 TD
+-0.0008 Tc
+0.075 Tw
+[ ( it ) -10.6 (m) 11.7 (u) -5.7 (st be con) -5.7 (tin) -5.7 (gent\056 So\054 actua) 7.3 (l) -4.6 (ly) -11 (\054) 4.7 ( there ) -5.3 (i) 6 (s) -4.9 ( no prob) -5.7 (l) 6 (e) -8.7 (m ) ] TJ
+-12.5635 -1.7219 TD
+-0.0007 Tc
+0.0005 Tw
+[ (here\056 Th) -5.6 (ere) 7.4 ( ) -5.3 (w) -6.6 (a) 2 (s just ) -5.3 (con) -5.6 (f) -2.5 (usion to begin with\056) -5.8 ( ) ] TJ
+1.4987 -1.7272 TD
+-0.0011 Tc
+0.054 Tw
+[ (There ) -5.3 (are s) -5.2 (o) -6 (me ) -5.3 (reas) -5.2 (ons ) -5.3 (w) -7 (h) 4.6 (y) -6 ( w) -7 (e) 1.6 ( sh) -6 (ould avo) -6 (i) 0.4 (d th) -6 (is s) -5.2 (t) 0.4 (ra) 7 (t) -4.9 (e) 1.6 (gy) -11.3 (\056 ) 5.3 (F) -8.3 (i) 5.7 (r) -8.2 (s) 0.1 (t of ) -5.3 (a) 7 (ll\054 i) -4.9 (t) 0.4 ( w) -7 (i) 5.7 (ll forc) -3.7 (e ) ] TJ
+-1.4987 -1.7272 TD
+0.1337 Tw
+[ (us) -5.2 ( to ) -5.4 (a) -3.7 (c) -3.7 (c) 1.6 (e) 7 (p) -6 (t) -4.9 ( e) -3.7 (ith) -6 (er on) -6 (e ) -5.4 (of ) -5.4 (the) 7 (s) -10.5 (e ) -5.4 (two ) -5.4 (real) -4.9 (ly) -11.3 ( bad c) -3.7 (l) -4.9 (ai) -4.9 (m) 11.4 (s) -5.2 (\056) -6.2 ( If ) -10.7 (we a) -3.7 (c) -3.7 (cept) -4.9 ( t) -4.9 (h) -0.7 (at) -4.9 ( ) ] TJ
+/TT8 1 Tf
+30.5957 0 TD
+0.0004 Tc
+0.1376 Tw
+(a posteriori) Tj
+/TT2 1 Tf
+4.8415 0 TD
+0 Tc
+0 Tw
+( ) Tj
+-35.4372 -1.7219 TD
+-0.0009 Tc
+0.0857 Tw
+[ (truths are o) -5.8 (n) -0.5 (ly) -5.8 ( conti) 5.9 (n) -0.5 (g) -5.8 (e) -3.5 (nt \226 assu) -11.1 (m) 11.6 (i) 0.6 (ng the nece) 7.2 (s) -10.3 (s) 0.3 (ary) -11.1 ( ones are ) ] TJ
+/TT8 1 Tf
+25.2652 0 TD
+0.0001 Tc
+0.0847 Tw
+[ (a pri) 6.9 (o) -4.8 (ri) ] TJ
+/TT2 1 Tf
+3.1674 0 TD
+0.0013 Tc
+0.0835 Tw
+[ ( \226 a) 4 (nd cl) 8.1 (ai) -7.9 (m) 13.8 ( ) -5.3 (t) 8.1 (h) -3.6 (at ) ] TJ
+-28.4326 -1.7272 TD
+-0.0002 Tc
+0.0956 Tw
+[ (w) -6.1 (e) 7.9 ( can) -5.1 ( know w) -6.1 (h) 0.2 (at) 6.6 ( ) -5.4 (the ) -5.4 (world ) ] TJ
+/TT8 1 Tf
+12.3562 0 TD
+-0.0015 Tc
+0 Tw
+(is) Tj
+/TT2 1 Tf
+7.5077 0 0 7.5077 253.02 369.6 Tm
+0 Tc
+(4) Tj
+11.2898 0 0 11.2898 256.8 364.38 Tm
+-0.0011 Tc
+0.1019 Tw
+[ ( ab) -6 (out ) 5.4 (only) -11.3 ( ) 10.7 (by) -11.3 ( ) ] TJ
+/TT8 1 Tf
+6.388 0 TD
+0.0049 Tc
+0.0852 Tw
+[ (a po) 5.3 (s) 6.1 (t) 1.1 (e) 7.6 (r) 6.1 (i) 6.4 (o) 5.3 (r) 6.1 (i) ] TJ
+/TT2 1 Tf
+4.7937 0 TD
+-0.0025 Tc
+0.0979 Tw
+[ ( ) -10.7 (m) 10 (eans) -6.6 ( th) -7.4 (en) -7.4 ( th) -7.4 (e) 5.6 ( b) -7.4 (a) 0.2 (d ) -5.4 (c) -5.1 (l) -1 (ai) -17 (m ) ] TJ
+-24.5371 -1.7219 TD
+-0.0005 Tc
+0.0215 Tw
+[ (follows\072) 6.3 ( \050a\051 the) 7.6 (r) -7.6 (e is no such th) -5.4 (ing a) 7.6 (s) -9.9 ( knowledge o) -5.4 (f) -2.3 ( ) 5.3 (the nat) 6.3 (u) -0.1 (re of the ) 5.3 (e) -8.4 (m) 12 (p) -5.4 (i) -4.3 (ri) 6.3 (cal world\054 n) -5.4 (o) -5.4 ( ) ] TJ
+0 -1.7272 TD
+-0.0002 Tc
+0 Tw
+[ (m) 7 (a) -2.8 (tter how) -6.1 ( ) -5.3 (good our sc) 7.9 (ienti) 6.6 (f) -2 (ic r) -7.3 (e) 2.5 (sources ) -5.3 (can b) -5.1 (e) 2.5 (\054 ) -5.3 (t) 6.6 (h) -5.1 (e) 7.9 (r) -7.3 (e ) -5.3 (is no ) -5.3 (w) -6.1 (a) 7.9 (y) -10.4 ( we can ) -5.3 (now how) -6.1 ( thing) -5.1 (s) -4.3 ( ) ] TJ
+T*
+-0.0007 Tc
+0.0058 Tw
+[ (are ) -10.6 (m) 11.8 (a) 2 (d) -5.6 (e) 2 ( up) -5.6 (\056 Wh) 5.1 (y) -5.6 (\077) -3.3 ( Eas) 5.8 (y) -5.6 (\054 beca) 7.4 (us) -10.1 (e i) 6.1 (f) -2.5 ( y) -5.6 (o) -0.3 (u) -5.6 ( c) 7.4 (ould kno) -5.6 (w wh) -5.6 (a) 7.4 (t) 0.8 (\054 say) -10.9 (\054) 4.8 ( gold ) ] TJ
+/TT8 1 Tf
+27.7896 0 TD
+-0.0015 Tc
+0 Tw
+(is) Tj
+/TT2 1 Tf
+0.6643 0 TD
+-0.0003 Tc
+0.0054 Tw
+[ ( ) 5.3 (y) -5.2 (o) -5.2 (u) 0.1 ( would kn) 5.4 (ow ) ] TJ
+-28.4539 -1.7219 TD
+0 Tc
+0.1752 Tw
+[ (so) -4.9 (m) 12.5 (e) 2.7 (thing) -4.9 ( essential \050i\056) -5.1 (e) 2.7 (\056) -5.1 ( necessary) -4.9 (\051) -1.8 ( ) 5.4 (a) 8.1 (b) -4.9 (out go) ] TJ
+18.7337 0 TD
+[ (l) 6.8 (d) 0.4 (\056 ) -5.3 (This is w) -5.9 (h) 0.4 (at) 6.8 ( scienti) 6.8 (f) -1.8 (ic ) -5.3 (knowledg) -4.9 (e i) -9.2 (s) -4.1 ( ) ] TJ
+-18.7337 -1.7272 TD
+-0.0005 Tc
+0.0003 Tw
+[ (supposed to ) -5.3 (be\056) -5.6 ( ) ] TJ
+1.4987 -1.7219 TD
+-0.0006 Tc
+0.1014 Tw
+[ (P) -7.8 (e) 2.1 (rha) 7.5 (p) -5.5 (s we ) -5.3 (don\222t want ) -5.3 (this con) -5.5 (c) -3.2 (lusion\054 but still ) -5.3 (clai) -9.7 (m) 11.9 ( th) -5.5 (at ) 5.4 (o) -10.8 (n) -0.2 (l) 6.2 (y) -10.8 ( ) ] TJ
+/TT8 1 Tf
+26.5566 0 TD
+0.0019 Tc
+0.0989 Tw
+[ (a pri) 8.7 (o) 2.3 (ri) ] TJ
+/TT2 1 Tf
+3.1834 0 TD
+0.0001 Tc
+0.0953 Tw
+[ ( truths ) -10.7 (are ) ] TJ
+-31.2387 -1.7272 TD
+-0.0013 Tc
+0.033 Tw
+[ (ne) -3.9 (cess) -5.4 (a) 1.4 (ry) -11.5 ( and ) 5.3 (th) -6.2 (e re) 6.8 (s) -10.7 (t) 0.2 ( are cont) -5.1 (ing) -6.2 (e) 1.4 (nt\054) -6.4 ( ) 5.3 (s) -5.4 (o) -0.9 ( ) 5.3 (w) -7.2 (e) 1.4 ( choo) -6.2 (s) -5.4 (e) 6.8 ( th) -6.2 (e) -3.9 ( ) 5.3 (s) -5.4 (econ) -6.2 (d) -0.9 ( ) ] TJ
+/TT8 1 Tf
+25.6106 0 TD
+-0.0004 Tc
+0 Tw
+(bad) Tj
+/TT2 1 Tf
+1.4987 0 TD
+0.0003 Tc
+0.0261 Tw
+[ ( ) -5.3 (optio) -4.6 (n\056 I) -6.8 (f) -1.5 ( w) -5.6 (e) 8.4 ( ) -5.3 (accep) -4.6 (t ) ] TJ
+-27.1093 -1.7272 TD
+-0.0004 Tc
+0.1171 Tw
+[ (the ) 5.3 (fo) -5.3 (r) -7.5 (m) 12.1 (er\054 ) -5.3 (and de) 7.7 (f) -7.5 (e) 2.3 (nd ) -5.3 (that) 6.4 (\054 n) -5.3 (e) 2.3 (ver) -7.5 (t) 6.4 (h) -5.3 (e) 2.3 (less\054 ) 5.3 (w) -6.3 (e) 7.7 ( ) -5.3 (can ) 5.3 (kn) -5.3 (ow wh) 5.3 (at th) -5.3 (e world ) ] TJ
+/TT8 1 Tf
+29.9526 0 TD
+-0.0068 Tc
+0 Tw
+(is) Tj
+/TT2 1 Tf
+0.6643 0 TD
+-0.0004 Tc
+0.1171 Tw
+[ ( a) 7.7 (bou) -10.6 (t) 6.4 ( by) -5.3 ( ) ] TJ
+/TT8 1 Tf
+4.3207 0 TD
+0 Tw
+(a ) Tj
+/TT2 1 Tf
+-34.9376 -1.8123 TD
+0 Tc
+(                                                ) Tj
+ET
+106.02 190.44 135.48 0.60001 re
+f
+BT
+11.2898 0 0 11.2898 241.5 188.1001 Tm
+( ) Tj
+6.0965 0 0 6.0965 106.02 181.14 Tm
+(4) Tj
+9.427 0 0 9.427 109.08 176.94 Tm
+0.0019 Tc
+-0.0037 Tw
+[ ( In ) -6.4 (a) 6.6 ( ) -6.4 (per) 10.3 (s) 2.8 (on) -7.3 (a) 12.9 (l) -0.3 ( ) -6.4 (di) 6.1 (scuss) 9.2 (i) -0.3 (o) 5.5 (n) -0.9 ( S) 4.3 (h) -0.9 (en\055) 10.3 (y) 5.5 (i) -6.7 ( Lia) 6.6 (o) -0.9 ( ) -6.4 (p) 5.5 (o) 5.5 (i) -0.3 (n) 5.5 (t) 6 (ed out a ) 6.3 (d) -7.3 (i) -0.3 (s) 9.2 (t) 6.1 (inc) 6.6 (tio) 5.5 (n be) 6.6 (tw) 4.9 (ee) 6.6 (n k) 5.5 (now) 11.2 (in) 5.5 (g ) -6.4 (h) 5.5 (o) -0.9 (w) 4.9 ( th) 5.5 (e) 6.6 ( ) -6.4 (ac) 6.6 (tua) 6.6 (l) -0.3 ( ) -6.4 (w) 4.9 (o) -0.9 (rl) 6.1 (d i) -6.7 (s) 9.2 ( ) ] TJ
+-0.3246 -1.1456 TD
+0.0017 Tc
+0.0156 Tw
+[ (and ) 6.3 (k) 5.3 (now) 11 (i) -6.9 (n) 5.3 (g h) 5.3 (o) -1.1 (w) 4.7 ( co) 5.3 (un) 5.3 (terfac) 6.4 (t) 5.9 (ual w) 11 (o) -1.1 (rld) 5.3 (s) 2.6 ( ) -6.4 (a) 6.4 (r) 3.7 (e\056 ) -6.4 (We ca) 6.4 (n) -7.5 ( ) 6.3 (have) 6.4 ( t) 5.8 (h) -1.1 (e first ) 6.3 (kn) 5.3 (o) -7.5 (w) 11 (l) -6.9 (e) 12.7 (dge em) 9.4 (p) 5.3 (i) -6.9 (r) 10.1 (i) -6.9 (c) 6.4 (a) 6.4 (l) 5.9 (l) 5.8 (y) -1.1 ( ) -6.4 (a) 6.4 (nd t) 5.9 (h) -1.1 (e sec) 6.4 (o) 5.3 (nd) 5.3 ( ) ] TJ
+0 -1.152 TD
+0.0026 Tc
+0.0847 Tw
+[ (one by ) ] TJ
+/TT8 1 Tf
+3.1378 0 TD
+0.0018 Tc
+0.0919 Tw
+[ (a pr) 9.1 (iori) ] TJ
+/TT2 1 Tf
+3.1823 0 TD
+-0.0036 Tc
+0.0973 Tw
+[ ( mea) -5.3 (n) -6.4 (s\073) -5.8 ( ) -6.4 (th) -6.4 (us\054 ) -6.4 (h) -6.4 (a) 1.1 (vi) -5.8 (n) -6.4 (g) -6.4 ( con) -6.4 (t) 0.6 (i) -5.8 (n) -6.4 (gen) -6.4 (t) -12.2 ( ) 6.4 (t) -5.8 (r) -1.6 (ut) -5.8 (h) -6.4 (s) -2.7 ( i) -5.8 (n) -6.4 ( th) -6.4 (e ) -6.4 (fi) -12.2 (rs) -9 (t) -5.8 ( ) 6.4 (on) -12.8 (e ) -6.4 (and) -6.4 ( n) -6.4 (e) -5.3 (ce) -5.3 (ssa) -5.3 (ry) -6.4 ( ) 6.4 (o) -6.4 (n) -6.4 (e) 1.1 (s ) -6.4 (i) -5.8 (n) -6.4 ( th) -6.4 (e) -5.3 ( se) -5.3 (c) -5.3 (ond ) ] TJ
+-6.3201 -1.1456 TD
+-0.0038 Tc
+0.1802 Tw
+[ (o) -6.6 (n) -6.6 (e) -5.5 (\056 I t) -6 (h) -0.2 (in) -6.6 (k) -6.6 ( ) 6.3 (t) -6 (h) -6.6 (at) -6 ( Li) -6 (ao) -6.6 (\222s di) -6 (st) -6 (i) -6 (n) -6.6 (cti) -6 (o) -0.2 (n) -6.6 ( ) 6.3 (i) -6 (s) -2.9 ( mi) -6 (sle) -5.5 (a) 0.9 (d) -6.6 (i) -6 (ng) -6.6 (\056 I b) -6.6 (e) 0.9 (l) -12.4 (i) -6 (ev) -6.6 (e th) -6.6 (at) -6 ( if) -8.1 ( a sub) -6.6 (j) -12.4 (ect) -6 ( ) 6.3 (h) -6.6 (a) -5.5 (s knowl) -6 (e) -5.5 (dg) -6.6 (e \050p) -6.6 (e) -5.5 (r) 4.6 (h) -6.6 (a) 0.9 (p) -6.6 (s) -2.9 (\054 ) ] TJ
+T*
+-0.003 Tc
+0.1794 Tw
+[ (sc) -4.7 (i) -5.2 (e) 1.7 (n) -5.8 (t) 1.2 (i) -5.2 (f) -1 (i) -5.2 (c) -4.7 ( knowl) -5.2 (e) -4.7 (dg) -5.8 (e\051 o) -5.8 (f) -7.3 ( ) ] TJ
+/TT8 1 Tf
+10.489 0 TD
+0 Tc
+0 Tw
+(x) Tj
+/TT2 1 Tf
+0.4392 0 TD
+-0.0034 Tc
+0.1798 Tw
+[ ( th) -6.2 (e) -5.1 (n) -6.2 ( ) 6.3 (t) -5.6 (h) -6.2 (at) -5.6 ( subj) -5.6 (ec) -5.1 (t) -5.6 ( kn) -6.2 (o) -6.2 (w) -0.4 (s wh) -6.2 (a) 7.6 (t) 0.8 ( ) ] TJ
+/TT8 1 Tf
+13.1431 0 TD
+0 Tc
+0 Tw
+(x) Tj
+/TT2 1 Tf
+0.4455 0 TD
+0.0012 Tc
+0.1752 Tw
+[ ( is\056 ) 6.3 (H) 4.2 (e) -6.8 (re) 5.9 ( ) -6.4 (\221is\222 is take) 12.2 (n w) 4.2 (ith ) 6.3 (a m) 8.9 (e) -0.5 (taph) 4.8 (ys) 8.5 (i) 5.4 (cal ) ] TJ
+-24.5168 -1.152 TD
+0.002 Tc
+0.0408 Tw
+[ (st) -6.6 (r) 10.4 (e) 0.3 (n) 5.6 (g) -0.8 (t) 6.2 (h) -0.8 ( ) -6.3 (suc) 13 (h) -0.8 ( ) -6.3 (tha) 6.7 (t) -6.6 ( ) -6.3 (w) 11.3 (h) -0.8 (a) 6.7 (t) -0.2 ( i) -6.6 (s) 2.9 ( kn) 5.6 (ow) 5 (n to b) -7.2 (e) 6.7 ( true) 6.7 ( ) -6.3 (of ) ] TJ
+/TT8 1 Tf
+18.9731 0 TD
+0 Tc
+0 Tw
+(x) Tj
+/TT2 1 Tf
+0.4392 0 TD
+0.0086 Tc
+0.0342 Tw
+[ ( is) 9.5 ( ) -6.3 (w) 11.6 (h) 5.8 (a) 19.6 (t) 0 ( d) 12.2 (e) 13.3 (te) 13.3 (r) 10.6 (m) 16.3 (in) 5.8 (e) 13.3 (s) 9.5 ( ) -6.3 (t) 6.4 (h) 12.2 (e) 13.3 ( ) -12.7 (i) 12.7 (d) 5.8 (e) 13.3 (n) 5.8 (t) 12.8 (i) 6.4 (t) 12.8 (y) 5.8 ( o) 5.8 (f) 4.3 ( ) ] TJ
+/TT8 1 Tf
+14.1805 0 TD
+0 Tc
+0 Tw
+(x) Tj
+/TT2 1 Tf
+0.4455 0 TD
+0.0014 Tc
+0.0477 Tw
+[ (\056) 9.5 ( If such ) 6.3 (t) 5.5 (h) -1.4 (in) 5 (g h) 5 (o) 5 (l) 5.5 (ds\054 ) ] TJ
+-34.0383 -1.1456 TD
+-0.0037 Tc
+0.1738 Tw
+[ (t) -5.9 (h) -6.5 (en) -6.5 ( h) -6.5 (a) 1 (vi) -5.9 (ng) -6.5 ( sci) -5.9 (e) -5.4 (nti) -5.9 (f) -1.7 (i) -5.9 (c) -5.4 ( kno) -6.5 (wle) -5.4 (d) -6.5 (g) -6.5 (e) 1 ( ) 6.4 (o) -6.5 (f) -8 ( ) ] TJ
+/TT8 1 Tf
+15.4153 0 TD
+0 Tc
+0 Tw
+(x) Tj
+/TT2 1 Tf
+0.4392 0 TD
+0.0021 Tc
+0.168 Tw
+[ ( i) -6.5 (s) 3 ( t) 6.3 (a) 6.8 (n) -7.1 (t) -0.1 (a) 6.8 (m) 3.4 (o) 5.7 (u) 5.7 (n) -0.7 (t ) 6.4 (to ) 6.4 (kn) 5.7 (ow) 5.1 ( w) 5.1 (h) -0.7 (at i) 6.2 (t) -0.1 ( ) 6.4 (take) 6.8 (s to ) 6.4 (be ) ] TJ
+/TT8 1 Tf
+18.6294 0 TD
+0 Tc
+0 Tw
+(x) Tj
+/TT2 1 Tf
+0.4455 0 TD
+0.0024 Tc
+0.1677 Tw
+[ ( in ) 6.4 (the a) 7.1 (c) 7.1 (t) 0.2 (ua) 7.1 (l a) 7.1 (nd ) ] TJ
+-34.9294 -1.1456 TD
+0.0011 Tc
+0.0671 Tw
+[ (cou) 4.7 (n) 4.7 (t) -1.1 (erfac) 5.8 (t) -1.1 (ua) 12.1 (l) -7.5 ( w) 10.4 (o) -8.1 (r) 9.5 (l) -1.1 (d) -8.1 (s) 8.4 ( ) -6.4 (w) 10.4 (h) -1.7 (ere) 5.8 ( the) 5.8 (r) 3.1 (e are) 5.8 ( ) ] TJ
+/TT8 1 Tf
+15.6826 0 TD
+0 Tc
+0 Tw
+(x) Tj
+/TT2 1 Tf
+0.4455 0 TD
+0.0019 Tc
+0.0727 Tw
+[ (\222s\056) 10 ( Liao) 5.5 ( t) 6 (h) 5.5 (in) 5.5 (ks ) 6.4 (sc) 13 (i) -6.7 (e) 12.9 (nti) 6.1 (f) 3.9 (i) -6.7 (c) 13 ( k) 5.5 (n) 5.5 (o) -0.9 (w) 4.9 (l) -6.7 (e) 12.9 (d) 5.5 (ge ) 6.4 (doe) 6.6 (sn\222) 10.3 (t) -0.3 ( pr) 16.7 (o) 5.5 (v) -7.3 (i) 6 (d) -0.9 (e) 6.6 ( ) 6.4 (us ) 6.4 (w) 4.9 (ith) 5.5 ( t) 6.1 (h) 5.5 (at) -6.7 ( ) ] TJ
+-16.1281 -1.152 TD
+0.0013 Tc
+0.0606 Tw
+[ (in) 4.9 (form) 9 (ation ) 6.4 (\050I do) 4.9 (n\264) 9.7 (t re) 6 (call h) 4.9 (i) -0.9 (s) 8.6 ( argum) 9 (ent ) 6.4 (for ) 12.8 (t) -7.3 (h) 4.9 (is\051 a) 6 (nd ) 6.4 (my fe) 6 (ar ) 6.4 (i) -7.3 (s) 2.2 ( tha) 6 (t) -0.9 ( he) 6 ( ) 6.4 (migh) 4.9 (t ) 6.4 (be p) 4.9 (o) -1.5 (s) 8.6 (i) -7.3 (n) 4.9 (g) -1.5 ( a) 6 (n) -1.5 ( ) 6.4 (unmo) 4.9 (t) 5.5 (iva) 6 (t) 5.5 (ed ) ] TJ
+0 -1.1456 TD
+0.0017 Tc
+0.0538 Tw
+[ (me) 6.4 (taph) 5.3 (ys) 9 (i) -6.9 (c) 6.4 (a) 6.4 (l) -0.5 ( h) 5.3 (i) -0.5 (n) 5.3 (d) -1.1 (rance) 6.4 ( ) 6.4 (to sc) 12.7 (ie) 6.4 (nt) 5.9 (ifi) -6.9 (c) 6.4 ( ) 6.4 (kn) 5.3 (ow) 4.7 (l) -6.9 (e) 12.7 (dge \050w) 4.7 (ha) 12.8 (tever ) 6.4 (tha) 12.8 (t) -6.9 ( m) 9.4 (i) 5.9 (gh) 5.3 (t) -6.9 ( m) 9.4 (e) 0 (a) 6.4 (n) -1.1 (\051\056 A) 11 (t) -6.9 ( lea) 6.4 (s) 2.6 (t) -6.9 (\054) 9.8 ( it) -6.9 ( ) 6.4 (is n) 5.3 (o) 5.3 (t) -0.5 ( mot) 5.9 (i) -0.5 (va) 6.4 (te) 6.4 (d ) ] TJ
+T*
+0.0023 Tc
+-0.0104 Tw
+[ (by ) -6.3 (t) 6.5 (h) -0.5 (e pro) 5.9 (b) 5.9 (l) 0.1 (em) 10 (s pose) 7 (d) -0.5 ( ) -6.3 (by nec) 7 (e) 7 (s) 3.2 (sa) 7 (ry ) ] TJ
+/TT8 1 Tf
+14.6388 0 TD
+0.0028 Tc
+-0.0109 Tw
+[ (a pos) 10.1 (t) -5.8 (e) 7.5 (r) 10.1 (i) -5.8 (o) 6.4 (r) 3.7 (i) ] TJ
+/TT2 1 Tf
+4.6908 0 TD
+-0.0012 Tc
+-0.0006 Tw
+( truths\056 ) Tj
+ET
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 PHI\056G1\05602\0562 \055 Philosophy \055 First year Graduate \055 Male \055 NNS \050L1\072 Spanish\051 \055 Research Paper) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(8) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+35 0 obj
+<<
+/Length 12101
+>>
+stream
+q
+/GS1 gs
+BT
+/TT2 1 Tf
+11.2898 0 0 11.2898 106.02 35.76 Tm
+0 g
+0 Tc
+0 Tw
+( ) Tj
+34.9323 -0.0053 TD
+(9) Tj
+/TT8 1 Tf
+-34.9323 60.1603 TD
+0.003 Tc
+[ (pri) 9.8 (o) 3.4 (ri) ] TJ
+/TT2 1 Tf
+2.3331 0 TD
+0.0002 Tc
+0.1165 Tw
+[ ( ) -10.6 (m) 12.7 (ean) -4.7 (s\054 ) -5.3 (t) 7 (h) 0.6 (en) -4.7 (\072 ) -5.3 (\050b\051 w) -5.7 (e) 2.9 ( can k) -4.7 (n) 0.6 (o) -4.7 (w) -0.4 ( ) -5.3 (a) 8.3 (b) -4.7 (out) 7 ( ) -10.6 (the natur) -6.9 (e) 2.9 ( of ) -5.3 (the ) -5.3 (e) -7.7 (m) 12.7 (p) -4.7 (i) 1.7 (rical w) -5.7 (o) 0.6 (rl) 7 (d ) -5.3 (w) -5.7 (i) 7 (tho) -4.7 (u) -4.7 (t) -3.6 ( ) ] TJ
+-2.3331 -1.7272 TD
+-0.001 Tc
+0.0061 Tw
+[ (ev) -5.9 (en lookin) -5.9 (g) -0.6 ( a) 7.1 (t) 0.5 ( it\054 we ju) -5.9 (st nee) 7.1 (d) -0.6 ( to en) -5.9 (gag) -5.9 (e) 1.7 ( i) 5.8 (n) -5.9 ( so) -11.2 (m) 6.2 (e) 1.7 ( ) ] TJ
+/TT8 1 Tf
+20.2536 0 TD
+-0.0008 Tc
+0.0059 Tw
+(a priori) Tj
+/TT2 1 Tf
+3.0824 0 TD
+-0.0016 Tc
+0.0067 Tw
+[ ( re) -4.2 (flect) -5.4 (io) -6.5 (ns an) -6.5 (d we are set\054) -6.7 ( we ) ] TJ
+-23.336 -1.7219 TD
+-0.0007 Tc
+0.0005 Tw
+[ (w) -6.6 (i) 6.1 (ll know) -6.6 ( every) -10.9 (t) 0.8 (hing th) -5.6 (ere) 7.4 ( ) -5.3 (is t) 6.1 (o) -0.3 ( b) -5.6 (e) 2 ( k) -5.6 (now) -6.6 (n about ) -5.3 (the) 7.4 ( n) -5.6 (a) -3.3 (ture of) -7.8 ( things\056 ) -5.3 ( ) ] TJ
+1.4987 -1.7272 TD
+-0.002 Tc
+0.0549 Tw
+[ (Thes) -6.1 (e tw) -7.9 (o c) -4.6 (l) -0.5 (ai) -11.2 (m) 10.5 (s) -6.1 ( ar) -9.1 (e) 6.1 ( ) -5.3 (eq) -6.9 (ua) 6.1 (l) -5.8 (l) -0.5 (y) -12.2 ( ) 5.3 (bad an) -6.9 (d ) 5.3 (for th) -6.9 (e sa) -4.6 (me ) -5.3 (sin) -6.9 (\072) -0.5 ( they) -6.9 ( ) 5.3 (ar) -9.1 (e ) 5.3 (both) -6.9 ( to) -6.9 (o pol) -5.8 (arize) -4.6 (d) -6.9 (\056) -7.1 ( ) ] TJ
+-1.4987 -1.7272 TD
+-0.0004 Tc
+0.0214 Tw
+[ (The fi) 6.4 (rs) -4.5 (t ) 5.3 (on) -5.3 (e) 7.7 ( s) -4.5 (e) 2.3 (e) -8.3 (m) 12.1 (s to b) -5.3 (e) 7.7 ( s) -4.5 (o) -10.6 (m) 12.1 (e) 7.7 ( ) -5.4 (extr) -7.5 (em) 6.8 (e realis) -9.8 (m) 12.1 ( ) -5.4 (of the) 7.7 ( for) -7.5 (m) 12.1 ( ) ] TJ
+/TT8 1 Tf
+24.2661 0 TD
+-0.0007 Tc
+0.0217 Tw
+(you can\222t) Tj
+/TT2 1 Tf
+3.7627 0 TD
+0.027 Tw
+[ ( ) 10.7 (\226 w) -6.5 (h) -0.2 (e) 7.5 (r) -2.4 (e ) 5.4 (\221can\222 ha) 7.5 (s) -4.7 ( ) ] TJ
+-28.0287 -1.7219 TD
+-0.0008 Tc
+0.075 Tw
+[ (a m) 11.7 (e) -3.4 (taphy) -11 (sical ) 10.6 (strength ) 5.3 (\226) ] TJ
+/TT8 1 Tf
+10.3846 0 TD
+-0.0003 Tc
+0.0692 Tw
+[ ( really ) 5.3 (kno) -5.2 (w) 2.4 ( what th) -5.2 (i) 6.5 (n) -5.2 (gs ) 5.3 (are) 7.8 ( made ) 5.3 (of) ] TJ
+/TT2 1 Tf
+15.3164 0 TD
+0 Tc
+0.0636 Tw
+[ (\056 Th) -4.9 (e second ) -5.3 (one seem) 7.2 (s) -9.4 ( ) ] TJ
+-25.701 -1.7272 TD
+-0.0001 Tc
+0.0371 Tw
+[ (to b) -5 (e) 8 ( so) -10.3 (m) 12.4 (e) -2.7 ( ) -5.3 (e) 8 (x) -5 (t) 6.7 (r) -7.2 (e) -8 (m) 12.4 (e id) -5 (ea) 8 (l) -3.9 (i) 1.4 (s) -9.5 (m) 12.4 ( ) -5.3 (of ) 5.3 (th) -5 (e ) -5.3 (for) -7.2 (m) ] TJ
+/TT8 1 Tf
+16.4431 0 TD
+-0.0002 Tc
+0.0372 Tw
+[ ( it\222s all in your ) 5.3 (m) -6.1 (i) 6.6 (n) -5.1 (d) 0.2 (\054 you ) -5.3 (c) 7.9 (a) 0.2 (n) -5.1 ( know everyth) -5.1 (i) 1.3 (ng) -5.1 ( ) ] TJ
+-16.4431 -1.7219 TD
+0 Tc
+0.1911 Tw
+[ (by ) -5.3 (just ) 5.3 (d) -4.9 (e) 8.1 (p) -4.9 (l) -3.8 (oying) -4.9 ( t) 6.8 (h) -4.9 (e p) -4.9 (r) 1.2 (oper concepts) ] TJ
+/TT2 1 Tf
+15.9861 0 TD
+-0.0008 Tc
+0.1919 Tw
+[ (\056  Th) -5.7 (e first one ) 5.3 (de) -8.7 (mands ) -5.3 (too ) -10.6 (m) 6.4 (u) -0.4 (ch ) -5.3 (abou) -5.7 (t o) -5.7 (u) -0.4 (r ) ] TJ
+-15.9861 -1.7272 TD
+-0.0005 Tc
+0.08 Tw
+[ (episte) -8.4 (m) 12 (i) -4.3 (c ap) -5.4 (paratus\073) 6.3 ( ) -5.3 (th) -5.4 (e ) -5.3 (second) -5.4 ( one ) -5.3 (de) -8.4 (m) 12 (a) -3.1 (nds ) -5.3 (to) -5.4 (o lit) 6.3 (tle ) -5.3 (a) 7.6 (b) -0.1 (o) -5.4 (u) -5.4 (t) 6.3 ( it\056 W) -8 (e) 2.2 ( sho) -5.4 (u) -0.1 (ld ) -5.3 (avoid b) -5.4 (o) -0.1 (th) -5.4 ( ) ] TJ
+0 -1.7219 TD
+-0.0011 Tc
+0.0062 Tw
+[ (as ) -5.3 (m) 11.4 (u) -6 (ch as pos) -5.2 (sibl) -4.9 (e) 7 (\056) -6.2 ( ) 5.3 ( ) ] TJ
+1.4987 -1.7272 TD
+0.0001 Tc
+0.0263 Tw
+[ (A) -5.8 (nother st) 6.9 (r) -7 (a) 2.8 (tegy) -10.1 ( ) -5.3 (i) 6.9 (s) -4 ( perhaps to ) ] TJ
+/TT8 1 Tf
+12.3934 0 TD
+0.0049 Tc
+0.0268 Tw
+[ (av) 7.6 (o) 5.3 (i) 11.7 (d t) 6.4 (h) 5.3 (e) 7.6 ( ) 5.3 (pr) 6.1 (o) 5.3 (b) 5.3 (l) 1.1 (e) 7.6 (m) ] TJ
+/TT2 1 Tf
+7.3393 0 TD
+0 Tc
+0.0317 Tw
+[ ( \056 ) 5.3 (This wo) -4.9 (ul) 6.8 (d be possi) 6.8 (ble i) 6.8 (f) -1.8 ( we just ) ] TJ
+-21.2315 -1.7272 TD
+-0.0003 Tc
+0.202 Tw
+[ (deci) 6.5 (d) -5.2 (e) 2.4 ( no) -5.2 (t to ta) 7.8 (lk) -5.2 ( abou) -5.2 (t a pri) 6.5 (o) -5.2 (ri and a) 7.8 ( pos) ] TJ
+18.3882 0 TD
+0 Tc
+0.2017 Tw
+[ (teriori ) 5.3 (truths\054 f) -7.1 (o) 0.4 (r insta) 8.1 (n) -4.9 (ce\056) -5.1 ( We) 8.1 ( ) -10.7 (m) 12.5 (i) -3.8 (gh) -4.9 (t) 6.8 ( ) -5.3 (b) -4.9 (e) -2.6 ( ) ] TJ
+-18.3882 -1.7166 TD
+0.0001 Tc
+0.0475 Tw
+[ (conten) -4.8 (t) 6.9 ( ) -5.3 (if we) 8.2 ( ) -5.3 (just tal) 6.9 (k) 0.5 ( ) -5.3 (about the n) -4.8 (ece) 8.2 (ssity) -4.8 ( or ) -5.3 (cont) 6.9 (ing) -4.8 (e) 2.8 (n) -4.8 (c) 2.8 (y) -4.8 ( of wh) -4.8 (a) 8.2 (t) 1.6 ( is asse) 8.2 (rted o) -4.8 (r) -1.7 ( kno) 5.9 (w) -5.8 (n) 0.5 (\056) -5 ( ) ] TJ
+0 -1.7272 TD
+-0.0005 Tc
+0.0481 Tw
+[ (But t) 6.3 (h) -5.4 (is ) 5.3 (do) -5.4 (es not ) 5.3 (see) -8.4 (m) 12 ( to solve the prob) -5.4 (l) 6.3 (e) ] TJ
+17.0862 0 TD
+-0.0001 Tc
+0.0477 Tw
+[ (m) 12.4 ( ) 5.3 (W) -7.6 (e) -2.7 ( ) 5.3 (can still ) 5.3 (raise t) 6.7 (h) -5 (e problem) 12.4 ( by) -10.3 ( ) 5.3 (claim) 7.1 (i) 1.4 (n) -5 (g) -5 ( ) ] TJ
+-17.0862 -1.7219 TD
+0 Tc
+[ (that) 6.8 ( th) -4.9 (ere) 8.1 ( ) -5.3 (are) 8.1 ( nece) 8.1 (ssary) -10.2 ( ) 10.6 (truths ) 5.3 (th) -4.9 (at) 6.8 ( ) -5.3 (are) 8.1 ( know) -5.9 (n ) 5.3 (b) 5.8 (y) 0.4 ( doing ) ] TJ
+/TT8 1 Tf
+22.5388 0 TD
+0.0019 Tc
+0.0457 Tw
+[ (e) 4.6 (m) -4 (pi) 3.4 (ri) 3.4 (c) 10 (a) -3 (l) 3.4 ( r) 3.1 (e) 4.6 (se) 4.6 (ar) 3.1 (c) 4.6 (h) ] TJ
+/TT2 1 Tf
+7.621 0 TD
+-0.0012 Tc
+0.0488 Tw
+[ (\073 and we stil) -5 (l) -5 ( ) ] TJ
+-30.1599 -1.7272 TD
+-0.0005 Tc
+0.0853 Tw
+[ (hav) -5.4 (e) 2.2 ( to) -5.4 ( e) 7.6 (x) -5.4 (p) -5.4 (l) 1 (ain) -5.4 ( how ) -5.3 (t) 6.3 (h) -0.1 (is is possi) 6.3 (b) -5.4 (l) 1 (e\056) -5.6 ( I think ) -5.3 (t) 6.3 (h) -0.1 (is) -9.9 ( i) 6.3 (s) -4.6 ( just ) -5.3 (a) 7.6 ( ) -5.3 (ch) -5.4 (eap way) -10.7 ( out and\054 ) -5.3 (as ) -10.6 (m) 12 (a) -8.4 (n) 5.2 (y) -10.7 ( ) ] TJ
+T*
+-0.0006 Tc
+0.0004 Tw
+[ (hav) -5.5 (e) 2.1 ( said\054 th) -5.5 (e) 7.5 (r) -7.7 (e) 7.5 ( ) -5.3 (are no free lun) -5.5 (c) 7.5 (h) -5.5 (e) 2.1 (s) -4.7 ( in ) -5.3 (phi) 6.2 (los) -4.7 (oph) -5.5 (y) -5.5 (\056) 4.9 ( ) ] TJ
+/TT4 1 Tf
+13.1527 0 0 13.1527 106.02 382.02 Tm
+0.0006 Tc
+0 Tw
+(Conclusion ) Tj
+/TT2 1 Tf
+11.2898 0 0 11.2898 106.02 361.14 Tm
+-0.0004 Tc
+0.0374 Tw
+[ (S) -7.6 (o) 0 (\054 ) 5.3 (if we don\222t ) 5.3 (w) -6.3 (a) 7.7 (nt ) -5.3 (to end up g) -5.3 (e) 7.7 (ttin) -5.3 (g ) 5.3 (nothing \050) -7.5 (i) 1.1 (\056e) 7.7 (\056 no) -5.3 ( solu) -5.3 (tio) -5.3 (n\051 ) 5.3 (for too l) 6.4 (i) 1.1 (ttle \050) -7.5 (e) 7.7 (\056g) -5.3 (\056 ) 5.3 (av) -5.3 (oid) -5.3 ( ) ] TJ
+T*
+0.1595 Tw
+[ (tal) 6.5 (k) 0.1 (ing a) 7.8 (b) 0.1 (o) -5.2 (u) -5.2 (t) 6.5 ( ) ] TJ
+/TT8 1 Tf
+5.7981 0 TD
+-0.0001 Tc
+0.1487 Tw
+(a posteriori) Tj
+/TT2 1 Tf
+4.8415 0 TD
+0 Tc
+0 Tw
+(\057) Tj
+/TT8 1 Tf
+0.2764 0 TD
+0.0012 Tc
+0.1474 Tw
+(a priori) Tj
+/TT2 1 Tf
+3.2365 0 TD
+-0.0001 Tc
+0.1487 Tw
+[ (\051\054 or aski) 6.7 (n) -5 (g) 0.3 ( too ) -10.6 (m) 12.4 (u) -5 (ch \050i\056e\056 ex) -5 (t) 6.7 (r) -7.2 (em) 7.1 (e ) -5.3 (real) 6.7 (is) -9.5 (m) 12.4 (\051) -1.9 ( ) -5.3 (or ) -5.3 (too) -5 ( ) ] TJ
+-14.1525 -1.7272 TD
+-0.0002 Tc
+0.1169 Tw
+[ (lit) 6.6 (tle ) 5.3 (\050i\056e\056 e) 7.9 (x) -5.1 (tre) -8.1 (m) 12.3 (e id) -5.1 (ea) 7.9 (lism) 12.3 (\051) -2 (\054 we should look for ) 5.3 (a ) ] TJ
+/TT8 1 Tf
+21.0614 0 TD
+-0.001 Tc
+0 Tw
+(solution) Tj
+/TT2 1 Tf
+3.2153 0 TD
+-0.0001 Tc
+0.1168 Tw
+[ (\056 ) -5.3 (So) -5 (m) 12.4 (e) -2.7 (t) 6.7 (h) -5 (ing\054 that) 6.7 ( is\054 whic) -8 (h) -5 ( ) ] TJ
+-24.2767 -1.7219 TD
+-0.0005 Tc
+0.2501 Tw
+[ (m) 6.7 (i) -4.3 (gh) -5.4 (t e) 7.6 (x) -5.4 (p) -5.4 (l) 6.3 (ain how) -6.4 ( a) 7.6 ( truth can be conti) 6.3 (n) -0.1 (g) -5.4 (e) 2.2 (nt ) -5.3 (and know) -6.4 (n ) ] TJ
+/TT8 1 Tf
+25.0314 0 TD
+0.0019 Tc
+0.2477 Tw
+[ (a pri) 8.7 (o) 2.3 (ri) ] TJ
+/TT2 1 Tf
+3.3322 0 TD
+-0.0003 Tc
+0.2499 Tw
+[ (\054 a) 7.8 (n) -5.2 (d ) ] TJ
+/TT8 1 Tf
+2.6891 0 TD
+-0.0018 Tc
+0.2514 Tw
+[ (even m) -7.7 (o) -1.4 (re) -4.4 ( ) ] TJ
+-31.0527 -1.7272 TD
+-0.0008 Tc
+0 Tw
+[ (impor) -4.9 (tantly) ] TJ
+/TT2 1 Tf
+4.6608 0 TD
+-0.0002 Tc
+0.0956 Tw
+[ (\054) -5.3 ( ) 5.3 (how) -6.1 ( ) 10.6 (sci) 6.6 (e) 2.5 (n) -5.1 (t) 1.3 (ifi) 6.6 (c) 2.5 ( truths ar) -7.3 (e ) ] TJ
+/TT8 1 Tf
+10.8469 0 TD
+0.0045 Tc
+0.0856 Tw
+[ (a p) 4.9 (o) 4.9 (s) 5.7 (te) 7.2 (r) 5.7 (i) 6 (or) 5.7 (i) ] TJ
+/TT2 1 Tf
+4.7884 0 TD
+0.0002 Tc
+0.0899 Tw
+[ ( ) -5.3 (and n) -4.7 (e) 2.9 (v) -4.7 (e) 8.3 (r) -6.9 (t) 7 (heless n) -4.7 (e) 2.9 (cessary) -10 (\056  I guess ) ] TJ
+-20.2961 -1.7219 TD
+0.0006 Tc
+0.0842 Tw
+[ (ther) -6.5 (e a) 8.7 (r) -1.2 (e ) -5.3 (m) 7.8 (a) -7.3 (n) 6.3 (y) -9.6 ( ) 5.3 (differe) 8.7 (nt) 7.4 ( st) 7.4 (r) -6.5 (a) 8.7 (tegie) 8.7 (s) -3.5 ( to ) 5.3 (fol) 7.4 (l) 2.1 (ow ) ] TJ
+18.367 0 TD
+0 Tc
+0.0795 Tw
+[ (from) 7.2 ( ) -5.3 (th) -4.9 (i) 6.8 (s) -4.1 ( po) -4.9 (int) -3.8 (\056) 0.2 ( I thi) 6.8 (n) 0.4 (k) -4.9 (\054) 0.2 ( ho) -4.9 (wever\054 th) -4.9 (at) 6.8 ( ) -5.3 (th) -4.9 (e ) ] TJ
+-18.367 -1.7272 TD
+-0.0007 Tc
+0.2024 Tw
+[ (m) 6.5 (o) -0.3 (s) -4.8 (t) 0.8 ( pro) -10.9 (m) 11.8 (i) -9.9 (s) 0.5 (ing one is) -4.8 ( to ) 5.3 (rev) -5.6 (i) 0.8 (se o) -5.6 (u) -0.3 (r a) 7.4 (s) -4.8 (su) -10.9 (m) 11.8 (p) -0.3 (t) -4.5 (i) 0.8 (o) -5.6 (n) -0.3 (s\054 particu) -5.6 (l) 0.8 (a) 7.4 (r) -2.5 (ly) -10.9 ( te) 7.4 (n) -5.6 (e) 2 (t) -4.5 ( ) ] TJ
+/TT4 1 Tf
+28.8684 0 TD
+0.0018 Tc
+0 Tw
+[ (\050i) 8.6 (\051) ] TJ
+/TT2 1 Tf
+0.9407 0 TD
+-0.0007 Tc
+0.2024 Tw
+[ ( according) -5.6 ( to) -5.6 ( ) ] TJ
+-29.8091 -1.7272 TD
+0.0059 Tc
+0 Tw
+[ (wh) 6.3 (i) 12.7 (c) 8.6 (h) 6.3 ( ) ] TJ
+/TT8 1 Tf
+2.8433 0 TD
+-0.0068 Tc
+0.1607 Tw
+[ (w) -9.4 (h) -6.4 (a) -6.4 (t) -5.3 ( is) -10.9 ( ) 5.3 (s) -10.9 (a) -11.7 (id) ] TJ
+/TT2 1 Tf
+5.0807 0 TD
+-0.0002 Tc
+0 Tw
+(\054 ) Tj
+/TT8 1 Tf
+0.659 0 TD
+-0.0017 Tc
+[ (ex) -4.3 (pr) -5.8 (e) 6.4 (s) -5.8 (sed) ] TJ
+/TT2 1 Tf
+3.9381 0 TD
+-0.0016 Tc
+0.1555 Tw
+[ ( and) -6.5 ( ) ] TJ
+/TT8 1 Tf
+2.248 0 TD
+0 Tw
+[ (kno) -6.5 (w) 1.1 (n) ] TJ
+/TT2 1 Tf
+2.6094 0 TD
+0.0003 Tc
+0.1483 Tw
+[ ( ) -10.6 (i) 7.1 (s) -3.8 ( ) -5.3 (identified with on) -4.6 (e ) -5.3 (and ) -5.3 (the sam) 7.5 (e) -2.3 ( s) -9.1 (i) 1.8 (ngle ) ] TJ
+-17.3785 -1.7219 TD
+-0.0005 Tc
+0.1225 Tw
+[ (propo) -5.4 (sit) 6.3 (i) 1 (on\056) -5.6 ( We m) 12 (i) -4.3 (ght need t) 6.3 (o) -0.1 ( ) -10.6 (m) 12 (a) -3.1 (ke) 7.6 ( so) -10.7 (m) 12 (e) 2.2 ( ) -5.3 (c) 7.6 (o) -10.7 (m) 12 (p) -5.4 (lex di) 6.3 (stin) -5.4 (cti) 6.3 (o) -5.4 (ns within the ) ] TJ
+/TT8 1 Tf
+31.3397 0 TD
+-0.0016 Tc
+0 Tw
+[ (con) -6.5 (t) -0.1 (e) -4.2 (n) -1.2 (t) ] TJ
+/TT2 1 Tf
+2.9389 0 TD
+0.0044 Tc
+0.1176 Tw
+[ ( in ) ] TJ
+-34.2786 -1.7272 TD
+-0.0004 Tc
+0.1171 Tw
+[ (order ) -5.3 (to solve ) -5.3 (th) -5.3 (i) 6.4 (s) -4.5 (\054 p) -5.3 (e) 7.7 (r) -7.5 (h) 0 (aps disting) -5.3 (u) 0 (ishing ) -5.3 (\226 ) -5.3 (a) 7.7 (s) -9.8 ( Evans ) -5.3 (\133197) -5.3 (9\135 suggests ) -10.6 (\226 between ) -10.6 (that ) ] TJ
+0 -1.7219 TD
+-0.0005 Tc
+0.0853 Tw
+[ (part of ) -5.3 (th) -5.4 (e conten) -5.4 (t which has ) -5.3 (th) -5.4 (e ) -5.3 (modal prope) ] TJ
+19.0206 0 TD
+-0.0006 Tc
+0.0854 Tw
+[ (rtie) 7.5 (s) -10 ( and) -5.5 ( t) 6.2 (h) -5.5 (at ) -5.3 (which ) -5.3 (is kn) -5.5 (ow) -6.5 (n\054 believed) -5.5 (\054) -5.7 ( ) ] TJ
+-19.0206 -1.7219 TD
+0 Tc
+-0.0002 Tw
+[ (desir) -7.1 (e) 2.7 (d\054 etc) 8.1 (\056) 0.2 ( ) -5.3 ( ) ] TJ
+0 -1.7272 TD
+0 Tw
+( ) Tj
+0 -1.7219 TD
+( ) Tj
+0 -1.7272 TD
+( ) Tj
+ET
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 PHI\056G1\05602\0562 \055 Philosophy \055 First year Graduate \055 Male \055 NNS \050L1\072 Spanish\051 \055 Research Paper) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(9) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+36 0 obj
+<<
+/Length 2270
+>>
+stream
+q
+/GS1 gs
+BT
+/TT2 1 Tf
+11.2898 0 0 11.2898 106.02 35.76 Tm
+0 g
+0 Tc
+0 Tw
+( ) Tj
+34.4327 -0.0053 TD
+-0.0004 Tc
+(10) Tj
+-34.4327 60.1603 TD
+0 Tc
+( ) Tj
+0 -1.7272 TD
+0.0018 Tc
+-0.002 Tw
+[ (\055\055\055) 5.3 (\055\055 \055\055\055) 5.3 (\055\055\055) 5.3 (\055\055) 5.3 (\055) 5.3 (\055\055\055) 5.3 ( ) ] TJ
+/TT4 1 Tf
+0 -1.1533 TD
+0.0031 Tc
+0 Tw
+[ (Re) 11.2 (fe) 5.8 (re) 5.8 (nce) 5.8 (s) -1 ( ) ] TJ
+/TT2 1 Tf
+1.4987 -1.1479 TD
+0 Tc
+(\055) Tj
+/TT12 1 Tf
+0.3348 0 TD
+( ) Tj
+/TT2 1 Tf
+1.1692 0 TD
+-0.001 Tc
+0.0008 Tw
+[ (Ev) -5.9 (a) 7.1 (n) -0.6 (s\054 Gareth\054 \1331979) -5.9 (\135\054 ) -5.3 (\223Ref) -8.1 (er) ] TJ
+11.9949 0 TD
+-0.0005 Tc
+0.0003 Tw
+[ (en) -5.4 (c) 7.6 (e) 2.2 ( ) -5.3 (and Contingency) -5.4 (\224) 2.2 ( in ) ] TJ
+/TT8 1 Tf
+10.6025 0 TD
+-0.0009 Tc
+0.0007 Tw
+[ (Col) -4.7 (l) -4.7 (e) -3.5 (c) 7.2 (t) -4.7 (ed Pap) -5.8 (e) 1.8 (r) -5 (s) ] TJ
+/TT2 1 Tf
+6.9195 0 TD
+0.0009 Tc
+-0.0011 Tw
+[ (\054 O) -5 (U) 5.6 (P ) ] TJ
+-31.0208 -1.1479 TD
+0 Tc
+0 Tw
+(\055) Tj
+/TT12 1 Tf
+0.3348 0 TD
+( ) Tj
+/TT2 1 Tf
+1.1692 0 TD
+-0.0005 Tc
+0.0003 Tw
+(Kripke\054 Saul\054 \1331980\135 ) Tj
+/TT8 1 Tf
+8.466 0 TD
+0.0003 Tc
+-0.0005 Tw
+[ (Na) -4.6 (ming and Necessity) ] TJ
+/TT2 1 Tf
+8.9443 0 TD
+-0.0015 Tc
+0.0013 Tw
+[ (\054 Har) -8.6 (v) -1.1 (ard Univer) -8.6 (sity) -11.7 ( ) 5.3 (Pres) -5.6 (s ) ] TJ
+-18.9144 -1.1479 TD
+0 Tc
+0 Tw
+(\055) Tj
+/TT12 1 Tf
+0.3348 0 TD
+( ) Tj
+/TT2 1 Tf
+1.1692 0 TD
+-0.0006 Tc
+0.0004 Tw
+[ (Stal) 6.2 (n) -5.5 (a) 2.1 (k) -5.5 (e) 2.1 (r\054 Robert\054 ) -5.3 (\1331978) -5.5 (\135\054 \223A) -6.5 (ssertion) -5.5 (\224) 2.1 ( i) 6.2 (n) -0.2 ( ) ] TJ
+/TT8 1 Tf
+16.661 0 TD
+-0.0004 Tc
+0.0055 Tw
+[ (Context and ) 5.3 (Content) ] TJ
+/TT2 1 Tf
+8.28 0 TD
+-0.0005 Tc
+0.0003 Tw
+(\054 OUP ) Tj
+-27.9437 -1.1533 TD
+0 Tc
+0 Tw
+( ) Tj
+ET
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 PHI\056G1\05602\0562 \055 Philosophy \055 First year Graduate \055 Male \055 NNS \050L1\072 Spanish\051 \055 Research Paper) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(10) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+xref
+0 37
+0000000000 65535 f 
+0000000009 00000 n 
+0000000127 00000 n 
+0000000228 00000 n 
+0000000277 00000 n 
+0000000652 00000 n 
+0000001028 00000 n 
+0000001404 00000 n 
+0000001767 00000 n 
+0000002130 00000 n 
+0000002518 00000 n 
+0000002882 00000 n 
+0000003234 00000 n 
+0000003598 00000 n 
+0000003975 00000 n 
+0000018227 00000 n 
+0000018312 00000 n 
+0000018809 00000 n 
+0000019086 00000 n 
+0000019711 00000 n 
+0000019975 00000 n 
+0000020403 00000 n 
+0000020673 00000 n 
+0000021048 00000 n 
+0000021330 00000 n 
+0000035861 00000 n 
+0000036031 00000 n 
+0000036280 00000 n 
+0000051400 00000 n 
+0000051565 00000 n 
+0000051808 00000 n 
+0000065339 00000 n 
+0000078860 00000 n 
+0000091925 00000 n 
+0000105064 00000 n 
+0000123038 00000 n 
+0000135193 00000 n 
+trailer
+<<
+/Size 37
+/Root 3 0 R
+/Info 2 0 R
+>>
+startxref
+137516
+%%EOF

@@ -1,0 +1,28 @@
+		<div><div id="queryinfo">Your search term <b>"{{q}}"</b> appear{% ifnotequal count 1 %}s{% endifnotequal %} {{count}} times in {{papers}} papers </div> 
+
+
+
+		<span id="browseInfo">Select a paper to view more context. Papers will be opened in a new window.</span>
+
+		<span id="navigation">
+		|
+		{% ifnotequal start "1" %}
+		<< <a href="javascript:next({{start}},'-')">PREVIOUS</a> |
+		{% endifnotequal %}
+
+		{% if not last %}
+		<a href="javascript:next({{start}},'+')">NEXT</a> >> |
+		{% endif %}
+		</span>
+		<br style="clear: both"/>
+		</div>
+		
+		<div>
+
+
+		<ol start="{{start}}">
+		{% for r in results %}
+			<li><a target="_{{r.doc}}" href="/search/view?q={{q}}&pid={{r.doc}}">{{r.doc}}</a> {{r.data|safe}}</li>		
+		{% endfor %}
+		</ol>
+		</div>

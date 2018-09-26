@@ -1,0 +1,22 @@
+<html>
+	<head>
+		<title>MICUSP Simple (BETA) - Print View</title>
+		<script type="text/javascript" src="/search/js/jquery-1.4.1.min.js"> </script>
+		<script>
+
+			$(document).ready(function() {
+		
+        
+        			$.get('{{ url }}',
+                
+                			function(data) { $("body").html(data); }
+        			);
+			})
+
+		</script>
+	</head>
+	<body>
+		<div>Loading printer version <img src="/search/img/info_spinner.gif"/>
+		</div>	
+	</body>
+</html>

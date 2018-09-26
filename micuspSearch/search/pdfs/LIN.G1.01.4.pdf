@@ -1,0 +1,5682 @@
+%PDF-1.3
+1 0 obj
+<<
+/Kids [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R ]
+/Type /Pages
+/Count 8
+>>
+endobj
+2 0 obj
+<<
+/Producer (Python PDF Library \055 http\072\057\057pybrary\056net\057pyPdf\057)
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+>>
+endobj
+4 0 obj
+<<
+/Parent 1 0 R
+/Contents 12 0 R
+/Resources <<
+/ExtGState <<
+/GS1 13 0 R
+>>
+/Font <<
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+/TT2 14 0 R
+/TT4 16 0 R
+/TT7 18 0 R
+/TT6 23 0 R
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Type /Page
+>>
+endobj
+5 0 obj
+<<
+/Parent 1 0 R
+/Contents 25 0 R
+/Resources <<
+/ExtGState <<
+/GS1 13 0 R
+>>
+/Font <<
+/TT9 26 0 R
+/TT2 14 0 R
+/TT4 16 0 R
+/TT7 18 0 R
+/TT6 23 0 R
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Type /Page
+>>
+endobj
+6 0 obj
+<<
+/Parent 1 0 R
+/Contents 28 0 R
+/Resources <<
+/ExtGState <<
+/GS1 13 0 R
+>>
+/Font <<
+/TT9 26 0 R
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+/TT2 14 0 R
+/TT7 18 0 R
+/TT6 23 0 R
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Type /Page
+>>
+endobj
+7 0 obj
+<<
+/Parent 1 0 R
+/Contents 29 0 R
+/Resources <<
+/ColorSpace <<
+/Cs6 30 0 R
+>>
+/ExtGState <<
+/GS1 13 0 R
+>>
+/Font <<
+/TT9 26 0 R
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+/TT2 14 0 R
+/TT7 18 0 R
+/TT6 23 0 R
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Type /Page
+>>
+endobj
+8 0 obj
+<<
+/Parent 1 0 R
+/Contents 32 0 R
+/Resources <<
+/ExtGState <<
+/GS1 13 0 R
+>>
+/Font <<
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+/TT4 16 0 R
+/TT7 18 0 R
+/TT6 23 0 R
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Type /Page
+>>
+endobj
+9 0 obj
+<<
+/Parent 1 0 R
+/Contents 33 0 R
+/Resources <<
+/ExtGState <<
+/GS1 13 0 R
+>>
+/Font <<
+/TT11 34 0 R
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+/TT2 14 0 R
+/TT7 18 0 R
+/TT6 23 0 R
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Type /Page
+>>
+endobj
+10 0 obj
+<<
+/Parent 1 0 R
+/Contents 36 0 R
+/Resources <<
+/ExtGState <<
+/GS1 13 0 R
+>>
+/Font <<
+/TT11 34 0 R
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+/TT6 23 0 R
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Type /Page
+>>
+endobj
+11 0 obj
+<<
+/Parent 1 0 R
+/Contents 37 0 R
+/Resources <<
+/ExtGState <<
+/GS1 13 0 R
+>>
+/Font <<
+/TT11 34 0 R
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+/TT6 23 0 R
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Type /Page
+>>
+endobj
+12 0 obj
+<<
+/Length 8823
+>>
+stream
+q
+/GS1 gs
+BT
+/TT2 1 Tf
+16.02 0 0 16.02 219.42 693.06 Tm
+0 g
+-0.0007 Tc
+0 Tw
+[ (Project 4\072 Vlach) -4.1 ( S) 18.4 (t) -1 (ress ) ] TJ
+/TT4 1 Tf
+13.98 0 0 13.98 90 664.5 Tm
+0.0002 Tc
+[ (Introduct) -5.8 (i) -0.9 (on ) ] TJ
+/TT6 1 Tf
+12 0 0 12 103.5 647.46 Tm
+0.0008 Tc
+-0.0015 Tw
+[ (For this p) 5.8 (r) -1.2 (oject\054 I will lo) 5.8 (ok at m) 8.6 (easurem) 8.6 (en) ] TJ
+17.045 0 TD
+0 Tc
+0 Tw
+[ (ts of pi) -7.2 (tch\054 intensity\054 duration and vowel ) ] TJ
+-18.17 -1.15 TD
+0.0002 Tc
+-0.0002 Tw
+(quality to analyze stress in Meglan Vlach\054 ) Tj
+17.055 0 TD
+0.0003 Tc
+-0.0011 Tw
+[ (which I hypothesize is sim) 8.1 (ilar to English ) ] TJ
+-17.055 -1.15 TD
+0 Tc
+0 Tw
+(stress\056 Thus\054 I expect to find that pitch\054 inte) Tj
+17.305 0 TD
+-0.0003 Tc
+-0.0009 Tw
+(nsity\054 and duration of a ) Tj
+9.49 0 TD
+0.0009 Tc
+[ (syllable is in) 5.9 (crea) 4.7 (se) 4.7 (d ) ] TJ
+-26.795 -1.15 TD
+0.0005 Tc
+-0.0012 Tw
+[ (when the syllable is s) 4.7 (t) -1.7 (res) 4.7 (s) -0.3 (ed\054 and red) 5.5 (u) 0.5 (ced wh) ] TJ
+18.165 0 TD
+0.0001 Tc
+(en the syllable is not stressed\056 It is also ) Tj
+-18.165 -1.15 TD
+0.0008 Tc
+-0.0015 Tw
+[ (like) 4.6 (l) -1.4 (y tha) 4.6 (t) -1.4 ( v) 5.8 (o) 0.8 (wel quality) 5.8 ( will be redu) 5.8 (ced \050tow) ] TJ
+18.245 0 TD
+0.0006 Tc
+-0.0006 Tw
+[ (a) 4.4 (r) -1.4 (d) 5.6 (s) -0.2 ( a m) 8.4 (i) -1.6 (d\055central vowel\051 in) 5.6 ( the unstress) 4.8 (e) -0.6 (d ) ] TJ
+-18.245 -1.15 TD
+0.0004 Tc
+-0.0004 Tw
+[ (syllables\056 B) 7.4 (y) 0.4 ( m) 8.2 (easuring the values m) 8.2 (e) -0.8 (nti) ] TJ
+16.38 0 TD
+[ (oned above\054 I hope to confirm) 8.2 ( that pitch\054 ) ] TJ
+-16.38 -1.15 TD
+0.0001 Tc
+-0.0001 Tw
+(intensity\054 duration\054 and vowel quality are ) Tj
+16.665 0 TD
+0.0004 Tc
+-0.0029 Tw
+(indeed factors in ) Tj
+6.915 0 TD
+0.0002 Tc
+-0.0018 Tw
+(stress in Vlach\054 and ) Tj
+-23.58 -1.15 TD
+0.0006 Tc
+-0.0006 Tw
+[ (furtherm) 8.4 (ore I hope to quantify th) ] TJ
+13.195 0 TD
+0.0002 Tc
+-0.0014 Tw
+[ (ese effects to som) 8 (e) -1 ( extent\056 ) ] TJ
+/TT4 1 Tf
+13.98 0 0 13.98 90 523.02 Tm
+0.0016 Tc
+0 Tw
+[ (M) 6.3 (ethods ) ] TJ
+/TT6 1 Tf
+12 0 0 12 103.5 505.98 Tm
+0.0005 Tc
+-0.0005 Tw
+[ (Sim) 8.3 (ilar to past experim) 8.3 (e) -0.7 (nts\054 the native) ] TJ
+15.385 0 TD
+[ ( speaker produced words from) 8.3 ( a random) 8.3 (i) -1.7 (zed ) ] TJ
+-16.51 -1.15 TD
+[ (wordlist\054 wh) 5.5 (ich cons) 4.7 (iste) 4.3 (d of) ] TJ
+11.275 0 TD
+0.0001 Tc
+-0.0001 Tw
+( six instances of each of the following four words\072 ) Tj
+-9.775 -1.23 TD
+0 Tc
+0 Tw
+(\133) Tj
+/TT7 1 Tf
+0.33 0 TD
+0.0009 Tc
+<0089004c0051005700550024> Tj
+/TT6 1 Tf
+3.33 0 TD
+0.0013 Tc
+0.2537 Tw
+[ (\135 he ) 255 (ente) 5.1 (rs) 5.5 ( ) ] TJ
+-3.66 -1.225 TD
+0 Tc
+0 Tw
+(\133) Tj
+/TT7 1 Tf
+0.33 0 TD
+0.0009 Tc
+<004c00510089005700550024> Tj
+/TT6 1 Tf
+3.33 0 TD
+0.0013 Tc
+0.2537 Tw
+[ (\135 he ) 255 (ente) 5.1 (red) 6.3 ( ) ] TJ
+-3.66 -1.225 TD
+0 Tc
+0 Tw
+(\133) Tj
+/TT7 1 Tf
+0.33 0 TD
+0.0005 Tc
+<008900510044004f00570058> Tj
+/TT6 1 Tf
+3.485 0 TD
+0.0011 Tc
+-0.0011 Tw
+[ (\135 ) -100 (tall \050m) 8.9 (\056 adj\056\051 ) ] TJ
+-3.815 -1.225 TD
+0 Tc
+0 Tw
+(\133) Tj
+/TT7 1 Tf
+0.33 0 TD
+0.0005 Tc
+<00510044004f008900570058> Tj
+/TT6 1 Tf
+3.485 0 TD
+0.0007 Tc
+0.0993 Tw
+[ (\135 he ) 100 (grew ) ] TJ
+-5.315 -1.145 TD
+0 Tc
+-0.0007 Tw
+(As can be seen\054 these four disyllabic word) Tj
+16.88 0 TD
+0.001 Tc
+-0.0018 Tw
+[ (s constitute two m) 8.8 (i) -1.2 (nim) 8.8 (a) -0.2 (l pairs which dif) 4 (f) 4 (e) -0.1 (r ) ] TJ
+-16.88 -1.15 TD
+0.0009 Tc
+-0.0002 Tw
+[ (only in th) 5.9 (e p) 5.9 (l) -1.3 (acem) 8.7 (ent of stres) 5.1 (s) 0.1 (\056 \050Such) 5.9 ( m) 8.7 (i) -1.3 (nim) 8.7 (a) -0.3 (l ) ] TJ
+18.85 0 TD
+0.0003 Tc
+-0.0017 Tw
+(pairs occur often due to the conjugation of ) Tj
+-18.85 -1.23 TD
+0.0002 Tc
+-0.0002 Tw
+(Vlach verbs\054 which results in pairs such as \133) Tj
+/TT7 1 Tf
+17.585 0 TD
+0.0005 Tc
+0 Tw
+[ <0089004c00510057> 4.5 <00550024> ] TJ
+/TT6 1 Tf
+3.325 0 TD
+-0.003 Tc
+0.003 Tw
+[ (\135 \057) -5.2 ( \133) ] TJ
+/TT7 1 Tf
+1.44 0 TD
+0.0009 Tc
+0 Tw
+<004c00510089005700550024> Tj
+/TT6 1 Tf
+3.33 0 TD
+0.0002 Tc
+-0.0002 Tw
+(\135\054 distinguishing present ) Tj
+-25.68 -1.145 TD
+0.0004 Tc
+-0.0004 Tw
+[ (from) 8.2 ( past tense\056\051 The full wordlist\054 and th) ] TJ
+16.635 0 TD
+0.0008 Tc
+-0.0015 Tw
+[ (e fram) 8.6 (e sentence in which the words were ) ] TJ
+-16.635 -1.15 TD
+0.0001 Tc
+-0.0001 Tw
+(pronounced\054 are included in the appendix\056 To help) Tj
+20.135 0 TD
+0.0004 Tc
+-0.0004 Tw
+[ ( avoid confusion \050due to the sim) 8.2 (ilarity ) ] TJ
+-20.135 -1.15 TD
+-0.001 Tw
+(of the words in the list\051\054 the stressed sylla) Tj
+16.59 0 TD
+0 Tc
+-0.0007 Tw
+(ble was underlined and the English gloss was ) Tj
+-16.59 -1.15 TD
+0.0002 Tc
+-0.0009 Tw
+(printed alongside each Vlach word\056 Also\054 I us) Tj
+18.305 0 TD
+0.0003 Tc
+-0.0003 Tw
+[ (ed a m) 8.1 (a) -0.9 (sking guide so ) ] TJ
+9.135 0 TD
+0.0011 Tc
+-0.0044 Tw
+[ (th) 6.1 (at the speak) 6.1 (er only ) ] TJ
+-27.44 -1.15 TD
+-0.001 Tw
+[ (saw one line) 4.8 ( f) 4 (r) -1 (om) 8.8 ( the wordlis) 5.2 (t a) 4.8 (t) -1.2 ( a tim) 8.8 (e\054 lim) 8.8 (iting the dis) 5.2 (t) -1.2 (ra) 4.8 (ction of) 4 ( other words in the) 4.8 ( list\056) 6 ( ) ] TJ
+1.125 -1.15 TD
+0.0002 Tc
+-0.0002 Tw
+(The words were recorded using a solid\055state) Tj
+17.665 0 TD
+0.0001 Tc
+-0.0001 Tw
+( digital recorder \050Marantz PMD660\051 and a ) Tj
+-18.79 -1.15 TD
+0.0003 Tc
+-0.0003 Tw
+[ (non\055condenser m) 8.1 (i) -1.9 (crophone in a soundproof reco) ] TJ
+19.415 0 TD
+-0.002 Tw
+(rding studio\056 All reco) Tj
+8.55 0 TD
+0.0006 Tc
+-0.0006 Tw
+[ (rdings were m) 8.4 (a) -0.6 (de ) ] TJ
+-27.965 -1.15 TD
+0.0005 Tc
+-0.0017 Tw
+[ (directly to wave files on a Com) 8.3 (p) 0.5 (act Flash m) 8.3 (e) ] TJ
+18.11 0 TD
+0.0004 Tc
+-0.0011 Tw
+[ (m) 8.2 (o) 0.4 (r) -6.6 (y) 0.4 ( card\054 and then analyz) 4.3 (ed with the P) 6.6 (r) -1.6 (aat ) ] TJ
+-18.11 -1.15 TD
+0 Tc
+0 Tw
+(software\056 A Praat script \050inc) Tj
+11.25 0 TD
+0.0003 Tc
+-0.0013 Tw
+(luded in the appendix\051 was us) Tj
+11.915 0 TD
+0.0005 Tc
+-0.003 Tw
+(ed to gather the various ) Tj
+-23.165 -1.15 TD
+-0.0005 Tw
+[ (m) 8.3 (easure) -5.7 (m) 8.3 (ents\054 as described below\056 ) ] TJ
+1.125 -1.15 TD
+0.0003 Tc
+-0.0003 Tw
+[ (All files were annotated to denote th) 5.3 (e start a) ] TJ
+17.665 0 TD
+-0.0009 Tw
+[ (nd en) 5.4 (d of each syllable as well as the start ) ] TJ
+-18.79 -1.15 TD
+(and end of the vowel portion of the syllable\056) Tj
+17.695 0 TD
+0.0006 Tc
+-0.0027 Tw
+[ ( The full syllable was used to m) 8.4 (easure ) ] TJ
+-17.695 -1.15 TD
+0.0002 Tc
+-0.001 Tw
+(syllable duration\054 while the vowel portion wa) Tj
+18.14 0 TD
+0.0003 Tc
+-0.0003 Tw
+[ (s used to m) 8.1 (easure intensity\054 pitch\054 and ) ] TJ
+-18.14 -1.15 TD
+-0.0012 Tw
+[ (for) -6.6 (m) 8.2 (ant frequency\056 This was necessary to elim) 8.2 (in) ] TJ
+19.465 0 TD
+0.001 Tc
+-0.0026 Tw
+[ (ate any a) 4.8 (r) -1 (tif) 4 (ic) 4.8 (ial reducti) ] TJ
+9.53 0 TD
+0 Tc
+-0.0016 Tw
+(on in intensity or ) Tj
+-28.995 -1.15 TD
+0.0002 Tc
+-0.0014 Tw
+(pitch due the non\055sonorant portions) Tj
+14.225 0 TD
+-0.0018 Tw
+( of the syllable \050e\056g\056 stop cl) Tj
+10.83 0 TD
+0.0001 Tc
+-0.0001 Tw
+[ (osures\051\056 V) 7.3 (a) -1.1 (lues for pitch\054 ) ] TJ
+-25.055 -1.15 TD
+0.0004 Tc
+-0.0012 Tw
+[ (intensity\054 and for) -6.6 (m) 8.2 (ant frequency were all extr) ] TJ
+18.3 0 TD
+0.0001 Tc
+-0.0001 Tw
+(acted using Praat built\055in functions\056 See the ) Tj
+-18.3 -1.15 TD
+0.0004 Tc
+-0.0004 Tw
+[ (scrip) 5.4 (t) -1.8 ( for more details\056) 5.4 ( ) ] TJ
+1.125 -1.15 TD
+-0.0029 Tw
+(The built\055in functions in Praat) Tj
+12.06 0 TD
+-0.0004 Tw
+[ ( were effective for extracting m) 8.2 (o) 0.4 (st m) 8.2 (easurem) 8.2 (ents\054 but ) ] TJ
+-13.185 -1.15 TD
+[ (the data needed a m) 8.1 (i) -1.9 (nor am) 8.1 (ount of hand\055corr) ] TJ
+18.02 0 TD
+0.0001 Tc
+-0.0001 Tw
+(ection after execution of the script\056 This ) Tj
+-18.02 -1.15 TD
+0.0005 Tc
+-0.0005 Tw
+[ (included m) 8.3 (a) -0.7 (nually gathering som) 8.3 (e) -0.7 ( pitch m) 8.3 (easurem) 8.3 (ents which could not be m) 8.3 (easured ) ] TJ
+T*
+0.0004 Tc
+-0.0012 Tw
+[ (autom) 8.2 (a) -0.8 (tically by Praat \050perhaps due to the ) ] TJ
+17.135 0 TD
+0.0001 Tc
+-0.0008 Tw
+(low pitch level in the second syllable\051\054 and ) Tj
+-17.135 -1.15 TD
+0.0005 Tc
+-0.0005 Tw
+[ (correcting f) 8.5 (o) 0.5 (r som) 8.3 (e) -0.7 ( halving in the pitch ) ] TJ
+16.08 0 TD
+0.0002 Tc
+-0.0002 Tw
+[ (m) 8 (easurem) 8 (ents \050several unstressed second\055) ] TJ
+ET
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 LIN\056G1\05601\0564 \055 Linguistics \055 First year Graduate \055 Male \055 Native Speaker \055 Research Paper) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(1) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+13 0 obj
+<<
+/OPM 1
+/Type /ExtGState
+/SM 0.02
+/OP false
+/SA false
+/op false
+>>
+endobj
+14 0 obj
+<<
+/FirstChar 32
+/Widths [ 278 0 0 0 0 0 0 0 333 333 0 0 0 0 0 0 0 556 556 0 556 0 0 0 0 0 333 0 0 0 0 0 0 722 0 722 722 0 611 0 722 278 0 0 0 0 0 0 667 0 0 667 611 0 667 944 0 0 0 0 0 0 0 0 0 556 0 556 611 556 333 611 611 278 278 0 278 889 611 611 611 0 389 556 333 611 0 778 556 556 500 ]
+/Encoding /WinAnsiEncoding
+/Type /Font
+/BaseFont /Arial-BoldMT
+/LastChar 122
+/FontDescriptor 15 0 R
+/Subtype /TrueType
+>>
+endobj
+15 0 obj
+<<
+/FontBBox [ -628 -376 2000 1010 ]
+/StemV 138
+/Descent -211
+/XHeight 515
+/Flags 32
+/FontStretch /Normal
+/Ascent 905
+/FontName /Arial-BoldMT
+/Type /FontDescriptor
+/FontWeight 700
+/ItalicAngle 0
+/FontFamily (Arial)
+/CapHeight 718
+>>
+endobj
+16 0 obj
+<<
+/FirstChar 32
+/Widths [ 278 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 722 0 0 0 0 0 278 0 0 0 833 0 0 0 0 722 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 556 611 556 0 0 611 278 0 0 278 0 611 611 0 0 389 556 333 611 ]
+/Encoding /WinAnsiEncoding
+/Type /Font
+/BaseFont /Arial-BoldItalicMT
+/LastChar 117
+/FontDescriptor 17 0 R
+/Subtype /TrueType
+>>
+endobj
+17 0 obj
+<<
+/FontBBox [ -560 -376 1157 1000 ]
+/StemV 135.84
+/Descent -211
+/XHeight 515
+/Flags 96
+/FontStretch /Normal
+/Ascent 905
+/FontName /Arial-BoldItalicMT
+/Type /FontDescriptor
+/FontWeight 700
+/ItalicAngle -15
+/FontFamily (Arial)
+/CapHeight 718
+>>
+endobj
+18 0 obj
+<<
+/Encoding /Identity-H
+/Type /Font
+/BaseFont /PKCOAI+SymbolMT
+/Subtype /Type0
+/DescendantFonts [ 19 0 R ]
+/ToUnicode 22 0 R
+>>
+endobj
+19 0 obj
+<<
+/CIDSystemInfo <<
+/Ordering (Identity)
+/Registry (Adobe)
+/Supplement 0
+>>
+/DW 1000
+/W [ 3 [ 250 ] 36 [ 722 ] 44 [ 333 ] 54 [ 592 ] 56 [ 690 ] 64 [ 333 ] 68 [ 631 ] 71 [ 494 ] 76 [ 329 ] 78 79 549 81 [ 521 ] 83 [ 549 ] 85 [ 549 603 439 576 713 ] 108 [ 1042 ] 132 [ 987 ] 137 [ 768 ] ]
+/Type /Font
+/BaseFont /PKCOAI+SymbolMT
+/CIDToGIDMap /Identity
+/FontDescriptor 20 0 R
+/Subtype /CIDFontType2
+>>
+endobj
+20 0 obj
+<<
+/FontBBox [ 0 -220 1113 1005 ]
+/StemV 0
+/FontFile2 21 0 R
+/Descent -219
+/Flags 4
+/FontStretch /Normal
+/Ascent 1005
+/FontName /PKCOAI+SymbolMT
+/Type /FontDescriptor
+/FontWeight 400
+/ItalicAngle 0
+/FontFamily (Symbol)
+/CapHeight 0
+>>
+endobj
+21 0 obj
+<<
+/Length 8259
+/Filter /FlateDecode
+/Length1 11492
+>>
+stream
+hﬁºz	x’µπwf4≤dk∑V[Iñd[ﬁ˜EÿÚñxâ«v;ÿqú=q»bI $òP©!y$P
+“∞6»1!
+Ñ$mÅ“?–tKyÖö@˚pÀﬂ:°ÖH˙œåî4˙Ω˜˛Ô˝ﬂ?WÁﬁs∑πÁû{∂;6 P¬.`†`nw~—˝d∂úBX08≤E»~ıÀQ b ‡ÿWÆøXÍç 23÷’+◊m[1IGR ¥8ﬁ¯™°ÅÂØ}o…@Œs8øl6®sô€qÅL¨g¨ZøÂÊõ:[j∞>Ä^^7<8∞ªjÁ[ ôΩ∏∆Óı7o§˜$Œø«÷©∂4dù«ÒG7n⁄x´˙˚¯~U3 s#ˆM2“ÚWåoƒKÊ1XAu…«JxÂx¯⁄”>ºaÇü	ü≈∏{¢≥H±\I~∞Îj/∑
+π9‡@HcÄ ˆA¶¢}±in-∏£kbÁ}j¸B‚œ x‡z»ÇV¯|ßI6t¬Ÿÿ€0ΩÙ&»≈ˆo¬	8ÔC#,
+V≤Ñÿ√pxa<ï¨5vÊ¿'r5!™»0» V¬#‰<¥@æ£f√7`ÊÛ∞˝sRÅ=∞W? ﬂÇ”¸Xçypé‰ÛÿÀ– ›H√v8	Ôsı‹›†á˚‡Ixæë<rò¸ë˘SÏxÏg±«YYPe∞ña∫æÉ„ûÑüR7ÛDÃ€{*ˆ§!ıœ‚ÆøØ·Zóà@êAzÑŸ˝"∂!ˆ,Ú!iFÍ1’·n:`|GûÉ/I¶›T†µt0™çôÄ‡G˙Ê√z∏ÓÇ{q¡£<|Bj…*Ú&˘M°ªËÆìÔ‡;íŒD~õªÑk$É©]k·fúy?ÏápÊwp≠W1}RF™Ii!]‰õ‰NÚ]Ú7Íßø°_2*FÕ‰0}L?≥É˘ê˘ªúãÃçåæÎå›åº$»sûdÓ≥ñ¿Fÿ7¡‘íª`¶q‰ﬁ≥òB»œ3ò~øÖﬂc∫ ü¿ß(sÓQA≤1`™&A“JÊì»J≤ô$/í09M^#$3¥Ññ—J:óv—ït#›B«iàN–3tä˛©¨böòÕÃmÃ≥Ãò7òwò_≥¿∂≤Ïjv+{Ä±?g?cgÿ(úS7¿=y<⁄]Û∆™cÀb˜∆∆1}Ç<∂„nº‡√˝t‚©¬
+îúçònƒ¥y7ä;z Aﬁâ‹{¬hŒ¢øØ√€k‹ﬂo·C¯˛éÃ˜óJú$ó"Ø#≥1-¬s!;».≤è<Ñ|û «1ù%ÁqóQ‹·⁄GØß#tΩó§ﬂ¢'ÈYzO"∆»$ÃÃl¶çY»,fÆg∂00áòôGòGô0sñyù•l€…nb˜∞„Ï„ÏÛÏèÿwŸÛ\WÕça
+q«πW∏2ùÃ&+ëuÀ¬ºLæM˛±<
+ì#òÄ„_◊}r—ê	¯˘òaô]Ùg¥ó*È9≤õ˝W‚√‡ˆ¡¯RòNﬁ°Âd!3H!ˇvìd1|õIcgZ·g‹“ÕtíÂ–ÕÑÀ‹aÄ£« ç1Úw˙,¨Ç}tm‰ÈXQA79Lè†ƒÏÑ d±V8G+ŸìƒC≥Ë˛(	C/c*ô*πkáôﬂ#ô›r5˘#0¢˛|Ä∫’Eè†M∏@ŒÛsë∫Û<éŸ	5‰pTOs}¥ü§—√dNdO‰óÃ∑bè˝ ¢ç‘—î∏˘±gËi¯3å˛ù˝ú¶øÅ˘h5%Õ˘ÍﬁMhi¿eöÇ˙‘çvdc∞∂∂Ê∫@uUeEyiIqQaA~^né?;+”Áıd∏]N¡aOO≥Y-fì1’†◊i5jUJ≤Rë$ÁeÀP9MÓY˝B»€bΩÓÊÊ\±Ó¿ÜÅk˙C6Õ˙Íòê–/æ:2à#W|md0>2xu$—‰ÊMn!Ùf£[ìEÛzø∑—›'Ñ¶%º]¬YØTI¡ä”â3Ñ&Û™F!D˙Ö¶–¨ëUcM˝ç¯æ	•¢¡›0§»ÕÅ	ÖQ%b!ì{„1’	°¶¶™	
+Ú§*du76Ö,ÓFëÑ„iXÍú◊€‘hs:˚rsB§a–Ω,Ó˙ê⁄/Åiôê¨!ƒKÀ´≈Ì¿›¬DŒŸ±{¬X÷ÔO^Ó^>∞§7ƒÙâkh˝∏nc»tÀî˘U|πÆ°wÔµΩ6f¨…ºZ´cc{Ö–cÛzØÌuäy_æÁRœ¨˛±Y∏Ù=»≈∂nW££}Ω!2äK
+‚Nƒ]≈˜7‰n[˙◊°$wΩ{’ÿö~<ÎX∫∂9èY≠¡ì±ﬂÅµIÎÈu;Cµ6wﬂ@c⁄Ñ∆∫∂MZÇÇÂ´=π9mú±*uINπ∫⁄'a“pkÎ∫ Y"R‰nAâ	ÉR“Î∆=UàŸPåV‡0|˙Œ
+-«YJjË”TâÌ‚¸Á—∏Ö±ãÄ‡û˛Ù´-âôGsDTîì´≤Ü˝Wêﬂ ŒEÑo¿3Ek§zinŒHò÷π7j,ê}–âºË´ Gˆ;ù‚ﬂ¬2¨ÑvÕÎç◊Xf;¡|_àˆã=gØÙ§Œ{v]Èπ:Ωﬂçí¸à1]jHÓΩ˙Skå˙¶UU!b¸O∫á‚˝m›Ó∂yãzÖ¶±˛o€zæRã˜W\ÌK`!}C/c£	å⁄©Ör…’¡b•79ƒz'ìÑzyòó£TJ-Dò“Ù7«Û>Ö”˘ﬂúé}&ŒíäLKê™Úµ^˝ï˙W»Kcê`÷K€zçç)ÆÌëirecW˘ÇË≥óÛ‰[$6^˚úfﬂDØ*>_`¥ä}¶∏`Ä∞ÀaûÏò-´ÑffTa_B.ˆ›á}ø!QﬁG+c1loE¯!°A@XÜ–á0a¬<Z	œ!‹çs‚|±dÓÖ^Á~n∏∞‘±Åï˝=¯d6hfﬂ7∂yq˝b.:˜p;¡¿ßãsbü`}éÃÉc˛Ñ4l/{
+*pn57
+F§}6ˆUpYP/[ÇÎ˝å¯û'eì5X∂rçÿ±?≥¿¸ﬂ›ÉtlCò≈Ã@Œma˝0õi≈˝ΩπÙqh¿≤	˚S
+ŸáqO~»D\§øÒ>,W„òúÎ«˛Ÿ»œ:§µì˘,∆2ﬂªò˘ºKÇ√Xû√Ò%Ï%–ì/§uOÁî!Ø@&Éì2)¿ÚsÑKÚê≈m¯˛•WJ¶VàºCø:¡”m8ÆS«Ö5	ãê!Æ%∏¿æK+Âª˜.»¿3ﬂ	π»õÎ˘è»n‰Uá¿ ñÌ"‡˚* ™P≈Ω@JÏÔ∆z´¨E‡PÑsÛp≠Q6∞Ø Èî Aˇú˝RâtÊ#_ÎÆÃóµB6ŒÒ3:Ëæ‡*Ã`º1É˜©$áqŒVú_CÒ¥ìâ40∫ÿ~FGó∆Kp#~ªT‚\r“ÍRAG}òº‘√ƒà⁄qÉîœïÚZ)œsö,ﬂ·”ºcèâEŒ±Ù,,2Ç ¨éBüŒâuS∞z]ñ„wœX <Î+r‹(rÏA»G¡∫8Œ˜Lñcÿ7º~¯Œ·Ωl9çx :≠<&øqæ!…êT>&gÇï¸¯+¸¯$?æí_Œè/‰«gÒ„e¸x?ÓÁ«=¸xoêÎ‰πJû,W»ÂrôúïS9»·ÿÔÇ~Q˘2çX»X1g%\C≈\Tt¥î»)ﬁÓBz¶ç∂u◊á*¸ma>÷*˜∑Ö¯Œ≈ΩÑÏÎ√÷Ω+L†ß7Lbb”®MÙ⁄'ÅêÿËΩ∂DŸ◊G⁄Bg°mô∫‘Ì*Œ]OB∫6hÎ©7Éq§÷\´´—VŒj¸'Y"˜ˇ„1˚Ø}⁄:∑ùŸ*^æ»ñIﬁ±ü[ª±u\j[«•VszËÅ∂Óﬁ–3È}°"â•˜ë…∫„¡Ìb–ÔnBË›=≤ ⁄µL&Ç«Ç∑Ÿ‡*±
+w5ÜÇÓFa¢n˚?Èﬁ.v◊π'`{SOÔƒˆ‡P„±∫`]ì{†±Ô$têeŸ˚æ≤‹7Æ,w≤…≤ˇ¯∆0Y&æ2[\±cﬂ?Yqüÿ›!Æ∏O\qü∏bG∞CZ±iuw=iÎÏùêC}:©ú§JUøÕŸWo‘l¨ëŒ≠⁄iæ’ˆ‰)P¢/N∆∏.AÏ ≠À≠ªP`ƒ.ïÚ%∫Ã∑V;m/ëß]l÷∫Î¡ø’ˇµg≥¯Äπiu£H……ÿY∫ÎòŒQ‰Ô˝]'~ a–™Év?àm;»ÄB∆2µ&ÒÏ ã<´¬ÏÔ–Ã⁄#ÅÕ•@ª&Ä⁄@$ BaÅSÎ‘z0CŸÜÀsˆrêÉ/—„úï‰∏«∏µxÎw!87√P©(4¥êf’|√r√àfávßiáuáÌñÙÉöCZµ√Nà√N!›nOKR)ÏI∆4ì›(ßº]û™5ÿS±3	“S57€’A≠RÖ…p–KÌJÌ≠÷óf7§•Ÿ©*IõñjO”™(Kåv5ê\á#=LN’ö†FÕSì‰rß…dMì˙vA˝sMw–&œø $Ygò,ùt6ÏD°Ôò±Z⁄#Vs‰Ç’¢âò;öÜ/‡∂∏m´»¸È*µ:S%—Í*+Ò∑WïÁÁvj^≈“,!~±C3h¶âÊÏÃyM ¿ãø¬≤î8yY™¡hJuññïóïìbbåW JK|J <˘ÎW’`t˛|Kq˘≠õ¸≤‚˙Ó»∫À|.|J^?7WÊÛè⁄\∞ü]ÚÂ¡ΩÛ8èáÕÀÀXBî4#r‚Qm‚Ê@:¥sG–—È`‰n;uπÃnªŒÂ≤∏ÌƒÂNr€µ.∑NK—2ô-æ$π≈Óì=ìŒ∫„_DA@N‘⁄EII˜ ô≈EÂe•⁄ü◊ÁuªKù©nnGk0ãiS‰ÂÇØ9E·»)(†MÖ›^ã=ª’„Ò
+∑0ÎV:-:≥Ñ_>0öûï†ì≠B:ıp2XêÇ◊CU.eúô‰îî;÷¿§®ñ•™‰F&')L2Uë%√r…˙E∫0Ω)hT+ìs9˘d2éôV´Ó¬·ft/ﬂ)'Ãqû#≤e¸):92}˛ìƒb@ëxc“‹.Ì≤=253•	h¶5”P[´AYüñjxÚ3SZÒË•_•x˛¶ ΩÚƒ·„ŸÀ±DΩpñRÍ‘ªΩ^∑ìgQYπâπ|ô• »EÊ∑é,ıˆ-—<Úl‘Au££9›L«3¢G«F"G^Y>&OÅ[Ç|»Üh0–"'µP†)”VewíN⁄…˜» ÌÁá˘]‰Nz;ø[sáˆ~r?ΩèﬂØŸØ5ë›<µAC4ar ®L’⁄5Æ{∫Àa‚˙3≤Ì†ﬁù§≤´Mˆ4ó;√-*œßk‘jÇÓ)=˝ô—ù‘ù ü¶Õê©‰†¯ië<Ê6‚+£ì&∑KsöD¡ÑƒF¡9t—1ìœ¶ã^ÙÁ¸,ÆGó"4SëìS	AÜZês˘`e€»?ø®%≠∏«ó∆+¢x¡R≠3UÜ a"zTØ≈K∆Àx¢5ãã%ŸC—#^Qˆ|4∞($ÙrVÂÚﬁºí•s£S≠}Ó»qwokt≤ÿûU(îssrÿ‹ÙÃU—E‰tKñ;üÊ‰0Ó⁄ª£ Ëhw≥«”‹M6Qo∑êm“H>ª5∫ÜR¥b<¥‡ìPŒº’Ò2/ç‹d≤0G9ôèjIí'ÖI¡§”˘øD“D%[9#öé)Tòˆ∏…îÏEaÅmf)B+	Gõâ%˙1∑ˆo±≤˘“ ˆ;vÛ<êÔõΩrAp8ù@Yñp…rÑ K¨‡ ßS¬X‚t9∞¨O`ù:69£(ùÄø»î|FæN=€îŒÉÃ§$ab>Œ¨InTæD>ñ¶˜Â[-˘aÚ”Igˆé∏ÿOG.MOkê^˙ôàx\(ıZS\ÃÂ{„b.Oò8¿ΩÏ’®^›´ë£»õ∂≠ûlsZñ◊ìÊÛ@∂3Ø-√C2-~ÄﬂO–`‹~;)fdº-ÍD±LÊvy}xúX““]që—ƒ£Œ∏Dch≠
+3ˇ»Óî4Ø>£<≥Qô©Zz]ÂRONvıXÔoﬂû9ºÈËlwŸ3ΩÀvW‹X€\»àV˙ó<d/Øü5æ°ˇëÖπ5◊Ô©ÛD{˜+ﬂz‚ˇ~˜£g˜K˛ÄY√ÌÉ,(á≠A˚-Ÿ$ÀüÜf6±∆ñRúõmcÄrÆ∑:Lú¡cëúπïïË;í√Ñ?Q|óp—k)‚0»
+*sÛΩñä ãŒÏU	.Œ†•òûJxçˆÈZ‰i pÖçÖ∞TWoiIYqë¯7èU_b€&£ÿ»PfE_dñ(˙^ŒÃ€ø‡Å'^YS_Ë1j-€3ÚÉ}7¨yÒ„ÆÆËN?˜áÎOΩ˚∑^±˝Ó|óïπ¡Áæq{i«Hsnç´@°æSgjœÀYø˛##˜º˝∑œB´º[f˝·âgﬁx®˚˛Ç…Êƒ>†Fî=l;nïì˜M¶0I>OÌ˚(‹…«4Oh√$)®H“Û¶≈¨íúCcÚó`íﬁêÀì,VåN'±L¨J¯
+‘ÄKëâïß/ìãöÈOA‘kM™ë„çú!d|™Ãî~¢	†Äx‚R·-◊ñH<·}ûb≠ƒÚßLÂ∫πÂ≥à.UÈJŒK&6on¶#˜›=√ï´vë#µ9*π⁄µ9‚_XYz≈ì4·nr·|PÛ¥éXù∂'¨Ω˘	KŒ˚û0—Û?ë#nßÙN‚b-T´ˆ(uNó+†”t:=%dµNãòñjùzVÓ"†≥ôœYt∫Rùî˘ÍÛº€jQ‰øD= ßlP≠;„ˆB¿„ddx,y˘a“<È¸·;WÿÅÊOÙ R,ÅÊozUh$ﬂúØIX—ô∞y~ïËLXT3UBÕ‚]fçƒ√kÉ)v–í2î§+ÇÑ„≈Ë·J0Å—∫EÁ,Òí‘€Ü—“ä¶¢¨4gïætÒSƒﬂ’Ì≥vF≠•∫(˙õ'ìçKn
+13œG[ø≤Â∫L_ÅŒ±‡ëË±%M™$,ÖFgØ$ÌQ9˝n≥—£ ∏1.;ü≤µ O!GÅ`È—´=¨c‡!Å∏#˜Ù,2õ¬c &ç’+ô¥è\ è˘Q5axJÊQóhØLA%µ5¶˘PÁÏ≥”¬‰ıäFÂajÒ˙¬‰GìŒéÑÕöôéHVˆB{‹]O£g5n:¡–∏ãŒì<≥ûaâK.∆]ƒM|íπ·›»)QM˙+∂	˘…KÊâ2—ÁèëühÌC5=)LkÈúÜÇÊº«2ÚrØ´j„}§ÆpÓ¨ÙÂ
+[Ô¯ Æ%_ﬂX:ÔÕHë¸Çé÷î=ùÅë˜$M1ﬂgBhŸüö«Œ≥¿†¥z˝jÈè•DH5  *§€åêñ™%õn∞ùK”[^TÃ∂€—ûáâ=òd–+SÚ˘qÇúÒÙÁkHùÇòA@pëø‚À>'b-»*Qg¶¶¶"»Õ2)Ä\“LÕLkØa–^’ŒW˜r	©ÛÛr»#˙\_‹TI·∆M‚zYä<2—¬yäî≤¨ºRÖ°xˇ/≥¢ë[v° ÙæΩ"˜%2´ª…QTg-¨./Ú9Øª>çÓ¶€πJ8o› ≠q{√|»Ä8Ã»±Á8¸Bæìıe‚RÈó5]ÂPÚDÔrgrrr@¶”m«˘ªL*efòdæËb◊i«ıVtm/∫P6îê˜·2Ï?F◊ÈOëL0P∏®Ò≈‹ºœ„L∏Ñ∂9r! ∆rS»—’"Sí*¢âH™v%¶◊¸%‰FíÍNX‡Ñª*-—;)ïêr1V/”ã—n\Äòˇ‚n.Ûì‹⁄≠-´º—Àéﬁˆå|π2„:≥?%Ø%£™¿W—Vπí9pﬂGÔ¨ÏT>≤{ﬂn!ΩëôË2¨zk˛ºæCƒhŒË˘^}ëË©¢≥ò«QbÃê	œ3Ì¡Ù‘9ÿ“3ßÈE©JVïmÓ“^Jb∆	±d≤„ô¥√Ya¢öÿgˆã◊∂iæƒ–+2çFGÚEZ1 A˚õc˜)^è⁄„ÚÍΩû‰L(nï‡!vf>%znß3á.›Éﬁ[tﬂhü˝íáñûmAù1ÕÊ5y¨ÊÙ˝lö—≤©-∏8ˆˆrîë#x)(Ox9^≤Nå‰◊EoÊï.	?q<õ*SÏﬁ˝˙á#ãá˜0Ø>ß¨pw˜Œ£kè,Ÿ\‰(ﬂ˙˘h0≥q%Ω˝_ÔÿÛ¯≠èN|›¨%ãø±ÆÌ’ßo˚’™æ“„”Ïî"5ﬁ5∑Ù’[™F˜.êÄZ%3ÒJ[>{¨ˆ‘|Ö%Ô{◊D<x´müâõçH‡Be"@C˛dË≠\J≤WüíÍì3ãÃÊ!•ŒCåIfX9≥÷Hqçÿ8çq¢ﬂ.vr	.Ìñ]|¯ooˇ&˙ﬁ≠ﬂˇ]πòmú¸ﬁ[˜é¢ëûü›˘–yí˝Ómo≠>HªˇÃ'O?z!°T˙?ÇuAõ…L®ﬁ†<§22l6tôw©î(‰„Zºﬁ˛yíU6*¬ƒvÕ,Í≈qT”9Û+® ZjD¶§ì4˚D˘CìôÄÊR\˛•mã≤/I?ë$>’Iø.Ôqâ‚M£o∏Z ≥*∑vc€‹5◊œ[íÎiﬁ¥ö9∞?z‚ñÅÖçáw~3|iÆÓ:€üÿ√GËÅ}`–3‰Õ›ö/O≥i’) s¬9·ùEr%êO≥–Ã{Fπó—ø•ÄÅ(NX™ÙÄjv
+F/df}ÓÃ>IVÄ∏Ö)$WË∏—Ø£∏âi)≤¬csŸ3d…Ø2YëLenèêÑ“Î¬´1±';=ê!sz°h∂xfxΩ •EW.4tÂ“%ˆäΩKÑ°‚-‹KÁﬁ≤ÈôË'ø∫„Â<WÍI‚˛¶µ™Ê=MÕáˆ1˜∏ﬁÒÁè¢-o}rA_çEüöYuÁh…≥uÌZrÓæ„o&$ïÀ√3MÉZ¬”…S⁄t{ñPS[Hπj—“*9sπΩ&µ67LsÉÜÙtÛíÄ4Yyë<£H•í+Î0‰|WÁsuIhÂiî–|aôE˛:©56·‘„B~ßñh_&6BYúóñN_¬süâÃÃLOâ∂Otô¢‡„ıÏB@[yıõF‚„≈[—PTÂÃîiêCôﬁL*+.*)*-bdï∑ZÄ'%ÀCíÀí
+=†PV’q√ô…Z§(˜–*Yy\UêÒh!D+í-≤ˇv4Æ	•¡[@\ÿ  —.∏kh±˘∆}±dj±2øàºÚqyˇ{C€Îª€∑d›ÿy«È√ÛÃÚdÙÔ‹[YS^õU_2?´∆gr8L.≥œ6®˜UxRò£ªéÆ=yægp≈º_ﬂ|jÛ√7mœmzÙ˛WotÏ|z…ú2ß3ø´pÕ⁄ıK+∫_{pS}y‹sÀ9&8,Üa2¨Vj?—æaó{md%Kíï´7§ŸÃ&9œj[Z8“’öd}õqh2ô=¬Ñ…—I^yÔGO»Âº’i8¢G¸òY„”«lG–õ*LÊ€ÁﬂùB¶xfÅH‰R@î˜¯˜7ÒnÅñÚ#Ò√D$ ^°Qu„I∫]‹àØØÿ¶Tàö[é∂…ÑÅ©Ø¥DµÊe/Ï€T÷πï,Y1}Ì¶Œ õGøx¯Œõ+;oäæz«Md¡öŒ≤Mﬂ§Œ√ì£„—_VU¥F?ΩoÔ©<µ˜>bh≠h$9ªG'«˝W≈∫†∫‡ë`⁄ë¢#AJ†∂â/*	ÒMµ¨V¡ÁöZ”–bÃ¢	
+π◊)dsr*‘û≠≤>ö…èÎ≠˝ŒÎ/ïdﬂè∫˛Â	∂µ˛óÅí÷πar˘XKN‡ÚtCYàã¬âÀ“GÖKbÉ\/´ë©Õ?.Zµ”¢Y”˛„€\e%HVm)1…DªfÇI≥)ó∂∏ö£ˇN[^C%œº;§õà(îbÆc§aqãÓÛ“Ÿ÷∑5≤òmﬂpËÒË∂,ﬂ÷UÓÃ*˜⁄T*OQu≈7onÔ´÷‹ù‹|_ÀHy¡ñÍ¿:ª„„˝kR¨+Í ZÖ÷Â_çﬁñ5◊C6}l˜¡ËÖoÍÓ€ÌïUk¨Gˆíì—Â=+ÏU—s˚¢ø[ÚHs`mg«ﬂnΩ•‡_HÛÂÀO∏Îõ{7Ãm,ÌΩYå¡€∏_0Q∞¬⁄†µZû‰HU®àå:¨[äCcM≥•mt:k•ÔóD◊á˛O¸ò7-)yc—iıZ*SzXÜcdœ∞2≥≈d°2Ö!≈O‰FÍádmíKí?nEQç≥o◊ã˜3ìùäz©’bÖ êª»≤ˆ•y9µœΩ2;˚dˇ ”—ÿw–ÄNt2—Ë≈˛∑˙wÒuÙW¢_æzÀ˝?çÏ¿+[—ˇ£Ù≈WÈ¯'ÈÚ˝óØ•∑‚âπMLlÚ’¥ô›Ães/s/À1Ω'{è_…ø#/ëüJ:ÙﬂIäåˇÀÙÈï§Ï¯ˇô§øD+‡÷´ßæwi`0¬∫-Å≥àÔK‡2ƒøçΩ¿&a-
+œ%pvÚLß†"o$p€œ%pÒô.;’ıl€8¥b`pHxZËY5$àˇrπõÑÜ·Má7lY=ºAÿ∏n0Ohÿ2_ _&tØ€*∂lZ6‡º¬  Ç\ÃäÚÑ∫uÎÑÆ’+WmŸ,tm⁄42¥º≥≠an]ãø{€˙e√Î⁄{˛Û*Ù¿6ÿC∞`KûFËÅUﬁ√∞aKbî X€Ñ∏ò`˚jiÑÄ-Îp~bçR˚¿ˇM˘W)–xc€÷´c6c[ñÒı
+°S‰&∞"©µg¨√≤Á¨D∂H≥∫}õ6¡ÊÀ°⁄êéπ8∫E˙OÃm∞ñI´µ„˙‚Ëï∏Ó:§o”1ˆ“óŒ≥∏'I#Ó?àÿ4ßéˇÎûÿ∫ﬁ_—˘ù‘ÅãÚtπ‘¸DÛ©j±<6ÁΩb±hç¸cD≈ˇjNH˛ˇ` ﬁ?â
+
+endstream
+endobj
+22 0 obj
+<<
+/Length 330
+/Filter /FlateDecode
+>>
+stream
+hﬁTíMoÉ0ÜÔ¸
+7Ìê
+RÖ‘“K˚–⁄ıNÉÈêFà=Ùﬂèƒ¨’=N¸∆ˆVÌw{€M¿>¸`8A€Ÿ∆„8\ΩA8„•≥ $4ùôä´ÈklN>‹∆	˚ΩmXØˆ9oéìø¡”Ò∏z·œ¿ﬁ}Éæ≥ó9¢‰◊iéÆŒ˝`ève	∂	´^k˜V˜,&>Ç«õCêë≈r˜–‡ËjÉæ∂Ñ5Á<-√//J@€¸ﬂODFiÁ÷|◊>yóº$U†¥DÜ®àîfë6)QN§#)UÙéàT∂§¢VDäà4∑§©ÂÈXKZQ-Zëä."Ì≤HYPë¢ Õ\E9Q8)•‹î…<Ä•S˘◊7Õ!Ç±d’R∫%£>®π*]$()å3X}∑«\ΩüùãÔ!˙úÈ,ﬁüå\0!|…Ø  ¨¶o
+
+endstream
+endobj
+23 0 obj
+<<
+/FirstChar 32
+/Widths [ 250 0 408 0 0 833 0 0 333 333 0 0 250 333 250 278 500 500 500 500 500 500 500 500 500 500 278 278 0 0 0 0 0 722 667 667 722 611 556 0 722 333 0 0 0 889 0 0 556 0 0 556 611 722 722 944 0 0 0 333 0 333 0 500 0 444 500 444 500 444 333 500 500 278 278 500 278 778 500 500 500 500 333 389 278 500 500 722 500 500 444 ]
+/Encoding /WinAnsiEncoding
+/Type /Font
+/BaseFont /TimesNewRomanPSMT
+/LastChar 122
+/FontDescriptor 24 0 R
+/Subtype /TrueType
+>>
+endobj
+24 0 obj
+<<
+/FontBBox [ -568 -307 2000 1007 ]
+/StemV 82
+/Descent -216
+/XHeight -546
+/Flags 34
+/FontStretch /Normal
+/Ascent 891
+/FontName /TimesNewRomanPSMT
+/Type /FontDescriptor
+/FontWeight 400
+/ItalicAngle 0
+/FontFamily (Times New Roman)
+/CapHeight 656
+>>
+endobj
+25 0 obj
+<<
+/Length 14184
+>>
+stream
+q
+/GS1 gs
+BT
+/TT6 1 Tf
+12 0 0 12 90 744.96 Tm
+0 g
+2.75 Tc
+0 Tw
+[ ( ) -9130 ( ) -2870 ( ) -15000 (   ) ] TJ
+0 -3 TD
+0.0006 Tc
+-0.0006 Tw
+[ (syllable m) 8.4 (easurem) 8.4 (ents were recorded at r) ] TJ
+16.58 0 TD
+0 Tc
+0 Tw
+(oughly 40Hz when they clearly should have ) Tj
+-16.58 -1.15 TD
+0.0007 Tc
+-0.0007 Tw
+[ (been at 80H) 7.9 (z\051\056) 5.7 ( ) ] TJ
+/TT4 1 Tf
+13.98 0 0 13.98 90 667.3201 Tm
+0.001 Tc
+0 Tw
+(Results ) Tj
+/TT6 1 Tf
+12 0 0 12 103.5 650.28 Tm
+0.0003 Tc
+-0.0003 Tw
+[ (The sections below summ) 8.1 (arize the results ob) ] TJ
+17.94 0 TD
+0.0001 Tc
+-0.0001 Tw
+(tained for the four ) Tj
+7.495 0 TD
+0 Tc
+0 Tw
+(features hypothesized ) Tj
+-26.56 -1.15 TD
+0.0001 Tc
+-0.0001 Tw
+(to be related to stress\072 duration\054 in) Tj
+13.585 0 TD
+0 Tc
+0 Tw
+[ (tensity\054 pitch\054 and for) -7 (m) 7.8 (ant frequency\056 ) ] TJ
+/TT2 1 Tf
+13.02 0 0 13.02 90 609.54 Tm
+[ (Durati) 5.9 (on ) ] TJ
+/TT6 1 Tf
+12 0 0 12 90 592.74 Tm
+0.0002 Tc
+-0.0008 Tw
+(There was a visible trend relating stress to sy) Tj
+18 0 TD
+-0.0002 Tw
+[ (llable duration lengthening\056 T) 6 (h) 0.2 (e data for the ) ] TJ
+-18 -1.15 TD
+0.0001 Tc
+-0.0001 Tw
+[ (four syllables are summ) 7.9 (a) -6.1 (r) -1.9 (i) ] TJ
+10.64 0 TD
+0.0003 Tc
+-0.0028 Tw
+[ (zed in the table below\072 ) ] TJ
+-10.64 -1.15 TD
+0 Tc
+0 Tw
+( ) Tj
+0 -1.275 TD
+( ) Tj
+ET
+q
+1 i
+85.38 530.94 112.38 29.94 re
+W
+n
+0 G
+1 J
+1 j
+0.48 w
+10 M
+[ ] 0 d
+q
+1 0 0 1 85.38 560.88 cm
+0 0 m
+112.38 -29.94 l
+S
+Q
+Q
+BT
+12 0 0 12 261 548.88 Tm
+(\133) Tj
+ET
+q
+1 i
+264.96 546.24 3.96 14.64 re
+W
+n
+BT
+/TT7 1 Tf
+12 0 0 12 264.96 548.88 Tm
+<004c> Tj
+ET
+Q
+q
+1 i
+268.92 546.24 6.24 14.64 re
+W
+n
+BT
+/TT7 1 Tf
+12 0 0 12 268.92 548.88 Tm
+<0051> Tj
+ET
+Q
+q
+1 i
+275.16 546.24 20.52 14.64 re
+W
+n
+BT
+/TT7 1 Tf
+12 0 0 12 275.16 548.88 Tm
+<0057> Tj
+ET
+Q
+BT
+/TT7 1 Tf
+12 0 0 12 280.44 548.88 Tm
+0.0012 Tc
+<00550024> Tj
+/TT6 1 Tf
+1.27 0 TD
+0.002 Tc
+10.168 Tw
+(\135 \133) Tj
+ET
+q
+1 i
+428.7 546.24 32.58 14.64 re
+W
+n
+BT
+/TT7 1 Tf
+12 0 0 12 428.7 548.88 Tm
+0 Tc
+0 Tw
+<0051> Tj
+ET
+Q
+BT
+/TT7 1 Tf
+12 0 0 12 434.94 548.88 Tm
+0.0006 Tc
+0 Tw
+<0044004f00570058> Tj
+/TT6 1 Tf
+2.195 0 TD
+0.002 Tc
+(\135 ) Tj
+ET
+83.82 560.88 1.5 1.5 re
+f
+83.82 560.88 444.3 1.5 re
+f
+526.62 560.88 1.5 1.5 re
+f
+83.82 546.18 1.5 14.7 re
+f
+197.76 546.18 0.48001 14.7 re
+f
+362.46 546.18 0.48001 14.7 re
+f
+526.62 546.18 1.5 14.7 re
+f
+BT
+12 0 0 12 230.1 533.64 Tm
+0 Tc
+(\133) Tj
+/TT7 1 Tf
+0.33 0 TD
+0.0009 Tc
+<004c0051> Tj
+/TT6 1 Tf
+0.85 0 TD
+0.002 Tc
+4.668 Tw
+(\135 \133) Tj
+ET
+q
+1 i
+311.28 531 20.52 14.64 re
+W
+n
+BT
+/TT7 1 Tf
+12 0 0 12 311.28 533.64 Tm
+0 Tc
+0 Tw
+<0057> Tj
+ET
+Q
+BT
+/TT7 1 Tf
+12 0 0 12 316.56 533.64 Tm
+0.0012 Tc
+0 Tw
+<00550024> Tj
+/TT6 1 Tf
+1.27 0 TD
+0.002 Tc
+4.188 Tw
+(\135 \133) Tj
+ET
+q
+1 i
+393.06 531 21.54 14.64 re
+W
+n
+BT
+/TT7 1 Tf
+12 0 0 12 393.06 533.64 Tm
+0 Tc
+0 Tw
+<0051> Tj
+ET
+Q
+BT
+/TT7 1 Tf
+12 0 0 12 399.3 533.64 Tm
+-0.0022 Tc
+0 Tw
+<0024004f> Tj
+/TT6 1 Tf
+1.275 0 TD
+0.002 Tc
+4.538 Tw
+(\135 \133) Tj
+/TT7 1 Tf
+5.455 0 TD
+0.001 Tc
+0 Tw
+<00570058> Tj
+/TT6 1 Tf
+1.015 0 TD
+0.002 Tc
+(\135 ) Tj
+ET
+83.82 545.7 1.5 0.47998 re
+f
+197.76 545.7 0.48001 0.47998 re
+f
+280.14 545.7 0.48001 0.47998 re
+f
+362.46 545.7 0.48001 0.47998 re
+f
+444.84 545.7 0.48001 0.47998 re
+f
+526.62 545.7 1.5 0.47998 re
+f
+83.82 530.94 1.5 14.76 re
+f
+197.76 530.94 0.48001 14.76 re
+f
+280.14 530.94 0.48001 14.76 re
+f
+362.46 530.94 0.48001 14.76 re
+f
+444.84 530.94 0.48001 14.76 re
+f
+526.62 530.94 1.5 14.76 re
+f
+BT
+12 0 0 12 90 519.42 Tm
+0.0007 Tc
+-0.0057 Tw
+[ (Unstressed Duration) 5.7 ( ) ] TJ
+/TT9 1 Tf
+10.02 0 0 10.02 220.56 520.08 Tm
+-0.003 Tw
+[ (196 \0504) 5.9 (7\051 ) -4227.6 (262 \0503) 5.9 (1\051 ) -4221.6 (262 \0501) 5.9 (7\051 ) -4221.6 (221 \0501) 5.9 (9\051 ) ] TJ
+ET
+83.82 530.46 444.3 0.48004 re
+f
+83.82 516.66 1.5 13.8 re
+f
+197.76 516.66 0.48001 13.8 re
+f
+280.14 516.66 0.48001 13.8 re
+f
+362.46 516.66 0.48001 13.8 re
+f
+444.84 516.66 0.48001 13.8 re
+f
+526.62 516.66 1.5 13.8 re
+f
+BT
+/TT6 1 Tf
+12 0 0 12 90 505.14 Tm
+-0.0002 Tc
+0.0002 Tw
+(Stressed Duration ) Tj
+/TT9 1 Tf
+10.02 0 0 10.02 220.56 505.7401 Tm
+0.0006 Tc
+-0.003 Tw
+[ (214 \0501) 5.9 (3\051 ) -4227.6 (295 \0503) 5.9 (6\051 ) -4221.6 (354 \0503) 5.9 (7\051 ) -4221.6 (299 \0501) 5.9 (9\051 ) ] TJ
+ET
+83.82 516.18 444.3 0.47998 re
+f
+83.82 502.38 1.5 13.8 re
+f
+197.76 502.38 0.48001 13.8 re
+f
+280.14 502.38 0.48001 13.8 re
+f
+362.46 502.38 0.48001 13.8 re
+f
+444.84 502.38 0.48001 13.8 re
+f
+526.62 502.38 1.5 13.8 re
+f
+BT
+/TT6 1 Tf
+12 0 0 12 90 490.8 Tm
+0.0003 Tc
+-0.0053 Tw
+(Percent Increase ) Tj
+/TT9 1 Tf
+10.02 0 0 10.02 227.76 491.46 Tm
+-0.0007 Tc
+5.1061 Tw
+[ (8\0569\045 ) -287.4 (12\0566\045 34\0569\045 35\0567\045 ) ] TJ
+ET
+83.82 501.9 444.3 0.48001 re
+f
+83.82 486.54 1.5 15.36 re
+f
+83.82 486.54 113.94 1.5 re
+f
+197.76 488.04 0.48001 13.86 re
+f
+197.76 486.54 82.38 1.5 re
+f
+280.14 488.04 0.48001 13.86 re
+f
+280.14 486.54 82.32 1.5 re
+f
+362.46 488.04 0.48001 13.86 re
+f
+362.46 486.54 1.5 1.5 re
+f
+1 i
+q
+1 0 0 1 363.96 488.04 cm
+0 0 m
+80.88 0 l
+80.88 -1.5 l
+0 -1.5 l
+f
+Q
+444.84 488.04 0.48001 13.86 re
+f
+444.84 486.54 81.78 1.5 re
+f
+526.62 486.54 1.5 15.36 re
+f
+526.62 486.54 1.5 1.5 re
+f
+BT
+/TT6 1 Tf
+10.02 0 0 10.02 103.44 477.36 Tm
+0.0013 Tc
+0.0002 Tw
+[ (Tabl) 3.7 (e ) 6 (1\072) 3.7 ( Ef) 5 (fect) 9.7 (s o) 4.3 (f) -1 ( st) 3.7 (res) 7.2 (s) 1.2 ( ) 6 (on) 4.3 ( s) 7.2 (y) 4.3 (l) 3.7 (l) 3.7 (a) 2 (bl) 3.7 (e du) 4.3 (rat) 3.7 (i) 3.7 (o) 4.3 (n\056 ) 6 (Ti) 3.7 (m) 12.7 (e) 2 (s gi) 3.7 (ven) 4.3 ( i) 3.7 (n) -1.7 ( m) 12.7 (s) 1.2 ( \050st) 3.7 (a) 2 (n) 4.3 (d) -1.7 (ar) 5 (d ) 6 (devi) 3.7 (at) 3.7 (i) 3.7 (o) 4.3 (n i) 9.7 (n) -1.7 ( ) 6 (pare) 8 (nt) 3.7 (hese) 8 (s\051\056) 5.8 ( ) ] TJ
+12 0 0 12 90 458.04 Tm
+0.0003 Tc
+-0.0011 Tw
+(The data clearly show that stressed sylla) Tj
+16.11 0 TD
+-0.002 Tw
+(bles are roughly 10\05530\045 longer than their ) Tj
+-16.11 -1.15 TD
+0.0002 Tc
+-0.0018 Tw
+(unstressed counterparts\056 Interestingly\054 the ) Tj
+16.89 0 TD
+0.0004 Tc
+-0.0004 Tw
+[ (m) 8.2 (a) -0.8 (gnitude of the lengthening ef) 8.4 (fect varies ) ] TJ
+-16.89 -1.23 TD
+0.0007 Tc
+-0.004 Tw
+(between word\055pairs\072 the \133) Tj
+/TT7 1 Tf
+10.245 0 TD
+0.0001 Tc
+0 Tw
+<00510044004f00570058> Tj
+/TT6 1 Tf
+2.715 0 TD
+-0.0002 Tc
+0.0002 Tw
+[ (\135 pai) -7.4 (r) -2.2 (s show a 35\045 lengtheni) ] TJ
+11.64 0 TD
+0.0001 Tc
+-0.0001 Tw
+(ng effect for both syllables\054 ) Tj
+-24.6 -1.225 TD
+0.0008 Tc
+-0.0008 Tw
+(while the \133) Tj
+/TT7 1 Tf
+4.28 0 TD
+-0.0005 Tc
+0 Tw
+<002c0051005700550024> Tj
+/TT6 1 Tf
+2.56 0 TD
+0.0002 Tc
+-0.0002 Tw
+(\135 pairs show a roughly 10\045 effect\054 ) Tj
+14.06 0 TD
+-0.0014 Tw
+[ (which is slightly m) 8 (o) 0.2 (re pronounced ) ] TJ
+-20.9 -1.145 TD
+0.0007 Tc
+-0.0007 Tw
+[ (for the seco) 5.7 (nd syllab) 5.7 (l) -1.5 (e than for the first\056) 5.7 ( ) ] TJ
+/TT2 1 Tf
+13.02 0 0 13.02 90 374.1 Tm
+-0.0009 Tc
+0 Tw
+(Intensity ) Tj
+/TT6 1 Tf
+12 0 0 12 103.5 357.3 Tm
+0.0005 Tc
+-0.0005 Tw
+[ (Intensity m) 8.3 (easurem) 8.3 (ents also showed a pos) ] TJ
+16.97 0 TD
+0.0002 Tc
+-0.001 Tw
+(itive correlation to stress\056 The data are ) Tj
+-18.095 -1.15 TD
+0.0006 Tc
+-0.0031 Tw
+[ (summarized) 5.6 ( in the table below\072 ) ] TJ
+0 -1.775 TD
+0 Tc
+0 Tw
+( ) Tj
+ET
+q
+85.38 303.3 121.38 29.94 re
+W
+n
+0 G
+1 J
+1 j
+0.48 w
+10 M
+[ ] 0 d
+q
+1 0 0 1 85.38 333.24 cm
+0 0 m
+121.38 -29.94 l
+S
+Q
+Q
+BT
+12 0 0 12 265.5 321.24 Tm
+(\133) Tj
+ET
+q
+269.46 318.6 3.96 14.64 re
+W
+n
+BT
+/TT7 1 Tf
+12 0 0 12 269.46 321.24 Tm
+<004c> Tj
+ET
+Q
+q
+273.42 318.6 6.24 14.64 re
+W
+n
+BT
+/TT7 1 Tf
+12 0 0 12 273.42 321.24 Tm
+<0051> Tj
+ET
+Q
+q
+279.66 318.6 20.52 14.64 re
+W
+n
+BT
+/TT7 1 Tf
+12 0 0 12 279.66 321.24 Tm
+<0057> Tj
+ET
+Q
+BT
+/TT7 1 Tf
+12 0 0 12 284.94 321.24 Tm
+0.0012 Tc
+<00550024> Tj
+/TT6 1 Tf
+1.27 0 TD
+0.002 Tc
+9.793 Tw
+(\135 \133) Tj
+ET
+q
+428.7 318.6 32.58 14.64 re
+W
+n
+BT
+/TT7 1 Tf
+12 0 0 12 428.7 321.24 Tm
+0 Tc
+0 Tw
+<0051> Tj
+ET
+Q
+BT
+/TT7 1 Tf
+12 0 0 12 434.94 321.24 Tm
+0.0006 Tc
+0 Tw
+<0044004f00570058> Tj
+/TT6 1 Tf
+2.195 0 TD
+0.002 Tc
+(\135 ) Tj
+ET
+83.82 333.24 1.5 1.5 re
+f
+83.82 333.24 444.3 1.5 re
+f
+526.62 333.24 1.5 1.5 re
+f
+83.82 318.54 1.5 14.7 re
+f
+206.76 318.54 0.48001 14.7 re
+f
+362.46 318.54 0.48001 14.7 re
+f
+526.62 318.54 1.5 14.7 re
+f
+BT
+12 0 0 12 234.6 306 Tm
+0 Tc
+(\133) Tj
+/TT7 1 Tf
+0.33 0 TD
+0.0009 Tc
+<004c0051> Tj
+/TT6 1 Tf
+0.85 0 TD
+0.002 Tc
+4.293 Tw
+(\135 \133) Tj
+ET
+q
+311.28 303.36 20.52 14.64 re
+W
+n
+BT
+/TT7 1 Tf
+12 0 0 12 311.28 306 Tm
+0 Tc
+0 Tw
+<0057> Tj
+ET
+Q
+BT
+/TT7 1 Tf
+12 0 0 12 316.56 306 Tm
+0.0012 Tc
+0 Tw
+<00550024> Tj
+/TT6 1 Tf
+1.27 0 TD
+0.002 Tc
+4.188 Tw
+(\135 \133) Tj
+ET
+q
+393.06 303.36 21.54 14.64 re
+W
+n
+BT
+/TT7 1 Tf
+12 0 0 12 393.06 306 Tm
+0 Tc
+0 Tw
+<0051> Tj
+ET
+Q
+BT
+/TT7 1 Tf
+12 0 0 12 399.3 306 Tm
+-0.0022 Tc
+0 Tw
+<0024004f> Tj
+/TT6 1 Tf
+1.275 0 TD
+0.002 Tc
+4.538 Tw
+(\135 \133) Tj
+/TT7 1 Tf
+5.455 0 TD
+0.001 Tc
+0 Tw
+<00570058> Tj
+/TT6 1 Tf
+1.015 0 TD
+0.002 Tc
+(\135 ) Tj
+ET
+83.82 318.06 1.5 0.48001 re
+f
+206.76 318.06 0.48001 0.48001 re
+f
+280.14 318.06 0.48001 0.48001 re
+f
+362.46 318.06 0.48001 0.48001 re
+f
+444.84 318.06 0.48001 0.48001 re
+f
+526.62 318.06 1.5 0.48001 re
+f
+83.82 303.3 1.5 14.76 re
+f
+206.76 303.3 0.48001 14.76 re
+f
+280.14 303.3 0.48001 14.76 re
+f
+362.46 303.3 0.48001 14.76 re
+f
+444.84 303.3 0.48001 14.76 re
+f
+526.62 303.3 1.5 14.76 re
+f
+BT
+12 0 0 12 90 291.7801 Tm
+0.0004 Tc
+-0.0054 Tw
+[ (Unstressed Intensity) 5.4 ( ) ] TJ
+/TT9 1 Tf
+10.02 0 0 10.02 222.3 292.4401 Tm
+-0.0008 Tc
+-0.0016 Tw
+[ (65\0560 \0501\0564) 4.5 (\051 ) -3227.6 (61\0561 \0504\0563) 4.5 (\051 ) -3670.7 (68\0569 \0501\0566) 4.5 (\051 ) -3670.7 (62\0561 \0504\0567) 4.5 (\051 ) ] TJ
+ET
+83.82 302.82 444.3 0.48001 re
+f
+83.82 289.02 1.5 13.8 re
+f
+206.76 289.02 0.48001 13.8 re
+f
+280.14 289.02 0.48001 13.8 re
+f
+362.46 289.02 0.48001 13.8 re
+f
+444.84 289.02 0.48001 13.8 re
+f
+526.62 289.02 1.5 13.8 re
+f
+BT
+/TT6 1 Tf
+12 0 0 12 90 277.5001 Tm
+0.0004 Tc
+-0.0054 Tw
+(Stressed Intensity ) Tj
+/TT9 1 Tf
+10.02 0 0 10.02 222.3 278.1 Tm
+-0.0008 Tc
+-0.0016 Tw
+[ (71\0563 \0502\0565) 4.5 (\051 ) -3227.6 (71\0560 \0503\0562) 4.5 (\051 ) -3670.7 (75\0567 \0503\0568) 4.5 (\051 ) -3670.7 (69\0564 \0502\0560) 4.5 (\051 ) ] TJ
+ET
+83.82 288.54 444.3 0.48001 re
+f
+83.82 274.74 1.5 13.8 re
+f
+206.76 274.74 0.48001 13.8 re
+f
+280.14 274.74 0.48001 13.8 re
+f
+362.46 274.74 0.48001 13.8 re
+f
+444.84 274.74 0.48001 13.8 re
+f
+526.62 274.74 1.5 13.8 re
+f
+BT
+/TT6 1 Tf
+12 0 0 12 90 263.16 Tm
+0.0003 Tc
+-0.0053 Tw
+(Percent Increase ) Tj
+/TT9 1 Tf
+10.02 0 0 10.02 232.26 263.8201 Tm
+-0.0008 Tc
+4.9445 Tw
+[ (9\0567\045 16\0562\045 ) -437.1 (9\0569\045 ) -443.1 (11\0568\045 ) ] TJ
+ET
+83.82 274.26 444.3 0.47998 re
+f
+83.82 258.9 1.5 15.36 re
+f
+83.82 258.9 122.94 1.5 re
+f
+206.76 260.4 0.48001 13.86 re
+f
+206.76 258.9 73.38 1.5 re
+f
+280.14 260.4 0.48001 13.86 re
+f
+280.14 258.9 82.32 1.5 re
+f
+362.46 260.4 0.48001 13.86 re
+f
+362.46 258.9 1.5 1.5 re
+f
+q
+1 0 0 1 363.96 260.4 cm
+0 0 m
+80.88 0 l
+80.88 -1.5 l
+0 -1.5 l
+f
+Q
+444.84 260.4 0.48001 13.86 re
+f
+444.84 258.9 81.78 1.5 re
+f
+526.62 258.9 1.5 15.36 re
+f
+526.62 258.9 1.5 1.5 re
+f
+BT
+/TT6 1 Tf
+10.02 0 0 10.02 111.06 249.72 Tm
+0.0014 Tc
+0.0001 Tw
+[ (Tabl) 3.8 (e ) 6 (2\072) 3.8 ( Ef) 5.1 (fect) 9.8 (s o) 4.4 (f) -0.9 ( st) 3.8 (res) 7.3 (s) 1.3 ( ) 6 (on) 4.4 ( i) 3.8 (n) -1.6 (t) 3.8 (e) 2.1 (nsi) 3.8 (t) 3.8 (y) 4.4 (\056 I) 5.1 (n) -1.6 (t) 3.8 (e) 8.1 (ns) 7.3 (i) 3.8 (t) 3.8 (y) 4.4 ( val) 3.8 (u) -1.6 (es i) 3.8 (n) 4.4 ( d) 4.4 (B) 3.7 ( \050st) 3.8 (a) 2.1 (n) 4.4 (d) -1.6 (ar) 5.1 (d ) 6 (de) 8.1 (vi) 3.8 (at) 3.8 (i) 3.8 (ons) 7.3 ( i) 3.8 (n) -1.6 ( ) 6 (pa) 8.1 (r) 5.1 (a) 2.1 (nt) 3.8 (heses) 7.3 (\051) -0.9 (\056) 5.9 ( ) ] TJ
+12 0 0 12 90 230.4001 Tm
+0.0006 Tc
+-0.0006 Tw
+[ (These m) 8.4 (easurem) 8.4 (ents show that stres) 4.8 (s) -0.2 (ed syllab) ] TJ
+18.525 0 TD
+0.0001 Tc
+-0.0001 Tw
+[ (les have a significant increase in am) 7.9 (plitude ) ] TJ
+-18.525 -1.15 TD
+[ (com) 7.9 (p) 0.1 (ared to unstressed syllables\056 For all ca) ] TJ
+17.415 0 TD
+0 Tc
+-0.0033 Tw
+(ses\054 the increase in ) Tj
+7.74 0 TD
+0.0003 Tc
+-0.0003 Tw
+(dB was around 10\045\073 the ) Tj
+-25.155 -1.23 TD
+0.001 Tc
+-0.001 Tw
+[ (word\055f) 4 (inal s) 5.2 (y) 1 (llab) 6 (l) -1.2 (es \133) ] TJ
+/TT7 1 Tf
+8.555 0 TD
+-0.0014 Tc
+0 Tw
+<005700550024> Tj
+/TT6 1 Tf
+1.705 0 TD
+-0.0008 Tc
+0.0008 Tw
+(\135 and \133) Tj
+/TT7 1 Tf
+2.605 0 TD
+0.001 Tc
+0 Tw
+<00570058> Tj
+/TT6 1 Tf
+1.02 0 TD
+0.0003 Tc
+0.0011 Tw
+[ (\135 showed a som) 8.1 (e) -5.9 (what m) 8.1 (o) 0.3 (re significant level of ) ] TJ
+-13.885 -1.145 TD
+0.0007 Tc
+-0.0023 Tw
+[ (am) 8.5 (plification \05016\045 and 12\045\051 com) 8.5 (p) 0.7 (ared to th) ] TJ
+18.105 0 TD
+-0.0006 Tw
+[ (e word\055in) 5.6 (i) -1.6 (tial s) 4.8 (y) 0.6 (llab) 5.6 (l) -1.6 (es \050bo) 5.6 (t) 3.4 (h 10\045\051\056 This ) ] TJ
+-18.105 -1.15 TD
+0.0008 Tc
+-0.0008 Tw
+[ (m) 8.6 (a) -0.4 (y be related to the f) 3.8 (a) -0.4 (c) 4.6 (t) -1.4 ( tha) 4.6 (t) -1.4 ( word\055f) 3.8 (inal sy) 5.8 (llab) 5.8 (l) -1.4 (e) 4.6 (s) 0 ( natura) 4.6 (lly h) 5.8 (a) -0.4 (ve an over) 3.8 (a) 4.6 (ll lowe) 4.6 (r ) ] TJ
+T*
+0.001 Tc
+-0.0014 Tw
+[ (am) 8.8 (plitude th) 6 (an word\055initial sy) 6 (llab) 6 (l) -1.2 (es\054) 6 ( and stre) 4.8 (ssin) 6 (g) 1 ( the f) 4 (i) -1.2 (nal s) 5.2 (y) 1 (llab) 6 (l) -1.2 (e compensates f) 4 (o) 1 (r this ) ] TJ
+T*
+0.0009 Tc
+[ (ef) 3.9 (f) 3.9 (ect as well as ra) 4.7 (is) 5.1 (ing the inten) 5.9 (s) 0.1 (ity of) 3.9 ( the syllab) 5.9 (l) -1.3 (e\056) 5.9 ( ) ] TJ
+/TT2 1 Tf
+13.02 0 0 13.02 90 119.76 Tm
+-0.0008 Tc
+0 Tw
+(Pitch ) Tj
+/TT6 1 Tf
+12 0 0 12 103.68 102.9601 Tm
+0.0005 Tc
+-0.0012 Tw
+[ (The table b) 5.5 (e) 4.3 (low summarizes the resu) 5.5 (lts for p) ] TJ
+17.965 0 TD
+0 Tc
+-0.0016 Tw
+[ (eak pitch\056 Mean pitch was also m) 7.8 (e) -1.1 (asured\054 ) ] TJ
+-19.105 -1.15 TD
+0.0008 Tc
+-0.0011 Tw
+[ (but thes) 5 (e values close) 4.6 (l) -1.4 (y r) 3.8 (e) -0.4 (sem) 8.6 (b) 0.8 (le the peak value) 4.6 (s) 0 ( and do not o) 5.8 (f) 3.8 (f) 3.8 (e) -0.4 (r addition) 5.8 (a) -0.4 (l ins) 5 (i) -1.4 (ght\056) 5.8 ( ) ] TJ
+ET
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 LIN\056G1\05601\0564 \055 Linguistics \055 First year Graduate \055 Male \055 Native Speaker \055 Research Paper) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(2) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+26 0 obj
+<<
+/FirstChar 32
+/Widths [ 278 0 0 0 0 889 0 0 333 333 0 584 0 333 278 0 556 556 556 556 556 556 556 556 556 556 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 556 0 556 0 0 556 556 0 0 0 222 0 0 222 0 556 0 0 0 333 500 278 556 ]
+/Encoding /WinAnsiEncoding
+/Type /Font
+/BaseFont /ArialMT
+/LastChar 117
+/FontDescriptor 27 0 R
+/Subtype /TrueType
+>>
+endobj
+27 0 obj
+<<
+/FontBBox [ -665 -325 2000 1006 ]
+/StemV 88
+/Descent -211
+/XHeight 515
+/Flags 32
+/FontStretch /Normal
+/Ascent 905
+/FontName /ArialMT
+/Type /FontDescriptor
+/FontWeight 400
+/ItalicAngle 0
+/FontFamily (Arial)
+/CapHeight 718
+>>
+endobj
+28 0 obj
+<<
+/Length 15420
+>>
+stream
+q
+/GS1 gs
+BT
+/TT6 1 Tf
+12 0 0 12 90 744.96 Tm
+0 g
+2.75 Tc
+0 Tw
+[ ( ) -9130 ( ) -2870 ( ) -15000 (   ) ] TJ
+0 -3.125 TD
+0 Tc
+( ) Tj
+ET
+q
+1 i
+85.38 688.62 121.38 29.88 re
+W
+n
+0 G
+1 J
+1 j
+0.48 w
+10 M
+[ ] 0 d
+q
+1 0 0 1 85.38 718.5 cm
+0 0 m
+121.38 -29.88 l
+S
+Q
+Q
+BT
+12 0 0 12 265.5 706.5 Tm
+(\133) Tj
+ET
+q
+1 i
+269.46 703.86 3.96 14.64 re
+W
+n
+BT
+/TT7 1 Tf
+12 0 0 12 269.46 706.5 Tm
+<004c> Tj
+ET
+Q
+q
+1 i
+273.42 703.86 6.24 14.64 re
+W
+n
+BT
+/TT7 1 Tf
+12 0 0 12 273.42 706.5 Tm
+<0051> Tj
+ET
+Q
+q
+1 i
+279.66 703.86 20.52 14.64 re
+W
+n
+BT
+/TT7 1 Tf
+12 0 0 12 279.66 706.5 Tm
+<0057> Tj
+ET
+Q
+BT
+/TT7 1 Tf
+12 0 0 12 284.94 706.5 Tm
+0.0012 Tc
+<00550024> Tj
+/TT6 1 Tf
+1.27 0 TD
+0.002 Tc
+9.793 Tw
+(\135 \133) Tj
+ET
+q
+1 i
+428.7 703.86 32.58 14.64 re
+W
+n
+BT
+/TT7 1 Tf
+12 0 0 12 428.7 706.5 Tm
+0 Tc
+0 Tw
+<0051> Tj
+ET
+Q
+BT
+/TT7 1 Tf
+12 0 0 12 434.94 706.5 Tm
+0.0006 Tc
+0 Tw
+<0044004f00570058> Tj
+/TT6 1 Tf
+2.195 0 TD
+0.002 Tc
+(\135 ) Tj
+ET
+83.82 718.5 1.5 1.5 re
+f
+83.82 718.5 444.3 1.5 re
+f
+526.62 718.5 1.5 1.5 re
+f
+83.82 703.8 1.5 14.7 re
+f
+206.76 703.8 0.48001 14.7 re
+f
+362.46 703.8 0.48001 14.7 re
+f
+526.62 703.8 1.5 14.7 re
+f
+BT
+12 0 0 12 234.6 691.32 Tm
+0 Tc
+(\133) Tj
+/TT7 1 Tf
+0.33 0 TD
+0.0009 Tc
+<004c0051> Tj
+/TT6 1 Tf
+0.85 0 TD
+0.002 Tc
+4.293 Tw
+(\135 \133) Tj
+ET
+q
+1 i
+311.28 688.68 20.52 14.64 re
+W
+n
+BT
+/TT7 1 Tf
+12 0 0 12 311.28 691.32 Tm
+0 Tc
+0 Tw
+<0057> Tj
+ET
+Q
+BT
+/TT7 1 Tf
+12 0 0 12 316.56 691.32 Tm
+0.0012 Tc
+0 Tw
+<00550024> Tj
+/TT6 1 Tf
+1.27 0 TD
+0.002 Tc
+4.188 Tw
+(\135 \133) Tj
+ET
+q
+1 i
+393.06 688.68 21.54 14.64 re
+W
+n
+BT
+/TT7 1 Tf
+12 0 0 12 393.06 691.32 Tm
+0 Tc
+0 Tw
+<0051> Tj
+ET
+Q
+BT
+/TT7 1 Tf
+12 0 0 12 399.3 691.32 Tm
+-0.0022 Tc
+0 Tw
+<0024004f> Tj
+/TT6 1 Tf
+1.275 0 TD
+0.002 Tc
+4.538 Tw
+(\135 \133) Tj
+/TT7 1 Tf
+5.455 0 TD
+0.001 Tc
+0 Tw
+<00570058> Tj
+/TT6 1 Tf
+1.015 0 TD
+0.002 Tc
+(\135 ) Tj
+ET
+83.82 703.32 1.5 0.48004 re
+f
+206.76 703.32 0.48001 0.48004 re
+f
+280.14 703.32 0.48001 0.48004 re
+f
+362.46 703.32 0.48001 0.48004 re
+f
+444.84 703.32 0.48001 0.48004 re
+f
+526.62 703.32 1.5 0.48004 re
+f
+83.82 688.62 1.5 14.7 re
+f
+206.76 688.62 0.48001 14.7 re
+f
+280.14 688.62 0.48001 14.7 re
+f
+362.46 688.62 0.48001 14.7 re
+f
+444.84 688.62 0.48001 14.7 re
+f
+526.62 688.62 1.5 14.7 re
+f
+BT
+12 0 0 12 90 677.04 Tm
+0.0007 Tc
+-0.0057 Tw
+[ (Unstressed Pitch) 5.7 ( ) ] TJ
+/TT9 1 Tf
+10.02 0 0 10.02 222.3 677.7 Tm
+-0.0008 Tc
+-0.0016 Tw
+[ (99\0564 \0502\0564) 4.5 (\051 ) -3227.6 (85\0568 \0504\0566) 4.5 (\051 ) -3670.7 (93\0560 \0503\0562) 4.5 (\051 ) -3670.7 (83\0562 \0504\0564) 4.5 (\051 ) ] TJ
+ET
+83.82 688.14 444.3 0.47998 re
+f
+83.82 674.28 1.5 13.86 re
+f
+206.76 674.28 0.48001 13.86 re
+f
+280.14 674.28 0.48001 13.86 re
+f
+362.46 674.28 0.48001 13.86 re
+f
+444.84 674.28 0.48001 13.86 re
+f
+526.62 674.28 1.5 13.86 re
+f
+BT
+/TT6 1 Tf
+12 0 0 12 90 662.76 Tm
+0.0004 Tc
+-0.0004 Tw
+[ (Stressed P) 6.6 (i) -1.8 (tch ) ] TJ
+/TT9 1 Tf
+10.02 0 0 10.02 219.48 663.42 Tm
+-0.0007 Tc
+-0.0017 Tw
+[ (118\0568 \0503\0560) 4.6 (\051 ) -2670.7 (118\0566 \0504\0561) 4.6 (\051 ) -3113.8 (110\0566 \0509\0562) 4.6 (\051 ) -3113.8 (121\0563 \0505\0565) 4.6 (\051 ) ] TJ
+ET
+83.82 673.8 444.3 0.47998 re
+f
+83.82 660 1.5 13.8 re
+f
+206.76 660 0.48001 13.8 re
+f
+280.14 660 0.48001 13.8 re
+f
+362.46 660 0.48001 13.8 re
+f
+444.84 660 0.48001 13.8 re
+f
+526.62 660 1.5 13.8 re
+f
+BT
+/TT6 1 Tf
+12 0 0 12 90 648.48 Tm
+0.0003 Tc
+-0.0053 Tw
+(Percent Increase ) Tj
+/TT9 1 Tf
+10.02 0 0 10.02 229.5 649.14 Tm
+-0.0006 Tc
+5.106 Tw
+[ (19\0565\045 ) 443.1 (38\0562\045 18\0569\045 45\0568\045 ) ] TJ
+ET
+83.82 659.52 444.3 0.47998 re
+f
+83.82 644.22 1.5 15.3 re
+f
+83.82 644.22 122.94 1.5 re
+f
+206.76 645.72 0.48001 13.8 re
+f
+206.76 644.22 73.38 1.5 re
+f
+280.14 645.72 0.48001 13.8 re
+f
+280.14 644.22 82.32 1.5 re
+f
+362.46 645.72 0.48001 13.8 re
+f
+362.46 644.22 1.5 1.5 re
+f
+1 i
+q
+1 0 0 1 363.96 645.72 cm
+0 0 m
+80.88 0 l
+80.88 -1.5 l
+0 -1.5 l
+f
+Q
+444.84 645.72 0.48001 13.8 re
+f
+444.84 644.22 81.78 1.5 re
+f
+526.62 644.22 1.5 15.3 re
+f
+526.62 644.22 1.5 1.5 re
+f
+BT
+/TT6 1 Tf
+10.02 0 0 10.02 118.26 635.04 Tm
+0.0016 Tc
+-0.0001 Tw
+[ (Tabl) 4 (e ) 6 (3\072) 4 ( Ef) 5.3 (fect) 10 (s o) 4.6 (f) -0.7 ( st) 4 (res) 7.5 (s) 1.5 ( ) 6 (on) 4.6 ( p) 4.6 (i) 4 (t) 4 (c) 2.3 (h\056 I) 5.3 (n) -1.4 (t) 4 (e) 2.3 (nsi) 4 (t) 4 (y) 4.6 ( ) 6 (val) 4 (u) -1.4 (es) 7.5 ( i) 4 (n) -1.4 ( ) 6 (dB) 3.9 ( ) 6 (\050s) 7.5 (t) 4 (a) 2.3 (nda) 8.3 (rd) 4.6 ( de) 8.3 (vi) 4 (at) 4 (i) 4 (ons) 7.5 ( i) 4 (n) 4.6 ( pa) 8.3 (rant) 10 (he) 8.3 (ses\051\056) 6.1 ( ) ] TJ
+12 0 0 12 90 615.66 Tm
+0.001 Tc
+-0.001 Tw
+[ (Clearly\054 p) 6 (itc) 4.8 (h is a sign) 6 (if) 4 (icant ) ] TJ
+11.78 0 TD
+0.0004 Tc
+0.0008 Tw
+[ (facto) 5.4 (r) -1.6 ( in m) 8.2 (a) -0.8 (rking stress\054 w) ] TJ
+10.635 0 TD
+0.0013 Tc
+-0.0013 Tw
+[ (ith m) 9.1 (a) 0.1 (rked in) 6.3 (crea) 5.1 (ses f) 4.3 (o) 1.3 (r all ) ] TJ
+-22.415 -1.15 TD
+0.0002 Tc
+-0.0002 Tw
+[ (stressed syllables\056 The effect is m) 8 (o) 0.2 (re) -6 ( ) ] TJ
+14.97 0 TD
+(pronounced on the second syllable \05038\045 and 46\045 ) Tj
+-14.97 -1.15 TD
+0.0008 Tc
+-0.0008 Tw
+[ (incre) 4.6 (a) -0.4 (ses) 5 (\051) -1.2 ( th) 5.8 (an on the f) 3.8 (i) -1.4 (r) 3.8 (s) 0 (t syllable \0501) 5.8 (9\045) ] TJ
+16.33 0 TD
+0 Tc
+-0.0007 Tw
+( and 20\045 increases\051\056 This effect can be ) Tj
+-16.33 -1.15 TD
+-0.0001 Tc
+-0.0015 Tw
+(attributed to the significan) Tj
+10.525 0 TD
+0.0002 Tc
+-0.0002 Tw
+(tly lower pitch of unstressed ) Tj
+11.585 0 TD
+0.0003 Tc
+-0.0019 Tw
+(second syllables compared to ) Tj
+-22.11 -1.15 TD
+0.0002 Tc
+-0.0018 Tw
+(unstressed first syllables \050note ) Tj
+12.33 0 TD
+0.0003 Tc
+-0.0009 Tw
+[ (that first and second syllable pitch is roughly com) 8.1 (p) 0.3 (arable ) ] TJ
+-12.33 -1.15 TD
+0.0006 Tc
+-0.0006 Tw
+[ (in the s) 4.8 (t) -1.6 (ress) 4.8 (ed cases) 4.8 (\051\056 T) 6.4 (hus a possib) 5.6 (l) -1.6 (e explan) ] TJ
+17.995 0 TD
+0.0001 Tc
+-0.0001 Tw
+[ (ation m) 7.9 (a) -1.1 (y be that the speaker naturally has a ) ] TJ
+-17.995 -1.15 TD
+0.0003 Tc
+-0.0036 Tw
+(decrease in pitch throughout ) Tj
+11.61 0 TD
+0 Tc
+0 Tw
+(the production of the word\054 but) Tj
+12.44 0 TD
+0.0002 Tc
+-0.0014 Tw
+( this natural effect is ) Tj
+-24.05 -1.15 TD
+-0.0002 Tw
+(countered when the second syllable is stresse) Tj
+18.055 0 TD
+0.0003 Tc
+-0.0008 Tw
+[ (d\054 in a sim) 8.1 (ilar manner as was seen in the ) ] TJ
+-18.055 -1.15 TD
+0.0005 Tc
+-0.0005 Tw
+[ (intens) 4.7 (ity va) 4.3 (lues\056 ) ] TJ
+/TT2 1 Tf
+13.02 0 0 13.02 90 478.32 Tm
+-0.0019 Tc
+0.0006 Tw
+[ (Vow) -7.5 (e) -3.4 (l Formants ) ] TJ
+/TT6 1 Tf
+12 0 0 12 103.5 461.52 Tm
+0.0007 Tc
+-0.0007 Tw
+[ (The f) 3.7 (our tab) 5.7 (l) -1.5 (es be) 4.5 (low illustra) 4.5 (t) -1.5 (e th) 5.7 (e e) 4.5 (f) 3.7 (f) 3.7 (ect) ] TJ
+16.49 0 TD
+0.0002 Tc
+-0.0002 Tw
+[ (s of stress on the values of the form) 8 (ant ) ] TJ
+-17.615 -1.15 TD
+0.0004 Tc
+-0.0018 Tw
+(frequencies in the four syllables\056 The trend is) Tj
+18.055 0 TD
+0.0007 Tc
+-0.0025 Tw
+[ ( to reduce the v) 5.7 (o) 0.7 (wel quality) 5.7 ( towards a more ) ] TJ
+-18.055 -1.15 TD
+-0.0016 Tw
+[ (centralized s) 4.8 (ound in unstressed sy) 5.6 (llables\073 t) ] TJ
+17.03 0 TD
+0.0008 Tc
+[ (hus th) 5.8 (e frequency will either in) 5.8 (creas) 5 (e or ) ] TJ
+-17.03 -1.15 TD
+0.0005 Tc
+-0.0005 Tw
+[ (decrea) 4.3 (se de) 4.3 (pending on the quality of) 3.5 ( the vowel \050) 3.5 (a) -0.7 ( high vowel will b) 5.5 (e) -0.7 ( low) 7.7 (e) -0.7 (red\054 where) 4.3 (a) 4.3 (s) -0.3 ( a ) ] TJ
+T*
+0.0008 Tc
+-0.0022 Tw
+[ (low vowel will be rais) 5 (e) 4.6 (d) 0.8 (\051\056 This is re) 4.6 (f) 3.8 (l) -1.4 (ected ) ] TJ
+17.36 0 TD
+0.001 Tc
+-0.0017 Tw
+[ (in th) 6 (e positive an) 6 (d negativ) 6 (e v) 6 (a) -0.2 (lues f) 4 (o) 1 (r pe) 4.9 (r) 4 (cent ) ] TJ
+-17.36 -1.15 TD
+0.0001 Tc
+-0.0013 Tw
+(change in the tables below\072 ) Tj
+T*
+0 Tc
+0 Tw
+( ) Tj
+4.2 -1.275 TD
+( ) Tj
+ET
+q
+135.78 345.48 96.18 28.98 re
+W
+n
+0 G
+1 J
+1 j
+0.48 w
+10 M
+[ ] 0 d
+q
+1 0 0 1 135.78 374.46 cm
+0 0 m
+96.18 -28.98 l
+S
+Q
+Q
+BT
+12 0 0 12 313.98 362.46 Tm
+(\133) Tj
+ET
+q
+317.94 359.82 3.96 14.64 re
+W
+n
+BT
+/TT7 1 Tf
+12 0 0 12 317.94 362.46 Tm
+<004c> Tj
+ET
+Q
+q
+321.9 359.82 6.24 14.64 re
+W
+n
+BT
+/TT7 1 Tf
+12 0 0 12 321.9 362.46 Tm
+<0051> Tj
+ET
+Q
+BT
+12 0 0 12 328.14 362.46 Tm
+0.002 Tc
+(\135 ) Tj
+ET
+134.22 374.46 1.5 1.5 re
+f
+134.22 374.46 280.5 1.5 re
+f
+413.22 374.46 1.5 1.5 re
+f
+134.22 359.76 1.5 14.7 re
+f
+231.96 359.76 0.47998 14.7 re
+f
+413.22 359.76 1.5 14.7 re
+f
+BT
+12 0 0 12 271.32 348.24 Tm
+-0.0006 Tc
+6.2706 Tw
+[ (F1 F2 ) ] TJ
+ET
+134.22 359.28 1.5 0.48001 re
+f
+231.96 359.28 182.76 0.48001 re
+f
+134.22 345.48 1.5 13.8 re
+f
+231.96 345.48 0.47998 13.8 re
+f
+322.86 345.48 0.47998 13.8 re
+f
+413.22 345.48 1.5 13.8 re
+f
+BT
+12 0 0 12 140.4 333.96 Tm
+0.001 Tc
+0 Tw
+[ (Stressed) 6 ( ) ] TJ
+/TT9 1 Tf
+10.02 0 0 10.02 246.54 335.76 Tm
+0 Tc
+2.3988 Tw
+[ (322) 5.3 ( \0505\0567\051 ) 275.4 (2363) 5.3 ( ) 556.9 (\05069\0565) 5.3 (\051) 3.7 ( ) ] TJ
+ET
+134.22 345 280.5 0.48001 re
+f
+134.22 331.2 1.5 13.8 re
+f
+231.96 331.2 0.47998 13.8 re
+f
+322.86 331.2 0.47998 13.8 re
+f
+413.22 331.2 1.5 13.8 re
+f
+BT
+/TT6 1 Tf
+12 0 0 12 140.4 319.62 Tm
+0.0008 Tc
+0 Tw
+[ (Unstressed) 5.8 ( ) ] TJ
+/TT9 1 Tf
+10.02 0 0 10.02 246.54 321.42 Tm
+0.0005 Tc
+2.1229 Tw
+[ (306) 5.8 ( \05024\0566) 5.8 (\051) 4.2 ( ) 275.5 (2292) 5.8 ( ) 281.5 (\05049\0562) 5.8 (\051) 4.2 ( ) ] TJ
+ET
+134.22 330.72 280.5 0.47998 re
+f
+134.22 316.86 1.5 13.86 re
+f
+231.96 316.86 0.47998 13.86 re
+f
+322.86 316.86 0.47998 13.86 re
+f
+413.22 316.86 1.5 13.86 re
+f
+BT
+/TT6 1 Tf
+12 0 0 12 140.4 305.34 Tm
+0.0003 Tc
+-0.0003 Tw
+(Percent Change ) Tj
+/TT9 1 Tf
+10.02 0 0 10.02 264.6 307.14 Tm
+6.1889 Tw
+[ (\0555\0562\045) 9.2 ( \0553\0561\045) 9.2 ( ) ] TJ
+ET
+134.22 316.38 280.5 0.47998 re
+f
+134.22 301.08 1.5 15.3 re
+f
+134.22 301.08 97.74 1.5 re
+f
+231.96 302.58 0.47998 13.8 re
+f
+231.96 301.08 90.9 1.5 re
+f
+322.86 302.58 0.47998 13.8 re
+f
+322.86 301.08 90.36 1.5 re
+f
+413.22 301.08 1.5 15.3 re
+f
+413.22 301.08 1.5 1.5 re
+f
+BT
+/TT6 1 Tf
+12 0 0 12 90 290.04 Tm
+0 Tc
+0 Tw
+( ) Tj
+4.2 -1.275 TD
+( ) Tj
+ET
+q
+135.78 256.8 96.18 28.98 re
+W
+n
+0 G
+1 J
+1 j
+0.48 w
+10 M
+[ ] 0 d
+q
+1 0 0 1 135.78 285.78 cm
+0 0 m
+96.18 -28.98 l
+S
+Q
+Q
+BT
+12 0 0 12 308.82 273.7801 Tm
+(\133) Tj
+ET
+q
+312.78 271.14 20.52 14.64 re
+W
+n
+BT
+/TT7 1 Tf
+12 0 0 12 312.78 273.7801 Tm
+<0057> Tj
+ET
+Q
+BT
+/TT7 1 Tf
+12 0 0 12 318.06 273.7801 Tm
+0.0012 Tc
+<00550024> Tj
+/TT6 1 Tf
+1.27 0 TD
+0.002 Tc
+(\135 ) Tj
+ET
+134.22 285.78 1.5 1.5 re
+f
+134.22 285.78 280.5 1.5 re
+f
+413.22 285.78 1.5 1.5 re
+f
+134.22 271.08 1.5 14.7 re
+f
+231.96 271.08 0.47998 14.7 re
+f
+413.22 271.08 1.5 14.7 re
+f
+BT
+12 0 0 12 271.32 259.5601 Tm
+-0.0006 Tc
+6.2706 Tw
+[ (F1 F2 ) ] TJ
+ET
+134.22 270.6 1.5 0.48001 re
+f
+231.96 270.6 182.76 0.48001 re
+f
+134.22 256.8 1.5 13.8 re
+f
+231.96 256.8 0.47998 13.8 re
+f
+322.86 256.8 0.47998 13.8 re
+f
+413.22 256.8 1.5 13.8 re
+f
+BT
+12 0 0 12 140.4 245.22 Tm
+0.001 Tc
+0 Tw
+[ (Stressed) 6 ( ) ] TJ
+/TT9 1 Tf
+10.02 0 0 10.02 246.54 247.0201 Tm
+0.0005 Tc
+2.1229 Tw
+[ (599) 5.8 ( \05026\0561) 5.8 (\051) 4.2 ( ) 275.5 (1281) 5.8 ( ) 281.5 (\05069\0564) 5.8 (\051) 4.2 ( ) ] TJ
+ET
+134.22 256.32 280.5 0.47998 re
+f
+134.22 242.46 1.5 13.86 re
+f
+231.96 242.46 0.47998 13.86 re
+f
+322.86 242.46 0.47998 13.86 re
+f
+413.22 242.46 1.5 13.86 re
+f
+BT
+/TT6 1 Tf
+12 0 0 12 140.4 230.94 Tm
+0.0008 Tc
+0 Tw
+[ (Unstressed) 5.8 ( ) ] TJ
+/TT9 1 Tf
+10.02 0 0 10.02 246.54 232.7401 Tm
+0.0005 Tc
+2.1229 Tw
+[ (521) 5.8 ( \05066\0561) 5.8 (\051) 4.2 ( ) 275.5 (1413) 5.8 ( ) 281.5 (\05038\0567) 5.8 (\051) 4.2 ( ) ] TJ
+ET
+134.22 241.98 280.5 0.48 re
+f
+134.22 228.18 1.5 13.8 re
+f
+231.96 228.18 0.47998 13.8 re
+f
+322.86 228.18 0.47998 13.8 re
+f
+413.22 228.18 1.5 13.8 re
+f
+BT
+/TT6 1 Tf
+12 0 0 12 140.4 216.66 Tm
+0.0003 Tc
+-0.0003 Tw
+(Percent Change ) Tj
+/TT9 1 Tf
+10.02 0 0 10.02 261.78 218.4601 Tm
+0.0005 Tc
+5.5061 Tw
+[ (\05513\0560\045) 9.4 ( \05310\0563\045) 9.4 ( ) ] TJ
+ET
+134.22 227.7 280.5 0.48 re
+f
+134.22 212.4 1.5 15.3 re
+f
+134.22 212.4 97.74 1.5 re
+f
+231.96 213.9 0.47998 13.8 re
+f
+231.96 212.4 90.9 1.5 re
+f
+322.86 213.9 0.47998 13.8 re
+f
+322.86 212.4 90.36 1.5 re
+f
+413.22 212.4 1.5 15.3 re
+f
+413.22 212.4 1.5 1.5 re
+f
+BT
+/TT6 1 Tf
+12 0 0 12 90 201.36 Tm
+0 Tc
+0 Tw
+( ) Tj
+4.2 -1.275 TD
+( ) Tj
+ET
+q
+135.78 168.06 96.18 29.04 re
+W
+n
+0 G
+1 J
+1 j
+0.48 w
+10 M
+[ ] 0 d
+q
+1 0 0 1 135.78 197.1 cm
+0 0 m
+96.18 -29.04 l
+S
+Q
+Q
+BT
+12 0 0 12 308.34 185.1001 Tm
+(\133) Tj
+ET
+q
+312.3 182.46 21.54 14.64 re
+W
+n
+BT
+/TT7 1 Tf
+12 0 0 12 312.3 185.1001 Tm
+<0051> Tj
+ET
+Q
+BT
+/TT7 1 Tf
+12 0 0 12 318.54 185.1001 Tm
+-0.0022 Tc
+<0024004f> Tj
+/TT6 1 Tf
+1.275 0 TD
+0.002 Tc
+(\135 ) Tj
+ET
+134.22 197.1 1.5 1.5 re
+f
+134.22 197.1 280.5 1.5 re
+f
+413.22 197.1 1.5 1.5 re
+f
+134.22 182.4 1.5 14.7 re
+f
+231.96 182.4 0.47998 14.7 re
+f
+413.22 182.4 1.5 14.7 re
+f
+BT
+12 0 0 12 271.32 170.8201 Tm
+-0.0006 Tc
+6.2706 Tw
+[ (F1 F2 ) ] TJ
+ET
+134.22 181.92 1.5 0.48001 re
+f
+231.96 181.92 182.76 0.48001 re
+f
+134.22 168.06 1.5 13.86 re
+f
+231.96 168.06 0.47998 13.86 re
+f
+322.86 168.06 0.47998 13.86 re
+f
+413.22 168.06 1.5 13.86 re
+f
+BT
+12 0 0 12 140.4 156.5401 Tm
+0.001 Tc
+0 Tw
+[ (Stressed) 6 ( ) ] TJ
+/TT9 1 Tf
+10.02 0 0 10.02 246.54 158.34 Tm
+0.0005 Tc
+2.1229 Tw
+[ (553) 5.8 ( \05057\0560) 5.8 (\051) 4.2 ( ) 275.5 (1357) 5.8 ( ) 281.5 (\05048\0560) 5.8 (\051) 4.2 ( ) ] TJ
+ET
+134.22 167.58 280.5 0.48 re
+f
+134.22 153.78 1.5 13.8 re
+f
+231.96 153.78 0.47998 13.8 re
+f
+322.86 153.78 0.47998 13.8 re
+f
+413.22 153.78 1.5 13.8 re
+f
+BT
+/TT6 1 Tf
+12 0 0 12 140.4 142.2601 Tm
+0.0008 Tc
+0 Tw
+[ (Unstressed) 5.8 ( ) ] TJ
+/TT9 1 Tf
+10.02 0 0 10.02 246.54 144.06 Tm
+0.0005 Tc
+2.1229 Tw
+[ (437) 5.8 ( \05022\0564) 5.8 (\051) 4.2 ( ) 275.5 (1391) 5.8 ( ) 281.5 (\05023\0569) 5.8 (\051) 4.2 ( ) ] TJ
+ET
+134.22 153.3 280.5 0.48 re
+f
+134.22 139.5 1.5 13.8 re
+f
+231.96 139.5 0.47998 13.8 re
+f
+322.86 139.5 0.47998 13.8 re
+f
+413.22 139.5 1.5 13.8 re
+f
+BT
+/TT6 1 Tf
+12 0 0 12 140.4 127.92 Tm
+0.0003 Tc
+-0.0003 Tw
+(Percent Change ) Tj
+/TT9 1 Tf
+10.02 0 0 10.02 261.78 129.7201 Tm
+0.0005 Tc
+5.7875 Tw
+[ (\05521\0560\045) 9.4 ( \0532\0565\045) 9.4 ( ) ] TJ
+ET
+134.22 139.02 280.5 0.48001 re
+f
+134.22 123.66 1.5 15.36 re
+f
+134.22 123.66 97.74 1.5 re
+f
+231.96 125.16 0.47998 13.86 re
+f
+231.96 123.66 90.9 1.5 re
+f
+322.86 125.16 0.47998 13.86 re
+f
+322.86 123.66 90.36 1.5 re
+f
+413.22 123.66 1.5 15.36 re
+f
+413.22 123.66 1.5 1.5 re
+f
+BT
+/TT6 1 Tf
+12 0 0 12 90 112.6201 Tm
+0 Tc
+0 Tw
+( ) Tj
+4.2 -1.275 TD
+( ) Tj
+ET
+q
+135.78 79.38 96.18 28.98 re
+W
+n
+0 G
+1 J
+1 j
+0.48 w
+10 M
+[ ] 0 d
+q
+1 0 0 1 135.78 108.36 cm
+0 0 m
+96.18 -28.98 l
+S
+Q
+Q
+BT
+12 0 0 12 313.02 96.36 Tm
+(\133) Tj
+ET
+q
+316.98 93.72 12.18 14.64 re
+W
+n
+BT
+/TT7 1 Tf
+12 0 0 12 316.98 96.36 Tm
+<0057> Tj
+ET
+Q
+BT
+/TT7 1 Tf
+12 0 0 12 322.26 96.36 Tm
+<0058> Tj
+/TT6 1 Tf
+0.575 0 TD
+0.002 Tc
+(\135 ) Tj
+ET
+134.22 108.36 1.5 1.5 re
+f
+134.22 108.36 280.5 1.5 re
+f
+413.22 108.36 1.5 1.5 re
+f
+134.22 93.66 1.5 14.7 re
+f
+231.96 93.66 0.47998 14.7 re
+f
+413.22 93.66 1.5 14.7 re
+f
+BT
+12 0 0 12 271.32 82.14 Tm
+-0.0006 Tc
+6.2706 Tw
+[ (F1 F2 ) ] TJ
+ET
+134.22 93.18 1.5 0.47998 re
+f
+231.96 93.18 182.76 0.47998 re
+f
+134.22 79.38 1.5 13.8 re
+f
+134.22 78.9 97.74 0.47998 re
+f
+231.96 78.9 0.47998 14.28 re
+f
+232.44 78.9 90.42 0.47998 re
+f
+322.86 78.9 0.47998 14.28 re
+f
+323.34 78.9 89.88 0.47998 re
+f
+413.22 78.9 1.5 14.28 re
+f
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 LIN\056G1\05601\0564 \055 Linguistics \055 First year Graduate \055 Male \055 Native Speaker \055 Research Paper) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(3) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+29 0 obj
+<<
+/Length 16491
+>>
+stream
+q
+/GS1 gs
+BT
+/TT6 1 Tf
+12 0 0 12 90 744.96 Tm
+0 g
+2.75 Tc
+0 Tw
+[ ( ) -9130 ( ) -2870 ( ) -15000 (   ) ] TJ
+4.2 -3.04 TD
+0.001 Tc
+[ (Stressed) 6 ( ) ] TJ
+/TT9 1 Tf
+10.02 0 0 10.02 246.54 710.28 Tm
+0.0005 Tc
+2.1229 Tw
+[ (326) 5.8 ( \05022\0560) 5.8 (\051) 4.2 ( 877) 5.8 ( \05044\0564) 5.8 (\051) 4.2 ( ) ] TJ
+ET
+134.22 719.52 280.5 0.47998 re
+f
+134.22 705.72 1.5 13.8 re
+f
+231.96 705.72 0.47998 13.8 re
+f
+322.86 705.72 0.47998 13.8 re
+f
+413.22 705.72 1.5 13.8 re
+f
+BT
+/TT6 1 Tf
+12 0 0 12 140.4 694.14 Tm
+0.0008 Tc
+0 Tw
+[ (Unstressed) 5.8 ( ) ] TJ
+/TT9 1 Tf
+10.02 0 0 10.02 246.54 695.94 Tm
+0.0005 Tc
+2.1229 Tw
+[ (376) 5.8 ( \05030\0565) 5.8 (\051) 4.2 ( ) 275.5 (1051) 5.8 ( ) 281.5 (\05093\0562) 5.8 (\051) 4.2 ( ) ] TJ
+ET
+134.22 705.24 280.5 0.47998 re
+f
+134.22 691.38 1.5 13.86 re
+f
+231.96 691.38 0.47998 13.86 re
+f
+322.86 691.38 0.47998 13.86 re
+f
+413.22 691.38 1.5 13.86 re
+f
+BT
+/TT6 1 Tf
+12 0 0 12 140.4 679.86 Tm
+0.0003 Tc
+-0.0003 Tw
+(Percent Change ) Tj
+/TT9 1 Tf
+10.02 0 0 10.02 260.52 681.66 Tm
+0.0005 Tc
+5.3804 Tw
+[ (\05315\0563\045) 9.4 ( \05319\0568\045) 9.4 ( ) ] TJ
+ET
+134.22 690.9 280.5 0.47998 re
+f
+134.22 675.6 1.5 15.3 re
+f
+134.22 675.6 97.74 1.5 re
+f
+231.96 677.1 0.47998 13.8 re
+f
+231.96 675.6 90.9 1.5 re
+f
+322.86 677.1 0.47998 13.8 re
+f
+322.86 675.6 90.36 1.5 re
+f
+413.22 675.6 1.5 15.3 re
+f
+413.22 675.6 1.5 1.5 re
+f
+BT
+/TT6 1 Tf
+10.02 0 0 10.02 97.02 666.42 Tm
+-0.0011 Tc
+0.0026 Tw
+[ (Tab) -4.1 (l) 1.3 (es ) 6 (4) -4.1 (\055) 2.6 (7) -4.1 (\072) 1.3 ( Chan) -4.1 (g) -4.1 (e) 5.6 (s in fo) -4.1 (rm) 10.3 (an) -4.1 (t frequ) -4.1 (e) 5.6 (n) -4.1 (c) -0.4 (y for ) 6 (v) -4.1 (o) 1.9 (wels) ] TJ
+21.3713 0 TD
+-0.0013 Tc
+0.0028 Tw
+[ ( in stressed) -4.3 ( and) -4.3 ( ) 6 (u) -4.3 (n) 1.7 (stressed) -4.3 ( ) ] TJ
+10.7784 0 TD
+-0.0018 Tc
+-0.0027 Tw
+[ (po) -4.8 (sitio) -4.8 (n\056 Freq) -4.8 (u) -4.8 (e) 4.9 (n) -4.8 (c) -1.1 (ies ) -6 (in ) ] TJ
+-19.2874 -1.1497 TD
+0.0015 Tc
+-0.006 Tw
+[ (Hz \050st) 3.9 (a) 2.2 (n) 4.5 (d) -1.5 (ar) 5.2 (d d) 4.5 (e) 2.2 (vi) 3.9 (at) 3.9 (i) 3.9 (ons) 7.4 ( ) -6 (i) 3.9 (n) -1.5 ( pa) 8.2 (rent) 9.9 (heses\051) 5.2 (\056) 6 ( ) ] TJ
+12 0 0 12 90 635.58 Tm
+0.0002 Tc
+-0.0002 Tw
+[ (The tables above show that each vo) 5.2 (wel has a slightly different quality w) 7.4 (h) 0.2 (en produced in ) ] TJ
+0 -1.23 TD
+0.0007 Tc
+-0.0015 Tw
+[ (stres) 4.9 (s) -0.1 (ed ver) 3.7 (s) 4.9 (us unstre) 4.5 (sse) 4.5 (d position) 5.7 (s) -0.1 (\056 The vowel \133) ] TJ
+/TT7 1 Tf
+19.575 0 TD
+0 Tc
+0 Tw
+<004c> Tj
+/TT6 1 Tf
+0.33 0 TD
+0.0001 Tc
+-0.0001 Tw
+[ (\135 is the m) 7.9 (o) 0.1 (s) -5.7 (t) -2.1 ( constant\054 changing its ) ] TJ
+-19.905 -1.225 TD
+0.001 Tc
+-0.001 Tw
+[ (f) 4 (o) 1 (rm) 8.8 (ant f) 4 (r) -1 (equencies by o) 6 (n) 1 (ly a f) 4 (e) -0.2 (w percent\056 The v) 6 (o) 1 (wel \133) 4 (u) 1 (\135) 4 ( in the \133) ] TJ
+/TT7 1 Tf
+26.185 0 TD
+0 Tw
+<00570058> Tj
+/TT6 1 Tf
+1.015 0 TD
+0.0002 Tc
+-0.0002 Tw
+(\135 syllable shows the ) Tj
+-27.2 -1.225 TD
+0.0003 Tc
+-0.0009 Tw
+(most regular and noticeable change\054 and the vowel \133) Tj
+/TT7 1 Tf
+20.855 0 TD
+0 Tc
+0 Tw
+<0024> Tj
+/TT6 1 Tf
+0.72 0 TD
+0.001 Tc
+-0.001 Tw
+[ (\135) 4 ( in the syllab) 6 (l) -1.2 (es \133) ] TJ
+/TT7 1 Tf
+7.17 0 TD
+-0.0016 Tc
+0 Tw
+<00510024004f> Tj
+/TT6 1 Tf
+1.79 0 TD
+-0.0008 Tc
+0.0008 Tw
+(\135 and \133) Tj
+/TT7 1 Tf
+2.605 0 TD
+0.001 Tc
+0 Tw
+[ <00570055> -5.2 <0024> ] TJ
+/TT6 1 Tf
+1.715 0 TD
+-0.003 Tc
+(\135 ) Tj
+-34.855 -1.145 TD
+0.0004 Tc
+-0.0012 Tw
+[ (also shows a significan) 5.4 (t difference b) 5.4 (e) -0.8 (tween st) ] TJ
+18.325 0 TD
+0.0005 Tc
+-0.0017 Tw
+[ (ressed and unstressed realizations\056 W) 9.4 (h) 0.5 (ile ) ] TJ
+-18.325 -1.15 TD
+0.0003 Tc
+-0.0003 Tw
+(the tables above show the quantity of the ch) Tj
+17.56 0 TD
+-0.0001 Tc
+0.0013 Tw
+[ (anges in term) 7.7 (s of pe) ] TJ
+8.045 0 TD
+0.0009 Tc
+-0.0009 Tw
+[ (rcen) 5.9 (tages\054) 5.9 ( the figure ) ] TJ
+-25.605 -1.15 TD
+0.0007 Tc
+-0.0023 Tw
+[ (below helps illus) 4.9 (t) -1.5 (r) 3.7 (a) -0.5 (te the) 4.5 ( quality of) 3.7 ( these ) ] TJ
+16.695 0 TD
+-0.0014 Tw
+[ (change) 4.4 (s\054 which all have the ef) 3.6 (f) 3.6 (e) -0.5 (ct of) 3.6 ( ) ] TJ
+-16.695 -1.15 TD
+0.0002 Tc
+-0.0002 Tw
+[ (m) 8 (i) -2 (ni) -7 (m) 8 (i) -2 (zing the vowel quality\072 ) ] TJ
+T*
+0 Tc
+0 Tw
+( ) Tj
+T*
+( ) Tj
+T*
+( ) Tj
+T*
+( ) Tj
+T*
+( ) Tj
+T*
+( ) Tj
+T*
+( ) Tj
+T*
+( ) Tj
+T*
+( ) Tj
+T*
+( ) Tj
+T*
+( ) Tj
+T*
+( ) Tj
+T*
+( ) Tj
+T*
+( ) Tj
+T*
+( ) Tj
+T*
+( ) Tj
+T*
+( ) Tj
+T*
+( ) Tj
+T*
+( ) Tj
+T*
+( ) Tj
+T*
+( ) Tj
+T*
+( ) Tj
+T*
+( ) Tj
+10.02 0 0 10.02 182.22 206.94 Tm
+-0.0019 Tc
+0.0034 Tw
+[ (Fig) -4.9 ( ) 6 (1) -4.9 (\072) 0.5 ( Fo) -4.9 (r) -4.2 (m) 9.5 (an) -4.9 (t ch) -4.9 (ar) -4.2 (t show) -4.3 (ing) -4.9 ( ) 6 (str) -4.2 (e) -1.2 (ssed and) -4.9 ( ) 6 (unstr) -4.2 (essed vow) -4.3 (els\056 ) ] TJ
+12 0 0 12 103.5 187.6201 Tm
+-0.0001 Tc
+0.0001 Tw
+(In the figure above\054 all instances of th) Tj
+15.105 0 TD
+0.0002 Tc
+-0.001 Tw
+(e recorded vowels are plotted\054 and these ) Tj
+-16.23 -1.15 TD
+-0.0002 Tw
+(instances are grouped together with) Tj
+14.22 0 TD
+-0.0001 Tc
+-0.0024 Tw
+( ellipses to illustrate the ) Tj
+9.745 0 TD
+0 Tc
+0 Tw
+(centralizing effect\056 The effect ) Tj
+-23.965 -1.23 TD
+0.0005 Tc
+-0.0005 Tw
+[ (is seen m) 8.3 (o) 0.5 (st clearly on the \133) ] TJ
+/TT7 1 Tf
+11.165 0 TD
+0 Tc
+0 Tw
+<0058> Tj
+/TT6 1 Tf
+0.575 0 TD
+0.0013 Tc
+-0.0013 Tw
+[ (\135) 4.3 ( vowel in th) 6.3 (e \133) ] TJ
+/TT7 1 Tf
+6.11 0 TD
+0.0005 Tc
+0 Tw
+<008900510044004f00570058> Tj
+/TT6 1 Tf
+3.485 0 TD
+-0.003 Tc
+0.003 Tw
+[ (\135 \057) -5.2 ( \133) ] TJ
+/TT7 1 Tf
+1.44 0 TD
+0.0005 Tc
+0 Tw
+[ <00510044> -3.6 <004f008900570058> ] TJ
+/TT6 1 Tf
+3.49 0 TD
+0.001 Tc
+-0.0026 Tw
+[ (\135) 4 ( pair) 4 (\072 the stressed\054) 6 ( ) ] TJ
+-26.265 -1.145 TD
+0.0004 Tc
+-0.0004 Tw
+[ (tense realization form) 8.2 (s a di) ] TJ
+10.83 0 TD
+0.0009 Tc
+-0.0021 Tw
+[ (stin) 5.9 (ct g) 5.9 (r) -1.1 (ou) 5.9 (p than the la) 4.7 (x\054 ) ] TJ
+10.16 0 TD
+0 Tc
+0 Tw
+(unstressed\054 and centralized ) Tj
+-20.99 -1.15 TD
+0.0003 Tc
+-0.0003 Tw
+(realization \050with one ) Tj
+8.53 0 TD
+0.0001 Tc
+-0.0026 Tw
+(outlying instance\051\056  ) Tj
+-7.405 -1.15 TD
+0.0003 Tc
+-0.001 Tw
+[ (The \133i\135 vowels have a less clear dis) 4.5 (t) -1.9 (in) ] TJ
+15.08 0 TD
+0.0002 Tc
+-0.0014 Tw
+(ction between stressed and unstressed ) Tj
+-16.205 -1.15 TD
+0.0007 Tc
+-0.0015 Tw
+[ (realiza) 4.5 (tions) 4.9 (\072 while the u) 5.7 (n) 0.7 (stres) 4.9 (s) -0.1 (ed ins) 4.9 (t) -1.5 (ances tend to be less f) 3.7 (r) -1.3 (o) 5.7 (n) 0.7 (t than the s) 4.9 (t) -1.5 (ress) 4.9 (ed ) ] TJ
+T*
+0.0005 Tc
+-0.0021 Tw
+(instances\054 there is a high degree of) Tj
+13.805 0 TD
+-0.0001 Tc
+0.0001 Tw
+( overlap between the two groups\056 ) Tj
+ET
+1 g
+0 G
+0 J
+0 j
+0.06 w
+10 M
+[ ] 0 d
+1 i
+95.28 518.58 425.76 -299.28 re
+B*
+0.754 g
+187.62 232.2 287.52 211.44 re
+f
+q
+1 0 0 1 187.62 422.34 cm
+0 0 m
+287.52 0 l
+S
+1 0 0 1 0 -21.24 cm
+0 0 m
+287.52 0 l
+S
+1 0 0 1 0 -20.7 cm
+0 0 m
+287.52 0 l
+S
+1 0 0 1 0 -21.24 cm
+0 0 m
+287.52 0 l
+S
+1 0 0 1 0 -21.24 cm
+0 0 m
+287.52 0 l
+S
+1 0 0 1 0 -21.3 cm
+0 0 m
+287.52 0 l
+S
+1 0 0 1 0 -21.24 cm
+0 0 m
+287.52 0 l
+S
+1 0 0 1 0 -20.7 cm
+0 0 m
+287.52 0 l
+S
+1 0 0 1 0 -21.24 cm
+0 0 m
+287.52 0 l
+S
+1 0 0 1 0 -21.24 cm
+0 0 m
+287.52 0 l
+S
+Q
+0.754 G
+1 J
+1 j
+0.559 w
+q
+1 0 0 1 187.62 443.64 cm
+0 0 m
+287.52 0 l
+287.52 -211.44 l
+0 -211.44 l
+0 0 l
+S
+Q
+0 G
+0.06 w
+q
+1 0 0 1 475.14 443.64 cm
+0 0 m
+0 -211.44 l
+S
+1 0 0 1 0 0 cm
+0 0 m
+2.82 0 l
+S
+1 0 0 1 0 -21.3 cm
+0 0 m
+2.82 0 l
+S
+1 0 0 1 0 -21.24 cm
+0 0 m
+2.82 0 l
+S
+1 0 0 1 0 -20.7 cm
+0 0 m
+2.82 0 l
+S
+1 0 0 1 0 -21.24 cm
+0 0 m
+2.82 0 l
+S
+1 0 0 1 0 -21.24 cm
+0 0 m
+2.82 0 l
+S
+1 0 0 1 0 -21.3 cm
+0 0 m
+2.82 0 l
+S
+1 0 0 1 0 -21.24 cm
+0 0 m
+2.82 0 l
+S
+1 0 0 1 0 -20.7 cm
+0 0 m
+2.82 0 l
+S
+1 0 0 1 0 -21.24 cm
+0 0 m
+2.82 0 l
+S
+1 0 0 1 0 -21.24 cm
+0 0 m
+2.82 0 l
+S
+1 0 0 1 -287.52 211.44 cm
+0 0 m
+287.52 0 l
+287.52 2.76 l
+S
+1 0 0 1 215.94 0 cm
+0 0 m
+0 2.76 l
+S
+1 0 0 1 -72.18 0 cm
+0 0 m
+0 2.76 l
+S
+1 0 0 1 -71.64 0 cm
+0 0 m
+0 2.76 l
+S
+1 0 0 1 -72.12 0 cm
+0 0 m
+0 2.76 l
+S
+Q
+0 g
+0.559 w
+q
+1 0 0 1 226.2 394.38 cm
+0 0 m
+1.68 -1.68 l
+0 -3.36 l
+-1.68 -1.68 l
+0 0 l
+b*
+Q
+q
+1 0 0 1 224.52 394.92 cm
+0 0 m
+1.68 -1.62 l
+0 -3.3 l
+-1.68 -1.62 l
+0 0 l
+b*
+Q
+q
+1 0 0 1 235.68 396.06 cm
+0 0 m
+1.68 -1.68 l
+0 -3.36 l
+-1.68 -1.68 l
+0 0 l
+b*
+Q
+q
+1 0 0 1 250.26 391.62 cm
+0 0 m
+1.68 -1.68 l
+0 -3.36 l
+-1.68 -1.68 l
+0 0 l
+b*
+Q
+q
+1 0 0 1 244.68 390.48 cm
+0 0 m
+1.68 -1.68 l
+0 -3.36 l
+-1.68 -1.68 l
+0 0 l
+b*
+Q
+q
+1 0 0 1 235.68 396.06 cm
+0 0 m
+1.68 -1.68 l
+0 -3.36 l
+-1.68 -1.68 l
+0 0 l
+b*
+Q
+q
+1 0 0 1 246.36 413.4 cm
+0 0 m
+1.68 -1.68 l
+0 -3.36 l
+-1.68 -1.68 l
+0 0 l
+h
+S
+1 0 0 1 -6.72 -12.3 cm
+0 0 m
+1.68 -1.68 l
+0 -3.36 l
+-1.68 -1.68 l
+0 0 l
+h
+S
+1 0 0 1 -0.6 -17.34 cm
+0 0 m
+1.68 -1.68 l
+0 -3.36 l
+-1.68 -1.68 l
+0 0 l
+h
+S
+1 0 0 1 16.26 21.84 cm
+0 0 m
+1.68 -1.68 l
+0 -3.36 l
+-1.68 -1.68 l
+0 0 l
+h
+S
+1 0 0 1 -12.3 0.54 cm
+0 0 m
+1.68 -1.68 l
+0 -3.36 l
+-1.68 -1.68 l
+0 0 l
+h
+S
+1 0 0 1 11.16 -12.84 cm
+0 0 m
+1.68 -1.68 l
+0 -3.36 l
+-1.68 -1.68 l
+0 0 l
+s
+Q
+378.9 267.42 2.82 -2.82 re
+B*
+386.76 279.72 2.76 -2.82 re
+B*
+378.9 278.04 2.82 -2.82 re
+B*
+399.06 269.64 2.82 -2.76 re
+B*
+395.16 296.52 2.76 -2.82 re
+B*
+401.88 267.96 2.76 -2.76 re
+B*
+362.16 284.22 2.76 -2.82 re
+373.86 347.94 2.82 -2.76 re
+378.9 325.56 2.82 -2.76 re
+371.1 281.94 2.76 -2.76 re
+371.1 289.2 2.76 -2.76 re
+369.42 328.38 2.76 -2.82 re
+S
+q
+1 0 0 1 383.4 269.34 cm
+0 0 m
+0 0.78 -0.6 1.44 -1.38 1.44 c
+-2.16 1.44 -2.82 0.78 -2.82 0 c
+-2.82 -0.72 -2.16 -1.38 -1.38 -1.38 c
+-0.6 -1.38 0 -0.72 0 0 c
+b*
+Q
+q
+1 0 0 1 387.3 264.36 cm
+0 0 m
+0 0.72 -0.6 1.38 -1.38 1.38 c
+-2.16 1.38 -2.76 0.72 -2.76 0 c
+-2.76 -0.78 -2.16 -1.44 -1.38 -1.44 c
+-0.6 -1.44 0 -0.78 0 0 c
+b*
+Q
+q
+1 0 0 1 380.04 328.68 cm
+0 0 m
+0 0.78 -0.6 1.38 -1.38 1.38 c
+-2.16 1.38 -2.82 0.78 -2.82 0 c
+-2.82 -0.78 -2.16 -1.44 -1.38 -1.44 c
+-0.6 -1.44 0 -0.78 0 0 c
+b*
+Q
+q
+1 0 0 1 385.62 306.3 cm
+0 0 m
+0 0.78 -0.6 1.38 -1.38 1.38 c
+-2.16 1.38 -2.76 0.78 -2.76 0 c
+-2.76 -0.78 -2.16 -1.44 -1.38 -1.44 c
+-0.6 -1.44 0 -0.78 0 0 c
+b*
+Q
+q
+1 0 0 1 368.88 297.36 cm
+0 0 m
+0 0.78 -0.66 1.38 -1.44 1.38 c
+-2.22 1.38 -2.82 0.78 -2.82 0 c
+-2.82 -0.78 -2.22 -1.44 -1.44 -1.44 c
+-0.66 -1.44 0 -0.78 0 0 c
+b*
+Q
+q
+1 0 0 1 386.22 301.26 cm
+0 0 m
+0 0.78 -0.66 1.38 -1.44 1.38 c
+-2.22 1.38 -2.82 0.78 -2.82 0 c
+-2.82 -0.78 -2.22 -1.38 -1.44 -1.38 c
+-0.66 -1.38 0 -0.78 0 0 c
+b*
+Q
+q
+1 0 0 1 375 344.34 cm
+0 0 m
+0 0.78 -0.6 1.38 -1.38 1.38 c
+-2.16 1.38 -2.82 0.78 -2.82 0 c
+-2.82 -0.78 -2.16 -1.44 -1.38 -1.44 c
+-0.6 -1.44 0 -0.78 0 0 c
+h
+S
+1 0 0 1 3.36 15.06 cm
+0 0 m
+0 0.78 -0.6 1.44 -1.38 1.44 c
+-2.16 1.44 -2.82 0.78 -2.82 0 c
+-2.82 -0.72 -2.16 -1.38 -1.38 -1.38 c
+-0.6 -1.38 0 -0.72 0 0 c
+h
+S
+1 0 0 1 1.68 -11.7 cm
+0 0 m
+0 0.78 -0.6 1.38 -1.38 1.38 c
+-2.16 1.38 -2.82 0.78 -2.82 0 c
+-2.82 -0.78 -2.16 -1.44 -1.38 -1.44 c
+-0.6 -1.44 0 -0.78 0 0 c
+h
+S
+1 0 0 1 0.54 -6.18 cm
+0 0 m
+0 0.78 -0.6 1.38 -1.38 1.38 c
+-2.16 1.38 -2.76 0.78 -2.76 0 c
+-2.76 -0.78 -2.16 -1.38 -1.38 -1.38 c
+-0.6 -1.38 0 -0.78 0 0 c
+h
+S
+1 0 0 1 -3.9 -10.62 cm
+0 0 m
+0 0.78 -0.6 1.38 -1.38 1.38 c
+-2.16 1.38 -2.82 0.78 -2.82 0 c
+-2.82 -0.78 -2.16 -1.38 -1.38 -1.38 c
+-0.6 -1.38 0 -0.78 0 0 c
+h
+S
+1 0 0 1 -5.58 8.4 cm
+0 0 m
+0 0.78 -0.66 1.38 -1.44 1.38 c
+-2.16 1.38 -2.82 0.78 -2.82 0 c
+-2.82 -0.78 -2.16 -1.38 -1.44 -1.38 c
+-0.66 -1.38 0 -0.78 0 0 c
+s
+Q
+q
+1 0 0 1 454.98 402.78 cm
+0 0 m
+1.68 -3.36 l
+-1.68 -3.36 l
+0 0 l
+b*
+Q
+q
+1 0 0 1 451.62 398.28 cm
+0 0 m
+1.68 -3.36 l
+-1.68 -3.36 l
+0 0 l
+b*
+Q
+q
+1 0 0 1 451.08 390.48 cm
+0 0 m
+1.68 -3.36 l
+-1.68 -3.36 l
+0 0 l
+b*
+Q
+q
+1 0 0 1 439.32 377.58 cm
+0 0 m
+1.68 -3.3 l
+-1.68 -3.3 l
+0 0 l
+b*
+Q
+q
+1 0 0 1 456.12 385.44 cm
+0 0 m
+1.68 -3.36 l
+-1.68 -3.36 l
+0 0 l
+b*
+Q
+q
+1 0 0 1 444.96 397.74 cm
+0 0 m
+1.68 -3.36 l
+-1.68 -3.36 l
+0 0 l
+b*
+Q
+q
+1 0 0 1 424.8 364.74 cm
+0 0 m
+1.68 -3.36 l
+-1.68 -3.36 l
+0 0 l
+h
+S
+1 0 0 1 -11.76 0.54 cm
+0 0 m
+1.68 -3.36 l
+-1.68 -3.36 l
+0 0 l
+h
+S
+1 0 0 1 36.9 -5.58 cm
+0 0 m
+1.68 -3.36 l
+-1.68 -3.36 l
+0 0 l
+h
+S
+1 0 0 1 -33.54 3.36 cm
+0 0 m
+1.68 -3.36 l
+-1.68 -3.36 l
+0 0 l
+h
+S
+1 0 0 1 9.54 16.2 cm
+0 0 m
+1.68 -3.3 l
+-1.68 -3.3 l
+0 0 l
+h
+S
+1 0 0 1 -8.4 14.04 cm
+0 0 m
+1.68 -3.36 l
+-1.68 -3.36 l
+0 0 l
+s
+Q
+BT
+/TT2 1 Tf
+11.7478 0 0 11.7469 228.48 497.58 Tm
+0.0073 Tc
+0.0009 Tw
+[ (For) 13.4 (m) -7.5 (a) -8.6 (nt) 8.3 ( C) 14.4 (h) 0.2 (a) -8.6 (r) 13.4 (t) 8.3 ( f) 8.3 (o) 0.2 (r) 13.4 ( A) 14.4 (l) 50.2 (l) 45.1 ( V) 56.3 (o) 0.2 (w) 70.1 (e) -8.6 (l) 45.1 (s) ] TJ
+/TT9 1 Tf
+8.9508 0 0 8.9498 482.46 440.64 Tm
+0.0069 Tc
+0 Tw
+(200) Tj
+0 -2.3732 TD
+(250) Tj
+0 -2.3799 TD
+(300) Tj
+0 -2.3129 TD
+(350) Tj
+0 -2.3732 TD
+(400) Tj
+T*
+(450) Tj
+T*
+(500) Tj
+0 -2.3799 TD
+(550) Tj
+0 -2.3129 TD
+(600) Tj
+0 -2.3732 TD
+(650) Tj
+T*
+(700) Tj
+-1.6289 25.0597 TD
+(700) Tj
+-8.3121 0 TD
+(1200) Tj
+-8.0641 0 TD
+(1700) Tj
+-7.997 0 TD
+(2200) Tj
+-8.0641 0 TD
+(2700) Tj
+/TT2 1 Tf
+15.5048 1.7162 TD
+0.0126 Tc
+-0.0424 Tw
+[ (F2) 5.7 ( \050) 30.6 (H) -16 (z) -43.8 (\051) ] TJ
+0 8.9508 -8.9498 0 509.7599 322.74 Tm
+0.0193 Tc
+[ (F1) 19.1 ( \050) 44 (H) -9.3 (z) 16.6 (\051) ] TJ
+ET
+1 g
+0.06 w
+96.96 391.62 71.64 -107.4 re
+B*
+0 g
+0.559 w
+q
+1 0 0 1 103.14 385.44 cm
+0 0 m
+1.68 -1.68 l
+0 -3.36 l
+-1.68 -1.68 l
+0 0 l
+b*
+Q
+BT
+/TT9 1 Tf
+8.9508 0 0 8.9498 108.18 381.36 Tm
+0.0059 Tc
+0 Tw
+[ (i) -20 (n) 59.3 (\137s) 9.9 (t) 29 (r) 30.6 (ess) ] TJ
+ET
+q
+1 0 0 1 103.14 372 cm
+0 0 m
+1.68 -1.68 l
+0 -3.36 l
+-1.68 -1.68 l
+0 0 l
+s
+Q
+BT
+8.9508 0 0 8.9498 108.18 367.92 Tm
+0.0044 Tc
+[ (i) -21.5 (n) 57.8 (\137u) 64.5 (n) 57.8 (s) 1.7 (t) 34.2 (r) 22.4 (essed) ] TJ
+ET
+101.46 358.56 2.76 -2.76 re
+B*
+BT
+8.9508 0 0 8.9498 108.18 354.48 Tm
+0.0061 Tc
+[ (t) 35.9 (r) 24.1 (a\137s) 10.1 (t) 29.2 (r) 30.8 (ess) ] TJ
+ET
+101.46 345.18 2.76 -2.82 re
+S
+BT
+8.9508 0 0 8.9498 108.18 341.1 Tm
+-0.0298 Tc
+[ (tr) -11.8 (a) -36.7 (\137) -36.7 (u) 30.3 (n) 23.6 (s) -32.5 (tr) -11.8 (e) -30 (s) -32.5 (s) -32.5 (e) -36.7 (d) ] TJ
+ET
+q
+1 0 0 1 104.22 330.36 cm
+0 0 m
+0 0.78 -0.6 1.38 -1.38 1.38 c
+-2.16 1.38 -2.76 0.78 -2.76 0 c
+-2.76 -0.78 -2.16 -1.44 -1.38 -1.44 c
+-0.6 -1.44 0 -0.78 0 0 c
+b*
+Q
+BT
+8.9508 0 0 8.9498 108.18 327.66 Tm
+-0.0534 Tc
+[ (na) -60.3 (l) -18.9 (\137) -53.6 (s) -56.1 (t) -23.6 (r) -35.4 (e) -60.3 (s) -49.4 (s) ] TJ
+ET
+q
+1 0 0 1 104.22 316.92 cm
+0 0 m
+0 0.78 -0.6 1.38 -1.38 1.38 c
+-2.16 1.38 -2.76 0.78 -2.76 0 c
+-2.76 -0.78 -2.16 -1.38 -1.38 -1.38 c
+-0.6 -1.38 0 -0.78 0 0 c
+s
+Q
+BT
+8.9508 0 0 8.9498 108.18 314.22 Tm
+[ (na) -60.3 (l) -18.9 (\137) -53.6 (uns) -49.4 (t) -30.3 (r) -28.7 (e) -60.3 (s) -56.1 (s) ] TJ
+ET
+q
+1 0 0 1 103.14 304.86 cm
+0 0 m
+1.68 -3.3 l
+-1.68 -3.3 l
+0 0 l
+b*
+Q
+BT
+8.9508 0 0 8.9498 108.18 300.78 Tm
+0.0059 Tc
+[ (t) 35.7 (u) 59.3 (\137s) 9.9 (t) 29 (r) 30.6 (ess) ] TJ
+ET
+q
+1 0 0 1 103.14 291.48 cm
+0 0 m
+1.68 -3.36 l
+-1.68 -3.36 l
+0 0 l
+s
+Q
+BT
+8.9508 0 0 8.9498 108.18 287.4001 Tm
+-0.0298 Tc
+[ (tu) 23.6 (\137) -36.7 (u) 30.3 (n) 23.6 (s) -32.5 (tr) -11.8 (e) -30 (s) -32.5 (s) ] TJ
+ET
+0.06 w
+95.28 518.58 425.76 -299.28 re
+S
+/Cs6 CS
+0 0 0 SCN
+0.75 w
+q
+1 0 0 1 385.02 310.44 cm
+0 0 m
+-14.88 0 -27 -12.06 -27 -27 c
+-27 -41.88 -14.88 -54 0 -54 c
+14.94 -54 27 -41.88 27 -27 c
+27 -12.06 14.94 0 0 0 c
+h
+S
+1 0 0 1 -8.4 54 cm
+0 0 m
+-6.06 0 -10.98 -10.5 -10.98 -23.46 c
+-10.98 -36.42 -6.06 -46.92 0 -46.92 c
+6 -46.92 10.92 -36.42 10.92 -23.46 c
+10.92 -10.5 6 0 0 0 c
+h
+S
+1 0 0 1 -139.2 34.44 cm
+0 0 m
+-11.76 0 -21.3 -3.54 -21.3 -7.86 c
+-21.3 -12.18 -11.76 -15.66 0 -15.66 c
+11.76 -15.66 21.3 -12.18 21.3 -7.86 c
+21.3 -3.54 11.76 0 0 0 c
+h
+S
+1 0 0 1 9.3 15.72 cm
+0 0 m
+-8.64 0 -15.6 -8.4 -15.6 -18.72 c
+-15.6 -29.1 -8.64 -37.5 0 -37.5 c
+8.7 -37.5 15.66 -29.1 15.66 -18.72 c
+15.66 -8.4 8.7 0 0 0 c
+h
+S
+1 0 0 1 202.08 -7.62 cm
+0 0 m
+-10.26 0 -18.48 -8.52 -18.48 -19.08 c
+-18.48 -29.58 -10.26 -38.1 0 -38.1 c
+10.2 -38.1 18.42 -29.58 18.42 -19.08 c
+18.42 -8.52 10.2 0 0 0 c
+h
+S
+1 0 0 1 -30 -12 cm
+0 0 m
+-10.2 0 -18.48 -8.58 -18.48 -19.08 c
+-18.48 -29.64 -10.2 -38.16 0 -38.16 c
+10.2 -38.16 18.48 -29.64 18.48 -19.08 c
+18.48 -8.58 10.2 0 0 0 c
+s
+Q
+BT
+/TT6 1 Tf
+12 0 0 12 220.68 413.82 Tm
+0 Tc
+(\133) Tj
+/TT7 1 Tf
+0.33 0 TD
+<004c> Tj
+/TT6 1 Tf
+0.33 0 TD
+0.002 Tc
+(\135 ) Tj
+15.1 -0.68 TD
+0 Tc
+(\133) Tj
+ET
+q
+413.76 403.02 6.9 14.64 re
+W
+n
+BT
+/TT7 1 Tf
+12 0 0 12 413.76 405.66 Tm
+<0058> Tj
+ET
+Q
+BT
+12 0 0 12 420.66 405.66 Tm
+0.002 Tc
+(\135 ) Tj
+-5.545 -7.995 TD
+0 Tc
+(\133) Tj
+/TT7 1 Tf
+0.33 0 TD
+<0024> Tj
+/TT6 1 Tf
+0.725 0 TD
+0.002 Tc
+(\135 ) Tj
+ET
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 LIN\056G1\05601\0564 \055 Linguistics \055 First year Graduate \055 Male \055 Native Speaker \055 Research Paper) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(4) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+30 0 obj
+[ /ICCBased 31 0 R ]
+endobj
+31 0 obj
+<<
+/Length 2598
+/N 3
+/Filter /FlateDecode
+/Alternate /DeviceRGB
+>>
+stream
+hﬁúñwTT◊áœΩwz°Õ0“zì.0ÄÙ. Qf  √Mlà®@DEê†Ä£°H¨àb!(®`HPb0ä®®dF÷J|yyÔÂÂ˜«Ωﬂ⁄gÔs˜Ÿ{üµ. $O./ñ ô'‡z8”WÖG–±˝ xÄ¶ 0YÈ©æAÓ¡@$/7z∫»	¸ãﬁH¸æeËÈOßÉˇO“¨Tæ  »_ƒÊlN:Kƒ˘"N §äÌ3"¶∆$äFâô/JPƒrbé[‰•ü}ŸQÃÏd[ƒ‚úSŸ…l1˜àx{Üê#bƒGƒ\N¶àoãX3IòÃÒ[ql2áô ä$∂8¨xõàòƒtÒr p§∏/8Êp≤‚Cπ§§fÛπqÒ∫.KènjmÕ†{r2ì8Å°?ìï»‰≥È.)…©L^6 ãg˛,qmÈ¢"[öZ[Zöô~Q®ˇ∫¯7%ÓÌ"Ω
+¯‹3à÷˜áÌØ¸RÍ `Ãäj≥Î[Ã~ :∂ wˇõÊ! $E}køÒ≈yh‚yâRmåç333ç∏ñë∏†øÎ:¸}Ò=#ÒvøóáÓ âe
+ìtq›X)I)B>==ï…‚–ˇ<ƒˇ8ØÛX»âÂ9<QD®h ∏º8QªylÆÄõ¬£syˇ©âˇ0ÏOZúkë(ıü 5 H›†‰Á>Ä¢yP‹ıﬂ˚ÊÉ‚õ¶:±8˜ü˝˚Æpâ¯ëŒç˚ÁLg	˘ãk‚k	–Ä $»†tÅ!0V¿87∞¯Å`÷à…Ä2A.ÿ
+@ÿˆÇJPÍA#h'@8.ÄÀ‡:∏	ÓÄ`åÉÁ`ºÛa!2DÅ‰!UH2ÄÃ dπA>P ECqBπ–®*Ö*°Z®˙:]ÄÆB–=höÇ~Öﬁ√LÇ©∞2¨√ÿ	ˆÜÉ·5púÁ¿˘N∏ÆÉè¡Ì¯:|Åü√≥@àQC‚Ç¯!H,¬G6 ÖH9Rá¥ ]H/rA¶ëw(äÇ¢£Q∂(OTäÖJCm@£*QGQÌ®‘-‘(jı	MF+°–6h/Ù*t:]Ä.G7†€–ó–w–„Ë7ÜÜ—¡Xa<1·òÃ:L1Ê ¶s3Ä√Ãb±Xy¨÷ÎáebÿÏ~Ï1Ï9Ï v˚Gƒ©‚ÃpÓ∏óá+«5·Œ‚q∏yº^oÉ˜√≥ÒŸ¯|=æ?éü'HtvÑ`Ba3°Ç–B∏DxHxE$’â÷ƒ "ó∏âXA<NºB%æ#…êÙI.§Híê¥ìtÑtûtèÙäL&kì…dy'πë|ë¸ò¸VÇ"a$·%¡ñÿ(Q%—.1(ÒB/©%È$πV2G≤\Ú§‰…i)ºî∂îãSjÉTï‘)©a©Yiä¥©¥üt≤t±tìÙUÈI¨å∂åõ[&_Ê∞ÃEô1
+B—†∏PXî-îz % 8C’°zQ®E‘o®˝‘YŸe≤°≤Y≤U≤gdGhMõÊEK¢ï–N–ÜhÔó(/qZ¬Y≤cIÀí¡%srärérπBπVπ;rÔÂÈÚnÚâÚªÂ;‰)†Ù2*\RòV§*⁄*≤O(ﬁWÇïÙïï÷)VÍSöUVQˆPNUﬁØ|QyZÖ¶‚®í†R¶rVeJï¢jØ U-S=ß˙å.Kw¢'—+Ë=Ù5%5O5°Z≠Zø⁄º∫ézàzûz´˙#ÇC#V£L£[cFSU”W3W≥YÛæ^ã°ØµO´WkN[G;L{õváˆ§éúéóNéN≥ŒC]≤ÆÉnönùÓm=åC/QÔÄﬁM}XﬂB?^øJˇÜl`i¿58`0∞Ω‘z)oi›“aCí°ìaÜa≥·®Õ»«(œ®√ËÖ±¶qÑÒn„^„O&&I&ı&LeLWòÊôvô˛j¶o∆2´2ªmN6w7ﬂhﬁi˛rô¡2Œ≤ÉÀÓZP,|-∂Yt[|¥¥≤‰[∂XNYiZE[U[3®F1„ä5⁄⁄Ÿz£ıiÎw6ñ6õ6øÿ⁄&⁄6ŸN.◊YŒY^ø|ÃN›éiWk7bO∑è∂?d?‚†Ê¿t®sx‚®·»vlpúp“sJp:ÊÙ¬ŸƒôÔ‹Ê<Áb„≤ﬁÂº+‚Í·ZË⁄Ô&„‚VÈˆÿ]›=ŒΩŸ}∆√¬cù«yO¥ß∑Ánœa/e/ñW£◊Ã
+´ÎWÙxìºÉº+Ωü¯Ë˚}∫|aﬂæ{|Æ‘Z…[Ÿ·¸º¸ˆ¯=Ú◊ÒOÛˇ> ‡P4–407∞7à‘Ù&ÿ9∏$¯Aànà0§;T242¥1t.Ã5¨4ldïÒ™ı´Æá+Ñs√;#∞°≥´›VÔ]=iY9¥FgM÷ö´k÷&≠=%≈å:çéãnä˛¿Ùc÷1gcºb™cfX.¨}¨ÁlGv{äc«)ÂLƒ⁄≈ñ∆N∆Ÿ≈Ìâõäwà/èüÊ∫p+π/<jÊ˝è$.$Ö%µ&„í£ìOÒdxâºûïî¨îÅTÉ‘Ç‘ë4õ¥Ωi3|o~C:îæ&ΩS@˝Lı	uÖ[Ö£ˆUo3C3OfIgÒ≤˙≤ı≥wdO‰∏Á|ΩµéµÆ;W-wsÓËzßıµ†1∫7jlÃﬂ8æ…c”—ÕÑÕâõ»3…+Õ{Ω%lKWær˛¶¸±≠[õ$
+¯√€l∑’lGmÁnÔﬂaæcˇéOÖÏ¬kE&EÂEäY≈◊æ2˝™‚´Öù±;˚K,KÓ¬Ï‚Ì⁄Ì∞˚h©tiNÈÿﬂ=ÌeÙ≤¬≤◊{£ˆ^-_V^≥è∞O∏o§¬ß¢søÊ˛]˚?T∆Wﬁ©rÆj≠V™ﬁQ=wÄ}`†„¡ñÂö¢ö˜á∏áÓ÷z‘∂◊i◊ï∆Œ8¸¥>¥æ˜k∆◊ç
+Eèéå<⁄”h’ÿÿ§‘T“7õßéEª˘çÎ7ù-Ü-µ≠¥÷¢„‡∏¯≥o£ø:·}¢˚$„dÀwZﬂU∑Q⁄
+€°ˆÏˆôé¯éëŒŒÅS+NuwŸvµ}oÙ˝ë”jß´Œ»û)9K8õv·\ŒπŸÛ©Áß/ƒ]ÎéÍ~pq’≈€==˝óº/]πÏ~˘bØSÔπ+vWN_µπzÍ„Z«uÀÎÌ}}m?X¸–÷oŸﬂ~√ÍFÁMÎõ]ÀŒ:^∏ÂzÎÚmØ€◊Ô¨º302tw8rx‰.˚Ó‰Ω§{/Ôg‹ü∞È!˙a·#©GÂèï◊˝®˜cÎàÂ»ôQ◊—æ'AOå±∆ûˇî˛”áÒ¸ß‰ßÂ™çìfìßß‹ßn>[˝l¸yÍÛ˘ÈÇü•Æ~°˚‚ª_ÈõY53˛íˇr·◊‚WÚØéº^ˆ∫{÷ˆÒõ‰7ÛsÖoÂﬂ}«x◊˚>Ï˝ƒ|ÊÏáäèzª>yz∏êº∞õ  ˜ÑÛ˚
+
+endstream
+endobj
+32 0 obj
+<<
+/Length 6654
+>>
+stream
+q
+/GS1 gs
+BT
+/TT6 1 Tf
+12 0 0 12 90 744.96 Tm
+0 g
+2.75 Tc
+0 Tw
+[ ( ) -9130 ( ) -2870 ( ) -15000 (   ) ] TJ
+1.125 -3.08 TD
+0.0009 Tc
+-0.0059 Tw
+(Finally\054 the \133) Tj
+/TT7 1 Tf
+5.135 0 TD
+0 Tc
+0 Tw
+<0024> Tj
+/TT6 1 Tf
+0.725 0 TD
+0.0001 Tc
+-0.0001 Tw
+(\135 vowels show an apparent distinc) Tj
+13.585 0 TD
+-0.0026 Tw
+(tion between stressed and unstressed ) Tj
+-20.57 -1.145 TD
+0.0005 Tc
+-0.0019 Tw
+[ (realizations\054 but there is a certain am) 8.3 (ount of) ] TJ
+17.55 0 TD
+0.0003 Tc
+-0.0011 Tw
+[ ( inconsistency in their production\056 W) 9.2 (h) 0.3 (ile the ) ] TJ
+-17.55 -1.15 TD
+0.0005 Tc
+-0.0015 Tw
+[ (centralized varian) 5.5 (t has a significan) 5.5 (tly lower ) ] TJ
+17.72 0 TD
+0.0004 Tc
+0.0002 Tw
+[ (F1 in m) 8.2 (o) 0.4 (st cases) 4.6 (\054 a few examples of the ) ] TJ
+-17.72 -1.23 TD
+-0.0004 Tw
+(unstressed \133) Tj
+/TT7 1 Tf
+4.75 0 TD
+0.0011 Tc
+0 Tw
+<005700550024> Tj
+/TT6 1 Tf
+1.71 0 TD
+0.0003 Tc
+-0.0003 Tw
+(\135 can be seen residing well with) Tj
+12.665 0 TD
+0.0002 Tc
+-0.001 Tw
+(in the group defined by the stressed ) Tj
+-19.125 -1.225 TD
+0.0007 Tc
+-0.0014 Tw
+[ (instan) 5.7 (ces\056 Addition) 5.7 (a) -0.5 (lly\054 one instance) 4.5 ( of) 3.7 ( the stres) 4.9 (s) 4.9 (e) -0.5 (d \133) ] TJ
+/TT7 1 Tf
+21.245 0 TD
+-0.0016 Tc
+0 Tw
+<00510024004f> Tj
+/TT6 1 Tf
+1.79 0 TD
+0.0001 Tc
+-0.0011 Tw
+(\135 lies within the group defined ) Tj
+-23.035 -1.145 TD
+0 Tc
+0 Tw
+(by the unstressed instances of the vowel\056 Thus\054 ) Tj
+19.05 0 TD
+0.0003 Tc
+-0.0009 Tw
+(while there is a visible trend to reduce the ) Tj
+-19.05 -1.15 TD
+0 Tc
+0 Tw
+(vowel quality in unstressed syllables\054 this tr) Tj
+17.475 0 TD
+0.0002 Tc
+-0.0007 Tw
+[ (end is not always followed\054 and m) 8 (a) -1 (y not be a ) ] TJ
+-17.475 -1.15 TD
+0.0001 Tc
+-0.0001 Tw
+(strict condition for stress\056 ) Tj
+/TT4 1 Tf
+13.98 0 0 13.98 90 581.82 Tm
+0 Tw
+[ (Conclusions) -6 ( ) ] TJ
+/TT6 1 Tf
+12 0 0 12 103.5 564.78 Tm
+0.0004 Tc
+-0.0014 Tw
+[ (The results of this experim) 8.2 (e) -0.8 (nt strongly ) ] TJ
+15.72 0 TD
+0.0001 Tc
+-0.0008 Tw
+(support the hypothesis that stress in Vlach is ) Tj
+-16.845 -1.15 TD
+0.0004 Tc
+-0.0012 Tw
+[ (produced as a conglom) 8.2 (erate of effects that ) ] TJ
+17.19 0 TD
+0.0006 Tc
+-0.0031 Tw
+(include increasing the ) Tj
+9.03 0 TD
+0 Tc
+-0.0025 Tw
+(stress\054 intensity\054 and ) Tj
+-26.22 -1.15 TD
+0.0004 Tc
+-0.0016 Tw
+(duration of the syllable\054 a) Tj
+10.195 0 TD
+0 Tc
+0 Tw
+(nd reducing the quality of th) Tj
+11.355 0 TD
+0.0006 Tc
+-0.0006 Tw
+[ (e vowel towards m) 8.4 (i) -1.6 (d\055central ) ] TJ
+-21.55 -1.15 TD
+0.0002 Tc
+-0.0009 Tw
+(values\056 The strongest of these effects is pitch\073) Tj
+18.225 0 TD
+0 Tc
+0 Tw
+( values for peak pitc) Tj
+8.105 0 TD
+-0.0001 Tc
+-0.0015 Tw
+(h in stressed syllables ) Tj
+-26.33 -1.15 TD
+0.0002 Tc
+-0.0002 Tw
+(were between 20\05545\045 higher than values for ) Tj
+18.19 0 TD
+0 Tc
+0 Tw
+(unstressed syllables\056 Duration values also ) Tj
+-18.19 -1.23 TD
+0.0004 Tc
+-0.0004 Tw
+[ (showed sign) 5.4 (ificant ch) 5.4 (an) 5.4 (ges\072 th) 5.4 (e stressed syllables \133) ] TJ
+/TT7 1 Tf
+20.485 0 TD
+-0.001 Tc
+0 Tw
+<00510044004f> Tj
+/TT6 1 Tf
+1.7 0 TD
+-0.0008 Tc
+0.0033 Tw
+(\135 and \133) Tj
+/TT7 1 Tf
+2.61 0 TD
+0.001 Tc
+0 Tw
+<00570058> Tj
+/TT6 1 Tf
+1.015 0 TD
+0.0002 Tc
+-0.0002 Tw
+(\135 were 35\045 longer than ) Tj
+-25.81 -1.225 TD
+(their unstressed counterparts\054 ) Tj
+11.945 0 TD
+0.0004 Tc
+-0.0029 Tw
+(and the stressed syllables \133) Tj
+/TT7 1 Tf
+10.66 0 TD
+0.0009 Tc
+0 Tw
+<004c0051> Tj
+/TT6 1 Tf
+0.85 0 TD
+-0.0008 Tc
+0.0008 Tw
+(\135 and \133) Tj
+/TT7 1 Tf
+2.605 0 TD
+0.0011 Tc
+0 Tw
+<005700550024> Tj
+/TT6 1 Tf
+1.71 0 TD
+-0.0001 Tc
+0.0013 Tw
+(\135 were 9\045 and 13\045 ) Tj
+-27.77 -1.145 TD
+0.0001 Tc
+-0.0001 Tw
+(longer\054 respectively\054 than thei) Tj
+11.855 0 TD
+-0.0001 Tc
+0.0001 Tw
+(r unstressed counterparts\056 Inte) Tj
+11.995 0 TD
+(nsity also increased\054 roughly ) Tj
+-23.85 -1.15 TD
+0.0003 Tc
+-0.0003 Tw
+[ (10\045\054 for stressed syllab) 5.3 (les\056 ) ] TJ
+1.125 -1.15 TD
+[ (The effects on vowels were m) 8.2 (u) 0.4 (ch less cons) ] TJ
+17.305 0 TD
+0.0002 Tc
+-0.0012 Tw
+(istent\054 but clearly vowel reduction does ) Tj
+-18.43 -1.23 TD
+0 Tc
+0 Tw
+(occur for unstressed syllables both in ) Tj
+15.105 0 TD
+0.001 Tc
+-0.0026 Tw
+[ (initial and f) 4 (i) -1.2 (nal pos) 5.2 (it) ] TJ
+8.305 0 TD
+0.0009 Tc
+-0.0025 Tw
+[ (ion) 5.9 (\056) 0.9 ( The initial \133) ] TJ
+/TT7 1 Tf
+6.495 0 TD
+0 Tc
+0 Tw
+<004c> Tj
+/TT6 1 Tf
+0.33 0 TD
+0.001 Tc
+-0.001 Tw
+[ (\135) 4 ( in the ) ] TJ
+-30.235 -1.225 TD
+0 Tc
+0 Tw
+(\133) Tj
+/TT7 1 Tf
+0.33 0 TD
+0.0009 Tc
+<0089004c0051005700550024> Tj
+/TT6 1 Tf
+3.33 0 TD
+-0.003 Tc
+0.003 Tw
+[ (\135 \057) -5.2 ( \133) ] TJ
+/TT7 1 Tf
+1.445 0 TD
+0.0009 Tc
+0 Tw
+<004c00510089005700550024> Tj
+/TT6 1 Tf
+3.33 0 TD
+0.0004 Tc
+-0.0004 Tw
+[ (\135 pair showed the least am) 8.2 (ount) ] TJ
+12.25 0 TD
+0.0001 Tc
+-0.0001 Tw
+( of reduction\054 while the final \133) Tj
+/TT7 1 Tf
+11.965 0 TD
+0 Tc
+0 Tw
+<0058> Tj
+/TT6 1 Tf
+0.575 0 TD
+-0.003 Tc
+0.003 Tw
+[ (\135 i) -5.2 (n) -3 ( ) ] TJ
+-33.225 -1.225 TD
+0.0012 Tc
+-0.0012 Tw
+(the \133) Tj
+/TT7 1 Tf
+1.805 0 TD
+0.0003 Tc
+0 Tw
+[ <008900510044004f0057> 4.3 <0058> ] TJ
+/TT6 1 Tf
+3.48 0 TD
+-0.003 Tc
+0.003 Tw
+[ (\135 \057) -5.2 ( \133) ] TJ
+/TT7 1 Tf
+1.44 0 TD
+0.0003 Tc
+0 Tw
+[ <00510044004f00890057> -5.7 <0058> ] TJ
+/TT6 1 Tf
+3.49 0 TD
+-0.001 Tw
+(\135 pair\054 and all instances of the \133) Tj
+/TT7 1 Tf
+12.385 0 TD
+0 Tc
+0 Tw
+<0024> Tj
+/TT6 1 Tf
+0.725 0 TD
+0.0003 Tc
+-0.0003 Tw
+(\135 vowels showed clear ) Tj
+-23.325 -1.145 TD
+0.0001 Tc
+-0.0001 Tw
+(contrasts between reduced \050unstressed\051 and non\055) Tj
+19.415 0 TD
+(reduced \050stressed\051 variants\056 However\054 the ) Tj
+-19.415 -1.23 TD
+0 Tc
+0 Tw
+(\133) Tj
+/TT7 1 Tf
+0.33 0 TD
+<0024> Tj
+/TT6 1 Tf
+0.725 0 TD
+0.0003 Tc
+-0.0003 Tw
+[ (\135 vowels showed several exam) 8.1 (ples of cro) ] TJ
+16.44 0 TD
+0.0002 Tc
+-0.0012 Tw
+(ssover between groups\054 which suggests that ) Tj
+-17.495 -1.145 TD
+0.0004 Tc
+(the vowel quality is not a re) Tj
+11.11 0 TD
+-0.0028 Tw
+(strictive feature of) Tj
+7.325 0 TD
+-0.0003 Tw
+( stress production\073 stress can still be ) Tj
+-18.435 -1.15 TD
+0.0002 Tc
+-0.0002 Tw
+(produced even if the vowel quality ) Tj
+14.165 0 TD
+0 Tc
+0 Tw
+(is not changed in the usual way\056 ) Tj
+ET
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 LIN\056G1\05601\0564 \055 Linguistics \055 First year Graduate \055 Male \055 Native Speaker \055 Research Paper) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(5) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+33 0 obj
+<<
+/Length 13760
+>>
+stream
+q
+/GS1 gs
+BT
+/TT6 1 Tf
+12 0 0 12 90 744.96 Tm
+0 g
+2.75 Tc
+0 Tw
+[ ( ) -9130 ( ) -2870 ( ) -15000 (   ) ] TJ
+/TT2 1 Tf
+16.02 0 0 16.02 90 693.06 Tm
+-0.0011 Tc
+(Appendix ) Tj
+13.02 0 0 13.02 90 665.4 Tm
+-0.0031 Tc
+0.0018 Tw
+[ (T) -5.2 (a) -4.6 (rg) -5.2 (et Sen) -5.2 (t) -1.9 (en) -5.2 (ce ) ] TJ
+/TT6 1 Tf
+12 0 0 12 90 648.6 Tm
+0.0007 Tc
+-0.0012 Tw
+[ (The target s) 4.9 (e) -0.5 (ntence was the sam) 8.5 (e) -0.5 ( as in the p) 5.7 (r) -1.3 (evio) 5.7 (us project\072 ) ] TJ
+0 -1.23 TD
+0 Tc
+0 Tw
+(\133) Tj
+/TT7 1 Tf
+0.33 0 TD
+0.0001 Tc
+[ <00440038000300560053005800510003004f006c004e004400550047> 4.2 <004c00240003> ] TJ
+/TT6 1 Tf
+9.18 0 TD
+0.0006 Tc
+(\137\137\137\137\137\137\137 ) Tj
+/TT7 1 Tf
+3.755 0 TD
+-0.0002 Tc
+<004f008400030059004f006c0036006c00360057006c0040> Tj
+/TT6 1 Tf
+8.13 0 TD
+2.355 Tc
+(  ) Tj
+-21.395 -1.145 TD
+0.0002 Tc
+-0.001 Tw
+(\042I say the word \137\137\137\137\137\137 in Vlach\056\042 ) Tj
+/TT2 1 Tf
+13.02 0 0 13.02 90 593.16 Tm
+-0.0001 Tc
+0 Tw
+[ (Wor) 6.6 (d) -2.2 (list ) ] TJ
+/TT6 1 Tf
+12 0 0 12 90 576.36 Tm
+0.0002 Tc
+-0.0002 Tw
+[ (The wordlis) 4.4 (t was hand\055random) 8 (i) -2 (zed\054 consisting of si) ] TJ
+20.69 0 TD
+0.0003 Tc
+-0.0003 Tw
+[ (x repetitio) 5.3 (ns of each ) ] TJ
+8.385 0 TD
+-0.0016 Tw
+(of the four words  ) Tj
+-29.075 -1.23 TD
+0 Tc
+0 Tw
+(\133) Tj
+/TT7 1 Tf
+0.33 0 TD
+0.0009 Tc
+<0089004c0051005700550024> Tj
+/TT6 1 Tf
+3.33 0 TD
+0.0006 Tc
+-0.0006 Tw
+[ (\135 \050he ente) 4.4 (rs\051\054 \133) ] TJ
+/TT7 1 Tf
+5.665 0 TD
+0.0012 Tc
+0 Tw
+[ <004c0051> 7.2 <0089005700550024> ] TJ
+/TT6 1 Tf
+3.325 0 TD
+0.0004 Tc
+-0.0004 Tw
+[ (\135 \050he e) 4.2 (n) 0.4 (tered) 5.4 (\051) -1.6 (\054 \133) ] TJ
+/TT7 1 Tf
+6.215 0 TD
+0.0005 Tc
+0 Tw
+<008900510044004f00570058> Tj
+/TT6 1 Tf
+3.485 0 TD
+-0.0006 Tc
+0.0006 Tw
+(\135 \050tall\051\054 and \133) Tj
+/TT7 1 Tf
+5.05 0 TD
+0.0005 Tc
+0 Tw
+<00510044004f008900570058> Tj
+/TT6 1 Tf
+3.485 0 TD
+0.0014 Tc
+1.5286 Tw
+(\135 \050he ) Tj
+-30.885 -1.145 TD
+0.0001 Tc
+-0.0001 Tw
+(grew\051\056 The list below accurately reproduces) Tj
+17.55 0 TD
+0.0005 Tc
+-0.0017 Tw
+( the list as presen) Tj
+6.89 0 TD
+0.0001 Tc
+(ted to the speaker\056 ) Tj
+-24.44 -1.15 TD
+0 Tc
+0 Tw
+( ) Tj
+3.45 -1.525 TD
+0.0006 Tc
+2.2644 Tw
+[ ( Vlach ) -165 (English) 5.6 ( ) ] TJ
+ET
+125.76 530.82 0.48 0.47998 re
+f
+125.76 530.82 167.88 0.47998 re
+f
+293.16 530.82 0.48001 0.47998 re
+f
+125.76 508.98 0.48 21.84 re
+f
+155.94 508.98 0.48001 21.84 re
+f
+216.78 508.98 0.48 21.84 re
+f
+293.16 508.98 0.48001 21.84 re
+f
+BT
+12 0 0 12 131.4 492.42 Tm
+0.0003 Tc
+1.7647 Tw
+(1 nal) Tj
+ET
+161.58 490.5 14.7 0.60001 re
+f
+BT
+12 0 0 12 176.28 492.42 Tm
+0.0012 Tc
+2.8188 Tw
+[ (tu) 6.2 ( tall ) 2820 (\050m) 9 (\056\051 ) ] TJ
+ET
+125.76 507.48 167.88 1.5 re
+f
+125.76 485.7 0.48 21.78 re
+f
+155.94 485.7 0.48001 21.78 re
+f
+216.78 485.7 0.48 21.78 re
+f
+293.16 485.7 0.48001 21.78 re
+f
+BT
+12 0 0 12 131.4 470.16 Tm
+0.0011 Tc
+1.7639 Tw
+(2 in) Tj
+ET
+161.58 468.24 9.36 0.60001 re
+f
+BT
+12 0 0 12 170.94 470.16 Tm
+0.0014 Tc
+2.9886 Tw
+[ (tr) 4.4 (a) 5.2 ( he ) 2990 (ente) 5.2 (rs) 5.6 ( ) ] TJ
+ET
+125.76 485.22 167.88 0.48001 re
+f
+125.76 463.44 0.48 21.78 re
+f
+155.94 463.44 0.48001 21.78 re
+f
+216.78 463.44 0.48 21.78 re
+f
+293.16 463.44 0.48001 21.78 re
+f
+BT
+12 0 0 12 131.4 447.84 Tm
+0.0011 Tc
+1.7639 Tw
+[ (3 intr) 4.1 (a) ] TJ
+ET
+170.94 445.92 12.6 0.59998 re
+f
+BT
+12 0 0 12 183.54 447.84 Tm
+-0.0005 Tc
+2.9905 Tw
+[ ( he ) 2990 (entered ) ] TJ
+ET
+125.76 462.96 167.88 0.48001 re
+f
+125.76 441.12 0.48 21.84 re
+f
+155.94 441.12 0.48001 21.84 re
+f
+216.78 441.12 0.48 21.84 re
+f
+293.16 441.12 0.48001 21.84 re
+f
+BT
+12 0 0 12 131.4 425.58 Tm
+0.0011 Tc
+1.7639 Tw
+(4 naltu) Tj
+ET
+176.28 423.66 9.3 0.60001 re
+f
+BT
+12 0 0 12 185.58 425.58 Tm
+0.0003 Tc
+2.8197 Tw
+[ ( he ) 2820 (grew ) ] TJ
+ET
+125.76 440.64 167.88 0.48001 re
+f
+125.76 418.8 0.48 21.84 re
+f
+155.94 418.8 0.48001 21.84 re
+f
+216.78 418.8 0.48 21.84 re
+f
+293.16 418.8 0.48001 21.84 re
+f
+BT
+12 0 0 12 131.4 403.26 Tm
+0.0011 Tc
+1.7639 Tw
+(5 in) Tj
+ET
+161.58 401.34 9.36 0.60001 re
+f
+BT
+12 0 0 12 170.94 403.26 Tm
+0.0014 Tc
+2.9886 Tw
+[ (tr) 4.4 (a) 5.2 ( he ) 2990 (ente) 5.2 (rs) 5.6 ( ) ] TJ
+ET
+125.76 418.32 167.88 0.47998 re
+f
+125.76 396.54 0.48 21.78 re
+f
+155.94 396.54 0.48001 21.78 re
+f
+216.78 396.54 0.48 21.78 re
+f
+293.16 396.54 0.48001 21.78 re
+f
+BT
+12 0 0 12 131.4 380.94 Tm
+0.0003 Tc
+1.7647 Tw
+(6 nal) Tj
+ET
+161.58 379.02 14.7 0.60001 re
+f
+BT
+12 0 0 12 176.28 380.94 Tm
+0.0012 Tc
+2.8188 Tw
+[ (tu) 6.2 ( tall ) 2820 (\050m) 9 (\056\051 ) ] TJ
+ET
+125.76 396.06 167.88 0.48001 re
+f
+125.76 374.22 0.48 21.84 re
+f
+155.94 374.22 0.48001 21.84 re
+f
+216.78 374.22 0.48 21.84 re
+f
+293.16 374.22 0.48001 21.84 re
+f
+BT
+12 0 0 12 131.4 358.68 Tm
+0.0011 Tc
+1.7639 Tw
+(7 naltu) Tj
+ET
+176.28 356.76 9.3 0.59998 re
+f
+BT
+12 0 0 12 185.58 358.68 Tm
+0.0003 Tc
+2.8197 Tw
+[ ( he ) 2820 (grew ) ] TJ
+ET
+125.76 373.74 167.88 0.48001 re
+f
+125.76 351.9 0.48 21.84 re
+f
+155.94 351.9 0.48001 21.84 re
+f
+216.78 351.9 0.48 21.84 re
+f
+293.16 351.9 0.48001 21.84 re
+f
+BT
+12 0 0 12 131.4 336.36 Tm
+0.0011 Tc
+1.7639 Tw
+[ (8 intr) 4.1 (a) ] TJ
+ET
+170.94 334.44 12.6 0.60001 re
+f
+BT
+12 0 0 12 183.54 336.36 Tm
+-0.0005 Tc
+2.9905 Tw
+[ ( he ) 2990 (entered ) ] TJ
+ET
+125.76 351.42 167.88 0.47998 re
+f
+125.76 329.64 0.48 21.78 re
+f
+155.94 329.64 0.48001 21.78 re
+f
+216.78 329.64 0.48 21.78 re
+f
+293.16 329.64 0.48001 21.78 re
+f
+BT
+12 0 0 12 131.4 314.04 Tm
+0.0011 Tc
+1.7639 Tw
+[ (9 intr) 4.1 (a) ] TJ
+ET
+170.94 312.12 12.6 0.60001 re
+f
+BT
+12 0 0 12 183.54 314.04 Tm
+-0.0005 Tc
+2.9905 Tw
+[ ( he ) 2990 (entered ) ] TJ
+ET
+125.76 329.16 167.88 0.47998 re
+f
+125.76 307.32 0.48 21.84 re
+f
+155.94 307.32 0.48001 21.84 re
+f
+216.78 307.32 0.48 21.84 re
+f
+293.16 307.32 0.48001 21.84 re
+f
+BT
+12 0 0 12 131.4 291.7801 Tm
+0.0002 Tc
+1.2648 Tw
+(10 nal) Tj
+ET
+161.58 289.86 14.7 0.60001 re
+f
+BT
+12 0 0 12 176.28 291.7801 Tm
+0.0012 Tc
+2.8188 Tw
+[ (tu) 6.2 ( tall ) 2820 (\050m) 9 (\056\051 ) ] TJ
+ET
+125.76 306.84 167.88 0.47998 re
+f
+125.76 285 0.48 21.84 re
+f
+155.94 285 0.48001 21.84 re
+f
+216.78 285 0.48 21.84 re
+f
+293.16 285 0.48001 21.84 re
+f
+BT
+12 0 0 12 131.4 269.4601 Tm
+0.0009 Tc
+1.2641 Tw
+(11 in) Tj
+ET
+161.58 267.54 9.36 0.60001 re
+f
+BT
+12 0 0 12 170.94 269.4601 Tm
+0.0014 Tc
+2.9886 Tw
+[ (tr) 4.4 (a) 5.2 ( he ) 2990 (ente) 5.2 (rs) 5.6 ( ) ] TJ
+ET
+125.76 284.52 167.88 0.48001 re
+f
+125.76 262.74 0.48 21.78 re
+f
+155.94 262.74 0.48001 21.78 re
+f
+216.78 262.74 0.48 21.78 re
+f
+293.16 262.74 0.48001 21.78 re
+f
+BT
+12 0 0 12 131.4 247.14 Tm
+0.0002 Tc
+1.2648 Tw
+(12 nal) Tj
+ET
+161.58 245.22 14.7 0.60001 re
+f
+BT
+12 0 0 12 176.28 247.14 Tm
+0.0012 Tc
+2.8188 Tw
+[ (tu) 6.2 ( tall ) 2820 (\050m) 9 (\056\051 ) ] TJ
+ET
+125.76 262.26 167.88 0.47998 re
+f
+125.76 239.94 0.48 22.32 re
+f
+125.76 239.94 30.18 0.48001 re
+f
+155.94 239.94 0.48001 22.32 re
+f
+156.42 239.94 60.36 0.48001 re
+f
+216.78 239.94 0.48 22.32 re
+f
+217.26 239.94 75.9 0.48001 re
+f
+293.16 239.94 0.48001 22.32 re
+f
+293.16 239.94 0.48001 0.48001 re
+f
+BT
+12 0 0 12 365.4 515.76 Tm
+0.001 Tc
+1.264 Tw
+(13 naltu) Tj
+ET
+410.28 513.84 9.3 0.60004 re
+f
+BT
+12 0 0 12 419.58 515.76 Tm
+0.0003 Tc
+2.8197 Tw
+[ ( he ) 2820 (grew ) ] TJ
+ET
+359.76 530.82 0.47998 0.47998 re
+f
+359.76 530.82 167.88 0.47998 re
+f
+527.16 530.82 0.48004 0.47998 re
+f
+359.76 508.98 0.47998 21.84 re
+f
+389.94 508.98 0.48001 21.84 re
+f
+450.78 508.98 0.48001 21.84 re
+f
+527.16 508.98 0.48004 21.84 re
+f
+BT
+12 0 0 12 365.4 493.44 Tm
+0.001 Tc
+1.264 Tw
+(14 naltu) Tj
+ET
+410.28 491.52 9.3 0.60001 re
+f
+BT
+12 0 0 12 419.58 493.44 Tm
+0.0003 Tc
+2.8197 Tw
+[ ( he ) 2820 (grew ) ] TJ
+ET
+359.76 508.5 167.88 0.48001 re
+f
+359.76 486.72 0.47998 21.78 re
+f
+389.94 486.72 0.48001 21.78 re
+f
+450.78 486.72 0.48001 21.78 re
+f
+527.16 486.72 0.48004 21.78 re
+f
+BT
+12 0 0 12 365.4 471.12 Tm
+0.0009 Tc
+1.2641 Tw
+[ (15 intr) 3.9 (a) ] TJ
+ET
+404.94 469.2 12.6 0.60001 re
+f
+BT
+12 0 0 12 417.54 471.12 Tm
+-0.0005 Tc
+2.9905 Tw
+[ ( he ) 2990 (entered ) ] TJ
+ET
+359.76 486.24 167.88 0.47998 re
+f
+359.76 464.4 0.47998 21.84 re
+f
+389.94 464.4 0.48001 21.84 re
+f
+450.78 464.4 0.48001 21.84 re
+f
+527.16 464.4 0.48004 21.84 re
+f
+BT
+12 0 0 12 365.4 448.86 Tm
+0.0009 Tc
+1.2641 Tw
+(16 in) Tj
+ET
+395.58 446.94 9.36 0.60001 re
+f
+BT
+12 0 0 12 404.94 448.86 Tm
+0.0014 Tc
+2.9886 Tw
+[ (tr) 4.4 (a) 5.2 ( he ) 2990 (ente) 5.2 (rs) 5.6 ( ) ] TJ
+ET
+359.76 463.92 167.88 0.47998 re
+f
+359.76 442.14 0.47998 21.78 re
+f
+389.94 442.14 0.48001 21.78 re
+f
+450.78 442.14 0.48001 21.78 re
+f
+527.16 442.14 0.48004 21.78 re
+f
+BT
+12 0 0 12 365.4 426.54 Tm
+0.0002 Tc
+1.2648 Tw
+(17 nal) Tj
+ET
+395.58 424.62 14.7 0.60001 re
+f
+BT
+12 0 0 12 410.28 426.54 Tm
+0.0012 Tc
+2.8188 Tw
+[ (tu) 6.2 ( tall ) 2820 (\050m) 9 (\056\051 ) ] TJ
+ET
+359.76 441.66 167.88 0.47998 re
+f
+359.76 419.82 0.47998 21.84 re
+f
+389.94 419.82 0.48001 21.84 re
+f
+450.78 419.82 0.48001 21.84 re
+f
+527.16 419.82 0.48004 21.84 re
+f
+BT
+12 0 0 12 365.4 404.28 Tm
+0.0009 Tc
+1.2641 Tw
+[ (18 intr) 3.9 (a) ] TJ
+ET
+404.94 402.36 12.6 0.60001 re
+f
+BT
+12 0 0 12 417.54 404.28 Tm
+-0.0005 Tc
+2.9905 Tw
+[ ( he ) 2990 (entered ) ] TJ
+ET
+359.76 419.34 167.88 0.48001 re
+f
+359.76 397.5 0.47998 21.84 re
+f
+389.94 397.5 0.48001 21.84 re
+f
+450.78 397.5 0.48001 21.84 re
+f
+527.16 397.5 0.48004 21.84 re
+f
+BT
+12 0 0 12 365.4 381.96 Tm
+0.001 Tc
+1.264 Tw
+(19 naltu) Tj
+ET
+410.28 380.04 9.3 0.59998 re
+f
+BT
+12 0 0 12 419.58 381.96 Tm
+0.0003 Tc
+2.8197 Tw
+[ ( he ) 2820 (grew ) ] TJ
+ET
+359.76 397.02 167.88 0.48001 re
+f
+359.76 375.24 0.47998 21.78 re
+f
+389.94 375.24 0.48001 21.78 re
+f
+450.78 375.24 0.48001 21.78 re
+f
+527.16 375.24 0.48004 21.78 re
+f
+BT
+12 0 0 12 365.4 359.64 Tm
+0.0009 Tc
+1.2641 Tw
+(20 in) Tj
+ET
+395.58 357.72 9.36 0.60001 re
+f
+BT
+12 0 0 12 404.94 359.64 Tm
+0.0014 Tc
+2.9886 Tw
+[ (tr) 4.4 (a) 5.2 ( he ) 2990 (ente) 5.2 (rs) 5.6 ( ) ] TJ
+ET
+359.76 374.76 167.88 0.47998 re
+f
+359.76 352.92 0.47998 21.84 re
+f
+389.94 352.92 0.48001 21.84 re
+f
+450.78 352.92 0.48001 21.84 re
+f
+527.16 352.92 0.48004 21.84 re
+f
+BT
+12 0 0 12 365.4 337.38 Tm
+0.0002 Tc
+1.2648 Tw
+(21 nal) Tj
+ET
+395.58 335.46 14.7 0.60001 re
+f
+BT
+12 0 0 12 410.28 337.38 Tm
+0.0012 Tc
+2.8188 Tw
+[ (tu) 6.2 ( tall ) 2820 (\050m) 9 (\056\051 ) ] TJ
+ET
+359.76 352.44 167.88 0.48001 re
+f
+359.76 330.6 0.47998 21.84 re
+f
+389.94 330.6 0.48001 21.84 re
+f
+450.78 330.6 0.48001 21.84 re
+f
+527.16 330.6 0.48004 21.84 re
+f
+BT
+12 0 0 12 365.4 315.06 Tm
+0.0009 Tc
+1.2641 Tw
+[ (22 intr) 3.9 (a) ] TJ
+ET
+404.94 313.14 12.6 0.60001 re
+f
+BT
+12 0 0 12 417.54 315.06 Tm
+-0.0005 Tc
+2.9905 Tw
+[ ( he ) 2990 (entered ) ] TJ
+ET
+359.76 330.12 167.88 0.48001 re
+f
+359.76 308.34 0.47998 21.78 re
+f
+389.94 308.34 0.48001 21.78 re
+f
+450.78 308.34 0.48001 21.78 re
+f
+527.16 308.34 0.48004 21.78 re
+f
+BT
+12 0 0 12 365.4 292.7401 Tm
+0.001 Tc
+1.264 Tw
+(23 naltu) Tj
+ET
+410.28 290.82 9.3 0.59998 re
+f
+BT
+12 0 0 12 419.58 292.7401 Tm
+0.0003 Tc
+2.8197 Tw
+[ ( he ) 2820 (grew ) ] TJ
+ET
+359.76 307.86 167.88 0.48001 re
+f
+359.76 286.02 0.47998 21.84 re
+f
+389.94 286.02 0.48001 21.84 re
+f
+450.78 286.02 0.48001 21.84 re
+f
+527.16 286.02 0.48004 21.84 re
+f
+BT
+12 0 0 12 365.4 270.48 Tm
+0.0009 Tc
+1.2641 Tw
+(24 in) Tj
+ET
+395.58 268.56 9.36 0.60001 re
+f
+BT
+12 0 0 12 404.94 270.48 Tm
+0.0014 Tc
+2.9886 Tw
+[ (tr) 4.4 (a) 5.2 ( he ) 2990 (ente) 5.2 (rs) 5.6 ( ) ] TJ
+ET
+359.76 285.54 167.88 0.48001 re
+f
+359.76 263.22 0.47998 22.32 re
+f
+359.76 263.22 30.18 0.48004 re
+f
+389.94 263.22 0.48001 22.32 re
+f
+390.42 263.22 60.36 0.48004 re
+f
+450.78 263.22 0.48001 22.32 re
+f
+451.26 263.22 75.9 0.48004 re
+f
+527.16 263.22 0.48004 22.32 re
+f
+527.16 263.22 0.48004 0.48004 re
+f
+BT
+/TT2 1 Tf
+13.02 0 0 13.02 90 215.7601 Tm
+-0.0008 Tc
+-0.0005 Tw
+(Praat Scripts ) Tj
+/TT6 1 Tf
+12 0 0 12 90 198.9601 Tm
+0.0003 Tc
+-0.0003 Tw
+(In addition to the batch label and batch relabel ) Tj
+18.805 0 TD
+0.0001 Tc
+-0.0017 Tw
+(scripts by Marc Brunelle\054) Tj
+10.16 0 TD
+-0.0001 Tc
+0.0001 Tw
+( I used a script to ) Tj
+-28.965 -1.15 TD
+0.0008 Tc
+-0.002 Tw
+[ (system) 8.6 (atically retrieve th) 5.8 (e necess) 5 (a) -0.4 (ry m) 8.6 (easur) ] TJ
+17.77 0 TD
+0.001 Tc
+-0.001 Tw
+[ (em) 8.8 (ents from) 8.8 ( the labeled soun) 6 (d files\056 This ) ] TJ
+-17.77 -1.15 TD
+0 Tc
+0 Tw
+(script is given below\056 ) Tj
+/TT11 1 Tf
+7.02 0 0 7.02 83.94 162.6001 Tm
+-0.0018 Tc
+(\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043 ) Tj
+0 -1.1368 TD
+(\043\043 Script based on \042stress\055log\042 script by Katherine Crosswhite ) Tj
+0 -1.1282 TD
+(\043\043 ) Tj
+T*
+(\043\043 This script will read all TextGrid and Wav file pairs in the directory ) Tj
+T*
+(\043\043 ) Tj
+T*
+(\043\043 For each TextGrid\057Sound pair\054 the script will measure the duration ) Tj
+T*
+(\043\043 of segments 1 and 2 on tier 1\054 and measure the mean pitch\054 peak ) Tj
+0 -1.1368 TD
+(\043\043 pitch\054 intensity and F1 and F2 for segments 1 and 2 on tier 2\056 ) Tj
+0 -1.1282 TD
+(\043\043 ) Tj
+T*
+(\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043 ) Tj
+T*
+0 Tc
+( ) Tj
+T*
+-0.0018 Tc
+(\043\043  Specify the directory containing your sound files in the next line\072 ) Tj
+ET
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 LIN\056G1\05601\0564 \055 Linguistics \055 First year Graduate \055 Male \055 Native Speaker \055 Research Paper) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(6) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+34 0 obj
+<<
+/FirstChar 32
+/Widths [ 600 0 600 600 600 0 0 600 600 600 600 600 600 600 600 600 600 600 600 0 600 600 600 0 0 0 600 0 0 600 0 0 0 600 600 600 600 600 600 600 600 600 0 600 600 600 600 600 600 600 600 600 600 0 600 600 0 600 0 0 600 0 0 600 0 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 0 600 600 600 600 600 600 600 600 600 ]
+/Encoding /WinAnsiEncoding
+/Type /Font
+/BaseFont /CourierNewPSMT
+/LastChar 122
+/FontDescriptor 35 0 R
+/Subtype /TrueType
+>>
+endobj
+35 0 obj
+<<
+/FontBBox [ -21 -680 638 1021 ]
+/StemV 42
+/Descent -300
+/XHeight -578
+/Flags 34
+/FontStretch /Normal
+/Ascent 832
+/FontName /CourierNewPSMT
+/Type /FontDescriptor
+/FontWeight 400
+/ItalicAngle 0
+/FontFamily (Courier New)
+/CapHeight 578
+>>
+endobj
+36 0 obj
+<<
+/Length 6097
+>>
+stream
+q
+/GS1 gs
+BT
+/TT6 1 Tf
+12 0 0 12 65.94 744.96 Tm
+0 g
+11.88 Tc
+0 Tw
+[ (  ) 6260 ( ) -5870 ( ) ] TJ
+0 -1.15 TD
+(  ) Tj
+/TT11 1 Tf
+7.02 0 0 7.02 83.94 714 Tm
+0 Tc
+( ) Tj
+0 -1.1282 TD
+-0.0018 Tc
+1.9658 Tw
+[ ( \043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043 ) ] TJ
+T*
+0 Tc
+0 Tw
+( ) Tj
+T*
+-0.0018 Tc
+[ ( ) -1965.8 (directory\044 \075 \042C\072\134Temp\134sounds\134\042 ) ] TJ
+0 -1.1367 TD
+0 Tc
+( ) Tj
+0 -1.1282 TD
+-0.0018 Tc
+1.9658 Tw
+[ ( \043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043\043 ) ] TJ
+T*
+0 Tc
+0 Tw
+( ) Tj
+T*
+-0.0018 Tc
+(\043\043  Now we will do some prep work to get your log file ready\056  The first thing I usually do is ) Tj
+T*
+(\043\043  make sure that I delete any pre\055existing variant of the log\072 ) Tj
+T*
+(filedelete \047directory\044\047stress\055log\056txt ) Tj
+0 -1.1367 TD
+0 Tc
+( ) Tj
+0 -1.1282 TD
+-0.0018 Tc
+(\043\043 Output Header Row ) Tj
+T*
+(     fileappend \042\047directory\044\047\134stress\055log\056txt\042 object\137name\047tab\044\047s1\137duration\047tab\044\047s1\137pitch\137peak\047tab\044\047 ) Tj
+T*
+(     fileappend \042\047directory\044\047\134stress\055log\056txt\042 s1\137pitch\137thru\047tab\044\047s1\137amp\137mean\047tab\044\047 ) Tj
+T*
+(     fileappend \042\047directory\044\047\134stress\055log\056txt\042 s1\137f\047tab\044\047s1\137f2\047tab\044\047 ) Tj
+T*
+0 Tc
+( ) Tj
+0 -1.1367 TD
+-0.0018 Tc
+(     fileappend \042\047directory\044\047\134stress\055log\056txt\042 s2\137duration\047tab\044\047s2\137pitch\137peak\047tab\044\047s2\137pitch\137thru\047tab\044\047 ) Tj
+0 -1.1282 TD
+(     fileappend \042\047directory\044\047\134stress\055log\056txt\042 s2\137amp\137mean\047tab\044\047s2\137f1\047tab\044\047 ) Tj
+T*
+(     fileappend \042\047directory\044\047\134stress\055log\056txt\042 s2\137f2\047newline\044\047 ) Tj
+T*
+0 Tc
+( ) Tj
+T*
+-0.0018 Tc
+(\043\043 Populate list of TextGrid filenames\054 and count them\056 ) Tj
+T*
+(Create Strings as file list\056\056\056  list \047directory\044\047\134\052\056TextGrid ) Tj
+0 -1.1367 TD
+(number\137files \075 Get number of strings ) Tj
+0 -1.1282 TD
+0 Tc
+( ) Tj
+T*
+-0.0018 Tc
+(\043 Declare Global Variables ) Tj
+T*
+[ ( ) -1965.8 (s1\137duration   \075 0 ) ] TJ
+T*
+[ ( ) -1965.8 (s1\137amp   \075 0 ) ] TJ
+T*
+[ ( ) -1965.8 (s1\137pitch\137peak \075 0 ) ] TJ
+0 -1.1367 TD
+[ ( ) -1965.8 (s1\137pitch\137thru \075 0 ) ] TJ
+0 -1.1282 TD
+[ ( ) -1965.8 (s1\137f1         \075 0 ) ] TJ
+T*
+[ ( ) -1965.8 (s1\137f2         \075 0 ) ] TJ
+T*
+[ ( ) -1965.8 (s2\137duration   \075 0 ) ] TJ
+T*
+[ ( ) -1965.8 (s2\137amp   \075 0 ) ] TJ
+T*
+[ ( ) -1965.8 (s2\137pitch\137peak \075 0 ) ] TJ
+T*
+[ ( ) -1965.8 (s2\137pitch\137thru \075 0 ) ] TJ
+0 -1.1368 TD
+[ ( ) -1965.8 (s2\137f1         \075 0 ) ] TJ
+0 -1.1282 TD
+[ ( ) -1965.8 (s2\137f2         \075 0 ) ] TJ
+T*
+[ ( ) -1965.8 (v1\137start \075 0 ) ] TJ
+T*
+[ ( ) -1965.8 (v1\137end \075 0 ) ] TJ
+T*
+[ ( ) -1965.8 (v1\137mid \075 0 ) ] TJ
+T*
+[ ( ) -1965.8 (v2\137start \075 0 ) ] TJ
+0 -1.1368 TD
+[ ( ) -1965.8 (v2\137end \075 0 ) ] TJ
+0 -1.1282 TD
+[ ( ) -1965.8 (v2\137mid \075 0 ) ] TJ
+-2.5641 -1.1282 TD
+0 Tc
+( ) Tj
+2.5641 -1.1282 TD
+-0.0018 Tc
+(\043 Then we set up a \042for\042 loop that will iterate once for every file in the list\072 ) Tj
+T*
+(for current\137file from 1 to number\137files ) Tj
+T*
+0 Tc
+( ) Tj
+0 -1.1368 TD
+-0.0018 Tc
+(     \043 Query the file\055list to get the first filename from it\054 then read that file in\072 ) Tj
+0 -1.1282 TD
+(     select Strings list ) Tj
+T*
+(     current\137token\044 \075 Get string\056\056\056 \047current\137file\047 ) Tj
+T*
+0 Tc
+( ) Tj
+T*
+-0.0018 Tc
+(     \043 Read in the TextGrid file\054 then read the corresponding Sound file ) Tj
+T*
+(     Read from file\056\056\056 \047directory\044\047\134\047current\137token\044\047 ) Tj
+0 -1.1367 TD
+(     object\137name\044 \075 selected\044 \050\042TextGrid\042\054 1\051 ) Tj
+0 -1.1282 TD
+(     Read from file\056\056\056 \047directory\044\047\134\047object\137name\044\047\056wav ) Tj
+T*
+0 Tc
+( ) Tj
+T*
+-0.0018 Tc
+(     \043 Select the TextGrid for the duration analysis ) Tj
+T*
+(     select TextGrid \047object\137name\044\047 ) Tj
+T*
+0 Tc
+( ) Tj
+0 -1.1367 TD
+-0.0018 Tc
+(     \043 TIER 1 \075 SYLLABLE ) Tj
+0 -1.1282 TD
+(     \043 Measure and record duration of first and second syllables ) Tj
+T*
+(     number\137of\137intervals \075 Get number of intervals\056\056\056 1 ) Tj
+T*
+(     for b from 1 to number\137of\137intervals ) Tj
+T*
+(          interval\137label\044 \075 Get label of interval\056\056\056 1 \047b\047 ) Tj
+T*
+(          if interval\137label\044 \075 \0421\042 ) Tj
+T*
+0 Tc
+( ) Tj
+0 -1.1368 TD
+-0.0018 Tc
+(               s1\137start \075 Get starting point\056\056\056 1 \047b\047 ) Tj
+0 -1.1282 TD
+(               s1\137end \075 Get end point\056\056\056 1 \047b\047 ) Tj
+T*
+[ ( ) -1965.8 (s1\137duration \075 \050s1\137end \055 s1\137start\051 \052 1000 ) ] TJ
+T*
+0 Tc
+( ) Tj
+T*
+-0.0018 Tc
+(          endif ) Tj
+T*
+(          if interval\137label\044 \075 \0422\042 ) Tj
+0 -1.1368 TD
+0 Tc
+( ) Tj
+0 -1.1282 TD
+-0.0018 Tc
+(               s2\137start \075 Get starting point\056\056\056 1 \047b\047 ) Tj
+T*
+(               s2\137end \075 Get end point\056\056\056 1 \047b\047 ) Tj
+T*
+[ ( ) -1965.8 (s2\137duration \075 \050s2\137end \055 s2\137start\051 \052 1000 ) ] TJ
+T*
+0 Tc
+( ) Tj
+T*
+-0.0018 Tc
+(          endif ) Tj
+0 -1.1367 TD
+(     endfor ) Tj
+0 -1.1282 TD
+0 Tc
+( ) Tj
+T*
+-0.0018 Tc
+(     \043 TIER 2 \075 VOWEL ) Tj
+ET
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 LIN\056G1\05601\0564 \055 Linguistics \055 First year Graduate \055 Male \055 Native Speaker \055 Research Paper) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(7) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+37 0 obj
+<<
+/Length 6454
+>>
+stream
+q
+/GS1 gs
+BT
+/TT6 1 Tf
+12 0 0 12 65.94 744.96 Tm
+0 g
+11.88 Tc
+0 Tw
+[ (  ) 6260 ( ) -5870 ( ) ] TJ
+0 -1.15 TD
+(  ) Tj
+/TT11 1 Tf
+7.02 0 0 7.02 83.94 714 Tm
+-0.0018 Tc
+(     \043 Get start and end points for vowels ) Tj
+0 -1.1282 TD
+(     number\137of\137intervals \075 Get number of intervals\056\056\056 2 ) Tj
+T*
+(     for b from 1 to number\137of\137intervals ) Tj
+T*
+(          interval\137label\044 \075 Get label of interval\056\056\056 2 \047b\047 ) Tj
+0 -1.1367 TD
+(          if interval\137label\044 \075 \0421\042 ) Tj
+0 -1.1282 TD
+0 Tc
+( ) Tj
+T*
+-0.0018 Tc
+(               v1\137start \075 Get starting point\056\056\056 2 \047b\047 ) Tj
+T*
+(               v1\137end \075 Get end point\056\056\056 2 \047b\047 ) Tj
+T*
+[ ( ) -1965.8 (v1\137mid \075 v1\137start \053 \050 \050v1\137end \055 v1\137start\051 \057 2 \051 ) ] TJ
+T*
+0 Tc
+( ) Tj
+0 -1.1367 TD
+-0.0018 Tc
+(          endif ) Tj
+0 -1.1282 TD
+(          if interval\137label\044 \075 \0422\042 ) Tj
+T*
+0 Tc
+( ) Tj
+T*
+-0.0018 Tc
+(               v2\137start \075 Get starting point\056\056\056 2 \047b\047 ) Tj
+T*
+(               v2\137end \075 Get end point\056\056\056 2 \047b\047 ) Tj
+T*
+[ ( ) -1965.8 (v2\137mid \075 v2\137start \053 \050 \050v2\137end \055 v2\137start\051 \057 2\051 ) ] TJ
+0 -1.1367 TD
+0 Tc
+( ) Tj
+0 -1.1282 TD
+-0.0018 Tc
+(          endif ) Tj
+T*
+(     endfor ) Tj
+T*
+0 Tc
+( ) Tj
+T*
+-0.0018 Tc
+(          \043 Measure pitch\054 intensity\054 and formants ) Tj
+T*
+0 Tc
+( ) Tj
+0 -1.1367 TD
+-0.0018 Tc
+1.9658 Tw
+[ ( \043 ) 1965.8 (PITCH ) ] TJ
+0 -1.1282 TD
+0 Tw
+[ ( ) -1965.8 (select Sound \047object\137name\044\047 ) ] TJ
+T*
+[ ( ) -1965.8 (To Pitch\056\056\056 0 40 600 ) ] TJ
+T*
+[ ( ) -1965.8 (select Pitch \047object\137name\044\047 ) ] TJ
+T*
+[ ( ) -1965.8 (s1\137pitch\137peak \075 Get maximum\056\056\056 v1\137start v1\137end Hertz Parabolic ) ] TJ
+T*
+[ ( ) -1965.8 (s1\137pitch\137thru \075 Get mean\056\056\056 v1\137start v1\137end Hertz ) ] TJ
+0 -1.1367 TD
+0 Tc
+( ) Tj
+0 -1.1282 TD
+-0.0018 Tc
+[ ( ) -1965.8 (s2\137pitch\137peak \075 Get maximum\056\056\056 v2\137start v2\137end Hertz Parabolic ) ] TJ
+T*
+[ ( ) -1965.8 (s2\137pitch\137thru \075 Get mean\056\056\056 v2\137start v2\137end Hertz ) ] TJ
+T*
+0 Tc
+( ) Tj
+T*
+-0.0018 Tc
+1.9658 Tw
+[ ( \043 ) 1965.8 (INTENSITY ) ] TJ
+T*
+0 Tw
+[ ( ) -1965.8 (select Sound \047object\137name\044\047 ) ] TJ
+T*
+[ ( ) -1965.8 (To Intensity\056\056\056 100 0 ) ] TJ
+0 -1.1368 TD
+[ ( ) -1965.8 (select Intensity \047object\137name\044\047 ) ] TJ
+0 -1.1282 TD
+[ ( ) -1965.8 (s1\137amp\137mean \075 Get mean\056\056\056 v1\137start v1\137end  ) ] TJ
+T*
+[ ( ) -1965.8 (s2\137amp\137mean \075 Get mean\056\056\056 v2\137start v2\137end  ) ] TJ
+T*
+0 Tc
+( ) Tj
+T*
+-0.0018 Tc
+1.9658 Tw
+[ ( \043 ) 1965.8 (FORMANTS ) ] TJ
+T*
+0 Tw
+[ ( ) -1965.8 (select Sound \047object\137name\044\047 ) -3760.7 ( ) ] TJ
+0 -1.1368 TD
+[ ( ) -1965.8 (To Formant \050burg\051\056\056\056 0\05601 5 5000 0\056025 50 ) ] TJ
+0 -1.1282 TD
+[ ( ) -1965.8 (s1\137f1 \075 Get value at time\056\056\056 1 v1\137mid Hertz Linear ) ] TJ
+T*
+[ ( ) -1965.8 (s1\137f2 \075 Get value at time\056\056\056 2 v1\137mid Hertz Linear ) ] TJ
+T*
+[ ( ) -1965.8 (s2\137f1 \075 Get value at time\056\056\056 1 v2\137mid Hertz Linear ) ] TJ
+T*
+[ ( ) -1965.8 (s2\137f2 \075 Get value at time\056\056\056 2 v2\137mid Hertz Linear ) ] TJ
+T*
+0 Tc
+( ) Tj
+0 -1.1368 TD
+-0.0018 Tc
+(     \043 Output measurements to file ) Tj
+0 -1.1282 TD
+(     fileappend \042\047directory\044\047\134stress\055log\056txt\042 \047object\137name\044\047\047tab\044\047 ) Tj
+T*
+(     fileappend \042\047directory\044\047\134stress\055log\056txt\042 \047s1\137duration\0721\047 \047tab\044\047 ) Tj
+T*
+(     fileappend \042\047directory\044\047\134stress\055log\056txt\042 \047s1\137pitch\137peak\0721\047 \047tab\044\047 ) Tj
+T*
+(     fileappend \042\047directory\044\047\134stress\055log\056txt\042 \047s1\137pitch\137thru\0721\047 \047tab\044\047 ) Tj
+T*
+(     fileappend \042\047directory\044\047\134stress\055log\056txt\042 \047s1\137amp\137mean\0721\047 \047tab\044\047 ) Tj
+0 -1.1367 TD
+(     fileappend \042\047directory\044\047\134stress\055log\056txt\042 \047s1\137f1\0720\047 \047tab\044\047 ) Tj
+0 -1.1282 TD
+(     fileappend \042\047directory\044\047\134stress\055log\056txt\042 \047s1\137f2\0720\047 \047tab\044\047 ) Tj
+T*
+(     fileappend \042\047directory\044\047\134stress\055log\056txt\042 \047s2\137duration\0721\047 \047tab\044\047 ) Tj
+T*
+(     fileappend \042\047directory\044\047\134stress\055log\056txt\042 \047s2\137pitch\137peak\0721\047 \047tab\044\047 ) Tj
+T*
+(     fileappend \042\047directory\044\047\134stress\055log\056txt\042 \047s2\137pitch\137thru\0721\047 \047tab\044\047 ) Tj
+T*
+(     fileappend \042\047directory\044\047\134stress\055log\056txt\042 \047s2\137amp\137mean\0721\047 \047tab\044\047 ) Tj
+0 -1.1367 TD
+(     fileappend \042\047directory\044\047\134stress\055log\056txt\042 \047s2\137f1\0720\047 \047tab\044\047 ) Tj
+0 -1.1282 TD
+(     fileappend \042\047directory\044\047\134stress\055log\056txt\042 \047s2\137f2\0720\047 \047tab\044\047 ) Tj
+T*
+0 Tc
+( ) Tj
+T*
+-0.0018 Tc
+(     \043 Output time data \050only used for debugging\051 ) Tj
+T*
+(     \043fileappend \042\047directory\044\047\134stress\055log\056txt\042 \047v1\137start\0724\047 \047v1\137end\0724\047 \047v1\137mid\0724\047 \047v2\137start\0724\047 \047v2\137end\0724\047 ) Tj
+T*
+(\047v2\137mid\0724\047 \047tab\044\047 ) Tj
+T*
+0 Tc
+( ) Tj
+0 -1.1368 TD
+-0.0018 Tc
+(     fileappend \042\047directory\044\047\134stress\055log\056txt\042 \047newline\044\047 ) Tj
+0 -1.1282 TD
+0 Tc
+( ) Tj
+T*
+-0.0018 Tc
+(     \043 Clear list \050except for file string\051 and move on to next file\056 ) Tj
+T*
+(     select all ) Tj
+T*
+(     minus Strings list ) Tj
+T*
+(     Remove ) Tj
+0 -1.1368 TD
+(endfor ) Tj
+0 -1.1282 TD
+0 Tc
+( ) Tj
+T*
+-0.0018 Tc
+(\043 cleanup ) Tj
+T*
+(select all ) Tj
+T*
+(Remove ) Tj
+T*
+(clearinfo ) Tj
+0 -1.1367 TD
+(print All files have been processed\056 ) Tj
+0 -1.1282 TD
+0 Tc
+( ) Tj
+ET
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 LIN\056G1\05601\0564 \055 Linguistics \055 First year Graduate \055 Male \055 Native Speaker \055 Research Paper) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(8) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+xref
+0 38
+0000000000 65535 f 
+0000000009 00000 n 
+0000000112 00000 n 
+0000000213 00000 n 
+0000000262 00000 n 
+0000000637 00000 n 
+0000001024 00000 n 
+0000001399 00000 n 
+0000001804 00000 n 
+0000002167 00000 n 
+0000002543 00000 n 
+0000002896 00000 n 
+0000003249 00000 n 
+0000012125 00000 n 
+0000012210 00000 n 
+0000012639 00000 n 
+0000012888 00000 n 
+0000013267 00000 n 
+0000013527 00000 n 
+0000013672 00000 n 
+0000014086 00000 n 
+0000014337 00000 n 
+0000022685 00000 n 
+0000023088 00000 n 
+0000023572 00000 n 
+0000023836 00000 n 
+0000038074 00000 n 
+0000038464 00000 n 
+0000038707 00000 n 
+0000054181 00000 n 
+0000070726 00000 n 
+0000070763 00000 n 
+0000073462 00000 n 
+0000080169 00000 n 
+0000093983 00000 n 
+0000094474 00000 n 
+0000094729 00000 n 
+0000100879 00000 n 
+trailer
+<<
+/Size 38
+/Root 3 0 R
+/Info 2 0 R
+>>
+startxref
+107386
+%%EOF

@@ -1,0 +1,38 @@
+
+<html>
+
+	<head>
+		<title>MICUSP Paper Classification</title>
+		<link rel="stylesheet" href="/classify/css/classify.css"/>
+	</head>
+
+<body>
+
+<h2>MICUSP Paper Classification</h2>
+
+{% block content %}
+
+  {% if form.errors %}
+    <p class="error">Sorry, that's not a valid username or password</p>
+  {% endif %}
+
+  <form action="" method="post">
+
+<p>
+    <label for="username">User name:</label>
+    <input type="text" name="username" value="" id="username">
+</p>
+<p>  
+    <label for="password">Password:</label>
+    <input type="password" name="password" value="" id="password">
+</p>   
+ <br/>
+    <input type="submit" value="login" />
+    <input type="hidden" name="next" value="/classify/paper" />
+  </form>
+
+{% endblock %}
+
+</body>
+
+</html>

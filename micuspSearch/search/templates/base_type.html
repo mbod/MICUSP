@@ -1,0 +1,13 @@
+        <script id="typescript">
+                                var percentdata = [
+                                        {% for x in types %}
+                                        {% ifnotequal x.percent '0' %}
+        	                                { label: '{{x.name}}', data: {{x.percent}} }
+	
+						{% if not forloop.last %} , {% endif %}
+                                        {% endifnotequal %}
+
+                                        {% endfor %}
+                                ];
+                        
+         </script>

@@ -1,0 +1,31 @@
+
+  d2 = [
+
+		{% for y in points %}
+		[{{ forloop.counter0 }}, {{ y }}]
+		{% if not forloop.last %} , {% endif %}
+		
+		{% endfor %}
+	];
+		
+  deptTypeData = [
+                {% for t1,t2,t3,t4,t5,t6,t7 in deptType %}
+                [{{t1}},{{t2}},{{t3}},{{t4}},{{t5}},{{t6}},{{t7}}]
+		{% if not forloop.last %} , {% endif %}
+
+                {% endfor %}
+	];
+
+
+	{% if token_frame %}
+
+  normalizationData  = [
+                {% for t1,t2,t3,t4,t5,t6,t7 in token_frame %}
+                [{{t1}},{{t2}},{{t3}},{{t4}},{{t5}},{{t6}},{{t7}}]
+		{% if not forloop.last %} , {% endif %}
+
+                {% endfor %}
+	];
+
+
+	{% endif %}

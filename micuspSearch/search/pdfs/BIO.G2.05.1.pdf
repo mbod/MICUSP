@@ -1,0 +1,1157 @@
+%PDF-1.3
+1 0 obj
+<<
+/Kids [ 4 0 R 5 0 R 6 0 R ]
+/Type /Pages
+/Count 3
+>>
+endobj
+2 0 obj
+<<
+/Producer (Python PDF Library \055 http\072\057\057pybrary\056net\057pyPdf\057)
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+>>
+endobj
+4 0 obj
+<<
+/Parent 1 0 R
+/Contents 7 0 R
+/Resources <<
+/ExtGState <<
+/GS1 8 0 R
+>>
+/Font <<
+/TT8 9 0 R
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+/TT2 11 0 R
+/TT4 13 0 R
+/TT6 15 0 R
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Type /Page
+>>
+endobj
+5 0 obj
+<<
+/Parent 1 0 R
+/Contents 17 0 R
+/Resources <<
+/ExtGState <<
+/GS1 8 0 R
+>>
+/Font <<
+/TT8 9 0 R
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+/TT2 11 0 R
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Type /Page
+>>
+endobj
+6 0 obj
+<<
+/Parent 1 0 R
+/Contents 18 0 R
+/Resources <<
+/ExtGState <<
+/GS1 8 0 R
+>>
+/Font <<
+/TT8 9 0 R
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+/TT2 11 0 R
+/TT4 13 0 R
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Type /Page
+>>
+endobj
+7 0 obj
+<<
+/Length 7385
+>>
+stream
+q
+/GS1 gs
+BT
+/TT2 1 Tf
+9 0 0 9 72 747.78 Tm
+0 g
+0.0012 Tc
+0.0021 Tw
+[ (Lite) 5 (ratur) 7.5 (e) -1.6 ( Surve) 5 (y) -5.5 ( ) -146.7 ( ) -140 ( ) ] TJ
+ET
+70.5 743.88 471.12 0.71997 re
+f
+BT
+/TT4 1 Tf
+13.98 0 0 13.98 158.7 699.24 Tm
+0.001 Tc
+-0.0021 Tw
+[ (Applicati) 4.2 (o) -1.1 (n of Micr) 20 (oarray ) 55.8 (Analysi) 4.2 (s) -0.4 ( in ) ] TJ
+/TT6 1 Tf
+16.4764 0 TD
+0.0006 Tc
+0 Tw
+[ (Dr) 16.4 (osophil) 3.8 (a) ] TJ
+/TT4 1 Tf
+4.6009 0 TD
+0 Tc
+( ) Tj
+/TT2 1 Tf
+12 0 0 12 72 672.84 Tm
+0.001 Tc
+0.004 Tw
+[ (Microarray) 66 (\054 also known as DNA) 53.2 ( array) 66 (\054) 1 ( is to have ) ] TJ
+19.84 0 TD
+0.0012 Tc
+0.0025 Tw
+(a collection \050at least at ) Tj
+9.285 0 TD
+0.0016 Tc
+0.0017 Tw
+[ (a m) 9.4 (a) 0.4 (gnitude of thousand\051) -5.4 ( ) ] TJ
+-29.125 -1.95 TD
+0.0003 Tc
+0.0547 Tw
+[ (of DNA) 52.5 ( fra) -5.9 (g) -4.7 (m) 8.1 (e) -0.9 (nts\054 whose sequences are known\054 ) ] TJ
+20.145 0 TD
+[ (being arrayed on a solid supporting substance\054 ) ] TJ
+-20.145 -1.95 TD
+0.0009 Tc
+0.0541 Tw
+[ (such as) 5.1 ( plas) 5.1 (tic o) 5.9 (r) -1.1 ( s) 5.1 (i) -1.3 (licon) 5.9 ( chi) ] TJ
+11.52 0 TD
+0 Tc
+[ (p\056 Usually those probes \050i\056e\056 the ) ] TJ
+13.23 0 TD
+-0.0003 Tc
+0.0553 Tw
+[ (DNA) 56.9 ( fragments on ) ] TJ
+8.02 0 TD
+0.0014 Tc
+0.0536 Tw
+[ (m) 9.2 (i) -0.8 (croarray) 6.4 (\051) -0.6 ( a) 5.2 (r) -0.6 (e) 5.3 ( ) ] TJ
+-32.77 -1.95 TD
+0.0001 Tc
+0.0249 Tw
+[ (derived from genes of i) -7.1 (n) 0.1 (terest\056 Th) ] TJ
+13.74 0 TD
+0.0007 Tc
+0.0255 Tw
+[ (erefore\054 m) 8.5 (i) -1.5 (cro) 5.7 (a) -0.5 (rray is also) 5.7 ( called ) ] TJ
+13.515 0 TD
+0.0234 Tw
+[ (gene chip\054 or gene array) 65.6 (\056) 0.6 ( The ) ] TJ
+-27.255 -1.95 TD
+0.0003 Tc
+0.1247 Tw
+[ (basic idea of m) 8.1 (i) -1.9 (croarray evolved ) ] TJ
+13.985 0 TD
+0.0001 Tc
+0.1265 Tw
+[ (from) 7.9 ( Southern blotting\056 R) 7.1 (e) -1.1 (sear) ] TJ
+12.755 0 TD
+0.0005 Tc
+0.1232 Tw
+[ (chers prepare their sam) 8.3 (p) 0.5 (le by ) ] TJ
+-26.74 -1.95 TD
+0.0895 Tw
+[ (labeling DNA) 57.7 ( m) 8.3 (o) 0.5 (lecules) 4.7 ( in query with substr) 3.5 (ate wh) ] TJ
+21.38 0 TD
+0.0004 Tc
+[ (ich is either fluorescent or radioactive\054 and ) ] TJ
+-21.38 -1.95 TD
+0.0012 Tc
+0.0071 Tw
+[ (then blo) 6.2 (t) -1 ( the) 5 ( m) 9 (i) -1 (croarray with lab) 6.2 (e) 0 (led) 6.2 ( sam) 9 (p) 1.2 (le\056 ) ] TJ
+18.445 0 TD
+0.001 Tc
+0.0077 Tw
+[ (DNA) 58.2 ( in query will hyb) 6 (ridize to the m) 8.8 (a) -0.2 (tching p) 6 (r) -1 (ob) 6 (e) 4.8 ( ) ] TJ
+-18.445 -1.95 TD
+0.0006 Tc
+0.12 Tw
+[ (on m) 8.4 (i) -1.6 (croarray) 65.6 (\054 if there is\054 otherwis) 4.8 (e it will be) ] TJ
+19.02 0 TD
+0.0004 Tc
+0.1187 Tw
+[ ( washed away) 65.4 (\056 After hybridization and washing\054 ) ] TJ
+-19.02 -1.95 TD
+0.0005 Tc
+0.1045 Tw
+[ (signals) 4.7 ( from the lab) 5.5 (e) -0.7 (l of) 8.5 ( hybridized DNA) 57.7 ( will b) 5.5 (e) ] TJ
+20.44 0 TD
+0.0008 Tc
+0.1042 Tw
+[ ( detected and record) 5.8 (ed) 5.8 ( by reader instrum) 8.6 (e) -0.4 (nts ) ] TJ
+-20.44 -1.95 TD
+0.0004 Tc
+-0.0004 Tw
+[ (such as photom) 8.2 (eter) 53.4 (\056 ) 55 (And data will be co) ] TJ
+15.945 0 TD
+0.0002 Tc
+-0.0012 Tw
+[ (m) 8 (p) 0.2 (iled and analyzed by software finally) 65.2 (\056 ) ] TJ
+-15.945 -1.95 TD
+0 Tc
+0 Tw
+( ) Tj
+T*
+0.0002 Tc
+0.2912 Tw
+[ (The appearance of m) 8 (i) -7 (croarray allows us to do ) ] TJ
+20.88 0 TD
+0.2898 Tw
+[ (thousands of southern blotting in parallel\056 ) ] TJ
+-20.88 -1.95 TD
+0.0698 Tw
+[ (However) 38.2 (\054) 0.2 ( that doesn\222) 23.2 (t) -2 ( m) 8 (ean the im) 8 (portance of ) ] TJ
+19.245 0 TD
+0.0679 Tw
+[ (this technique only lim) 8 (it to speeding up the way ) ] TJ
+-19.245 -1.95 TD
+0.0006 Tc
+0.1094 Tw
+[ (we do southern blotting\056 In fact\054 the capacity of) ] TJ
+19.84 0 TD
+0.0005 Tc
+0.1095 Tw
+[ ( m) 8.3 (i) -1.7 (croarray to test thousands of genes at once ) ] TJ
+-19.84 -1.95 TD
+0.0003 Tc
+0.0547 Tw
+[ (m) 8.1 (a) -0.9 (ke it the most appropriate way to show gene ) ] TJ
+19.63 0 TD
+-0.0001 Tc
+0.0551 Tw
+[ (expression profile at cert) ] TJ
+10.075 0 TD
+0.0004 Tc
+0.0546 Tw
+[ (ain developm) 8.2 (ent stage\054 ) ] TJ
+-29.705 -1.95 TD
+0.0009 Tc
+0.0432 Tw
+[ (com) 8.7 (p) 0.9 (are expression p) 5.9 (r) -1.1 (o) 5.9 (f) 3.9 (ile between) 5.9 ( cells in disease ) ] TJ
+21.285 0 TD
+0.0008 Tc
+0.0442 Tw
+[ (and healthy cells\054 an) 5.8 (d test th) 5.8 (e ch) 5.8 (ange in the ) ] TJ
+-21.285 -1.95 TD
+-0.0002 Tc
+0.2552 Tw
+[ (transcription network controlled by certain tran) ] TJ
+20.185 0 TD
+0.0008 Tc
+0.2512 Tw
+[ (scrip) 5.8 (tion f) 8.8 (actor etc\056 While researcher taking ) ] TJ
+-20.185 -1.95 TD
+0.0001 Tc
+0.2282 Tw
+[ (advantages of this technique\054 ) ] TJ
+12.775 0 TD
+0.0008 Tc
+0.2292 Tw
+[ (th) 5.8 (ey) 5.8 ( m) 8.6 (u) 0.8 (st be careful abou) 5.8 (t its) ] TJ
+12.945 0 TD
+-0.0002 Tc
+0.2302 Tw
+[ ( down side\056 One down side of ) ] TJ
+-25.72 -1.95 TD
+0.0007 Tc
+0.0585 Tw
+[ (m) 8.5 (i) -1.5 (croarray) 65.7 (\054) 0.7 ( which has been im) 8.5 (proved to som) 8.5 (e) -0.5 ( ex) ] TJ
+20.065 0 TD
+0.0013 Tc
+0.0587 Tw
+[ (tent\054 is tha) 5.1 (t) 4.1 ( m) 9.1 (i) -0.9 (sm) 9.1 (atching between s) 5.5 (a) 0.1 (m) 9.1 (p) 1.3 (les and ) ] TJ
+-20.065 -1.95 TD
+0.0007 Tc
+0.0376 Tw
+[ (probes leads) 4.9 ( to fals) 4.9 (e\055pos) 4.9 (itiv) 5.7 (e results\056) 5.7 ( Another thing ) ] TJ
+21.1 0 TD
+-0.0002 Tc
+0.0402 Tw
+[ (that researcher should be) ] TJ
+10.085 0 TD
+0.0006 Tc
+0.0384 Tw
+[ ( care of is th) 5.6 (at how) 7.8 ( ) ] TJ
+-31.185 -1.95 TD
+-0.0001 Tc
+0.3241 Tw
+[ (they s) 4.1 (t) -2.3 (andardize and s) 4.1 (t) -2.3 (atistically analyze the ) ] TJ
+19.995 0 TD
+0 Tc
+0.325 Tw
+[ (data\056 Im) 7.8 (proper data processing w) 7.2 (ill lead to ) ] TJ
+-19.995 -1.95 TD
+-0.0003 Tc
+0.3253 Tw
+[ (m) 7.5 (i) -2.5 (sinterpretation of the data\056 At) ] TJ
+14.09 0 TD
+0.3243 Tw
+[ ( last but not least\054 m) 7.5 (i) -2.5 (croarray ) ] TJ
+13.85 0 TD
+0.001 Tc
+0.3227 Tw
+[ (is) 5.2 ( still a re) 4.8 (lativ) 6 (e) -0.1 (ly co) 6 (stly ) ] TJ
+-27.94 -1.95 TD
+0.0007 Tc
+-0.0007 Tw
+[ (experim) 8.5 (e) -0.5 (nt\056 Proper des) 4.9 (i) -1.5 (g) 5.7 (n) 0.7 ( of) 3.7 ( experiment ) ] TJ
+16.61 0 TD
+0.0009 Tc
+-0.0017 Tw
+[ (in ah) 5.9 (ead will avo) 5.9 (i) -1.3 (d waste of) 3.9 ( m) 8.7 (oney) 65.9 (\056) 0.9 ( ) -250.8 ( ) ] TJ
+-16.61 -1.95 TD
+0 Tc
+0 Tw
+( ) Tj
+T*
+0.0004 Tc
+0.0196 Tw
+[ (One year after W) 9.2 (h) 0.4 (ite\054 K\056P) 111.6 (\056) 0.4 ( ) ] TJ
+/TT8 1 Tf
+10.925 0 TD
+0.0009 Tc
+0.0191 Tw
+[ (et al) ] TJ
+/TT2 1 Tf
+1.775 0 TD
+0.0007 Tc
+0.0193 Tw
+[ ( pub) 5.7 (lished the) 4.5 (i) -1.5 (r w) 7.9 (o) 0.7 (rk \050W) 9.5 (hite K\056P) 111.9 (\056) 0.7 ( ) ] TJ
+/TT8 1 Tf
+13.83 0 TD
+0.0014 Tc
+0.0186 Tw
+[ (et al\056) ] TJ
+/TT2 1 Tf
+2.025 0 TD
+-0.0002 Tc
+0.0202 Tw
+[ ( 1999\051 of analysis of gene ) ] TJ
+-28.555 -1.95 TD
+0 Tc
+0.06 Tw
+[ (expression pattern in ) ] TJ
+/TT8 1 Tf
+8.76 0 TD
+0.0003 Tc
+0 Tw
+[ (Dr) 39.5 (osophila) ] TJ
+/TT2 1 Tf
+4.52 0 TD
+0.0584 Tw
+[ ( during m) 8.1 (e) -0.9 (tam) 8.1 (o) -4.7 (rphosis by m) 8.1 (i) -1.9 (croarra) ] TJ
+14.835 0 TD
+0.0577 Tw
+[ (y) 65.3 (\054) 0.3 ( a group of University of ) ] TJ
+ET
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 BIO\056G2\05605\0561 \055 Biology \055 Second year Graduate \055 Male \055 NNS \050L1\072 Chinese\051 \055 Report) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(1) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+8 0 obj
+<<
+/OPM 1
+/Type /ExtGState
+/SM 0.02
+/OP false
+/SA false
+/op false
+>>
+endobj
+9 0 obj
+<<
+/FirstChar 32
+/Widths [ 250 0 0 0 0 0 0 0 0 0 0 0 0 0 250 0 0 500 500 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 722 0 0 0 0 333 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 500 0 0 0 444 0 500 500 278 0 0 278 722 500 500 500 0 389 389 278 ]
+/Encoding /WinAnsiEncoding
+/Type /Font
+/BaseFont /TimesNewRomanPS-ItalicMT
+/LastChar 116
+/FontDescriptor 10 0 R
+/Subtype /TrueType
+>>
+endobj
+10 0 obj
+<<
+/FontBBox [ -498 -307 1120 1023 ]
+/StemV 71.742
+/Descent -216
+/XHeight -546
+/Flags 98
+/FontStretch /Normal
+/Ascent 891
+/FontName /TimesNewRomanPS-ItalicMT
+/Type /FontDescriptor
+/FontWeight 400
+/ItalicAngle -15
+/FontFamily (Times New Roman)
+/CapHeight 656
+>>
+endobj
+11 0 obj
+<<
+/FirstChar 32
+/Widths [ 250 0 0 0 0 833 0 0 333 333 0 0 250 333 250 278 500 500 500 500 500 500 500 500 500 500 278 0 0 0 0 0 0 722 667 667 722 611 556 722 722 333 389 722 611 889 722 722 556 0 667 556 611 722 722 944 0 722 611 0 0 0 0 0 0 444 500 444 500 444 333 500 500 278 0 500 278 778 500 500 500 500 333 389 278 500 500 722 500 500 444 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 333 ]
+/Encoding /WinAnsiEncoding
+/Type /Font
+/BaseFont /TimesNewRomanPSMT
+/LastChar 146
+/FontDescriptor 12 0 R
+/Subtype /TrueType
+>>
+endobj
+12 0 obj
+<<
+/FontBBox [ -568 -307 2000 1007 ]
+/StemV 82
+/Descent -216
+/XHeight -546
+/Flags 34
+/FontStretch /Normal
+/Ascent 891
+/FontName /TimesNewRomanPSMT
+/Type /FontDescriptor
+/FontWeight 400
+/ItalicAngle 0
+/FontFamily (Times New Roman)
+/CapHeight 656
+>>
+endobj
+13 0 obj
+<<
+/FirstChar 32
+/Widths [ 250 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 333 0 0 0 0 0 0 722 0 0 0 0 0 0 0 0 0 0 0 944 0 0 0 0 722 0 0 0 0 0 0 0 0 0 0 0 0 0 0 500 0 444 0 444 333 0 0 278 0 0 278 0 556 500 556 0 444 389 333 0 0 0 0 500 ]
+/Encoding /WinAnsiEncoding
+/Type /Font
+/BaseFont /TimesNewRomanPS-BoldMT
+/LastChar 121
+/FontDescriptor 14 0 R
+/Subtype /TrueType
+>>
+endobj
+14 0 obj
+<<
+/FontBBox [ -558 -307 2000 1026 ]
+/StemV 136
+/Descent -216
+/XHeight -546
+/Flags 34
+/FontStretch /Normal
+/Ascent 891
+/FontName /TimesNewRomanPS-BoldMT
+/Type /FontDescriptor
+/FontWeight 700
+/ItalicAngle 0
+/FontFamily (Times New Roman)
+/CapHeight 656
+>>
+endobj
+15 0 obj
+<<
+/FirstChar 68
+/Widths [ 722 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 500 0 0 0 0 0 0 556 278 0 0 278 0 0 500 500 0 389 389 ]
+/Encoding /WinAnsiEncoding
+/Type /Font
+/BaseFont /TimesNewRomanPS-BoldItalicMT
+/LastChar 115
+/FontDescriptor 16 0 R
+/Subtype /TrueType
+>>
+endobj
+16 0 obj
+<<
+/FontBBox [ -547 -307 1206 1032 ]
+/StemV 116.867
+/Descent -216
+/XHeight -531
+/Flags 98
+/FontStretch /Normal
+/Ascent 891
+/FontName /TimesNewRomanPS-BoldItalicMT
+/Type /FontDescriptor
+/FontWeight 700
+/ItalicAngle -15
+/FontFamily (Times New Roman)
+/CapHeight 656
+>>
+endobj
+17 0 obj
+<<
+/Length 7102
+>>
+stream
+q
+/GS1 gs
+BT
+/TT2 1 Tf
+9 0 0 9 72 747.78 Tm
+0 g
+0.0012 Tc
+0.0021 Tw
+[ (Lite) 5 (ratur) 7.5 (e) -1.6 ( Surve) 5 (y) -5.5 ( ) -146.7 ( ) -140 ( ) ] TJ
+ET
+70.5 743.88 471.12 0.71997 re
+f
+BT
+12 0 0 12 72 704.04 Tm
+0.0003 Tc
+0.2005 Tw
+[ (California in San Francisco studied\054 by m) 8.1 (i) -1.9 (croa) ] TJ
+19.845 0 TD
+0.0006 Tc
+0.1994 Tw
+[ (rray) 65.6 (\054) 0.6 ( the genom) 8.4 (e\055wide response of aging and ) ] TJ
+-19.845 -1.95 TD
+0.0005 Tc
+0.1695 Tw
+[ (oxidative stress in ) ] TJ
+/TT8 1 Tf
+7.99 0 TD
+-0.0001 Tc
+0.1701 Tw
+[ (Dr) 34.1 (osophila melanogaster ) ] TJ
+/TT2 1 Tf
+10.805 0 TD
+-0.0006 Tc
+0.1706 Tw
+(\050Zou\054 S\056 ) Tj
+/TT8 1 Tf
+3.835 0 TD
+0.0014 Tc
+0.1686 Tw
+[ (et al\056) ] TJ
+/TT2 1 Tf
+2.175 0 TD
+0.0006 Tc
+0.1702 Tw
+[ ( 2000\051\056 T) 71.4 (o) 0.6 ( m) 8.4 (onitor the change of ) ] TJ
+-24.805 -1.95 TD
+-0.0001 Tc
+0.2826 Tw
+[ (expression pattern over aging\054 the ) ] TJ
+15.19 0 TD
+0.0001 Tc
+0.2842 Tw
+[ (authors collected m) 7.9 (a) -1.1 (le flies at dif) 23.1 (f) 3.1 (erent ages\054 and then ) ] TJ
+-15.19 -1.95 TD
+0.0005 Tc
+0.0436 Tw
+[ (com) 8.3 (p) 0.5 (are the gene expression pattern of 3\055day\055) ] TJ
+18.825 0 TD
+-0.0001 Tc
+0.0455 Tw
+[ (old m) 7.7 (a) -1.3 (les to others of 10\054 25\054 30\054 40\054 and 50 days ) ] TJ
+-18.825 -1.95 TD
+0.0009 Tc
+0.2141 Tw
+[ (old\056 Also they f) 3.9 (e) -0.3 (d f) 3.9 (lies with para) 4.7 (quat\054 which) 5.9 ( is a f) 3.9 (r) -1.1 (ee\055r) 3.9 (adica) 4.7 (l) -1.3 ( gener) 3.9 (a) -0.3 (tor) 38.9 (\054) 0.9 ( and co) 5.9 (mpare their ) ] TJ
+T*
+-0.0001 Tc
+0.2438 Tw
+[ (expression profile with that of ) ] TJ
+13.52 0 TD
+[ (non\055fed flies\054 to test oxidativ) ] TJ
+12.495 0 TD
+-0.0004 Tc
+0.2454 Tw
+[ (e stress responses\056 From) 7.4 ( these ) ] TJ
+-26.015 -1.95 TD
+0 Tc
+0.259 Tw
+[ (experim) 7.8 (e) -1.2 (nts they discovered that the transcri) ] TJ
+19.205 0 TD
+0.0002 Tc
+0.2589 Tw
+[ (ption level of genes involved in reproduction\054 ) ] TJ
+-19.205 -1.95 TD
+0.2331 Tw
+[ (m) 8 (e) -1 (tabolism) 8 (\054) -4.8 ( and protein turnover goes down with) ] TJ
+21.31 0 TD
+-0.0003 Tc
+0.2353 Tw
+[ ( aging\054 while genes of detoxification and ) ] TJ
+-21.31 -1.95 TD
+0.0003 Tc
+0.1872 Tw
+(chaperones are up\055regulati) Tj
+10.985 0 TD
+-0.0006 Tc
+0.1906 Tw
+[ (on\056 More surprisingly) 64.4 (\054 ) ] TJ
+9.69 0 TD
+0 Tc
+0.1887 Tw
+[ (they also found that m) 7.8 (o) ] TJ
+10.19 0 TD
+[ (re than 60\045 of the ) ] TJ
+-30.865 -1.95 TD
+0.075 Tw
+[ (age\055regulated genes showed no response to oxid) ] TJ
+19.77 0 TD
+0.0002 Tc
+0.0735 Tw
+[ (ative stress\054 and 80\045 of) ] TJ
+9.825 0 TD
+0.0003 Tc
+0.073 Tw
+[ ( the oxidative response ) ] TJ
+-29.595 -1.95 TD
+0.0001 Tc
+-0.0001 Tw
+(genes showed no changes over aging\054 which ar) Tj
+18.775 0 TD
+0.0004 Tc
+-0.0037 Tw
+(e interesting and anti) Tj
+8.35 0 TD
+-0.0001 Tc
+0.0001 Tw
+[ (\055intuition results\056 ) -250 ( ) ] TJ
+-27.125 -1.95 TD
+0 Tc
+0 Tw
+( ) Tj
+T*
+0.0001 Tc
+0.0649 Tw
+[ (An exam) 7.9 (ple) -6.1 ( of how researcher apply m) 7.9 (i) -2.1 (croarray ) ] TJ
+20.08 0 TD
+0.0002 Tc
+0.0648 Tw
+[ (in decipher transcription network cam) 8 (e from) 8 ( a ) ] TJ
+-20.08 -1.95 TD
+-0.0002 Tc
+0.1342 Tw
+[ (PNAS paper published by a Swis) ] TJ
+13.97 0 TD
+-0.0008 Tc
+0.1348 Tw
+[ (s group in 2003 \050Beltran\054 S\056 ) ] TJ
+/TT8 1 Tf
+12.125 0 TD
+0.0002 Tc
+[ (et al\056) ] TJ
+/TT2 1 Tf
+2.13 0 TD
+-0.0001 Tc
+0.1351 Tw
+[ ( 2003\051\056 By comparing the ) ] TJ
+-28.225 -1.95 TD
+0.0012 Tc
+0.2338 Tw
+[ (transc) 5 (rip) 6.2 (tion) 6.2 ( prof) 4.2 (ile) 5 ( of) 4.2 ( ) ] TJ
+/TT8 1 Tf
+10 0 TD
+0.0002 Tc
+0 Tw
+(ash2) Tj
+7.98 0 0 7.98 214.68 381.96 Tm
+-0.0022 Tc
+(I1) Tj
+/TT2 1 Tf
+12 0 0 12 221.34 376.44 Tm
+-0.0005 Tc
+0.2355 Tw
+[ (\054 which is a m) 7.3 (u) -0.5 (t) -7.7 (a) -1.7 (nt of transcription factor ) ] TJ
+/TT8 1 Tf
+18.665 0 TD
+0.0002 Tc
+0 Tw
+(ash2) Tj
+/TT2 1 Tf
+1.89 0 TD
+0.0034 Tc
+0.2316 Tw
+[ (\054) 8.4 ( w) 5.6 (i) 6.2 (th W) 12.2 (T) 24.2 ( by ) ] TJ
+-33 -1.95 TD
+0.0011 Tc
+0.1126 Tw
+[ (m) 8.9 (i) -1.1 (croarray) 66.1 (\054) 1.1 ( they attem) 8.9 (p) 1.1 (ted to id) ] TJ
+13.255 0 TD
+0.0002 Tc
+0.1135 Tw
+[ (entif) 8.2 (y putative tar) 18.2 (g) 0.2 (et genes of ) ] TJ
+/TT8 1 Tf
+12.735 0 TD
+0 Tw
+(ash2) Tj
+/TT2 1 Tf
+1.89 0 TD
+0.0005 Tc
+0.1145 Tw
+[ (\056 235 gene were identified\054 ) ] TJ
+-27.88 -1.95 TD
+0.0006 Tc
+-0.0006 Tw
+[ (som) 8.4 (e) -0.6 ( of whi) -6.6 (c) -0.6 (h are of great in) 5.6 (terest to) 5.6 ( the res) 4.8 (earch) 5.6 (es\056 ) ] TJ
+T*
+0 Tc
+0 Tw
+( ) Tj
+T*
+0.0006 Tc
+0.0544 Tw
+[ (Microarray is the best w) 7.8 (a) -0.6 (y so far to monitor ch) ] TJ
+19.305 0 TD
+0.0001 Tc
+0.0549 Tw
+[ (anges in transcription\057ex) ] TJ
+9.935 0 TD
+0.0006 Tc
+0.0519 Tw
+[ (pression levels\056 W) 49.4 (ithout) -6.6 ( ) ] TJ
+-29.24 -1.95 TD
+0.0343 Tw
+[ (the m) 8.5 (i) -1.5 (croarray technique\054 the first paper woul) ] TJ
+18.525 0 TD
+0.0344 Tw
+[ (d be im) 8.4 (possible\054 and the second group would have ) ] TJ
+-18.525 -1.95 TD
+0.2137 Tw
+[ (input m) 8.4 (u) 0.6 (ch m) 8.4 (o) 0.6 (re ef) 18.6 (fect to achieve the sam) 8.4 (e) -0.6 ( re) ] TJ
+20.18 0 TD
+0.0004 Tc
+0.2129 Tw
+[ (sult\056 In the m) 8.2 (eanwhile\054 ) ] TJ
+10.24 0 TD
+0.0002 Tc
+0.2123 Tw
+[ (researches have also ) ] TJ
+-30.42 -1.95 TD
+0.0001 Tc
+0.4211 Tw
+[ (expanded the application of m) 7.9 (i) ] TJ
+14.065 0 TD
+0.0005 Tc
+0.4182 Tw
+[ (croarray into other areas\054 pr) ] TJ
+12.765 0 TD
+0.0011 Tc
+0.4189 Tw
+[ (ovidin) 6.1 (g) 1.1 ( alte) 4.9 (rnativ) 6.1 (e to some ) ] TJ
+-26.83 -1.95 TD
+0 Tc
+0.08 Tw
+[ (conventional approaches\056 A) 57.2 ( pape) ] TJ
+13.455 0 TD
+0.0003 Tc
+0.0777 Tw
+[ (r published in 2003 \050Sun\054 L\056V) 132.5 (\056) 0.3 ( ) ] TJ
+/TT8 1 Tf
+12.815 0 TD
+0.0014 Tc
+0.0786 Tw
+[ (et al\056) ] TJ
+/TT2 1 Tf
+2.085 0 TD
+0.0005 Tc
+0.0782 Tw
+[ ( 2003\051 used microarray to ) ] TJ
+-28.355 -1.95 TD
+-0.0001 Tc
+0.1151 Tw
+[ (study protein\055DNA) 57.1 ( interaction\056 The ) ] TJ
+14.99 0 TD
+0.0006 Tc
+0.1144 Tw
+[ (m) 8.4 (i) -1.6 (croarray they used is a little bit dif) 23.6 (f) 3.6 (erent from) 8.4 ( the ones) -5.2 ( ) ] TJ
+-14.99 -1.95 TD
+0.018 Tw
+[ (used in) 5.7 ( f) 3.7 (i) -1.5 (rs) 4.9 (t two papers\056) 5.7 ( They were u) 5.7 (s) -0.1 (ing genom) ] TJ
+19.61 0 TD
+0.0193 Tw
+[ (ic tiling) 5.7 ( m) 8.5 (i) -1.5 (croarray) 65.7 (\054) 5.7 ( whic) 4.5 (h was cons) 4.9 (tr) 3.7 (ucted with) 5.7 ( ) ] TJ
+-19.61 -1.95 TD
+0.0003 Tc
+0.0847 Tw
+[ (genom) 8.1 (ic DNA) 57.5 ( fragm) 8.1 (e) -0.9 (nt covering both coding ) ] TJ
+19.165 0 TD
+-0.0004 Tc
+0.0846 Tw
+[ (and non\055coding sequences\056 They set GAF as the ) ] TJ
+-19.165 -1.95 TD
+0.0002 Tc
+0.1398 Tw
+[ (query protein and identified 169 putative binding ) ] TJ
+20.9 0 TD
+0.0006 Tc
+0.1394 Tw
+[ (sites\056 Five of those binding sites as well as ) ] TJ
+ET
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 BIO\056G2\05605\0561 \055 Biology \055 Second year Graduate \055 Male \055 NNS \050L1\072 Chinese\051 \055 Report) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(2) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+18 0 obj
+<<
+/Length 4554
+>>
+stream
+q
+/GS1 gs
+BT
+/TT2 1 Tf
+9 0 0 9 72 747.78 Tm
+0 g
+0.0012 Tc
+0.0021 Tw
+[ (Lite) 5 (ratur) 7.5 (e) -1.6 ( Surve) 5 (y) -5.5 ( ) -146.7 ( ) -140 ( ) ] TJ
+ET
+70.5 743.88 471.12 0.71997 re
+f
+BT
+12 0 0 12 72 704.04 Tm
+-0.0001 Tc
+0.1901 Tw
+[ (seven non\055binding sites were verified by ChIP) 111.1 (\054 ) ] TJ
+20.27 0 TD
+0 Tc
+0.1891 Tw
+[ (which is the conventional approach to study ) ] TJ
+-20.27 -1.95 TD
+-0.0001 Tc
+0.1101 Tw
+[ (protein\055DNA) 57.1 ( interaction \050also is ) ] TJ
+13.6 0 TD
+0.0011 Tc
+0.1066 Tw
+[ (p) 6.1 (o) 1.1 (ssible) 4.9 ( a) 4.9 (lte) 4.9 (r) 4.1 (n) 1.1 (ative) 4.9 ( way f) 4.1 (o) 1.1 (r this) 5.3 ( stud) 6.1 (y\051\056 The resu) 6.1 (lts showed a ) ] TJ
+-13.6 -1.95 TD
+0.0001 Tc
+0.1586 Tw
+[ (good correspondence between the m) 7.9 (i) -2.1 (cr) ] TJ
+16.29 0 TD
+0.1589 Tw
+[ (oarray data and ChIP) 36.3 ( data\056 Th) ] TJ
+12.755 0 TD
+0.1586 Tw
+[ (e test set in verification ) ] TJ
+-29.045 -1.95 TD
+0.0006 Tc
+0.0002 Tw
+[ (seem) 8.4 (s not lar) 18.6 (g) 0.6 (e enough to m) 8.4 (e) -0.6 ( though\056 ) -249.2 ( ) ] TJ
+T*
+0 Tc
+0 Tw
+( ) Tj
+T*
+0.0006 Tc
+0.0886 Tw
+[ (Recently) 65.6 (\054 so) 5.6 (m) 8.4 (e) -0.6 ( other array) 65.6 (\054) 0.6 ( such as protein arra) ] TJ
+19.575 0 TD
+0.0005 Tc
+0.0888 Tw
+[ (y and tissu) 5.5 (e array) 65.5 (\054) 0.5 ( also evolved\054 an) 5.5 (d have been ) ] TJ
+-19.575 -1.95 TD
+0.0009 Tc
+-0.0025 Tw
+[ (applied into resea) 4.7 (r) -1.1 (ch\056 High f) 3.9 (a) -0.3 (lse\055pos) 5.1 (itiv) 5.9 (e ra) 4.7 (te is) ] TJ
+19.14 0 TD
+0.0008 Tc
+-0.0008 Tw
+[ ( s) 5 (till a dr) 3.8 (awback of) 3.8 ( m) 8.6 (i) -1.4 (croarray techniq) 5.8 (u) 0.8 (e\056 ) -250 ( ) ] TJ
+-19.14 -1.95 TD
+0 Tc
+0 Tw
+( ) Tj
+T*
+( ) Tj
+/TT4 1 Tf
+0 -1.965 TD
+0.0001 Tc
+[ (Refer) 18.9 (e) -1.1 (nce\072 ) ] TJ
+/TT2 1 Tf
+0 -1.935 TD
+0 Tc
+( ) Tj
+0 -1.95 TD
+-0.0005 Tc
+0.333 Tw
+[ (WHITE K\056P) 110.7 (\056\054 S\056A\056 RIFKIN\054 P) 110.7 (\056) ] TJ
+13.515 0 TD
+-0.0004 Tc
+0.3329 Tw
+[ ( HURBAN\054 D\056S\056 HOGNESS 1999) ] TJ
+15.19 0 TD
+0.0004 Tc
+0.3296 Tw
+[ ( Microarray analysis of ) ] TJ
+-28.705 -1.95 TD
+0.0005 Tc
+-0.0013 Tw
+[ (Drosophila developm) 8.3 (ent during m) 8.3 (e) -0.7 (tam) 8.3 (o) 0.5 (rphosis\056 Science 286\072 2179\05584 ) ] TJ
+T*
+0 Tc
+0 Tw
+( ) Tj
+T*
+-0.0002 Tc
+0.1002 Tw
+[ (ZOU\054 S\056\054 S\056 MEADOWS\054 L\056 SHARP) 111 (\054) -0.2 ( L\056Y) 132 (\056) -0.2 ( JA) ] TJ
+19.06 0 TD
+0.1009 Tw
+[ (N\054 Y) 132 (\056) -0.2 (N\056 JAN 2000 Genom) 7.6 (e\055wide study of aging ) ] TJ
+-19.06 -1.95 TD
+0.0001 Tc
+-0.0001 Tw
+(and oxidative stress response in ) Tj
+/TT8 1 Tf
+12.915 0 TD
+-0.0002 Tc
+0.0002 Tw
+[ (Dr) 34 (osophila melanogaster) ] TJ
+/TT2 1 Tf
+10.215 0 TD
+0.0002 Tc
+-0.0002 Tw
+[ (\056 P) 6.4 (NAS 97\072 13726\05531 ) ] TJ
+-23.13 -1.95 TD
+0 Tc
+0 Tw
+( ) Tj
+T*
+-0.0008 Tc
+0.0478 Tw
+[ (BEL) 90 (T) 0 (RAN\054 S\056\054 E\056 BLANCO\054 F) 80.4 (\056) -0.8 ( SE) -5 (RRAS\054 ) ] TJ
+/TT8 1 Tf
+17.565 0 TD
+0.0014 Tc
+0.0436 Tw
+[ (et al\056) ] TJ
+/TT2 1 Tf
+2.05 0 TD
+0.0001 Tc
+0.0449 Tw
+[ ( 2003 T) 35.9 (r) -1.9 (anscriptional ne) ] TJ
+9.9 0 TD
+0.0003 Tc
+0.043 Tw
+(twork controlled by the ) Tj
+-29.515 -1.95 TD
+0.0002 Tc
+-0.0002 Tw
+(trithorax\055group gene ) Tj
+/TT8 1 Tf
+8.5 0 TD
+-0.0023 Tc
+0 Tw
+(ash2) Tj
+/TT2 1 Tf
+1.885 0 TD
+0.0007 Tc
+-0.0007 Tw
+( in ) Tj
+/TT8 1 Tf
+1.28 0 TD
+-0.0002 Tc
+0.0002 Tw
+[ (Dr) 34 (osophila melanogaster) ] TJ
+/TT2 1 Tf
+10.215 0 TD
+-0.0001 Tc
+0.0001 Tw
+(\056 PNAS 100\072 3293\05598 ) Tj
+-21.88 -1.95 TD
+0 Tc
+0 Tw
+( ) Tj
+T*
+-0.0008 Tc
+0.1865 Tw
+[ (SUN\054 L\056) -5.8 (V) 131.4 (\056\054 L\056 CHEN\054 F) 80.4 (\056) -0.8 ( GREIL\054 N\056 NEGRE\054) -5.8 ( ) ] TJ
+/TT8 1 Tf
+19.98 0 TD
+0.0017 Tc
+0.1833 Tw
+[ (et a) 6.7 (l) -0.5 (\056) ] TJ
+/TT2 1 Tf
+2.185 0 TD
+0.0003 Tc
+0.1847 Tw
+[ ( 2003 Protein\055DNA) 57.5 ( interaction m) 8.1 (a) -0.9 (pping ) ] TJ
+-22.165 -1.95 TD
+0.0009 Tc
+-0.0009 Tw
+[ (using geno) 5.9 (m) 8.7 (i) -1.3 (c tiling pa) 4.7 (th m) 8.7 (i) -1.3 (croarra) 4.7 (ys in ) ] TJ
+/TT8 1 Tf
+16.5 0 TD
+-0.0002 Tc
+0 Tw
+[ (Dr) 34 (osophila) ] TJ
+/TT2 1 Tf
+4.52 0 TD
+-0.0003 Tc
+0.0003 Tw
+(\056 PNAS 100\072 9428\0559433 ) Tj
+-21.02 -1.95 TD
+0 Tc
+0 Tw
+( ) Tj
+ET
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 BIO\056G2\05605\0561 \055 Biology \055 Second year Graduate \055 Male \055 NNS \050L1\072 Chinese\051 \055 Report) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(3) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+xref
+0 19
+0000000000 65535 f 
+0000000009 00000 n 
+0000000080 00000 n 
+0000000181 00000 n 
+0000000230 00000 n 
+0000000602 00000 n 
+0000000951 00000 n 
+0000001312 00000 n 
+0000008749 00000 n 
+0000008833 00000 n 
+0000009219 00000 n 
+0000009496 00000 n 
+0000010036 00000 n 
+0000010300 00000 n 
+0000010693 00000 n 
+0000010963 00000 n 
+0000011260 00000 n 
+0000011542 00000 n 
+0000018697 00000 n 
+trailer
+<<
+/Size 19
+/Root 3 0 R
+/Info 2 0 R
+>>
+startxref
+23304
+%%EOF

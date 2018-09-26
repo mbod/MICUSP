@@ -1,0 +1,70 @@
+
+<html>
+	<head>
+		<title>MICUSP Paper Classification</title>
+
+		<link rel="stylesheet" type="text/css" href="/classify/css/blue.css"/>
+		<link rel="stylesheet" type="text/css" href="/classify/css/classify.css"/>
+		<script type="text/javascript" src="/classify/js/jquery-1.3.2.min.js"> </script>
+		<script type="text/javascript" src="/classify/js/jquery.tablesorter.js"></script>
+
+		<script type="text/javascript">
+		$(document).ready(function() {		
+			$("#paperlist").tablesorter();
+		});	
+		</script>
+	</head>
+
+	<body>
+
+	<div id="header">
+		<span class="title">MICUSP Paper Classification - Report</span>
+		<a href="new">Classify a new paper</a>
+
+		<span>|</span>
+
+		<span>User: {{ user.username }} </span>
+		<a href="/classify/logout">logout</a>
+	</div>
+
+</h3>
+	{% if classified_papers	%}
+		
+		<h4> {{ classified_papers|length }} papers with 2 classifications </h4>
+
+		<table id="paperlist" class="tablesorter">
+			<thead>
+				<tr>
+				<th>Paper</th>
+				<th>Coder 1</th>
+				<th>Coder 2</th>
+				<th>Primaries Match?</th>
+				<th>Pri & Sec match?</th>
+				<th>Primary-A</th>
+				<th>Primary-B</th>
+				<th>Secondary-A</th>
+				<th>Secondary-B</th>
+				</tr>
+			</thead>
+			<tbody>
+		{% for p,i in classified_papers.items %}
+			<tr>
+			   <td><a href="/classify/viewP/{{ p }}" target="_new">Paper {{ p }}</a></td>
+			  {% for j in i %}
+				   <td>
+					{{ j }}
+				   </td>
+			  {% endfor %}
+			</tr>	
+		{% endfor %}
+			</body>
+		</table>
+	{% else %}
+		<p>NO PAPERS CLASSIFIED</p>
+	{% endif %}
+
+	
+	
+	</body>
+
+</html>

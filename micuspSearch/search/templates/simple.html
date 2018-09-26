@@ -1,0 +1,147 @@
+<html>
+	<head>
+		<title>MICUSP Simple Search</title>
+
+		<style type="text/css">
+			.red { color: red; }
+
+			#placeholder {
+				width: 600px;
+				height: 200px;
+				float: left;
+			}
+			
+			.term {
+				font-weight: bold;
+				color: red; 
+			}
+
+			#results {
+				position: relative;
+				height: 380px;
+				overflow: auto;
+			}
+
+			#results li { margin-bottom: 4px; }
+
+			#deptWidget {
+				width: 120px;
+				float: left;
+				font: Arial 12px;
+				padding: 12px;
+
+			}
+
+			label {
+
+				width: 40px;
+			}
+		</style>
+
+		<script type="text/javascript" src="/js/jquery-1.3.2.min.js"></script>
+		<script type="text/javascript" src="/js/flot/jquery.flot.js"></script>
+
+		<script type="text/javascript">
+			$(document).ready(function() {
+
+
+				var depts = [
+					[0.5, 'BIO'], [1.5, 'CEE'], [2.5, 'CLS'],
+					[3.5, 'ECO'], [4.5, 'EDU'], [5.5, 'ENG'],
+					[6.5, 'GEO'], [7.5, 'HIS'], [8.5, 'IOE'],
+					[9.5, 'LIN'], [10.5, 'MEC'], [11.5, 'NRE'],
+					[12.5, 'NUR'], [13.5, 'PHI'], [14.5, 'PHY'],
+					[15.5, 'POL'], [16.5, 'PSY'], [17.5, 'SOC'],
+	
+				];
+
+				$.plot($("#placeholder"), [{data:d2 , bars: {show: true, clickable: true }}], 
+					{ xaxis: { ticks: depts}, grid: { clickable: true, hoverable: false }} );
+
+
+    $("#placeholder").bind("plotclick", function (event, pos, item) {
+        if (item) {
+            highlight(item.series, item.datapoint);
+        }
+    });
+			});
+	
+		function next(start,dir) {
+			if (dir=='+') {
+				dir=10;
+			} else {
+				dir=-10;
+			}
+
+			$.post('/search/tmp/', 
+				$('#searchForm').serialize()+"&start="+ (start+dir),
+				function(data) { $("#text").html(data); }
+			);
+
+		}
+
+		</script>
+
+	</head>
+
+	<body>
+		<form method="POST" action="" id="searchform">
+			<div>
+				<input value="{{q}}" name="q" id="q" type="text"/>
+				<input type="submit" value="Search"/>
+				<br style="clear: both"/>
+				<div id="deptWidget">	
+				<label>BIO</label><input type="checkbox" name="dept" value="BIO"/>
+				<label>CEE</label><input type="checkbox" name="dept" value="CEE"/>
+				<label>CLS</label><input type="checkbox" name="dept" value="CLS"/>
+				<label>ECO</label><input type="checkbox" name="dept" value="ECO"/>
+				<label>EDU</label><input type="checkbox" name="dept" value="EDU"/>
+				<label>ENG</label><input type="checkbox" name="dept" value="ENG"/>
+				<label>GEO</label><input type="checkbox" name="dept" value="HIS"/>
+				<label>HIS</label><input type="checkbox" name="dept" value="HIS"/>
+				<label>IOE</label><input type="checkbox" name="dept" value="IOE"/>
+				<label>LIN</label><input type="checkbox" name="dept" value="LIN"/>
+				<label>MEC</label><input type="checkbox" name="dept" value="MEC"/>
+				<label>NRE</label><input type="checkbox" name="dept" value="NRE"/>
+				<label>NUR</label><input type="checkbox" name="dept" value="NUR"/>
+				<label>PHI</label><input type="checkbox" name="dept" value="PHI"/>
+				<label>PHY</label><input type="checkbox" name="dept" value="PHY"/>
+				<label>POL</label><input type="checkbox" name="dept" value="POL"/>
+				<label>PSY</label><input type="checkbox" name="dept" value="PSY"/>
+				<label>SOC</label><input type="checkbox" name="dept" value="SOC"/>
+				</div>
+			</div>	
+
+		</form>
+
+
+		<div id="placeholder"></div>
+		<br style="clear: both"/>
+		<div id="text"> </div>
+
+
+		{% if q %}
+		<script>
+			$.post('/search/tmp/',
+				$("#searchForm").serialize(),
+				function(data) {
+					$("#text").html(data);
+				}
+			);
+		</script>
+					
+		{% endif %}
+
+
+		<script>	
+				
+				var d2 = [
+					{% for y in points %}
+					[{{ forloop.counter0 }}, {{ y }}],
+					{% endfor %}					
+				];
+
+		</script>
+	</body>
+
+</html>

@@ -1,0 +1,5281 @@
+%PDF-1.3
+1 0 obj
+<<
+/Kids [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R ]
+/Type /Pages
+/Count 10
+>>
+endobj
+2 0 obj
+<<
+/Producer (Python PDF Library \055 http\072\057\057pybrary\056net\057pyPdf\057)
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+>>
+endobj
+4 0 obj
+<<
+/Parent 1 0 R
+/Contents 14 0 R
+/Resources <<
+/ExtGState <<
+/GS1 15 0 R
+>>
+/Font <<
+/TT8 16 0 R
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+/TT2 18 0 R
+/TT4 20 0 R
+/TT6 22 0 R
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Type /Page
+>>
+endobj
+5 0 obj
+<<
+/Parent 1 0 R
+/Contents 24 0 R
+/Resources <<
+/ExtGState <<
+/GS1 15 0 R
+>>
+/Font <<
+/TT8 16 0 R
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+/TT6 22 0 R
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Type /Page
+>>
+endobj
+6 0 obj
+<<
+/Parent 1 0 R
+/Contents 25 0 R
+/Resources <<
+/ExtGState <<
+/GS1 15 0 R
+>>
+/Font <<
+/TT8 16 0 R
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+/TT2 18 0 R
+/TT6 22 0 R
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Type /Page
+>>
+endobj
+7 0 obj
+<<
+/Parent 1 0 R
+/Contents 26 0 R
+/Resources <<
+/ExtGState <<
+/GS1 15 0 R
+>>
+/Font <<
+/TT8 16 0 R
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+/TT6 22 0 R
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Type /Page
+>>
+endobj
+8 0 obj
+<<
+/Parent 1 0 R
+/Contents 27 0 R
+/Resources <<
+/ExtGState <<
+/GS1 15 0 R
+>>
+/Font <<
+/TT8 16 0 R
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+/TT2 18 0 R
+/TT6 22 0 R
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Type /Page
+>>
+endobj
+9 0 obj
+<<
+/Parent 1 0 R
+/Contents 28 0 R
+/Resources <<
+/ColorSpace <<
+/Cs6 29 0 R
+>>
+/ExtGState <<
+/GS1 15 0 R
+>>
+/Font <<
+/TT8 16 0 R
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+/TT12 31 0 R
+/TT10 33 0 R
+/TT6 22 0 R
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Type /Page
+>>
+endobj
+10 0 obj
+<<
+/Parent 1 0 R
+/Contents 35 0 R
+/Resources <<
+/ColorSpace <<
+/Cs6 29 0 R
+>>
+/ExtGState <<
+/GS1 15 0 R
+>>
+/Font <<
+/TT8 16 0 R
+/TT12 31 0 R
+/TT2 18 0 R
+/TT6 22 0 R
+/TT10 33 0 R
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Type /Page
+>>
+endobj
+11 0 obj
+<<
+/Parent 1 0 R
+/Contents 36 0 R
+/Resources <<
+/ColorSpace <<
+/Cs6 29 0 R
+>>
+/ExtGState <<
+/GS1 15 0 R
+>>
+/Font <<
+/TT8 16 0 R
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+/TT12 31 0 R
+/TT10 33 0 R
+/TT6 22 0 R
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Type /Page
+>>
+endobj
+12 0 obj
+<<
+/Parent 1 0 R
+/Contents 37 0 R
+/Resources <<
+/ExtGState <<
+/GS1 15 0 R
+>>
+/Font <<
+/TT8 16 0 R
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+/TT2 18 0 R
+/TT6 22 0 R
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Type /Page
+>>
+endobj
+13 0 obj
+<<
+/Parent 1 0 R
+/Contents 38 0 R
+/Resources <<
+/ExtGState <<
+/GS1 15 0 R
+>>
+/Font <<
+/TT8 16 0 R
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+/TT2 18 0 R
+/TT6 22 0 R
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Type /Page
+>>
+endobj
+14 0 obj
+<<
+/Length 8039
+>>
+stream
+q
+/GS1 gs
+BT
+/TT2 1 Tf
+13.98 0 0 13.98 90 706.92 Tm
+0 g
+0.0004 Tc
+0.2131 Tw
+[ (Relative Abundance of ) ] TJ
+/TT4 1 Tf
+10.6223 0 TD
+0.0009 Tc
+0.2083 Tw
+[ (Myotis septentrionalis) ] TJ
+/TT2 1 Tf
+9.309 0 TD
+-0.0003 Tc
+0.2138 Tw
+[ ( and ) ] TJ
+/TT4 1 Tf
+2.5408 0 TD
+0.0003 Tc
+0.2132 Tw
+[ (Myotis lucifugus) ] TJ
+/TT2 1 Tf
+7.1373 0 TD
+-0.0029 Tc
+0.2164 Tw
+[ ( in ) ] TJ
+-29.6094 -1.1502 TD
+0.0001 Tc
+0.0009 Tw
+[ (Three Ha) -6.3 (bitats in ) ] TJ
+7.8197 0 TD
+0.0005 Tc
+0.0027 Tw
+(Northern Michigan ) Tj
+/TT6 1 Tf
+12 0 0 12 90 676.74 Tm
+0 Tc
+0 Tw
+(  ) Tj
+0 -1.15 TD
+( ) Tj
+T*
+( ) Tj
+/TT2 1 Tf
+0 -1.16 TD
+-0.0007 Tc
+[ (ABST) -3.7 (RACT ) ] TJ
+/TT6 1 Tf
+3 -1.14 TD
+0.0004 Tc
+0.4212 Tw
+(The local abundance of ) Tj
+/TT8 1 Tf
+11.3 0 TD
+0.0013 Tc
+0.4187 Tw
+[ (Myotis) 5.5 ( septen) 6.3 (triona) 6.3 (lis) ] TJ
+/TT6 1 Tf
+9.345 0 TD
+-0.0006 Tc
+0.4239 Tw
+[ ( \050Northern bat\051 and ) ] TJ
+/TT8 1 Tf
+9.63 0 TD
+0.0006 Tc
+0 Tw
+(Myotis ) Tj
+-33.275 -1.15 TD
+0.0003 Tc
+(lucifugus) Tj
+/TT6 1 Tf
+3.67 0 TD
+0.001 Tc
+0.359 Tw
+[ ( \050) 4 (L) 1.8 (ittle brown bat\051 were analyzed) 6 ( in three dif) 4 (f) 4 (e) -0.2 (rent habita) 4.9 (ts in nor) 4 (ther) 4 (n) 6 ( ) ] TJ
+-3.67 -1.15 TD
+0.0008 Tc
+0.1925 Tw
+[ (Michig) 5.8 (an\072 wooded\054 riv) 5.8 (e) -0.4 (r\054 and) 5.8 ( lakeside\056  Calls) ] TJ
+19.355 0 TD
+-0.0001 Tc
+0.1951 Tw
+[ ( from) 7.7 ( each of nine sites \050th) 4.9 (r) -2.1 (ee of each) 4.9 ( ) ] TJ
+-19.355 -1.145 TD
+0.0003 Tc
+0.2987 Tw
+[ (habitat\051 were recorded using an A) 7.5 (n) 0.3 (abat) ] TJ
+17.24 0 TD
+0.0001 Tc
+0.299 Tw
+[ ( detector\054 analyzed using Analyze 2\0561\054 and ) ] TJ
+-17.24 -1.15 TD
+0.0005 Tc
+0.0795 Tw
+[ (identified by average frequency and) 5.5 ( end slope ) ] TJ
+19.26 0 TD
+0.0004 Tc
+0.0796 Tw
+[ (values\056  A discrim) 8.2 (i) -1.8 (nant function analysis ) ] TJ
+-19.26 -1.15 TD
+0.0009 Tc
+0.0891 Tw
+[ (was used to) 5.9 ( identif) 3.9 (y) 0.9 ( interm) 8.7 (ediate c) 4.7 (a) -0.3 (lls\056) 5.9 (  ) ] TJ
+/TT8 1 Tf
+16.735 0 TD
+0.0001 Tc
+0.0899 Tw
+[ (Myotis lucifugus\054) ] TJ
+/TT6 1 Tf
+6.98 0 TD
+0.0861 Tw
+[ ( traditionally labeled an aerial ) ] TJ
+-23.715 -1.15 TD
+0.0002 Tc
+0.0898 Tw
+[ (hawking species\054 was found in nearly equal nu) ] TJ
+19.29 0 TD
+0.0001 Tc
+0.0891 Tw
+[ (mbers at lakeside and river sites \05034 and ) ] TJ
+-19.29 -1.15 TD
+0.0003 Tc
+0.0272 Tw
+[ (33\054 respectively\051\056  ) ] TJ
+/TT8 1 Tf
+7.505 0 TD
+0.0011 Tc
+0.0289 Tw
+[ (Myo) 6.1 (t) 3.9 (is sep) 6.1 (t) -1.1 (entrio) 6.1 (nalis) ] TJ
+/TT6 1 Tf
+8.945 0 TD
+0.0005 Tc
+0.0282 Tw
+[ (\054 a specialized g) 5.5 (l) -1.7 (ean) 5.5 (e) -0.7 (r\054 pr) ] TJ
+10.28 0 TD
+0.0014 Tc
+0.0273 Tw
+[ (ef) 4.4 (e) 5.2 (rred) 6.4 ( to f) 4.4 (o) 1.4 (rage in) 6.4 ( the) 5.2 ( ) ] TJ
+-26.73 -1.15 TD
+0.0004 Tc
+0.0534 Tw
+[ (more sheltered wooded sites \050P \075 0\0560) 5.4 (29\054 Kruskal Wallis\054 x) ] TJ
+7.98 0 0 7.98 376.02 516.72 Tm
+0 Tc
+0 Tw
+(2) Tj
+12 0 0 12 380.04 511.2 Tm
+-0.0001 Tc
+0.0542 Tw
+[ ( \075 7\05611\051\056  W) 8.8 (h) -0.1 (i) -7.3 (l) -2.3 (e both species ) ] TJ
+-24.17 -1.15 TD
+0.0007 Tc
+0.2249 Tw
+[ (foraged the m) 8.5 (o) 0.7 (st during the early hours of night\054 ) ] TJ
+/TT8 1 Tf
+21.71 0 TD
+0.0002 Tc
+0.2248 Tw
+[ (M\056 septentrionalis) ] TJ
+/TT6 1 Tf
+7.5 0 TD
+0.0006 Tc
+0.2244 Tw
+[ ( activity peaked ) ] TJ
+-29.21 -1.15 TD
+0.1894 Tw
+[ (earlier than) 5.6 ( ) ] TJ
+/TT8 1 Tf
+5.155 0 TD
+0.0012 Tc
+0.1888 Tw
+[ (M\056 luc) 5 (ifug) 6.2 (u) 1.2 (s) ] TJ
+/TT6 1 Tf
+5.19 0 TD
+-0.0001 Tc
+0.1901 Tw
+[ ( activity \050P \074 0\05605\054 Kol) -7.3 (m) 7.7 (ogorov\055Sm) 7.7 (irnov\054 D \075 0\056251\051\056  The ) ] TJ
+-10.345 -1.15 TD
+0.0007 Tc
+0.0935 Tw
+[ (num) 8.5 (b) 0.7 (er of c) -5.5 (a) -0.5 (lls record) 5.7 (ed for each species wa) ] TJ
+18.695 0 TD
+[ (s related to neither tem) 8.4 (p) 0.6 (erature \050P \076 0\05605\054) 5.6 ( ) ] TJ
+-18.695 -1.15 TD
+0.0002 Tc
+0.221 Tw
+[ (Kol) -7 (m) 8 (ogorov\055Sm) 8 (irnov\054 D \075 0\056105161\051 nor) ] TJ
+17.73 0 TD
+0.0005 Tc
+0.2195 Tw
+[ ( rainfall \050Mann\055W) 9.3 (h) 0.5 (itney\054 ) ] TJ
+/TT8 1 Tf
+10.99 0 TD
+0 Tc
+0.22 Tw
+[ (M\056 lucifugus) ] TJ
+/TT6 1 Tf
+5.22 0 TD
+-0.0001 Tc
+0.2201 Tw
+[ ( P \075 ) ] TJ
+-33.94 -1.15 TD
+0.0001 Tw
+(0\056738 U \075 1535\054 and ) Tj
+/TT8 1 Tf
+8.48 0 TD
+0.0011 Tc
+-0.0061 Tw
+[ (M\056 septen) 6.1 (triona) 6.1 (lis ) ] TJ
+/TT6 1 Tf
+7.53 0 TD
+-0.0003 Tc
+0.0003 Tw
+(P \075 0\056468 U \075 1476\051\056 ) Tj
+-16.01 -1.15 TD
+0 Tc
+0 Tw
+( ) Tj
+T*
+( ) Tj
+/TT2 1 Tf
+0 -1.16 TD
+-0.0001 Tc
+(INTRODUCTION ) Tj
+/TT6 1 Tf
+0 -2.29 TD
+0 Tc
+( ) Tj
+/TT8 1 Tf
+3 0 TD
+0.0001 Tc
+0.1199 Tw
+[ (Myotis lucifugus) ] TJ
+/TT6 1 Tf
+6.76 0 TD
+0.0003 Tc
+0.1247 Tw
+[ ( and ) ] TJ
+/TT8 1 Tf
+2.19 0 TD
+-0.0002 Tc
+0.1252 Tw
+[ (Myotis septentrionalis) ] TJ
+/TT6 1 Tf
+9.04 0 TD
+0.0005 Tc
+0.1228 Tw
+[ ( a) 4.3 (r) -1.5 (e two Vespertilion) 5.5 (i) -1.7 (d ba) 4.3 (ts that ar) 3.5 (e) 4.3 ( ) ] TJ
+-20.99 -2.3 TD
+0.0006 Tc
+0.1686 Tw
+[ (sym) 8.4 (p) 0.6 (atric over m) 8.4 (u) 0.6 (ch of their ranges\056  Bo) ] TJ
+17.57 0 TD
+0.0001 Tc
+0.1699 Tw
+[ (th occur throughout Mi) ] TJ
+9.815 0 TD
+-0.0001 Tc
+0.1701 Tw
+(chigan\054 and both are ) Tj
+-27.385 -2.3 TD
+0.0005 Tc
+0.3145 Tw
+[ (insectivorous\056  Morphologica) ] TJ
+12.385 0 TD
+[ (lly these two species are very sim) 8.3 (ilar\056  However\054 ) ] TJ
+/TT8 1 Tf
+22.535 0 TD
+0.002 Tc
+0 Tw
+[ (M\056) 7 ( ) ] TJ
+-34.92 -2.3 TD
+0.0012 Tc
+[ (septen) 6.2 (triona) 6.2 (lis) ] TJ
+/TT6 1 Tf
+5.95 0 TD
+0.0001 Tc
+0.1729 Tw
+[ ( tends to have longer ears ) ] TJ
+11.485 0 TD
+0.1736 Tw
+[ (and tragi\056  The tragus ) ] TJ
+9.645 0 TD
+0.0006 Tc
+0.1744 Tw
+[ (is m) 8.4 (o) 0.6 (re than half the ) ] TJ
+-27.08 -2.3 TD
+0.0002 Tc
+0.014 Tw
+[ (length of the ear and com) 8 (e) -1 (s to a ) ] TJ
+13.11 0 TD
+0.0001 Tc
+0.0139 Tw
+[ (narrow point \050Kurta 1995\051\056  In ) ] TJ
+/TT8 1 Tf
+12.5 0 TD
+0 Tc
+0.01 Tw
+[ (M\056 lucifugus) ] TJ
+/TT6 1 Tf
+5.01 0 TD
+0.001 Tc
+0.0123 Tw
+[ (\054 the tra) 4.8 (gus is ) ] TJ
+-30.62 -2.3 TD
+0.0002 Tc
+0.1788 Tw
+[ (less than half the length of) ] TJ
+11.475 0 TD
+0.0003 Tc
+0.1792 Tw
+[ ( the ear and is rounded \050Barclay \046 Fenton 1980\051\056  T) 6.1 (h) 0.3 (ese ) ] TJ
+-11.475 -2.3 TD
+0.0001 Tc
+0.329 Tw
+[ (species also differ in the frequency of ) ] TJ
+17.605 0 TD
+0.0007 Tc
+0.3284 Tw
+[ (their echolocation) 5.7 ( calls\056  Th) 5.7 (e calls of ) ] TJ
+/TT8 1 Tf
+17.31 0 TD
+0.001 Tc
+0 Tw
+(M\056 ) Tj
+-34.915 -2.3 TD
+0.0012 Tc
+[ (septen) 6.2 (triona) 6.2 (lis) ] TJ
+/TT6 1 Tf
+5.95 0 TD
+0.0005 Tc
+0.1636 Tw
+[ ( are of shorter duration\054 higher aver) ] TJ
+15.185 0 TD
+-0.0003 Tc
+0.1653 Tw
+(age frequency\054 and cover a broader ) Tj
+-21.135 -2.3 TD
+0.0003 Tc
+-0.0013 Tw
+(range of frequencies than those of ) Tj
+/TT8 1 Tf
+13.83 0 TD
+0 Tc
+0 Tw
+(M\056 lucifugus) Tj
+/TT6 1 Tf
+5 0 TD
+0.0002 Tc
+-0.0027 Tw
+( \050Faure et al\056 1993\051\056) Tj
+/TT2 1 Tf
+7.885 0 TD
+0 Tc
+0 Tw
+( ) Tj
+/TT6 1 Tf
+-26.715 -2.3 TD
+0.001 Tc
+0.2327 Tw
+[ ( ) -2516.3 (This dif) 4 (f) 4 (e) -0.2 (re) 4.8 (nce in voc) 4.8 (a) 4.8 (liza) 4.8 (tion sug) 6 (g) 1 (ests) ] TJ
+19.82 0 TD
+0.0003 Tc
+0.233 Tw
+[ ( that these two s) 4.5 (p) 0.3 (ecies h) 5.3 (a) -0.9 (ve different) -6.9 ( ) ] TJ
+-19.82 -2.3 TD
+0.0001 Tc
+0.1924 Tw
+(foraging strategies\056  ) Tj
+/TT8 1 Tf
+8.745 0 TD
+0.0015 Tc
+0.1935 Tw
+[ (M) 4.5 (y) 0.3 (otis) 5.7 ( luc) 5.3 (ifug) 6.5 (u) 1.5 (s) ] TJ
+/TT6 1 Tf
+6.83 0 TD
+0.0008 Tc
+[ ( is) 5 ( tr) 3.8 (aditionally) 5.8 ( labe) 4.6 (led as an a) 4.6 (e) 4.6 (r) -1.2 (ia) 4.6 (l hawker) 3.8 ( tha) 4.6 (t) -1.4 ( ) ] TJ
+-15.575 -2.3 TD
+0.0004 Tc
+0.0496 Tw
+[ (feeds prim) 8.2 (arily on aerial insects \050Ratcliffe ) ] TJ
+17.41 0 TD
+0.0005 Tc
+0.0502 Tw
+[ (\046 Dawson 2003\051\056  The short\054 high frequency\054 ) ] TJ
+ET
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 BIO\056G0\05628\0561 \055 Biology \055 Final Year Undergraduate \055 Female \055 Native Speaker \055 Research Paper) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(1) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+15 0 obj
+<<
+/OPM 1
+/Type /ExtGState
+/SM 0.02
+/OP false
+/SA false
+/op false
+>>
+endobj
+16 0 obj
+<<
+/FirstChar 32
+/Widths [ 250 0 0 0 0 0 0 0 333 333 0 0 250 0 250 0 0 500 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 611 0 667 722 0 611 0 722 333 0 0 0 833 0 0 611 0 611 500 556 0 0 833 0 0 0 0 0 0 0 0 0 500 500 444 500 444 278 500 500 278 0 0 278 722 500 500 500 0 389 389 278 500 0 0 0 444 ]
+/Encoding /WinAnsiEncoding
+/Type /Font
+/BaseFont /TimesNewRomanPS-ItalicMT
+/LastChar 121
+/FontDescriptor 17 0 R
+/Subtype /TrueType
+>>
+endobj
+17 0 obj
+<<
+/FontBBox [ -498 -307 1120 1023 ]
+/StemV 71.742
+/Descent -216
+/XHeight -546
+/Flags 98
+/FontStretch /Normal
+/Ascent 891
+/FontName /TimesNewRomanPS-ItalicMT
+/Type /FontDescriptor
+/FontWeight 400
+/ItalicAngle -15
+/FontFamily (Times New Roman)
+/CapHeight 656
+>>
+endobj
+18 0 obj
+<<
+/FirstChar 32
+/Widths [ 250 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 722 667 722 722 667 0 778 778 389 0 778 667 944 722 778 0 0 722 556 667 722 0 1000 0 0 0 0 0 0 0 0 0 500 556 444 556 444 333 500 556 278 0 0 278 0 556 500 0 0 444 389 333 556 500 ]
+/Encoding /WinAnsiEncoding
+/Type /Font
+/BaseFont /TimesNewRomanPS-BoldMT
+/LastChar 118
+/FontDescriptor 19 0 R
+/Subtype /TrueType
+>>
+endobj
+19 0 obj
+<<
+/FontBBox [ -558 -307 2000 1026 ]
+/StemV 136
+/Descent -216
+/XHeight -546
+/Flags 34
+/FontStretch /Normal
+/Ascent 891
+/FontName /TimesNewRomanPS-BoldMT
+/Type /FontDescriptor
+/FontWeight 700
+/ItalicAngle 0
+/FontFamily (Times New Roman)
+/CapHeight 656
+>>
+endobj
+20 0 obj
+<<
+/FirstChar 32
+/Widths [ 250 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 889 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 500 0 444 0 444 333 500 0 278 0 0 278 0 556 500 500 0 389 389 278 556 0 0 0 444 ]
+/Encoding /WinAnsiEncoding
+/Type /Font
+/BaseFont /TimesNewRomanPS-BoldItalicMT
+/LastChar 121
+/FontDescriptor 21 0 R
+/Subtype /TrueType
+>>
+endobj
+21 0 obj
+<<
+/FontBBox [ -547 -307 1206 1032 ]
+/StemV 116.867
+/Descent -216
+/XHeight -531
+/Flags 98
+/FontStretch /Normal
+/Ascent 891
+/FontName /TimesNewRomanPS-BoldItalicMT
+/Type /FontDescriptor
+/FontWeight 700
+/ItalicAngle -15
+/FontFamily (Times New Roman)
+/CapHeight 656
+>>
+endobj
+22 0 obj
+<<
+/FirstChar 32
+/Widths [ 250 0 0 0 0 833 778 0 333 333 0 0 250 333 250 0 500 500 500 500 500 500 500 500 500 500 278 0 564 564 564 0 0 722 667 667 722 611 556 722 722 333 389 722 611 889 722 722 556 0 667 556 611 722 722 944 0 0 611 0 0 0 0 0 0 444 500 444 500 444 333 500 500 278 278 500 278 778 500 500 500 500 333 389 278 500 500 722 500 500 444 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 333 0 0 0 500 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 310 ]
+/Encoding /WinAnsiEncoding
+/Type /Font
+/BaseFont /TimesNewRomanPSMT
+/LastChar 186
+/FontDescriptor 23 0 R
+/Subtype /TrueType
+>>
+endobj
+23 0 obj
+<<
+/FontBBox [ -568 -307 2000 1007 ]
+/StemV 82
+/Descent -216
+/XHeight -546
+/Flags 34
+/FontStretch /Normal
+/Ascent 891
+/FontName /TimesNewRomanPSMT
+/Type /FontDescriptor
+/FontWeight 400
+/ItalicAngle 0
+/FontFamily (Times New Roman)
+/CapHeight 656
+>>
+endobj
+24 0 obj
+<<
+/Length 5804
+>>
+stream
+q
+/GS1 gs
+BT
+/TT6 1 Tf
+12 0 0 12 90 708.96 Tm
+0 g
+0.0002 Tc
+0.0898 Tw
+[ (broadband calls of ) ] TJ
+/TT8 1 Tf
+7.91 0 TD
+0.0005 Tc
+0.0895 Tw
+[ (M\056 septentrionalis) ] TJ
+/TT6 1 Tf
+7.375 0 TD
+0.0012 Tc
+0.088 Tw
+[ ( are cha) 5 (r) -0.8 (a) 5 (c) 0 (ter) 4.2 (i) -1 (stic of) 4.2 ( gleane) 5 (r) -0.8 (s \050Sc) 5 (hnitz) 5 (ler \046 Kalko ) ] TJ
+-15.285 -2.3 TD
+0.0003 Tc
+0.0747 Tw
+[ (2001\051\056  A s) -5.5 (horter call prevents overlap between) ] TJ
+19.53 0 TD
+[ ( the call and the echo at short distances\054 ) ] TJ
+-19.53 -2.3 TD
+0.0197 Tw
+[ (while high) 5.3 (er averag) 5.3 (e frequenc) ] TJ
+12.19 0 TD
+-0.0002 Tc
+0.0189 Tw
+[ (y and broader frequency range ) ] TJ
+12.555 0 TD
+0.0001 Tc
+0.0199 Tw
+[ (provide higher resolution of ) ] TJ
+-24.745 -2.3 TD
+0.0009 Tc
+-0.0009 Tw
+[ (sm) 8.7 (all objects\056 ) ] TJ
+T*
+0.0002 Tc
+0.0198 Tw
+[ ( ) -2730 (Data has been presented dem) 8 (onstrating th) ] TJ
+19.79 0 TD
+0.001 Tc
+0.0173 Tw
+[ (at bo) 6 (th species) 5.2 ( can ) ] TJ
+7.85 0 TD
+-0.0002 Tc
+0.0202 Tw
+[ (both glean and hawk ) ] TJ
+-27.64 -2.3 TD
+-0.0001 Tc
+0.0751 Tw
+(prey\054 although ) Tj
+/TT8 1 Tf
+6.175 0 TD
+0.0002 Tc
+0.0748 Tw
+[ (M\056 septentrionalis) ] TJ
+/TT6 1 Tf
+7.355 0 TD
+0.0005 Tc
+0.0735 Tw
+[ ( te) 4.3 (nds to be more spec) 4.3 (iali) ] TJ
+10.565 0 TD
+0.0001 Tc
+0.0749 Tw
+[ (zed for gleaning \050Ratcliffe \046 ) ] TJ
+-24.095 -2.3 TD
+0.0989 Tw
+[ (Dawson 2003\051\056  Given that both ) ] TJ
+/TT8 1 Tf
+13.68 0 TD
+0 Tc
+0.1 Tw
+[ (M\056 lucifugus) ] TJ
+/TT6 1 Tf
+5.1 0 TD
+-0.001 Tc
+0.101 Tw
+[ ( and ) ] TJ
+/TT8 1 Tf
+2.14 0 TD
+0.0005 Tc
+0.0995 Tw
+[ (M\056 septentrionalis) ] TJ
+/TT6 1 Tf
+7.385 0 TD
+0 Tc
+0.1 Tw
+[ ( exhibit behavioral ) ] TJ
+-28.305 -2.3 TD
+0.0003 Tc
+0.2347 Tw
+[ (flexibility in foraging technique\054 and cons) ] TJ
+17.96 0 TD
+0.2346 Tw
+[ (idering that they are sym) 8.2 (p) -4.6 (atric throughout ) ] TJ
+-17.96 -2.3 TD
+0.0007 Tc
+0.068 Tw
+[ (much of their rang) 5.7 (es\054 it is lik) 5.7 (ely that these ) ] TJ
+17.685 0 TD
+0.001 Tc
+0.069 Tw
+[ (two s) 5.2 (p) 1 (ecies s) 5.2 (e) -0.2 (gre) 4.8 (g) 1 (ate spa) 4.8 (tia) 4.9 (lly or tem) 8.8 (porally) 6 ( ) ] TJ
+-17.685 -2.3 TD
+0.0007 Tc
+-0.0007 Tw
+[ (in a way tha) 4.5 (t) -1.5 ( reduc) 4.5 (es in) 5.7 (terspec) 4.5 (i) -1.5 (f) 3.7 (i) -1.5 (c co) 5.7 (mpetition\056) 5.7 ( ) ] TJ
+T*
+0.0002 Tc
+0.0048 Tw
+[ ( ) -2745 (To test whether such segr) ] TJ
+13.235 0 TD
+0 Tc
+0.0037 Tw
+(egation exists\054 we chose to ) Tj
+10.955 0 TD
+0.0002 Tc
+0.0014 Tw
+(study the relative abundances ) Tj
+-24.19 -2.3 TD
+-0.0002 Tc
+0.0889 Tw
+[ (of the two species in ) ] TJ
+8.91 0 TD
+0.0892 Tw
+[ (three habitats\072 wooded\054 river\054 and la) ] TJ
+14.8 0 TD
+-0.0007 Tc
+0.089 Tw
+[ (keside\056  Of the ) ] TJ
+6.425 0 TD
+0.0004 Tc
+0.0846 Tw
+[ (three\054 lakeside ) ] TJ
+-30.135 -2.3 TD
+0.0006 Tc
+0.0377 Tw
+[ (sites are the most open\054 followed by the river si) ] TJ
+19.305 0 TD
+0.0001 Tc
+0.0399 Tw
+[ (tes and then the wooded ) ] TJ
+10.115 0 TD
+0.001 Tc
+0.0377 Tw
+[ (sites\056  If the two ) ] TJ
+-29.42 -2.295 TD
+-0.0001 Tc
+0.2701 Tw
+[ (species are segregating spatia) ] TJ
+12.61 0 TD
+-0.0003 Tc
+0.2703 Tw
+[ (lly\054 they should be found in) ] TJ
+12.34 0 TD
+-0.0005 Tc
+0.2705 Tw
+[ ( different proportions and ) ] TJ
+-24.95 -2.3 TD
+0 Tc
+0.1033 Tw
+[ (different relative abundances in ) ] TJ
+13.3 0 TD
+-0.0004 Tc
+0.1054 Tw
+[ (the three habitats\056  Aerial ) ] TJ
+10.84 0 TD
+0.0003 Tc
+0.1034 Tw
+[ (insects are more abundant in ) ] TJ
+-24.14 -2.3 TD
+0.0888 Tw
+[ (open habitats\056  Thus\054 we expected to) ] TJ
+15.09 0 TD
+0.0001 Tc
+0.0899 Tw
+[ ( see a higher relative abundance of ) ] TJ
+/TT8 1 Tf
+14.76 0 TD
+0.0004 Tc
+0.0896 Tw
+[ (M\056 lucifugus) ] TJ
+/TT6 1 Tf
+5.09 0 TD
+-0.0008 Tc
+0.0908 Tw
+[ ( at ) ] TJ
+-34.94 -2.3 TD
+0.0009 Tc
+0.0426 Tw
+[ (the lak) 5.9 (e) -0.3 (sid) 5.9 (e) -0.3 ( sites) 5.1 ( where there were) 4.7 ( more ae) 4.7 (ri) ] TJ
+18.275 0 TD
+0.0007 Tc
+0.0435 Tw
+[ (a) 4.5 (l) -1.5 ( in) 5.7 (sects to haw) 7.9 (k\056  Addition) 5.7 (a) -0.5 (lly\054 g) 5.7 (i) -1.5 (ven that ) ] TJ
+-18.275 -2.3 TD
+0.1294 Tw
+[ (the c) 4.4 (a) -0.6 (lls of) 3.6 ( ) ] TJ
+/TT8 1 Tf
+5.02 0 TD
+0.0002 Tc
+0.1298 Tw
+[ (M\056 septentrionalis) ] TJ
+/TT6 1 Tf
+7.41 0 TD
+-0.0002 Tc
+0.1282 Tw
+[ ( are more specialized for gl) ] TJ
+11.545 0 TD
+-0.0001 Tc
+0.1281 Tw
+[ (eaning\054 we expected to see a) -6.3 ( ) ] TJ
+-23.975 -2.3 TD
+0.0003 Tc
+0.1847 Tw
+[ (higher relative abundance of this species at) ] TJ
+18.34 0 TD
+0.1838 Tw
+[ ( the wooded s) -5.4 (ites where there were more ) ] TJ
+-18.34 -2.3 TD
+0.0006 Tc
+0.0944 Tw
+[ (stationary insects to glean\056  At the river si) ] TJ
+17.415 0 TD
+0.0003 Tc
+0.0947 Tw
+[ (tes we expected to see roughly equal relative ) ] TJ
+-17.415 -2.3 TD
+0 Tc
+-0.0016 Tw
+(abundances for both species\056 ) Tj
+T*
+0.0006 Tc
+0.4274 Tw
+[ ( ) -2322 (W) 4.4 (e) -0.6 ( then monitored how the re) 4.4 (lative) ] TJ
+19.56 0 TD
+0.0002 Tc
+0.4298 Tw
+[ ( abun) 5.2 (dance of each species) 4.4 ( changes) 4.4 ( ) ] TJ
+-19.56 -2.3 TD
+0.0006 Tc
+0.0229 Tw
+[ (throughout the night to determ) 8.4 (ine if the bats ) ] TJ
+18.08 0 TD
+0.0218 Tw
+[ (exhibited tem) 8.5 (poral avoi) ] TJ
+9.55 0 TD
+-0.0007 Tc
+0.0257 Tw
+(dance and foraged at ) Tj
+-27.63 -2.3 TD
+0.0002 Tc
+0.1155 Tw
+[ (different tim) 8 (e) -1 (s\056  We also looked at whethe) ] TJ
+17.75 0 TD
+0.0004 Tc
+0.1146 Tw
+[ (r or not there w) 7.6 (a) -0.8 (s a correlation between the ) ] TJ
+ET
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 BIO\056G0\05628\0561 \055 Biology \055 Final Year Undergraduate \055 Female \055 Native Speaker \055 Research Paper) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(2) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+25 0 obj
+<<
+/Length 5051
+>>
+stream
+q
+/GS1 gs
+BT
+/TT6 1 Tf
+12 0 0 12 90 708.96 Tm
+0 g
+-0.0005 Tc
+0.1597 Tw
+[ (relative abundance of each species and the we) ] TJ
+19.515 0 TD
+0.0002 Tc
+0.1573 Tw
+[ (ather conditions \050tem) 8 (pe) ] TJ
+9.75 0 TD
+0.0004 Tc
+0.1571 Tw
+[ (rature and rain\051\056 ) 157.5 ( ) ] TJ
+-29.265 -2.3 TD
+0.0008 Tc
+0.0542 Tw
+[ (Relativ) 5.8 (e abu) 5.8 (ndance was m) 8.6 (easured by counting the num) 8.6 (b) 0.8 (er of call sequences reco) 5.8 (rde) 4.7 (d) 0.8 ( at) -6.4 ( ) ] TJ
+T*
+0.0003 Tc
+-0.0003 Tw
+[ (each site an) 5.3 (d identifying which species each belonged to\056) 5.3 ( ) ] TJ
+T*
+0 Tc
+0 Tw
+( ) Tj
+0 -1.15 TD
+( ) Tj
+/TT2 1 Tf
+0 -1.16 TD
+-0.0008 Tc
+0.0008 Tw
+[ (METHODS AND MAT) -3.8 (E) 1.2 (RIAL) -3.8 (S) -4.6 ( ) ] TJ
+/TT6 1 Tf
+0 -1.14 TD
+0 Tc
+0 Tw
+( ) Tj
+/TT8 1 Tf
+0 -1.155 TD
+0.0002 Tc
+-0.0014 Tw
+(Study Areas \050see attached Fig\0561\051 ) Tj
+/TT6 1 Tf
+0 -2.295 TD
+0.0007 Tc
+0.1543 Tw
+[ ( ) -2595 (Nine loca) 4.5 (tio) 5.7 (ns in the) 4.5 ( vicinity of) 3.7 ( th) 5.7 (e Univers) 4.9 (ity) 5.7 ( of) 3.7 ( Michiga) 4.5 (n) 0.7 ( Biologica) 4.5 (l Station) 5.7 ( ) ] TJ
+0 -2.3 TD
+0.0004 Tc
+0.2916 Tw
+[ (\050Pellston\054 Michigan\051 were chosen\072 three lake) ] TJ
+19.36 0 TD
+0.2947 Tw
+[ (side habitats \050L1\054 L2\054 L3\051\054 three river ) ] TJ
+-19.36 -2.3 TD
+0.0001 Tc
+-0.0001 Tw
+(habitats \050R1\054 R2\054 R3\051\054 and thr) Tj
+11.835 0 TD
+-0.0001 Tc
+0.0011 Tw
+[ (ee wooded habitats \050W) 8.7 (1\054 W2\054 W3\051\056 ) ] TJ
+-8.835 -2.3 TD
+0.0002 Tc
+0.1348 Tw
+[ (All of the lakeside sites were on Douglas) ] TJ
+17.36 0 TD
+-0.0001 Tc
+0.1351 Tw
+[ ( Lake and within wa) ] TJ
+8.705 0 TD
+0.0003 Tc
+0.1322 Tw
+[ (lking distance of ) ] TJ
+-29.065 -2.3 TD
+0.2571 Tw
+(Biological Station facilities\056) Tj
+11.715 0 TD
+-0.0001 Tc
+0.2601 Tw
+[ (  Site L1 \05045\27233\05665\222N\054 84\27240\05661\222W) 8.7 (\051) -2.1 ( wa) -6.3 (s located on the ) ] TJ
+-11.715 -2.3 TD
+0.0001 Tc
+0.0586 Tw
+[ (western edge of Biological Stat) ] TJ
+12.785 0 TD
+[ (ion facilities\054 about one m) 7.9 (e) -1.1 (ter ) ] TJ
+12.455 0 TD
+0.0599 Tw
+[ (away from) 7.9 ( the edge of the ) ] TJ
+-25.24 -2.3 TD
+0.0002 Tc
+0.0135 Tw
+[ (lake\056  Sites L2 \05045\27233\05674\222N\054) ] TJ
+11.23 0 TD
+0.0148 Tw
+[ ( 84\27240\05608\222W) 9 (\051) -1.8 ( and L3 \05045\27233\05689\222) ] TJ
+13.01 0 TD
+0 Tc
+0.015 Tw
+[ (N\054 84\27239\05688\222W) 8.9 (\051) -2 ( were located ) ] TJ
+-24.24 -2.295 TD
+0.0005 Tc
+0.0545 Tw
+[ (on the eastern shore of Douglas Lake\056  Site ) ] TJ
+17.95 0 TD
+0.0003 Tc
+0.0553 Tw
+[ (L2 was 1 m) 8.1 (e) -0.9 (ter above the water surface and ) ] TJ
+-17.95 -2.3 TD
+0.0006 Tc
+0.0105 Tw
+[ (4\0565 m) 8.4 (e) -0.6 (ters away\054 and L3 was 1\0568 meters above th) ] TJ
+19.825 0 TD
+0.0005 Tc
+0.0101 Tw
+[ (e water surface and 5 meters away\056  Site ) ] TJ
+-19.825 -2.3 TD
+0.0003 Tc
+-0.0003 Tw
+(L3 was north of L2\056 ) Tj
+T*
+0.0005 Tc
+0.3232 Tw
+[ ( ) -2426.3 (Sites R1 \05045\27219\05674\222N\054 84\27224\05655\222W) 9.3 (\051) -1.5 ( a) ] TJ
+19.225 0 TD
+0 Tc
+0.3262 Tw
+[ (nd R2 \05045\27232\05666\222N\054 84\27240\05682\222W) 8.8 (\051) -2 ( were ) ] TJ
+-19.225 -2.3 TD
+-0.0001 Tc
+0.1409 Tw
+[ (located off of Hogsbac) -6.3 (k) -0.1 ( Road in Reeses) ] TJ
+16.9 0 TD
+0.0003 Tc
+0.1397 Tw
+[ ( Swamp\054 along Carp Creek\056  Site R1 was 2\0565 ) ] TJ
+-16.9 -2.3 TD
+0.0007 Tc
+0.0543 Tw
+[ (m) 8.5 (e) -0.5 (ters above the water surface and 11\0565 m) 8.5 (e) -0.5 (ters away from) 8.5 ( t) -6.5 (h) 0.7 (e river\056  Site R2 was south) 5.7 ( ) ] TJ
+T*
+0.0003 Tc
+0.1654 Tw
+[ (of R1\056  Site R3 \05045\27233\05647\222N\054 84\27245\05618\222W) 9.1 (\051) -1.7 ( wa) ] TJ
+19.42 0 TD
+0.0002 Tc
+0.1648 Tw
+[ (s located off of Pellston Plain Road by ) ] TJ
+-19.42 -2.3 TD
+0.0004 Tc
+-0.0004 Tw
+[ (Maple River\054 1\0565 m) 8.2 (e) -0.8 (ters above th) ] TJ
+13.36 0 TD
+0.0008 Tc
+-0.0016 Tw
+[ (e w) 8 (a) -0.4 (ter su) 5.8 (rface and 1 m) 8.6 (e) -0.4 (ter away\056 ) ] TJ
+-13.36 -2.3 TD
+0.0006 Tc
+0.1244 Tw
+[ ( ) -2625 (Site W) 9.4 (1) -4.4 ( \05045\27232\05630\222N\054 84\27242\05606\222W) 9.4 (\051) -1.4 ( was lo) ] TJ
+20.58 0 TD
+0.125 Tw
+[ (cated on a seasonal road off of W) 9.6 (e) -0.5 (s) -5.1 (t) -6.5 ( ) ] TJ
+-20.58 -2.3 TD
+0 Tc
+0.055 Tw
+[ (Burt Lake Road\056  Site W2 \05045\27234\05613\222N\054 84\272) ] TJ
+17.785 0 TD
+0.0002 Tc
+0.0555 Tw
+[ (39\05605\222W) 9 (\051) -1.8 ( was located on a seasonal road off ) ] TJ
+-17.785 -2.3 TD
+-0.0002 Tc
+0.3602 Tw
+[ (of Robinson Road\054 to the east of the Bi) ] TJ
+18.455 0 TD
+-0.0003 Tc
+0.3603 Tw
+[ (ological Station\056  ) ] TJ
+8.13 0 TD
+0.0001 Tc
+0.3599 Tw
+[ (Site W3 \05045\27233\05686\222N\054 ) ] TJ
+ET
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 BIO\056G0\05628\0561 \055 Biology \055 Final Year Undergraduate \055 Female \055 Native Speaker \055 Research Paper) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(3) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+26 0 obj
+<<
+/Length 4852
+>>
+stream
+q
+/GS1 gs
+BT
+/TT6 1 Tf
+12 0 0 12 90 708.96 Tm
+0 g
+0 Tc
+0.18 Tw
+[ (84\27240\05679\222W) 8.8 (\051) -2 ( was within walking distance of th) ] TJ
+19.965 0 TD
+0.0002 Tc
+0.1798 Tw
+[ (e Biological Station f) 8.2 (acilities and was ) ] TJ
+-19.965 -2.3 TD
+0.0006 Tc
+-0.0006 Tw
+[ (located on Grapevin) 5.6 (e Trail\056) 5.6 ( ) ] TJ
+T*
+0 Tc
+0 Tw
+( ) Tj
+/TT8 1 Tf
+0 -1.155 TD
+0.0003 Tc
+-0.0003 Tw
+[ (Recording P) 6.1 (r) -0.5 (ocedures ) ] TJ
+/TT6 1 Tf
+0 -2.295 TD
+0.0002 Tc
+0.1689 Tw
+[ ( ) -2580.9 (The study was conducted for eight night) ] TJ
+20.12 0 TD
+0 Tc
+0.17 Tw
+[ (s from) 7.8 ( June 25\054 2004 through July 4\054 ) ] TJ
+-20.12 -2.3 TD
+0.0003 Tc
+0.0147 Tw
+[ (2004\056  There was no obs) -5.5 (ervation on the nights of June 27 and July 3\056  The study ran from ) ] TJ
+T*
+0.0005 Tc
+-0.001 Tw
+[ (9\07200 pm) 8.3 ( until 5\07230 am) 8.3 ( on each nigh) 5.5 (t of observation\056 ) ] TJ
+3 -2.3 TD
+0.023 Tw
+[ (An Anabat II detector co) 5.5 (nnected to a voice ) ] TJ
+17.64 0 TD
+0.0002 Tc
+0.0248 Tw
+[ (activ) 5.2 (ated tap) 5.2 (e) -1 ( recorder was left at two ) ] TJ
+-20.64 -2.3 TD
+0.0001 Tc
+0.0799 Tw
+[ (sites per night\056  The first site was visite) ] TJ
+16.275 0 TD
+-0.0003 Tc
+0.0794 Tw
+[ (d on the hour and the s) ] TJ
+9.58 0 TD
+-0.0002 Tc
+0.0789 Tw
+(econd was visited on the ) Tj
+-25.855 -2.3 TD
+0.0001 Tc
+-0.0013 Tw
+(half hour to allow for ) Tj
+8.805 0 TD
+0 Tc
+-0.0025 Tw
+(travel between sites\056 ) Tj
+-8.805 -2.3 TD
+0.001 Tc
+0.1345 Tw
+[ ( ) -2614.5 (Tem) 8.8 (p) 1 (erature was m) 8.8 (easured with a m) 8.8 (e) -0.2 (rcury therm) 8.8 (o) -4 (m) 8.8 (e) -0.2 (ter in degrees Fahrenheit\056) 6 ( ) 135.5 ( ) ] TJ
+T*
+0.0009 Tc
+0.1582 Tw
+[ (W) 9.7 (i) -1.3 (nd speed was m) 8.7 (easured with an anem) 8.7 (om) 8.7 (ete) -5.3 (r) ] TJ
+20.005 0 TD
+0.0013 Tc
+0.1574 Tw
+[ ( in m) 9.1 (e) 0.1 (ters per sec) ] TJ
+7.64 0 TD
+-0.0007 Tc
+0.1607 Tw
+[ (ond\056  Also recorded ) ] TJ
+-27.645 -2.3 TD
+0.0002 Tc
+0.1348 Tw
+[ (were rainfall \050no rain\054 light rain\054 or hea) ] TJ
+16.53 0 TD
+-0.0001 Tc
+0.1363 Tw
+[ (vy rain\051\054 light \050visible m) 7.7 (oon or) -7.1 ( no m) 7.7 (oon\051\054 and ) ] TJ
+-16.53 -2.3 TD
+0 Tc
+0 Tw
+(visibility \050fog or no fog\051\056 ) Tj
+0 -2.295 TD
+( ) Tj
+/TT8 1 Tf
+0 -1.155 TD
+0.0007 Tc
+-0.0007 Tw
+[ (Call Iden) 5.7 (tification) 5.7 ( ) ] TJ
+/TT6 1 Tf
+0 -2.295 TD
+0.0008 Tc
+0.0688 Tw
+[ ( ) -2680.4 (The data on each tape were record) 5.8 (ed onto a computer usin) 5.8 (g the progra) 4.7 (m) 3.6 ( Anabat ) ] TJ
+0 -2.3 TD
+0.0003 Tc
+0.2597 Tw
+[ (5\056  The calls were analyzed using Analyze 2\0561\054 which provided us with m) 8.1 (a) -0.9 (xi) -6.9 (mum) 8.1 ( ) ] TJ
+T*
+0.0001 Tc
+0.1299 Tw
+[ (frequency\054 average frequency\054 m) 7.9 (i) -2.1 (nimum) 7.9 ( freque) ] TJ
+19.555 0 TD
+0.1289 Tw
+[ (ncy\054 curvature\054 duration\054 end slope\054 and ) ] TJ
+-19.555 -2.3 TD
+0.0011 Tc
+0.0183 Tw
+[ (start slop) 6.1 (e o) 6.1 (f) 4.1 ( each pulse in a ca) 4.9 (ll\056  W) 9.9 (ithin ) ] TJ
+16.995 0 TD
+0.0009 Tc
+0.0179 Tw
+[ (each c) 4.7 (a) 4.7 (ll\054 a) 4.7 (ll of the pulses with a m) 8.7 (odal quality ) ] TJ
+-16.995 -2.3 TD
+0.0002 Tc
+0.1548 Tw
+[ (of 0\0569 or) -6.8 ( greater were analyzed\056  If over ha) ] TJ
+18.485 0 TD
+0.0006 Tc
+0.1551 Tw
+[ (lf of the pulses had an average frequency ) ] TJ
+-18.485 -2.3 TD
+0.1381 Tw
+[ (greater than) 5.6 ( 50 KHz\054 th) 5.6 (e ) ] TJ
+10.8 0 TD
+0.0014 Tc
+0.1386 Tw
+[ (ca) 5.2 (ll was) 5.6 ( a) 5.2 (ttr) 4.4 (ibuted) 6.4 ( to) 6.4 ( ) ] TJ
+/TT8 1 Tf
+9.155 0 TD
+0.0002 Tc
+0.1398 Tw
+[ (M\056 septentrionalis\056) ] TJ
+/TT6 1 Tf
+7.67 0 TD
+0.1392 Tc
+-0.0001 Tw
+[ (  I) 137.2 (f) 142.2 ( o) 144.2 (v) 139.2 (e) 138 (r) 137.2 ( h) 139.2 (a) 143 (l) 137 (f) 142.2 ( o) 139.2 (f) 142.2 ( t) 142 (h) 139.2 (e) 138 ( ) ] TJ
+-27.625 -2.3 TD
+0.0003 Tc
+0.0038 Tw
+(pulses had an average frequency less th) Tj
+15.8 0 TD
+0.0008 Tc
+0.0042 Tw
+[ (an 45 KHz\054 the c) 4.6 (a) -0.4 (ll was attribu) 5.8 (t) -1.4 (ed) 5.8 ( to ) ] TJ
+/TT8 1 Tf
+14.95 0 TD
+0.0001 Tc
+-0.0001 Tw
+(M\056 lucifugus\056) Tj
+/TT6 1 Tf
+5.25 0 TD
+0 Tc
+0 Tw
+(  ) Tj
+-36 -2.3 TD
+0.0006 Tc
+0.0002 Tw
+(If over half of the end slopes ) Tj
+11.76 0 TD
+0.0008 Tc
+-0.0008 Tw
+[ (of) 3.8 ( the pulses were less than \05510) 5.8 (\054) 0.8 ( the call wa) 4.6 (s attr) 3.8 (ibuted to ) ] TJ
+/TT8 1 Tf
+23.155 0 TD
+0.001 Tc
+0 Tw
+(M\056 ) Tj
+-34.915 -2.305 TD
+[ (septen) 6.1 (triona) 6.1 (lis\056) ] TJ
+/TT6 1 Tf
+6.195 0 TD
+0 Tc
+( ) Tj
+ET
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 BIO\056G0\05628\0561 \055 Biology \055 Final Year Undergraduate \055 Female \055 Native Speaker \055 Research Paper) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(4) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+27 0 obj
+<<
+/Length 4662
+>>
+stream
+q
+/GS1 gs
+BT
+/TT6 1 Tf
+12 0 0 12 126 708.96 Tm
+0 g
+0.0003 Tc
+0.1697 Tw
+[ (Out of a tot) -6.9 (a) -0.9 (l of 334 c) -5.9 (a) -0.9 (ll sequences r) ] TJ
+16.095 0 TD
+0.0002 Tc
+0.1688 Tw
+[ (ecorded\054 289 were identifiable using the ) ] TJ
+-19.095 -2.3 TD
+0.0198 Tw
+[ (above characteristics\056  ) 20 (The rem) 8 (a) -1 (ining 45 were) ] TJ
+18.5 0 TD
+0.0006 Tc
+0.0194 Tw
+[ ( interm) 8.4 (ediate or cont) ] TJ
+8.36 0 TD
+-0.0005 Tc
+0.018 Tw
+(ained conflicting pulse ) Tj
+-26.86 -2.3 TD
+0.0002 Tc
+0.0541 Tw
+[ (values\056  These calls were subjected to a di) ] TJ
+17.185 0 TD
+-0.0001 Tc
+[ (scrim) 7.7 (i) -2.3 (nant function analysis\054 which was based ) ] TJ
+-17.185 -2.3 TD
+0 Tc
+0.08 Tw
+[ (on 17 know) 7.2 (n ) ] TJ
+/TT8 1 Tf
+5.705 0 TD
+0.075 Tw
+[ (M\056 septentrionalis) ] TJ
+/TT6 1 Tf
+7.355 0 TD
+-0.0008 Tc
+0.0808 Tw
+[ ( and 18 known ) ] TJ
+/TT8 1 Tf
+6.475 0 TD
+0.0012 Tc
+0.0788 Tw
+[ (M\056 lu) 6.2 (cifugu) 6.2 (s) ] TJ
+/TT6 1 Tf
+5.075 0 TD
+-0.0001 Tc
+0.0791 Tw
+[ ( calls provided by Mr\056 Matt ) ] TJ
+-24.61 -2.3 TD
+0.0001 Tc
+0.0449 Tw
+[ (Wund\054 University of Michigan Museum) 7.9 ( of Z) ] TJ
+18.29 0 TD
+0 Tc
+0.045 Tw
+[ (ool) -7.2 (ogy\056  This procedure classified 11 of the ) ] TJ
+-18.29 -2.3 TD
+-0.0002 Tc
+0.0252 Tw
+[ (45 unknown calls as either ) ] TJ
+/TT8 1 Tf
+11.035 0 TD
+0.0002 Tc
+0.0198 Tw
+[ (M\056 septentrionalis) ] TJ
+/TT6 1 Tf
+7.3 0 TD
+-0.005 Tc
+0.03 Tw
+[ ( or) -7 ( ) ] TJ
+/TT8 1 Tf
+1.375 0 TD
+0.0004 Tc
+0.0246 Tw
+[ (M\056 lucifugus) ] TJ
+/TT6 1 Tf
+5.025 0 TD
+0.0001 Tc
+0.0249 Tw
+[ ( with a posterior probability ) ] TJ
+-24.735 -2.3 TD
+-0.0002 Tc
+0.0644 Tw
+[ (of 0\05695 or greater\056  These 11 we) ] TJ
+13.19 0 TD
+-0.0004 Tc
+0.0641 Tw
+[ (re added to the identified ) ] TJ
+10.56 0 TD
+-0.0005 Tc
+0.0655 Tw
+(calls\054 producing a ) Tj
+7.51 0 TD
+0.0006 Tc
+0.0619 Tw
+[ (total of 300 ) ] TJ
+-31.26 -2.3 TD
+0.0003 Tc
+0.1647 Tw
+[ (identified call sequ) 5.3 (ences\056  Of these\054 79 were identified as) 4.5 ( ) ] TJ
+/TT8 1 Tf
+24.7 0 TD
+0.0006 Tc
+0.1644 Tw
+[ (M\056 lucifug) 5.6 (u) 0.6 (s) ] TJ
+/TT6 1 Tf
+5.165 0 TD
+0.0003 Tc
+0.1647 Tw
+[ ( and 221 were ) ] TJ
+-29.865 -2.3 TD
+-0.0004 Tw
+[ (identified as) 4.6 ( ) ] TJ
+/TT8 1 Tf
+5.165 0 TD
+0.0002 Tc
+-0.0002 Tw
+(M\056 septentrionalis) Tj
+/TT6 1 Tf
+7.28 0 TD
+-0.005 Tc
+0 Tw
+(\056 ) Tj
+/TT2 1 Tf
+-12.445 -2.31 TD
+0 Tc
+( ) Tj
+0 -1.15 TD
+( ) Tj
+T*
+-0.0012 Tc
+[ (RESULTS) -5 ( ) ] TJ
+/TT6 1 Tf
+0 -1.14 TD
+0 Tc
+( ) Tj
+/TT8 1 Tf
+0 -1.155 TD
+0.001 Tc
+-0.001 Tw
+[ (Habitat Se) 4.8 (le) 4.8 (ction) 6 ( ) ] TJ
+/TT6 1 Tf
+0 -2.295 TD
+0 Tc
+0 Tw
+( ) Tj
+/TT8 1 Tf
+3 0 TD
+0.0001 Tc
+0.2449 Tw
+[ (Myotis lucifugus) ] TJ
+/TT6 1 Tf
+6.885 0 TD
+0.0003 Tc
+0.2497 Tw
+[ ( and ) ] TJ
+/TT8 1 Tf
+2.44 0 TD
+0.0002 Tc
+0.2498 Tw
+[ (M\056 septentrionalis) ] TJ
+/TT6 1 Tf
+7.525 0 TD
+0.0003 Tc
+0.2467 Tw
+[ ( are distributed differently am) 8.1 (ong the ) ] TJ
+-19.85 -2.295 TD
+-0.0001 Tc
+0.2184 Tw
+[ (three kinds of habitats ) ] TJ
+9.98 0 TD
+-0.0002 Tc
+0.2202 Tw
+[ (\050P \075 0\056029\054 Kruskal Wallis\054 ) ] TJ
+12.325 0 TD
+0.0001 Tc
+0.2182 Tw
+[ (x2 \075 7\05611\051\056  The num) 7.9 (ber of ) ] TJ
+/TT8 1 Tf
+12.615 0 TD
+0.002 Tc
+0 Tw
+[ (M\056) 7 ( ) ] TJ
+-34.92 -2.3 TD
+0.0003 Tc
+(lucifugus) Tj
+/TT6 1 Tf
+3.67 0 TD
+0 Tc
+0.1333 Tw
+[ ( is about equal at the lake) ] TJ
+10.96 0 TD
+-0.0001 Tc
+0.1351 Tw
+[ (side and wooded sites and lo) ] TJ
+12.145 0 TD
+0.0005 Tc
+0.132 Tw
+[ (west at the ) ] TJ
+4.925 0 TD
+0.0001 Tc
+0.1349 Tw
+(river sites\054 ) Tj
+-31.7 -2.3 TD
+0.0009 Tc
+0.0941 Tw
+[ (while the n) 5.9 (u) -4.1 (m) 8.7 (b) 0.9 (er of) 3.9 ( ) ] TJ
+/TT8 1 Tf
+8.71 0 TD
+0.0017 Tc
+0.0933 Tw
+[ (M\056 septentr) 5.9 (ion) 6.7 (a) 1.7 (lis) ] TJ
+/TT6 1 Tf
+7.385 0 TD
+0.0009 Tc
+0.0941 Tw
+[ ( is high) 5.9 (e) 4.7 (s) 0.1 (t at the wo) 5.9 (oded sites a) 4.7 (nd lowest at the ) ] TJ
+-16.095 -2.3 TD
+0.0018 Tc
+0.0032 Tw
+[ (lakes) 6 (i) -0.4 (de s) 6 (ite) 5.6 (s\056  ) ] TJ
+/TT8 1 Tf
+6.07 0 TD
+0.0003 Tc
+0.0047 Tw
+(Myotis septentrionalis) Tj
+/TT6 1 Tf
+8.915 0 TD
+0.0009 Tc
+0.0022 Tw
+[ ( showed a g) 5.9 (r) 3.9 (eater seg) 5.9 (r) -1.1 (eg) 5.9 (ation betwee) 4.8 (n sites than did) 5.9 ( ) ] TJ
+/TT8 1 Tf
+-14.985 -2.305 TD
+0.0001 Tc
+-0.0001 Tw
+(M\056 lucifugus\056) Tj
+/TT6 1 Tf
+5.25 0 TD
+0 Tc
+0 Tw
+( ) Tj
+-5.25 -2.295 TD
+( ) Tj
+ET
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 BIO\056G0\05628\0561 \055 Biology \055 Final Year Undergraduate \055 Female \055 Native Speaker \055 Research Paper) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(5) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+28 0 obj
+<<
+/Length 15513
+>>
+stream
+q
+1 g
+0 G
+0 J
+0 j
+0.06 w
+10 M
+[ ] 0 d
+/GS1 gs
+1 i
+125.58 716.28 359.94 -204.72 re
+B*
+0.754 g
+176.58 537.78 267 142.5 re
+f
+q
+176.58 553.44 267 0.12006 re
+W
+n
+q
+1 0 0 1 176.58 553.56 cm
+0 0 m
+267 0 l
+S
+Q
+Q
+q
+176.58 569.16 267 0.12 re
+W
+n
+q
+1 0 0 1 176.58 569.28 cm
+0 0 m
+267 0 l
+S
+Q
+Q
+q
+176.58 584.94 267 0.12006 re
+W
+n
+q
+1 0 0 1 176.58 585.06 cm
+0 0 m
+267 0 l
+S
+Q
+Q
+q
+176.58 600.66 267 0.12 re
+W
+n
+q
+1 0 0 1 176.58 600.78 cm
+0 0 m
+267 0 l
+S
+Q
+Q
+q
+176.58 617.16 267 0.12 re
+W
+n
+q
+1 0 0 1 176.58 617.28 cm
+0 0 m
+267 0 l
+S
+Q
+Q
+q
+176.58 632.94 267 0.12006 re
+W
+n
+q
+1 0 0 1 176.58 633.06 cm
+0 0 m
+267 0 l
+S
+Q
+Q
+q
+176.58 648.66 219.78 0.12 re
+W
+n
+q
+1 0 0 1 176.58 648.78 cm
+0 0 m
+267 0 l
+S
+Q
+Q
+q
+176.58 664.44 219.78 0.12 re
+W
+n
+q
+1 0 0 1 176.58 664.56 cm
+0 0 m
+267 0 l
+S
+Q
+Q
+q
+176.58 680.16 267 0.12 re
+W
+n
+q
+1 0 0 1 176.58 680.28 cm
+0 0 m
+267 0 l
+S
+Q
+Q
+0.5 G
+1 J
+1 j
+0.75 w
+q
+1 0 0 1 176.58 680.28 cm
+0 0 m
+267 0 l
+S
+Q
+q
+490.08 720 -368.22 -212.22 re
+121.86 720 m
+h
+474.3 669.78 -77.94 -31.5 re
+396.36 669.78 m
+W*
+n
+0 792.03 612 -792 re
+W
+n
+q
+1 0 0 1 443.58 680.28 cm
+0 0 m
+0 -142.5 l
+S
+Q
+Q
+q
+1 0 0 1 443.58 537.78 cm
+0 0 m
+-267 0 l
+-267 142.5 l
+S
+Q
+/Cs6 cs
+0.60392 0.60392 1 scn
+195.3 537.78 25.5 66 re
+f
+q
+194.88 537.78 26.52 66.48 re
+W
+n
+0 G
+195.3 603.78 25.5 -66 re
+S
+Q
+284.58 537.78 25.5 24 re
+f
+q
+284.16 537.78 26.46 24.48 re
+W
+n
+0 G
+284.58 561.78 25.5 -24 re
+S
+Q
+373.08 537.78 25.5 68.28 re
+f
+q
+372.6 537.78 26.52 68.7 re
+W
+n
+0 G
+373.08 606.06 25.5 -68.28 re
+S
+Q
+0.60392 0.2 0.39608 scn
+220.8 537.78 25.5 127.5 re
+f
+q
+220.38 537.78 26.52 127.92 re
+W
+n
+0 G
+220.8 665.28 25.5 -127.5 re
+S
+Q
+310.08 537.78 24.72 24.78 re
+f
+q
+309.6 537.78 25.74 25.2 re
+W
+n
+0 G
+310.08 562.56 24.72 -24.78 re
+S
+Q
+398.58 537.78 25.5 6 re
+f
+q
+398.1 537.78 26.52 6.48 re
+W
+n
+0 G
+398.58 543.78 25.5 -6 re
+S
+Q
+0 G
+0.06 w
+q
+1 0 0 1 176.58 680.28 cm
+0 0 m
+0 -142.5 l
+S
+1 0 0 1 -3.78 -142.5 cm
+0 0 m
+3.78 0 l
+S
+1 0 0 1 0 15.78 cm
+0 0 m
+3.78 0 l
+S
+1 0 0 1 0 15.72 cm
+0 0 m
+3.78 0 l
+S
+1 0 0 1 0 15.78 cm
+0 0 m
+3.78 0 l
+S
+1 0 0 1 0 15.72 cm
+0 0 m
+3.78 0 l
+S
+1 0 0 1 0 16.5 cm
+0 0 m
+3.78 0 l
+S
+1 0 0 1 0 15.78 cm
+0 0 m
+3.78 0 l
+S
+1 0 0 1 0 15.72 cm
+0 0 m
+3.78 0 l
+S
+1 0 0 1 0 15.78 cm
+0 0 m
+3.78 0 l
+S
+1 0 0 1 0 15.72 cm
+0 0 m
+3.78 0 l
+S
+1 0 0 1 3.78 -142.5 cm
+0 0 m
+267 0 l
+S
+1 0 0 1 0 -3.72 cm
+0 0 m
+0 3.72 l
+S
+1 0 0 1 89.22 0 cm
+0 0 m
+0 3.72 l
+S
+1 0 0 1 88.5 0 cm
+0 0 m
+0 3.72 l
+S
+1 0 0 1 89.28 0 cm
+0 0 m
+0 3.72 l
+S
+Q
+BT
+/TT10 1 Tf
+11.9986 0 0 11.9979 195.36 697.6801 Tm
+0 g
+0.0147 Tc
+-0.0425 Tw
+[ (Pr) 28.8 (opor) 28.8 (t) 32.7 (i) 42.5 (on of) 37.7 ( c) 5.8 (a) 10.8 (l) 42.5 (l) 42.5 (s) 5.8 ( i) 42.5 (n) 0.5 ( t) 37.7 (h) 0.5 (e) 5.8 ( t) 37.7 (h) 0.5 (r) 28.8 (e) 5.8 (e) 10.8 ( ha) 5.8 (bi) 42.5 (t) 37.7 (a) 5.8 (t) 37.7 (s) ] TJ
+/TT12 1 Tf
+11.2488 0 0 11.2479 161.58 533.7 Tm
+0 Tc
+0 Tw
+(0) Tj
+-0.8001 1.3976 TD
+-0.0228 Tc
+[ (0\056) -11.7 (1) ] TJ
+0 1.4029 TD
+[ (0\056) -11.7 (2) ] TJ
+0 1.3976 TD
+[ (0\056) -11.7 (3) ] TJ
+0 1.4029 TD
+[ (0\056) -11.7 (4) ] TJ
+0 1.4669 TD
+[ (0\056) -11.7 (5) ] TJ
+0 1.3976 TD
+[ (0\056) -11.7 (6) ] TJ
+0 1.4029 TD
+[ (0\056) -11.7 (7) ] TJ
+0 1.3976 TD
+[ (0\056) -11.7 (8) ] TJ
+0 1.4029 TD
+[ (0\056) -11.7 (9) ] TJ
+4.6672 -14.136 TD
+[ (w) -36.7 (oods) -5587.4 (r) -25.8 (i) 2 (v) 7.8 (e) 0 (r) -6154.5 (l) -3.3 (ak) 13.2 (e) ] TJ
+/TT10 1 Tf
+0 11.2488 -11.2479 0 143.52 580.5 Tm
+-0.0134 Tc
+[ (p) -5.3 (r) -24.3 (op) -5.3 (or) -24.3 (t) -16.4 (i) -2.3 (on) ] TJ
+ET
+1 g
+396.3 669.78 77.22 -31.5 re
+B*
+/Cs6 cs
+0.60392 0.60392 1 scn
+0.75 w
+400.08 663.78 5.22 -5.22 re
+B*
+BT
+/TT12 1 Tf
+9.7488 0 0 9.7481 408.36 658.8 Tm
+0 g
+0.0056 Tc
+[ (lu) 20.1 (c) -29.8 (i) -6.1 (f) 55.7 (u) 20.1 (g) 26.3 (u) 20.1 (s) ] TJ
+ET
+/Cs6 cs
+0.60392 0.2 0.39608 scn
+400.08 648.06 5.22 -5.28 re
+B*
+BT
+9.7488 0 0 9.7481 408.36 643.08 Tm
+0 g
+-0.0145 Tc
+[ (s) -49.9 (e) 0 (p) 6.2 (t) -44.4 (en) 6.2 (t) -44.4 (r) 10.8 (i) -26.2 (o) 6.2 (na) 6.2 (l) -26.2 (i) -20.1 (s) ] TJ
+ET
+0.06 w
+125.58 716.28 359.94 -204.72 re
+S
+BT
+/TT6 1 Tf
+12 0 0 12 490.14 507.72 Tm
+0 Tc
+( ) Tj
+10.02 0 0 10.02 126 498.54 Tm
+-0.0006 Tc
+0.1338 Tw
+[ (Fig\056 ) 6 (2\055 Proportion of calls ma) ] TJ
+12.479 0 TD
+-0.0003 Tc
+0.1335 Tw
+[ (de by each species at each ha) 6.4 (bitat as re) 6.4 (lated to the total ) ] TJ
+-12.479 -1.1437 TD
+0.0011 Tc
+0.1321 Tw
+[ (num) 12.5 (ber ) 6 (of cal) 3.5 (l) 9.5 (s) 1 ( m) 12.5 (a) 1.8 (de by) 4.1 ( t) 3.5 (h) -1.9 (at) 3.5 ( speci) 3.5 (es\056  T) 7.2 (h) -1.9 (e) 7.8 ( ) ] TJ
+18.491 0 TD
+-0.0046 Tc
+0.1378 Tw
+[ (tw) -7 (o) -7.6 ( sp) -7.6 (e) -3.9 (c) -3.9 (i) -2.2 (e) -3.9 (s) -4.7 ( sh) -7.6 (ow) -7 ( sp) -7.6 (a) ] TJ
+8.9701 0 TD
+-0.0029 Tc
+0.1361 Tw
+[ (tial seg) -5.9 (r) -5.2 (eg) -5.9 (ation) -5.9 ( \050P \075 ) ] TJ
+-27.4611 -1.1497 TD
+-0.0006 Tc
+-0.0039 Tw
+[ (0) -3.6 (\056) 3.9 (0) -3.6 (2) 2.4 (9) -3.6 (\054) 3.9 ( ) -6 (Krusk) -3.6 (a) 0.1 (l) 7.8 ( W) -8.8 (a) 0.1 (llis\054 x) -3.6 (2) 2.4 ( ) -6 (\075 7\05611) -3.6 (\054 n) ] TJ
+6.48 0 0 6.48 266.94 474.06 Tm
+0 Tc
+0 Tw
+(1) Tj
+10.02 0 0 10.02 270.18 475.56 Tm
+-0.0049 Tc
+0.0064 Tw
+[ ( \075 4\054) -6.4 ( ) 6 (n) ] TJ
+6.48 0 0 6.48 295.8 474.06 Tm
+0 Tc
+0 Tw
+(2) Tj
+10.02 0 0 10.02 299.04 475.56 Tm
+-0.0011 Tc
+0.0026 Tw
+[ ( ) 6 (\075 5\054 n) ] TJ
+6.48 0 0 6.48 324.72 474.06 Tm
+0 Tc
+0 Tw
+(3) Tj
+10.02 0 0 10.02 327.9 475.56 Tm
+-0.0031 Tc
+0.0046 Tw
+[ ( \075 ) 6 (6) -6.1 (\051) -5.4 (\056  ) 6 ( ) ] TJ
+12 0 0 12 90 462.24 Tm
+0 Tc
+0 Tw
+( ) Tj
+0 -1.15 TD
+( ) Tj
+/TT8 1 Tf
+0 -1.155 TD
+-0.0001 Tc
+0.0001 Tw
+(Temporal Differentiation ) Tj
+/TT6 1 Tf
+3 -2.295 TD
+0.0008 Tc
+0.2392 Tw
+[ (For both species\054 the num) 8.6 (b) 0.8 (er of c) -5.4 (a) -0.4 (lls) ] TJ
+16.205 0 TD
+0.0002 Tc
+0.2398 Tw
+[ ( was highest in early evening\056  ) ] TJ
+/TT8 1 Tf
+14.07 0 TD
+0.0016 Tc
+0 Tw
+[ (Myotis) 5.8 ( ) ] TJ
+-33.275 -2.3 TD
+0.0011 Tc
+[ (septen) 6.1 (triona) 6.1 (lis ) ] TJ
+/TT6 1 Tf
+6.605 0 TD
+0.0002 Tc
+0.4039 Tw
+[ (showed) 5.2 ( an earlier peak of activ) 5.2 (ity than ) ] TJ
+/TT8 1 Tf
+18.57 0 TD
+0.0001 Tc
+0.4049 Tw
+[ (M\056 lucifugus ) ] TJ
+/TT6 1 Tf
+6.06 0 TD
+-0.0002 Tc
+0.4052 Tw
+[ (\050P \074 0\05605\054 ) ] TJ
+-31.235 -2.3 TD
+0.0004 Tc
+0.0346 Tw
+[ (Kol) -6.8 (m) 8.2 (ogorov\055Sm) 8.2 (irnov\054 D \075 0\056251\051) ] TJ
+/TT8 1 Tf
+13.865 0 TD
+0.0005 Tc
+0.0361 Tw
+[ (\056  Myotis septentrionalis) ] TJ
+/TT6 1 Tf
+9.785 0 TD
+0.0007 Tc
+0.0343 Tw
+[ ( activity drops off by 1\07200 am) 8.5 (\054 ) ] TJ
+-23.65 -2.3 TD
+0 Tc
+0 Tw
+(while the number of ) Tj
+/TT8 1 Tf
+8.33 0 TD
+0.0008 Tc
+-0.0008 Tw
+(M\056 lucifugus) Tj
+/TT6 1 Tf
+5.01 0 TD
+0.0002 Tc
+-0.0002 Tw
+[ ( peaks again from 1\07200 \226 2\07200 am) 8 (\056 ) ] TJ
+ET
+1 g
+125.58 304.02 359.94 -201 re
+B*
+0.754 g
+172.8 158.22 300.72 118.56 re
+f
+q
+172.86 172.86 300.72 0.12001 re
+W
+n
+q
+1 0 0 1 172.8 172.98 cm
+0 0 m
+300.72 0 l
+S
+Q
+Q
+q
+172.86 187.56 300.72 0.12 re
+W
+n
+q
+1 0 0 1 172.8 187.68 cm
+0 0 m
+300.72 0 l
+S
+Q
+Q
+q
+172.86 202.32 300.72 0.12 re
+W
+n
+q
+1 0 0 1 172.8 202.44 cm
+0 0 m
+300.72 0 l
+S
+Q
+Q
+q
+172.86 217.02 300.72 0.12 re
+W
+n
+q
+1 0 0 1 172.8 217.14 cm
+0 0 m
+300.72 0 l
+S
+Q
+Q
+q
+172.86 232.5 300.72 0.12001 re
+W
+n
+q
+1 0 0 1 172.8 232.62 cm
+0 0 m
+300.72 0 l
+S
+Q
+Q
+q
+172.86 247.2 233.22 0.12 re
+W
+n
+q
+1 0 0 1 172.8 247.32 cm
+0 0 m
+300.72 0 l
+S
+Q
+Q
+q
+172.86 261.96 233.22 0.12 re
+W
+n
+q
+1 0 0 1 172.8 262.08 cm
+0 0 m
+300.72 0 l
+S
+Q
+Q
+q
+172.86 276.66 300.72 0.12 re
+W
+n
+q
+1 0 0 1 172.8 276.78 cm
+0 0 m
+300.72 0 l
+S
+Q
+Q
+q
+1.0092 0 0 -0.99092 0 0 cm
+0.5 G
+0.743 w
+q
+1 0 0 1 171.23 -279.317 cm
+0 0 m
+297.988 0 l
+S
+Q
+Q
+q
+490.08 307.68 -368.22 -208.38 re
+121.86 307.68 m
+h
+484.08 270.84 -78 -30.9 re
+406.08 270.84 m
+W*
+n
+0 792.03 612 -792 re
+W
+n
+q
+1.0092 0 0 -0.99092 0 0 cm
+0.5 G
+0.743 w
+q
+1 0 0 1 469.218 -279.317 cm
+0 0 m
+0 119.647 l
+S
+Q
+Q
+Q
+q
+1.0092 0 0 -0.99092 0 0 cm
+0.5 G
+0.743 w
+q
+1 0 0 1 469.218 -159.671 cm
+0 0 m
+-297.988 0 l
+-297.988 -119.647 l
+S
+Q
+Q
+/Cs6 cs
+0.60392 0.60392 1 scn
+192.3 158.22 5.28 25.08 re
+f
+q
+191.88 158.22 6.24 25.5 re
+W
+n
+q
+1.0092 0 0 -0.99092 0 0 cm
+0.743 w
+190.553 -184.98 5.232 25.31 re
+S
+Q
+Q
+209.58 158.22 5.22 19.14 re
+f
+q
+209.16 158.22 6.24 19.56 re
+W
+n
+q
+1.0092 0 0 -0.99092 0 0 cm
+0.743 w
+207.676 -178.986 5.1726 19.315 re
+S
+Q
+Q
+226.08 158.22 5.22 11.82 re
+f
+q
+225.66 158.22 6.24 12.24 re
+W
+n
+q
+1.0092 0 0 -0.99092 0 0 cm
+0.743 w
+224.026 -171.599 5.1726 11.928 re
+S
+Q
+Q
+242.58 158.22 5.22 7.38 re
+f
+q
+242.16 158.22 6.24 7.8 re
+W
+n
+q
+1.0092 0 0 -0.99092 0 0 cm
+0.743 w
+240.376 -167.118 5.1726 7.4477 re
+S
+Q
+Q
+259.08 158.22 5.22 1.5 re
+f
+q
+258.66 158.22 6.18 1.92 re
+W
+n
+q
+1.0092 0 0 -0.99092 0 0 cm
+0.743 w
+256.726 -161.184 5.1726 1.5138 re
+S
+Q
+Q
+276.3 158.22 5.28 4.44 re
+f
+q
+275.88 158.22 6.24 4.86 re
+W
+n
+q
+1.0092 0 0 -0.99092 0 0 cm
+0.743 w
+273.79 -164.151 5.2321 4.4807 re
+S
+Q
+Q
+309.3 158.22 5.28 16.2 re
+f
+q
+308.88 158.22 6.24 16.62 re
+W
+n
+q
+1.0092 0 0 -0.99092 0 0 cm
+0.743 w
+306.49 -176.019 5.2321 16.349 re
+S
+Q
+Q
+343.08 158.22 5.22 13.26 re
+f
+q
+342.6 158.22 6.24 13.68 re
+W
+n
+q
+1.0092 0 0 -0.99092 0 0 cm
+0.743 w
+339.963 -173.052 5.1726 13.382 re
+S
+Q
+Q
+359.58 158.22 5.22 5.88 re
+f
+q
+359.1 158.22 6.24 6.36 re
+W
+n
+q
+1.0092 0 0 -0.99092 0 0 cm
+0.743 w
+356.313 -165.604 5.1726 5.9339 re
+S
+Q
+Q
+376.08 158.22 5.22 1.5 re
+f
+q
+375.6 158.22 6.24 1.92 re
+W
+n
+q
+1.0092 0 0 -0.99092 0 0 cm
+0.743 w
+372.664 -161.184 5.1726 1.5138 re
+S
+Q
+Q
+393.3 158.22 5.28 4.44 re
+f
+q
+392.88 158.22 6.24 4.86 re
+W
+n
+q
+1.0092 0 0 -0.99092 0 0 cm
+0.743 w
+389.727 -164.151 5.232 4.4807 re
+S
+Q
+Q
+409.8 158.22 5.28 5.88 re
+f
+q
+409.38 158.22 6.24 6.36 re
+W
+n
+q
+1.0092 0 0 -0.99092 0 0 cm
+0.743 w
+406.077 -165.604 5.2321 5.9339 re
+S
+Q
+Q
+0.60392 0.2 0.39608 scn
+197.58 158.22 5.22 103.86 re
+f
+q
+197.16 158.22 6.24 104.28 re
+W
+n
+q
+1.0092 0 0 -0.99092 0 0 cm
+0.743 w
+195.785 -264.483 5.1726 104.812 re
+S
+Q
+Q
+214.8 158.22 4.5 38.28 re
+f
+q
+214.38 158.22 5.52 38.76 re
+W
+n
+q
+1.0092 0 0 -0.99092 0 0 cm
+0.743 w
+212.849 -198.301 4.4591 38.631 re
+S
+Q
+Q
+231.3 158.22 4.5 4.44 re
+f
+q
+230.88 158.22 5.52 4.86 re
+W
+n
+q
+1.0092 0 0 -0.99092 0 0 cm
+0.743 w
+229.199 -164.151 4.4591 4.4807 re
+S
+Q
+Q
+247.8 158.22 4.5 61.14 re
+f
+q
+247.38 158.22 5.52 61.56 re
+W
+n
+q
+1.0092 0 0 -0.99092 0 0 cm
+0.743 w
+245.549 -221.371 4.4591 61.701 re
+S
+Q
+Q
+264.3 158.22 5.28 26.52 re
+f
+q
+263.88 158.22 6.24 26.94 re
+W
+n
+q
+1.0092 0 0 -0.99092 0 0 cm
+0.743 w
+261.899 -186.434 5.2321 26.763 re
+S
+Q
+Q
+281.58 158.22 4.5 38.28 re
+f
+q
+281.16 158.22 5.46 38.76 re
+W
+n
+q
+1.0092 0 0 -0.99092 0 0 cm
+0.743 w
+279.022 -198.301 4.4591 38.631 re
+S
+Q
+Q
+298.08 158.22 4.5 4.44 re
+f
+q
+297.6 158.22 5.52 4.86 re
+W
+n
+q
+1.0092 0 0 -0.99092 0 0 cm
+0.743 w
+295.372 -164.151 4.4591 4.4807 re
+S
+Q
+Q
+314.58 158.22 5.22 4.44 re
+f
+q
+314.1 158.22 6.24 4.86 re
+W
+n
+q
+1.0092 0 0 -0.99092 0 0 cm
+0.743 w
+311.722 -164.151 5.1726 4.4807 re
+S
+Q
+Q
+331.8 158.22 4.5 4.44 re
+f
+q
+331.38 158.22 5.46 4.86 re
+W
+n
+q
+1.0092 0 0 -0.99092 0 0 cm
+0.743 w
+328.786 -164.151 4.4591 4.4807 re
+S
+Q
+Q
+348.3 158.22 4.5 2.94 re
+f
+q
+347.88 158.22 5.46 3.42 re
+W
+n
+q
+1.0092 0 0 -0.99092 0 0 cm
+0.743 w
+345.136 -162.637 4.4591 2.967 re
+S
+Q
+Q
+364.8 158.22 4.5 8.88 re
+f
+q
+364.38 158.22 5.46 9.3 re
+W
+n
+q
+1.0092 0 0 -0.99092 0 0 cm
+0.743 w
+361.486 -168.632 4.4591 8.9614 re
+S
+Q
+Q
+381.3 158.22 5.28 1.5 re
+f
+q
+380.88 158.22 6.24 1.92 re
+W
+n
+q
+1.0092 0 0 -0.99092 0 0 cm
+0.743 w
+377.836 -161.184 5.232 1.5138 re
+S
+Q
+Q
+398.58 158.22 4.5 7.38 re
+f
+q
+398.1 158.22 5.52 7.8 re
+W
+n
+q
+1.0092 0 0 -0.99092 0 0 cm
+0.743 w
+394.959 -167.118 4.4591 7.4477 re
+S
+Q
+Q
+415.08 158.22 4.5 13.26 re
+f
+q
+414.6 158.22 5.52 13.68 re
+W
+n
+q
+1.0092 0 0 -0.99092 0 0 cm
+0.743 w
+411.309 -173.052 4.4591 13.382 re
+S
+Q
+Q
+431.58 158.22 4.5 2.94 re
+f
+q
+431.1 158.22 5.52 3.42 re
+W
+n
+q
+1.0092 0 0 -0.99092 0 0 cm
+0.743 w
+427.659 -162.637 4.4591 2.967 re
+S
+Q
+Q
+448.02 158.22 5.28 2.94 re
+f
+q
+447.6 158.22 6.24 3.42 re
+W
+n
+q
+1.0092 0 0 -0.99092 0 0 cm
+0.743 w
+443.95 -162.637 5.2321 2.967 re
+S
+Q
+Q
+465.3 158.22 4.5 1.5 re
+f
+q
+464.88 158.22 5.46 1.92 re
+W
+n
+q
+1.0092 0 0 -0.99092 0 0 cm
+0.743 w
+461.073 -161.184 4.4591 1.5138 re
+S
+Q
+Q
+q
+1 0 0 1 172.8 276.78 cm
+0 0 m
+0 -118.56 l
+S
+1 0 0 1 -3.72 -118.56 cm
+0 0 m
+3.72 0 l
+S
+1 0 0 1 0 14.76 cm
+0 0 m
+3.72 0 l
+S
+1 0 0 1 0 14.7 cm
+0 0 m
+3.72 0 l
+S
+1 0 0 1 0 14.76 cm
+0 0 m
+3.72 0 l
+S
+1 0 0 1 0 14.7 cm
+0 0 m
+3.72 0 l
+S
+1 0 0 1 0 15.48 cm
+0 0 m
+3.72 0 l
+S
+1 0 0 1 0 14.7 cm
+0 0 m
+3.72 0 l
+S
+1 0 0 1 0 14.76 cm
+0 0 m
+3.72 0 l
+S
+1 0 0 1 0 14.7 cm
+0 0 m
+3.72 0 l
+S
+1 0 0 1 3.72 -118.56 cm
+0 0 m
+300.72 0 l
+S
+1 0 0 1 0 -3.66 cm
+0 0 m
+0 3.66 l
+S
+1 0 0 1 16.5 0 cm
+0 0 m
+0 3.66 l
+S
+1 0 0 1 17.28 0 cm
+0 0 m
+0 3.66 l
+S
+1 0 0 1 16.5 0 cm
+0 0 m
+0 3.66 l
+S
+1 0 0 1 16.5 0 cm
+0 0 m
+0 3.66 l
+S
+1 0 0 1 16.5 0 cm
+0 0 m
+0 3.66 l
+S
+1 0 0 1 17.22 0 cm
+0 0 m
+0 3.66 l
+S
+1 0 0 1 16.5 0 cm
+0 0 m
+0 3.66 l
+S
+1 0 0 1 16.5 0 cm
+0 0 m
+0 3.66 l
+S
+1 0 0 1 17.28 0 cm
+0 0 m
+0 3.66 l
+S
+1 0 0 1 16.5 0 cm
+0 0 m
+0 3.66 l
+S
+1 0 0 1 16.5 0 cm
+0 0 m
+0 3.66 l
+S
+1 0 0 1 16.5 0 cm
+0 0 m
+0 3.66 l
+S
+1 0 0 1 17.22 0 cm
+0 0 m
+0 3.66 l
+S
+1 0 0 1 16.5 0 cm
+0 0 m
+0 3.66 l
+S
+1 0 0 1 16.5 0 cm
+0 0 m
+0 3.66 l
+S
+1 0 0 1 16.5 0 cm
+0 0 m
+0 3.66 l
+S
+1 0 0 1 17.22 0 cm
+0 0 m
+0 3.66 l
+S
+1 0 0 1 16.5 0 cm
+0 0 m
+0 3.66 l
+S
+Q
+BT
+/TT10 1 Tf
+11.9986 0 0 11.7809 247.86 285.7201 Tm
+0 g
+0.0142 Tc
+-0.042 Tw
+[ (Tot) 37.2 (a) 5.3 (l) 42 ( a) 10.3 (c) 5.3 (t) 37.2 (i) 42 (v) 5.3 (i) 42 (t) 37.2 (y) 5.3 ( by) 10.3 ( t) 32.2 (i) 42 (m) 28.3 (e) ] TJ
+/TT12 1 Tf
+-7.6259 -11.1588 TD
+0 Tc
+0 Tw
+(0) Tj
+-0.5651 1.2529 TD
+0.0089 Tc
+(10) Tj
+0 1.2478 TD
+(20) Tj
+0 1.2529 TD
+(30) Tj
+0 1.2478 TD
+(40) Tj
+0 1.314 TD
+(50) Tj
+0 1.2478 TD
+(60) Tj
+0 1.2529 TD
+(70) Tj
+0 1.2478 TD
+(80) Tj
+8.4844 8.4844 -8.3302 8.3302 160.38 123.1801 Tm
+0.0025 Tc
+[ (9\072) 32.8 (00) ] TJ
+1.4639 -2.024 TD
+0 Tc
+(1) Tj
+0.5551 0.0036 TD
+0.0025 Tc
+[ (0\072) 32.8 (00) ] TJ
+1.3896 -1.9844 TD
+0 Tc
+(1) Tj
+0.5551 0.0036 TD
+0.0025 Tc
+[ (1\072) 32.8 (00) ] TJ
+1.432 -2.0276 TD
+[ (12\072) 32.8 (0) ] TJ
+1.92 0.0036 TD
+0 Tc
+(0) Tj
+0.5516 -1.988 TD
+0.0025 Tc
+[ (1\072) 32.8 (00) ] TJ
+1.9872 -2.024 TD
+[ (2\072) 32.8 (00) ] TJ
+1.9448 -1.9808 TD
+[ (3\072) 32.8 (00) ] TJ
+1.9907 -2.0276 TD
+[ (4\072) 32.8 (0) ] TJ
+1.3613 0.0036 TD
+0 Tc
+(0) Tj
+0.6259 -2.0276 TD
+0.0025 Tc
+[ (5\072) 32.8 (00) ] TJ
+/TT10 1 Tf
+9.7488 0 0 9.5719 312.36 108.8401 Tm
+-0.0253 Tc
+[ (ti) -55.2 (m) -59.3 (e) ] TJ
+0 9.7488 -9.5719 0 141.18 181.8 Tm
+-0.0077 Tc
+0.0314 Tw
+[ (num) -23.3 (be) 19.2 (r of) 23.7 ( c) 19.2 (a) 19.2 (l) -31.4 (l) -31.4 (s) ] TJ
+ET
+1 g
+406.08 270.9 77.22 -30.96 re
+B*
+q
+1.0092 0 0 -0.99092 0 0 cm
+/Cs6 cs
+0.60392 0.60392 1 scn
+0.743 w
+406.077 -267.45 5.2321 5.2073 re
+B*
+Q
+BT
+/TT12 1 Tf
+9.7488 0 0 9.5719 418.08 260.04 Tm
+0 g
+-0.0207 Tc
+0 Tw
+[ (l) -32.4 (u) 0 (c) -62.3 (i) -26.3 (f) 23.3 (ugu) -6.2 (s) ] TJ
+ET
+q
+1.0092 0 0 -0.99092 0 0 cm
+/Cs6 cs
+0.60392 0.2 0.39608 scn
+0.743 w
+406.077 -251.828 5.2321 5.2073 re
+B*
+Q
+BT
+9.7488 0 0 9.5719 418.08 244.5601 Tm
+-0.0217 Tc
+[ (s) -63.3 (e) -1 (p) -7.2 (t) -51.6 (ent) -51.6 (ri) -33.4 (on) -7.2 (al) -33.4 (i) -27.3 (s) ] TJ
+ET
+125.58 304.02 359.94 -201 re
+S
+BT
+/TT6 1 Tf
+12 0 0 12 490.14 99.2401 Tm
+0 Tc
+( ) Tj
+10.02 0 0 10.02 126 90.0601 Tm
+-0.0004 Tc
+-0.0041 Tw
+[ (Fig\056 3\055 ) -6 (Num) 11 (b) -3.4 (er of ) -6 (calls recorded) ] TJ
+13.0838 0 TD
+-0.0008 Tc
+0.0023 Tw
+[ ( for each s) 5.1 (p) 2.2 (ecies over tim) 10.6 (e) -6.1 (\056) -2.3 (  ) 6 ( ) ] TJ
+10.98 0 0 10.98 90 77.58 Tm
+0 Tc
+0 Tw
+( ) Tj
+12 0 0 12 90 64.0201 Tm
+( ) Tj
+ET
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 BIO\056G0\05628\0561 \055 Biology \055 Final Year Undergraduate \055 Female \055 Native Speaker \055 Research Paper) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(6) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+29 0 obj
+[ /ICCBased 30 0 R ]
+endobj
+30 0 obj
+<<
+/Length 2598
+/N 3
+/Filter /FlateDecode
+/Alternate /DeviceRGB
+>>
+stream
+hﬁúñwTT◊áœΩwz°Õ0“zì.0ÄÙ. Qf  √Mlà®@DEê†Ä£°H¨àb!(®`HPb0ä®®dF÷J|yyÔÂÂ˜«Ωﬂ⁄gÔs˜Ÿ{üµ. $O./ñ ô'‡z8”WÖG–±˝ xÄ¶ 0YÈ©æAÓ¡@$/7z∫»	¸ãﬁH¸æeËÈOßÉˇO“¨Tæ  »_ƒÊlN:Kƒ˘"N §äÌ3"¶∆$äFâô/JPƒrbé[‰•ü}ŸQÃÏd[ƒ‚úSŸ…l1˜àx{Üê#bƒGƒ\N¶àoãX3IòÃÒ[ql2áô ä$∂8¨xõàòƒtÒr p§∏/8Êp≤‚Cπ§§fÛπqÒ∫.KènjmÕ†{r2ì8Å°?ìï»‰≥È.)…©L^6 ãg˛,qmÈ¢"[öZ[Zöô~Q®ˇ∫¯7%ÓÌ"Ω
+¯‹3à÷˜áÌØ¸RÍ `Ãäj≥Î[Ã~ :∂ wˇõÊ! $E}køÒ≈yh‚yâRmåç333ç∏ñë∏†øÎ:¸}Ò=#ÒvøóáÓ âe
+ìtq›X)I)B>==ï…‚–ˇ<ƒˇ8ØÛX»âÂ9<QD®h ∏º8QªylÆÄõ¬£syˇ©âˇ0ÏOZúkë(ıü 5 H›†‰Á>Ä¢yP‹ıﬂ˚ÊÉ‚õ¶:±8˜ü˝˚Æpâ¯ëŒç˚ÁLg	˘ãk‚k	–Ä $»†tÅ!0V¿87∞¯Å`÷à…Ä2A.ÿ
+@ÿˆÇJPÍA#h'@8.ÄÀ‡:∏	ÓÄ`åÉÁ`ºÛa!2DÅ‰!UH2ÄÃ dπA>P ECqBπ–®*Ö*°Z®˙:]ÄÆB–=höÇ~Öﬁ√LÇ©∞2¨√ÿ	ˆÜÉ·5púÁ¿˘N∏ÆÉè¡Ì¯:|Åü√≥@àQC‚Ç¯!H,¬G6 ÖH9Rá¥ ]H/rA¶ëw(äÇ¢£Q∂(OTäÖJCm@£*QGQÌ®‘-‘(jı	MF+°–6h/Ù*t:]Ä.G7†€–ó–w–„Ë7ÜÜ—¡Xa<1·òÃ:L1Ê ¶s3Ä√Ãb±Xy¨÷ÎáebÿÏ~Ï1Ï9Ï v˚Gƒ©‚ÃpÓ∏óá+«5·Œ‚q∏yº^oÉ˜√≥ÒŸ¯|=æ?éü'HtvÑ`Ba3°Ç–B∏DxHxE$’â÷ƒ "ó∏âXA<NºB%æ#…êÙI.§Híê¥ìtÑtûtèÙäL&kì…dy'πë|ë¸ò¸VÇ"a$·%¡ñÿ(Q%—.1(ÒB/©%È$πV2G≤\Ú§‰…i)ºî∂îãSjÉTï‘)©a©Yiä¥©¥üt≤t±tìÙUÈI¨å∂åõ[&_Ê∞ÃEô1
+B—†∏PXî-îz % 8C’°zQ®E‘o®˝‘YŸe≤°≤Y≤U≤gdGhMõÊEK¢ï–N–ÜhÔó(/qZ¬Y≤cIÀí¡%srärérπBπVπ;rÔÂÈÚnÚâÚªÂ;‰)†Ù2*\RòV§*⁄*≤O(ﬁWÇïÙïï÷)VÍSöUVQˆPNUﬁØ|QyZÖ¶‚®í†R¶rVeJï¢jØ U-S=ß˙å.Kw¢'—+Ë=Ù5%5O5°Z≠Zø⁄º∫ézàzûz´˙#ÇC#V£L£[cFSU”W3W≥YÛæ^ã°ØµO´WkN[G;L{õváˆ§éúéóNéN≥ŒC]≤ÆÉnönùÓm=åC/QÔÄﬁM}XﬂB?^øJˇÜl`i¿58`0∞Ω‘z)oi›“aCí°ìaÜa≥·®Õ»«(œ®√ËÖ±¶qÑÒn„^„O&&I&ı&LeLWòÊôvô˛j¶o∆2´2ªmN6w7ﬂhﬁi˛rô¡2Œ≤ÉÀÓZP,|-∂Yt[|¥¥≤‰[∂XNYiZE[U[3®F1„ä5⁄⁄Ÿz£ıiÎw6ñ6õ6øÿ⁄&⁄6ŸN.◊YŒY^ø|ÃN›éiWk7bO∑è∂?d?‚†Ê¿t®sx‚®·»vlpúp“sJp:ÊÙ¬ŸƒôÔ‹Ê<Áb„≤ﬁÂº+‚Í·ZË⁄Ô&„‚VÈˆÿ]›=ŒΩŸ}∆√¬cù«yO¥ß∑Ánœa/e/ñW£◊Ã
+´ÎWÙxìºÉº+Ωü¯Ë˚}∫|aﬂæ{|Æ‘Z…[Ÿ·¸º¸ˆ¯=Ú◊ÒOÛˇ> ‡P4–407∞7à‘Ù&ÿ9∏$¯Aànà0§;T242¥1t.Ã5¨4ldïÒ™ı´Æá+Ñs√;#∞°≥´›VÔ]=iY9¥FgM÷ö´k÷&≠=%≈å:çéãnä˛¿Ùc÷1gcºb™cfX.¨}¨ÁlGv{äc«)ÂLƒ⁄≈ñ∆N∆Ÿ≈Ìâõäwà/èüÊ∫p+π/<jÊ˝è$.$Ö%µ&„í£ìOÒdxâºûïî¨îÅTÉ‘Ç‘ë4õ¥Ωi3|o~C:îæ&ΩS@˝Lı	uÖ[Ö£ˆUo3C3OfIgÒ≤˙≤ı≥wdO‰∏Á|ΩµéµÆ;W-wsÓËzßıµ†1∫7jlÃﬂ8æ…c”—ÕÑÕâõ»3…+Õ{Ω%lKWær˛¶¸±≠[õ$
+¯√€l∑’lGmÁnÔﬂaæcˇéOÖÏ¬kE&EÂEäY≈◊æ2˝™‚´Öù±;˚K,KÓ¬Ï‚Ì⁄Ì∞˚h©tiNÈÿﬂ=ÌeÙ≤¬≤◊{£ˆ^-_V^≥è∞O∏o§¬ß¢søÊ˛]˚?T∆Wﬁ©rÆj≠V™ﬁQ=wÄ}`†„¡ñÂö¢ö˜á∏áÓ÷z‘∂◊i◊ï∆Œ8¸¥>¥æ˜k∆◊ç
+Eèéå<⁄”h’ÿÿ§‘T“7õßéEª˘çÎ7ù-Ü-µ≠¥÷¢„‡∏¯≥o£ø:·}¢˚$„dÀwZﬂU∑Q⁄
+€°ˆÏˆôé¯éëŒŒÅS+NuwŸvµ}oÙ˝ë”jß´Œ»û)9K8õv·\ŒπŸÛ©Áß/ƒ]ÎéÍ~pq’≈€==˝óº/]πÏ~˘bØSÔπ+vWN_µπzÍ„Z«uÀÎÌ}}m?X¸–÷oŸﬂ~√ÍFÁMÎõ]ÀŒ:^∏ÂzÎÚmØ€◊Ô¨º302tw8rx‰.˚Ó‰Ω§{/Ôg‹ü∞È!˙a·#©GÂèï◊˝®˜cÎàÂ»ôQ◊—æ'AOå±∆ûˇî˛”áÒ¸ß‰ßÂ™çìfìßß‹ßn>[˝l¸yÍÛ˘ÈÇü•Æ~°˚‚ª_ÈõY53˛íˇr·◊‚WÚØéº^ˆ∫{÷ˆÒõ‰7ÛsÖoÂﬂ}«x◊˚>Ï˝ƒ|ÊÏáäèzª>yz∏êº∞õ  ˜ÑÛ˚
+
+endstream
+endobj
+31 0 obj
+<<
+/FirstChar 46
+/Widths [ 278 0 556 556 556 556 556 556 556 556 556 556 278 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 556 0 500 556 556 278 556 0 222 0 500 222 0 556 556 556 0 333 500 278 556 500 722 ]
+/Encoding /WinAnsiEncoding
+/Type /Font
+/BaseFont /ArialMT
+/LastChar 119
+/FontDescriptor 32 0 R
+/Subtype /TrueType
+>>
+endobj
+32 0 obj
+<<
+/FontBBox [ -665 -325 2000 1006 ]
+/StemV 88
+/Descent -211
+/XHeight 515
+/Flags 32
+/FontStretch /Normal
+/Ascent 905
+/FontName /ArialMT
+/Type /FontDescriptor
+/FontWeight 400
+/ItalicAngle 0
+/FontFamily (Arial)
+/CapHeight 718
+>>
+endobj
+33 0 obj
+<<
+/FirstChar 32
+/Widths [ 278 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 667 0 722 0 611 0 0 0 0 0 0 0 0 0 0 0 0 556 611 556 611 556 333 0 611 278 0 0 278 889 611 611 611 0 389 556 333 611 556 0 0 556 ]
+/Encoding /WinAnsiEncoding
+/Type /Font
+/BaseFont /Arial-BoldMT
+/LastChar 121
+/FontDescriptor 34 0 R
+/Subtype /TrueType
+>>
+endobj
+34 0 obj
+<<
+/FontBBox [ -628 -376 2000 1010 ]
+/StemV 138
+/Descent -211
+/XHeight 515
+/Flags 32
+/FontStretch /Normal
+/Ascent 905
+/FontName /Arial-BoldMT
+/Type /FontDescriptor
+/FontWeight 700
+/ItalicAngle 0
+/FontFamily (Arial)
+/CapHeight 718
+>>
+endobj
+35 0 obj
+<<
+/Length 10296
+>>
+stream
+q
+1 g
+0 G
+1 J
+1 j
+0.75 w
+10 M
+[ ] 0 d
+/GS1 gs
+1 i
+125.58 716.28 359.94 -237.72 re
+B*
+0.754 g
+186.3 542.28 255 125.28 re
+f
+q
+186.36 560.16 254.94 0.12 re
+W
+n
+0.06 w
+q
+1 0 0 1 186.3 560.28 cm
+0 0 m
+255 0 l
+S
+Q
+Q
+q
+186.36 578.16 254.94 0.12 re
+W
+n
+0.06 w
+q
+1 0 0 1 186.3 578.28 cm
+0 0 m
+255 0 l
+S
+Q
+Q
+q
+186.36 596.16 254.94 0.12 re
+W
+n
+0.06 w
+q
+1 0 0 1 186.3 596.28 cm
+0 0 m
+255 0 l
+S
+Q
+Q
+q
+186.36 613.44 254.94 0.12006 re
+W
+n
+0.06 w
+q
+1 0 0 1 186.3 613.56 cm
+0 0 m
+255 0 l
+S
+Q
+Q
+q
+186.36 631.44 212.22 0.12006 re
+W
+n
+0.06 w
+q
+1 0 0 1 186.3 631.56 cm
+0 0 m
+255 0 l
+S
+Q
+Q
+q
+186.36 649.44 212.22 0.12 re
+W
+n
+0.06 w
+q
+1 0 0 1 186.3 649.56 cm
+0 0 m
+255 0 l
+S
+Q
+Q
+q
+186.36 667.44 254.94 0.12 re
+W
+n
+0.06 w
+q
+1 0 0 1 186.3 667.56 cm
+0 0 m
+255 0 l
+S
+Q
+Q
+0.5 G
+q
+1 0 0 1 186.3 667.56 cm
+0 0 m
+255 0 l
+S
+Q
+q
+490.08 720 -368.22 -245.22 re
+121.86 720 m
+h
+476.58 662.28 -78 -31.5 re
+398.58 662.28 m
+W*
+n
+0 792.03 612 -792 re
+W
+n
+q
+1 0 0 1 441.3 667.56 cm
+0 0 m
+0 -125.28 l
+S
+Q
+Q
+q
+1 0 0 1 441.3 542.28 cm
+0 0 m
+-255 0 l
+-255 125.28 l
+S
+Q
+/Cs6 cs
+0.60392 0.60392 1 scn
+203.58 542.28 4.5 77.28 re
+f
+q
+203.16 542.28 5.46 77.7 re
+W
+n
+0 G
+203.58 619.56 4.5 -77.28 re
+S
+Q
+217.8 542.28 4.5 59.28 re
+f
+q
+217.38 542.28 5.52 59.7 re
+W
+n
+0 G
+217.8 601.56 4.5 -59.28 re
+S
+Q
+232.08 542.28 4.5 36 re
+f
+q
+231.66 542.28 5.46 36.48 re
+W
+n
+0 G
+232.08 578.28 4.5 -36 re
+S
+Q
+246.3 542.28 3.78 22.5 re
+f
+q
+245.88 542.28 4.74 22.98 re
+W
+n
+0 G
+246.3 564.78 3.78 -22.5 re
+S
+Q
+259.8 542.28 4.5 4.5 re
+f
+q
+259.38 542.28 5.46 4.98 re
+W
+n
+0 G
+259.8 546.78 4.5 -4.5 re
+S
+Q
+274.08 542.28 4.5 13.5 re
+f
+q
+273.66 542.28 5.46 13.98 re
+W
+n
+0 G
+274.08 555.78 4.5 -13.5 re
+S
+Q
+302.58 542.28 4.5 49.5 re
+f
+q
+302.1 542.28 5.52 49.98 re
+W
+n
+0 G
+302.58 591.78 4.5 -49.5 re
+S
+Q
+331.08 542.28 4.5 40.5 re
+f
+q
+330.6 542.28 5.52 40.98 re
+W
+n
+0 G
+331.08 582.78 4.5 -40.5 re
+S
+Q
+345.3 542.28 4.5 18 re
+f
+q
+344.88 542.28 5.46 18.48 re
+W
+n
+0 G
+345.3 560.28 4.5 -18 re
+S
+Q
+359.58 542.28 4.5 4.5 re
+f
+q
+359.1 542.28 5.52 4.98 re
+W
+n
+0 G
+359.58 546.78 4.5 -4.5 re
+S
+Q
+373.8 542.28 3.78 13.5 re
+f
+q
+373.38 542.28 4.74 13.98 re
+W
+n
+0 G
+373.8 555.78 3.78 -13.5 re
+S
+Q
+387.3 542.28 4.5 18 re
+f
+q
+386.88 542.28 5.46 18.48 re
+W
+n
+0 G
+387.3 560.28 4.5 -18 re
+S
+Q
+0.60392 0.2 0.39608 scn
+208.08 542.28 3.72 113.28 re
+f
+q
+207.66 542.28 4.74 113.7 re
+W
+n
+0 G
+208.08 655.56 3.72 -113.28 re
+S
+Q
+222.3 542.28 3.78 42 re
+f
+q
+221.88 542.28 4.74 42.48 re
+W
+n
+0 G
+222.3 584.28 3.78 -42 re
+S
+Q
+236.58 542.28 3.72 4.5 re
+f
+q
+236.16 542.28 4.74 4.98 re
+W
+n
+0 G
+236.58 546.78 3.72 -4.5 re
+S
+Q
+250.08 542.28 3.72 66.78 re
+f
+q
+249.66 542.28 4.74 67.2 re
+W
+n
+0 G
+250.08 609.06 3.72 -66.78 re
+S
+Q
+264.3 542.28 3.78 29.28 re
+f
+q
+263.88 542.28 4.74 29.7 re
+W
+n
+0 G
+264.3 571.56 3.78 -29.28 re
+S
+Q
+278.58 542.28 3.72 42 re
+f
+q
+278.16 542.28 4.68 42.48 re
+W
+n
+0 G
+278.58 584.28 3.72 -42 re
+S
+Q
+292.8 542.28 3.78 5.28 re
+f
+q
+292.38 542.28 4.74 5.7 re
+W
+n
+0 G
+292.8 547.56 3.78 -5.28 re
+S
+Q
+307.08 542.28 3.72 5.28 re
+f
+q
+306.6 542.28 4.74 5.7 re
+W
+n
+0 G
+307.08 547.56 3.72 -5.28 re
+S
+Q
+321.3 542.28 3.78 5.28 re
+f
+q
+320.88 542.28 4.74 5.7 re
+W
+n
+0 G
+321.3 547.56 3.78 -5.28 re
+S
+Q
+335.58 542.28 3.72 3 re
+f
+q
+335.1 542.28 4.74 3.48 re
+W
+n
+0 G
+335.58 545.28 3.72 -3 re
+S
+Q
+349.8 542.28 3.78 9.78 re
+f
+q
+349.38 542.28 4.74 10.2 re
+W
+n
+0 G
+349.8 552.06 3.78 -9.78 re
+S
+Q
+364.08 542.28 3.72 1.5 re
+f
+q
+363.6 542.28 4.74 1.98 re
+W
+n
+0 G
+364.08 543.78 3.72 -1.5 re
+S
+Q
+377.58 542.28 3.72 7.5 re
+f
+q
+377.1 542.28 4.74 7.98 re
+W
+n
+0 G
+377.58 549.78 3.72 -7.5 re
+S
+Q
+391.8 542.28 3.78 15 re
+f
+q
+391.38 542.28 4.74 15.48 re
+W
+n
+0 G
+391.8 557.28 3.78 -15 re
+S
+Q
+406.08 542.28 3.72 3 re
+f
+q
+405.6 542.28 4.74 3.48 re
+W
+n
+0 G
+406.08 545.28 3.72 -3 re
+S
+Q
+420.3 542.28 3.78 3 re
+f
+q
+419.88 542.28 4.74 3.48 re
+W
+n
+0 G
+420.3 545.28 3.78 -3 re
+S
+Q
+434.58 542.28 3.72 1.5 re
+f
+q
+434.1 542.28 4.74 1.98 re
+W
+n
+0 G
+434.58 543.78 3.72 -1.5 re
+S
+Q
+0 G
+0.06 w
+q
+1 0 0 1 186.3 667.56 cm
+0 0 m
+0 -125.28 l
+S
+1 0 0 1 -3.72 -125.28 cm
+0 0 m
+3.72 0 l
+S
+1 0 0 1 0 18 cm
+0 0 m
+3.72 0 l
+S
+1 0 0 1 0 18 cm
+0 0 m
+3.72 0 l
+S
+1 0 0 1 0 18 cm
+0 0 m
+3.72 0 l
+S
+1 0 0 1 0 17.28 cm
+0 0 m
+3.72 0 l
+S
+1 0 0 1 0 18 cm
+0 0 m
+3.72 0 l
+S
+1 0 0 1 0 18 cm
+0 0 m
+3.72 0 l
+S
+1 0 0 1 0 18 cm
+0 0 m
+3.72 0 l
+S
+1 0 0 1 3.72 -125.28 cm
+0 0 m
+255 0 l
+S
+1 0 0 1 0 -3.72 cm
+0 0 m
+0 3.72 l
+S
+1 0 0 1 14.28 0 cm
+0 0 m
+0 3.72 l
+S
+1 0 0 1 14.22 0 cm
+0 0 m
+0 3.72 l
+S
+1 0 0 1 14.28 0 cm
+0 0 m
+0 3.72 l
+S
+1 0 0 1 14.22 0 cm
+0 0 m
+0 3.72 l
+S
+1 0 0 1 13.5 0 cm
+0 0 m
+0 3.72 l
+S
+1 0 0 1 14.28 0 cm
+0 0 m
+0 3.72 l
+S
+1 0 0 1 14.22 0 cm
+0 0 m
+0 3.72 l
+S
+1 0 0 1 14.28 0 cm
+0 0 m
+0 3.72 l
+S
+1 0 0 1 14.22 0 cm
+0 0 m
+0 3.72 l
+S
+1 0 0 1 14.28 0 cm
+0 0 m
+0 3.72 l
+S
+1 0 0 1 14.22 0 cm
+0 0 m
+0 3.72 l
+S
+1 0 0 1 14.28 0 cm
+0 0 m
+0 3.72 l
+S
+1 0 0 1 14.22 0 cm
+0 0 m
+0 3.72 l
+S
+1 0 0 1 13.5 0 cm
+0 0 m
+0 3.72 l
+S
+1 0 0 1 14.28 0 cm
+0 0 m
+0 3.72 l
+S
+1 0 0 1 14.22 0 cm
+0 0 m
+0 3.72 l
+S
+1 0 0 1 14.28 0 cm
+0 0 m
+0 3.72 l
+S
+1 0 0 1 14.22 0 cm
+0 0 m
+0 3.72 l
+S
+Q
+BT
+/TT10 1 Tf
+11.9986 0 0 11.9981 231.36 696.9 Tm
+0 g
+0.0148 Tc
+-0.0426 Tw
+[ (Pr) 28.9 (opor) 28.9 (t) 32.8 (i) 42.6 (on of) 37.8 ( c) 5.9 (a) 10.9 (l) 42.6 (l) 42.6 (s) 5.9 ( by) 10.9 ( t) 32.8 (i) 42.6 (m) 28.9 (e) ] TJ
+/TT12 1 Tf
+-5.1256 -13.222 TD
+0 Tc
+0 Tw
+(0) Tj
+-1.3752 1.5002 TD
+0.0064 Tc
+[ (0\056) 34.2 (05) ] TJ
+0.5601 1.5002 TD
+0.0089 Tc
+[ (0\056) 36.7 (1) ] TJ
+-0.5601 1.5002 TD
+0.0064 Tc
+[ (0\056) 34.2 (15) ] TJ
+0.5601 1.4402 TD
+0.0089 Tc
+[ (0\056) 36.7 (2) ] TJ
+-0.5601 1.5002 TD
+0.0064 Tc
+[ (0\056) 34.2 (25) ] TJ
+0.5601 1.5002 TD
+0.0089 Tc
+[ (0\056) 36.7 (3) ] TJ
+-0.5601 1.5002 TD
+0.0064 Tc
+[ (0\056) 34.2 (35) ] TJ
+8.4844 8.4844 -8.4839 8.4839 172.56 506.58 Tm
+0 Tc
+(9) Tj
+0.5622 0.0035 TD
+(\072) Tj
+0.251 -0.0035 TD
+0.0025 Tc
+(00) Tj
+0.3359 -1.6797 TD
+0 Tc
+(1) Tj
+0.5622 0.0035 TD
+(0) Tj
+0.5622 -0.0035 TD
+-0.0303 Tc
+[ (\0720) -39.9 (0) ] TJ
+0.5551 -1.6797 TD
+0 Tc
+(1) Tj
+0.5622 0.0035 TD
+(1) Tj
+0.5622 -0.0035 TD
+-0.0303 Tc
+[ (\0720) -39.9 (0) ] TJ
+0.5551 -1.6797 TD
+0 Tc
+(1) Tj
+0.5622 0.0035 TD
+(2) Tj
+0.5622 -0.0035 TD
+-0.0303 Tc
+[ (\0720) -39.9 (0) ] TJ
+1.0855 -1.6797 TD
+0 Tc
+(1) Tj
+0.5622 0.0035 TD
+(\072) Tj
+0.2511 -0.0035 TD
+0.0025 Tc
+(00) Tj
+0.8203 -1.6337 TD
+0.0096 Tc
+[ (2\072) 39.9 (0) ] TJ
+1.3755 -0.0035 TD
+0 Tc
+(0) Tj
+0.3041 -1.6761 TD
+0.0096 Tc
+[ (3\072) 39.9 (0) ] TJ
+1.3755 -0.0035 TD
+0 Tc
+(0) Tj
+0.3041 -1.6761 TD
+0.0096 Tc
+[ (4\072) 39.9 (0) ] TJ
+1.3755 -0.0035 TD
+0 Tc
+(0) Tj
+0.3041 -1.6761 TD
+0.0096 Tc
+[ (5\072) 39.9 (0) 7.1 (0) ] TJ
+/TT10 1 Tf
+11.9986 0 0 11.9981 288.36 486.96 Tm
+-0.0254 Tc
+[ (tim) -11.3 (e) ] TJ
+0 11.9986 -11.9981 0 143.46 574.5 Tm
+0.0142 Tc
+[ (pr) 28.3 (opor) 28.3 (t) 32.2 (i) 42 (on) ] TJ
+ET
+1 g
+398.58 662.28 77.22 -31.5 re
+B*
+/Cs6 cs
+0.60392 0.60392 1 scn
+0.75 w
+402.3 656.28 5.28 -5.22 re
+B*
+BT
+/TT12 1 Tf
+9.7488 0 0 9.7484 410.58 651.3 Tm
+0 g
+-0.0207 Tc
+[ (l) -32.4 (u) 0 (c) -62.3 (i) -26.3 (f) 23.3 (ugu) -6.2 (s) ] TJ
+ET
+/Cs6 cs
+0.60392 0.2 0.39608 scn
+402.3 640.56 5.28 -5.28 re
+B*
+BT
+9.7488 0 0 9.7484 410.58 635.58 Tm
+0 g
+-0.0217 Tc
+[ (s) -63.3 (e) -1 (p) -7.2 (t) -51.6 (ent) -51.6 (ri) -33.4 (on) -7.2 (al) -33.4 (i) -27.3 (s) ] TJ
+ET
+125.58 716.28 359.94 -237.72 re
+S
+BT
+/TT6 1 Tf
+12 0 0 12 490.14 474.72 Tm
+0 Tc
+( ) Tj
+10.02 0 0 10.02 126 465.54 Tm
+-0.0002 Tc
+0.0316 Tw
+[ (Fig\056 ) 6 (4\055 Proport) 8.2 (ion ) 5.9 (of calls m) 11.2 (a) -5.5 (de ) 5.9 (by each s) 5.7 (p) -3.2 (e) 6.5 (c) 0.5 (ie) ] TJ
+19.0539 0 TD
+-0.0006 Tc
+0.032 Tw
+[ (s by tim) 10.8 (e as) -6.7 ( related t) 7.8 (o) -3.6 ( the) 6.1 ( total num) 10.8 (b) -3.6 (er of ) ] TJ
+-19.0539 -1.1437 TD
+-0.0008 Tc
+0.0023 Tw
+[ (calls ) -6 (m) 10.6 (a) -0.1 (de by t) 7.6 (h) -3.8 (at s) 5.1 (p) -3.8 (ecies\056 ) ] TJ
+12 0 0 12 90 440.7 Tm
+0 Tc
+0 Tw
+( ) Tj
+0 -1.15 TD
+( ) Tj
+/TT8 1 Tf
+0 -1.155 TD
+-0.0002 Tc
+(Weather ) Tj
+/TT6 1 Tf
+3 -2.295 TD
+0.0006 Tc
+0.4694 Tw
+(For both ) Tj
+/TT8 1 Tf
+4.605 0 TD
+0.001 Tc
+0.469 Tw
+[ (M\056 luc) 4.8 (ifugu) 6 (s) ] TJ
+/TT6 1 Tf
+5.47 0 TD
+0 Tc
+0.47 Tw
+[ ( \050P \075 0\056738\054 Mann\055W) 8.8 (hitney\054 U \075 1535\051 and ) ] TJ
+/TT8 1 Tf
+21.845 0 TD
+0.002 Tc
+0 Tw
+[ (M\056) 7 ( ) ] TJ
+-34.92 -2.3 TD
+0.0011 Tc
+[ (septen) 6.1 (triona) 6.1 (lis ) ] TJ
+/TT6 1 Tf
+6.415 0 TD
+-0.0001 Tc
+0.2201 Tw
+[ (\050P \075 0\056468\054 Mann\055Whitney\054 U \075 1476\051\054 ) ] TJ
+17.465 0 TD
+0.0003 Tc
+0.2197 Tw
+[ (the num) 8.1 (ber of calls was not ) ] TJ
+-23.88 -2.3 TD
+0.001 Tc
+0.1033 Tw
+[ (rela) 4.8 (ted to whether it was raining a) 4.8 (t) -1.2 ( the tim) 8.8 (e the calls were record) 6 (ed\056  Additiona) 4.8 (lly) 6 (\054 the) 4.8 ( ) ] TJ
+T*
+0.3534 Tw
+[ (rela) 4.9 (tive abu) 6.1 (ndance of) 4.1 ( neithe) 4.9 (r) -0.9 ( spe) 4.9 (c) -0.1 (ies was c) 4.9 (o) 1.1 (rrelated w) 8.3 (ith tem) 8.9 (p) 1.1 (era) 4.9 (t) -1.1 (ure \050P \076 0\05605\054 ) ] TJ
+T*
+0.0004 Tc
+-0.0004 Tw
+[ (Kol) -6.8 (m) 8.2 (ogorov\055Sm) 8.2 (irnov\054 D \075 0\056105161\051\056 ) ] TJ
+T*
+0 Tc
+0 Tw
+( ) Tj
+0 -1.15 TD
+( ) Tj
+/TT2 1 Tf
+0 -1.155 TD
+-0.0006 Tc
+[ (DISCUSSI) -6.4 (ON ) ] TJ
+/TT6 1 Tf
+3 -2.29 TD
+-0.0003 Tc
+0.0903 Tw
+(The absence of ) Tj
+/TT8 1 Tf
+6.57 0 TD
+0.0008 Tc
+0.0892 Tw
+[ (M\056 septentrionalis) ] TJ
+/TT6 1 Tf
+7.38 0 TD
+0.0001 Tc
+0.0899 Tw
+[ ( at lakeside sites and its abundance at wooded ) ] TJ
+-16.95 -2.3 TD
+0.0007 Tc
+0.0893 Tw
+[ (sites) 4.9 ( conf) 3.7 (ir) 3.7 (m) 8.5 (s) -0.1 ( that this) 4.9 ( species) ] TJ
+12.52 0 TD
+0.0873 Tw
+[ ( is s) 4.9 (p) 0.7 (ecialized) 5.7 ( for gleaning) 5.7 ( a) ] TJ
+11.85 0 TD
+0 Tc
+0.088 Tw
+[ (nd prefers to forage in m) 7.8 (o) 0 (re) -6.2 ( ) ] TJ
+-24.37 -2.3 TD
+0.0009 Tc
+0.1124 Tw
+[ (enclosed h) 5.9 (a) 4.7 (bitats\054 as in) 5.9 (dicat) ] TJ
+11.505 0 TD
+-0.0001 Tc
+0.1151 Tw
+[ (ed by its high frequency\054 broadband calls\056  This preference ) ] TJ
+-11.505 -2.3 TD
+0.0006 Tc
+-0.0009 Tw
+[ (serves to sep) 5.6 (a) -0.6 (rate the n) 5.6 (i) -1.6 (c) 4.4 (h) 0.6 (es of) 3.6 ( the two species a) 4.4 (nd reduce co) 5.6 (mpetition b) 5.6 (e) 4.4 (tween them) 8.4 (\056 ) ] TJ
+ET
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 BIO\056G0\05628\0561 \055 Biology \055 Final Year Undergraduate \055 Female \055 Native Speaker \055 Research Paper) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(7) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+36 0 obj
+<<
+/Length 8851
+>>
+stream
+q
+/GS1 gs
+BT
+/TT6 1 Tf
+12 0 0 12 90 708.96 Tm
+0 g
+0.0019 Tc
+2.7481 Tw
+[ ( W) 5.7 (h) 1.9 (ile ) ] TJ
+/TT8 1 Tf
+5.775 0 TD
+0.0002 Tc
+0.0798 Tw
+[ (M\056 septentrionalis) ] TJ
+/TT6 1 Tf
+7.355 0 TD
+0.0005 Tc
+0.0795 Tw
+[ ( prefers to forage in wooded sites\054 ) ] TJ
+/TT8 1 Tf
+14.4 0 TD
+0.0004 Tc
+0.0796 Tw
+[ (M\056 lucifugus) ] TJ
+/TT6 1 Tf
+5.08 0 TD
+0.0008 Tc
+0.0792 Tw
+[ ( showed ) ] TJ
+-32.61 -2.3 TD
+0.0007 Tc
+0.1337 Tw
+[ (less of a preference\056  The roughly equal num) 8.5 (bers of ) ] TJ
+/TT8 1 Tf
+22.215 0 TD
+0.0009 Tc
+0.1341 Tw
+[ (M\056 lucifugus) ] TJ
+/TT6 1 Tf
+5.145 0 TD
+-0.0004 Tc
+[ ( at lakeside \05034\051 and ) ] TJ
+-27.36 -2.3 TD
+0.0007 Tc
+0.0826 Tw
+[ (wooded \05033\051 sites s) 4.9 (uggest th) 5.7 (at this s) 4.9 (p) 0.7 (ecies) 4.9 ( ) ] TJ
+17.78 0 TD
+0.0011 Tc
+[ (is a g) 6.1 (e) -0.1 (neralis) 5.3 (t an) 6.1 (d will ) ] TJ
+9.67 0 TD
+0.0001 Tc
+0.0832 Tw
+[ (bo) 5.1 (th hawk and glean ) ] TJ
+-27.45 -2.3 TD
+-0.0011 Tc
+0 Tw
+(prey\056 ) Tj
+3 -2.3 TD
+0.001 Tc
+0.004 Tw
+(However\054 70\045 of all calls \050211 of 300\051 were) Tj
+17.905 0 TD
+0.0007 Tc
+0.0043 Tw
+( recorded at wooded habitats\056  The 33 ) Tj
+/TT8 1 Tf
+-20.905 -2.3 TD
+0.0012 Tc
+0.1388 Tw
+[ (M\056 lu) 6.2 (cifugu) 6.2 (s) ] TJ
+/TT6 1 Tf
+5.14 0 TD
+-0.0004 Tc
+0.1404 Tw
+[ ( calls at the wooded site) ] TJ
+10.27 0 TD
+0 Tc
+0.1391 Tw
+[ (s m) 7.8 (a) -1.2 (de up only 16\045 of th) ] TJ
+11.1 0 TD
+0.0008 Tc
+0.1367 Tw
+[ (e total num) 8.6 (b) 0.8 (er) ] TJ
+6.05 0 TD
+-0.0008 Tc
+0.1408 Tw
+[ ( of calls ) ] TJ
+-32.56 -2.3 TD
+0.0001 Tc
+0.0539 Tw
+[ (recorded at wooded sites\056  At) ] TJ
+11.94 0 TD
+0.0007 Tc
+0.0518 Tw
+[ ( the lakeside ) ] TJ
+5.415 0 TD
+-0.0002 Tc
+0.0552 Tw
+[ (sites\054 the 34 ) ] TJ
+/TT8 1 Tf
+5.16 0 TD
+0 Tc
+0.055 Tw
+[ (M\056 lucifugus) ] TJ
+/TT6 1 Tf
+5.055 0 TD
+0.0002 Tc
+0.0535 Tw
+[ ( calls m) 8 (a) -1 (kes up 81\045 ) ] TJ
+-27.57 -2.3 TD
+0.0011 Tc
+-0.0011 Tw
+[ (of) 4.1 ( the tota) 4.9 (l n) 6.1 (u) -3.9 (m) 8.9 (b) 1.1 (er of) 4.1 ( calls reco) 6.1 (rded\056) 6.1 ( ) ] TJ
+3 -2.3 TD
+0 Tc
+0 Tw
+( ) Tj
+ET
+1 g
+0 G
+0 J
+0 j
+0.06 w
+10 M
+[ ] 0 d
+1 i
+125.58 481.74 359.94 -204.72 re
+B*
+0.754 g
+176.58 303.24 261.72 128.28 re
+f
+q
+176.58 317.4 261.72 0.12 re
+W
+n
+q
+1 0 0 1 176.58 317.52 cm
+0 0 m
+261.72 0 l
+S
+Q
+Q
+q
+176.58 331.62 261.72 0.12 re
+W
+n
+q
+1 0 0 1 176.58 331.74 cm
+0 0 m
+261.72 0 l
+S
+Q
+Q
+q
+176.58 345.9 261.72 0.12 re
+W
+n
+q
+1 0 0 1 176.58 346.02 cm
+0 0 m
+261.72 0 l
+S
+Q
+Q
+q
+176.58 360.12 261.72 0.12 re
+W
+n
+q
+1 0 0 1 176.58 360.24 cm
+0 0 m
+261.72 0 l
+S
+Q
+Q
+q
+176.58 374.4 261.72 0.12 re
+W
+n
+q
+1 0 0 1 176.58 374.52 cm
+0 0 m
+261.72 0 l
+S
+Q
+Q
+q
+176.58 388.62 261.72 0.12 re
+W
+n
+q
+1 0 0 1 176.58 388.74 cm
+0 0 m
+261.72 0 l
+S
+Q
+Q
+q
+176.58 402.9 261.72 0.12 re
+W
+n
+q
+1 0 0 1 176.58 403.02 cm
+0 0 m
+261.72 0 l
+S
+Q
+Q
+q
+176.58 417.12 228 0.12 re
+W
+n
+q
+1 0 0 1 176.58 417.24 cm
+0 0 m
+261.72 0 l
+S
+Q
+Q
+q
+176.58 431.4 228 0.12 re
+W
+n
+q
+1 0 0 1 176.58 431.52 cm
+0 0 m
+261.72 0 l
+S
+Q
+Q
+q
+176.16 430.92 228.42 1.02 re
+W
+n
+0.5 G
+1 J
+1 j
+0.75 w
+q
+1 0 0 1 176.58 431.52 cm
+0 0 m
+261.72 0 l
+S
+Q
+Q
+q
+437.88 302.7 0.95999 106.26 re
+W
+n
+0.5 G
+1 J
+1 j
+0.75 w
+q
+1 0 0 1 438.3 431.52 cm
+0 0 m
+0 -128.28 l
+S
+Q
+Q
+0.5 G
+1 J
+1 j
+0.75 w
+q
+1 0 0 1 438.3 303.24 cm
+0 0 m
+-261.72 0 l
+-261.72 128.28 l
+S
+Q
+/Cs6 cs
+0.60392 0.60392 1 scn
+195.3 303.24 24.78 22.5 re
+f
+q
+194.88 303.24 25.74 22.98 re
+W
+n
+0 G
+195.3 325.74 24.78 -22.5 re
+S
+Q
+282.3 303.24 25.5 36 re
+f
+q
+281.88 303.24 26.46 36.48 re
+W
+n
+0 G
+282.3 339.24 25.5 -36 re
+S
+Q
+370.08 303.24 24.72 115.5 re
+f
+q
+369.6 303.24 25.74 115.92 re
+W
+n
+0 G
+370.08 418.74 24.72 -115.5 re
+S
+Q
+0.60392 0.2 0.39608 scn
+220.08 303.24 24.72 120 re
+f
+q
+219.66 303.24 25.74 120.42 re
+W
+n
+0 G
+220.08 423.24 24.72 -120 re
+S
+Q
+307.8 303.24 24.78 106.5 re
+f
+q
+307.38 303.24 25.74 106.92 re
+W
+n
+0 G
+307.8 409.74 24.78 -106.5 re
+S
+Q
+394.8 303.24 24.78 27 re
+f
+q
+394.38 303.24 25.74 27.48 re
+W
+n
+0 G
+394.8 330.24 24.78 -27 re
+S
+Q
+0 G
+0.06 w
+q
+1 0 0 1 176.58 431.52 cm
+0 0 m
+0 -128.28 l
+S
+1 0 0 1 -3.78 -128.28 cm
+0 0 m
+3.78 0 l
+S
+1 0 0 1 0 14.28 cm
+0 0 m
+3.78 0 l
+S
+1 0 0 1 0 14.22 cm
+0 0 m
+3.78 0 l
+S
+1 0 0 1 0 14.28 cm
+0 0 m
+3.78 0 l
+S
+1 0 0 1 0 14.22 cm
+0 0 m
+3.78 0 l
+S
+1 0 0 1 0 14.28 cm
+0 0 m
+3.78 0 l
+S
+1 0 0 1 0 14.22 cm
+0 0 m
+3.78 0 l
+S
+1 0 0 1 0 14.28 cm
+0 0 m
+3.78 0 l
+S
+1 0 0 1 0 14.22 cm
+0 0 m
+3.78 0 l
+S
+1 0 0 1 0 14.28 cm
+0 0 m
+3.78 0 l
+S
+1 0 0 1 3.78 -128.28 cm
+0 0 m
+261.72 0 l
+S
+1 0 0 1 0 -3.72 cm
+0 0 m
+0 3.72 l
+S
+1 0 0 1 87 0 cm
+0 0 m
+0 3.72 l
+S
+1 0 0 1 87.72 0 cm
+0 0 m
+0 3.72 l
+S
+1 0 0 1 87 0 cm
+0 0 m
+0 3.72 l
+S
+Q
+BT
+/TT10 1 Tf
+11.9986 0 0 11.9981 169.86 463.14 Tm
+0 g
+0.0142 Tc
+-0.042 Tw
+[ (R) -13.7 (e) 10.3 (l) 42 (a) 5.3 (t) 37.2 (i) 42 (v) 5.3 (e) 10.3 ( a) 5.3 (bunda) 10.3 (nc) 5.3 (e) 10.3 ( of) 32.2 ( e) 10.3 (a) 5.3 (c) 10.3 (h) 0 ( s) 5.3 (p) 0 (e) 10.3 (c) 5.3 (i) 42 (e) 10.3 (s) 5.3 ( i) 42 (n) 0 ( t) 37.2 (h) 0 (e) 5.3 ( t) 37.2 (h) 0 (r) 28.3 (e) 5.3 (e) 10.3 ( ) ] TJ
+9.4361 -1.3152 TD
+0 Tw
+[ (ha) 5.3 (bi) 42 (t) 37.2 (a) 5.3 (t) 37.2 (s) ] TJ
+/TT12 1 Tf
+11.2488 0 0 11.2479 161.58 299.1601 Tm
+0 Tc
+(0) Tj
+-0.8001 1.2642 TD
+-0.0228 Tc
+[ (0\056) -11.7 (1) ] TJ
+0 1.2696 TD
+[ (0\056) -11.7 (2) ] TJ
+0 1.2642 TD
+[ (0\056) -11.7 (3) ] TJ
+0 1.2696 TD
+[ (0\056) -11.7 (4) ] TJ
+0 1.2642 TD
+[ (0\056) -11.7 (5) ] TJ
+0 1.2696 TD
+[ (0\056) -11.7 (6) ] TJ
+0 1.2642 TD
+[ (0\056) -11.7 (7) ] TJ
+0 1.2696 TD
+[ (0\056) -11.7 (8) ] TJ
+0 1.2642 TD
+[ (0\056) -11.7 (9) ] TJ
+4.6032 -12.8664 TD
+[ (w) -31.4 (oods) -5459.4 (r) -20.5 (i) -3.3 (v) 13.2 (e) 0 (r) -5957.1 (l) -3.3 (ak) 13.2 (e) ] TJ
+/TT10 1 Tf
+0 11.2488 -11.2479 0 143.52 339.24 Tm
+-0.0081 Tc
+[ (p) 5.3 (r) -19 (op) 5.3 (or) -19 (t) -5.8 (i) 3 (on) ] TJ
+ET
+1 g
+404.58 440.52 77.22 -31.5 re
+B*
+/Cs6 cs
+0.60392 0.60392 1 scn
+0.75 w
+408.3 434.52 5.28 -5.28 re
+B*
+BT
+/TT12 1 Tf
+9.7488 0 0 9.7484 416.58 429.54 Tm
+0 g
+-0.0207 Tc
+[ (l) -32.4 (u) 0 (c) -62.3 (i) -26.3 (f) 23.3 (ugu) -6.2 (s) ] TJ
+ET
+/Cs6 cs
+0.60392 0.2 0.39608 scn
+408.3 418.74 5.28 -5.22 re
+B*
+BT
+9.7488 0 0 9.7484 416.58 413.76 Tm
+0 g
+-0.0217 Tc
+[ (s) -63.3 (e) -1 (p) -7.2 (t) -51.6 (ent) -51.6 (ri) -33.4 (on) -7.2 (al) -33.4 (i) -27.3 (s) ] TJ
+ET
+0.06 w
+125.58 481.74 359.94 -204.72 re
+S
+BT
+/TT6 1 Tf
+12 0 0 12 490.14 273.1801 Tm
+0 Tc
+( ) Tj
+10.02 0 0 10.02 126 264.0001 Tm
+-0.0001 Tc
+0.0076 Tw
+[ (Fig\056 ) 6 (5\055 Relative abunda) 6.6 (nce ) 6 (of each ) 6 (species a) 6.6 (t) 2.3 ( ) ] TJ
+18.3174 0 TD
+-0.0003 Tc
+0.0018 Tw
+[ (each of ) -6 (the ) -6 (t) 8.1 (h) 2.7 (ree habitats\056 ) -6 ( For each ) -6 (species) 5.6 (\054 ) ] TJ
+-18.3174 -1.1497 TD
+-0.0001 Tc
+0.0076 Tw
+[ (proportions are) 6.6 ( calculated as the ) ] TJ
+13.2156 0 TD
+-0.0013 Tc
+0.0088 Tw
+[ (nu) -4.3 (m) 10.1 (b) -4.3 (er o) -4.3 (f) -3.6 ( calls reco) -4.3 (rd) -4.3 (ed) -4.3 ( at) 7.1 ( a certain) -4.3 ( h) -4.3 (a) -0.6 (b) -4.3 (itat as related) -4.3 ( to) -10.3 ( ) ] TJ
+-13.2156 -1.1437 TD
+0.0027 Tw
+[ (th) -4.2 (e to) -4.2 (tal ) 6 (n) -4.2 (u) -4.2 (m) 10.2 (b) -4.2 (e) -0.5 (r ) 6 (o) -4.2 (f) -3.5 ( calls ) 6 (record) -4.2 (ed) -4.2 ( at t) 7.2 (h) -4.2 (at h) -4.2 (a) 5.5 (b) -4.2 (itat\056 ) ] TJ
+12 0 0 12 90 227.64 Tm
+0 Tc
+0 Tw
+( ) Tj
+0 -1.15 TD
+0.0002 Tc
+0.0948 Tw
+[ (Thus\054 the relative abundance of ) ] TJ
+/TT8 1 Tf
+13.305 0 TD
+0.001 Tc
+0.094 Tw
+[ (M\056 lucifugus ) ] TJ
+/TT6 1 Tf
+5.45 0 TD
+0.0007 Tc
+0.0943 Tw
+[ (was the highest at the lak) 5.7 (e) 4.5 (side sites\056  The) -5.5 ( ) ] TJ
+-18.755 -2.3 TD
+0.0004 Tc
+0.2246 Tw
+[ (unequal proportions of ) ] TJ
+/TT8 1 Tf
+10.035 0 TD
+0 Tc
+0.225 Tw
+[ (M\056 lucifugus) ] TJ
+/TT6 1 Tf
+5.225 0 TD
+-0.0001 Tc
+0.2251 Tw
+[ ( at lakeside \050\05681\051 and ) ] TJ
+9.735 0 TD
+[ (wooded \050\05616\051 sites further ) ] TJ
+-24.995 -2.3 TD
+0.0016 Tc
+0.1334 Tw
+[ (conf) 4.6 (irm) 9.4 (s) 0.8 ( that ) ] TJ
+/TT8 1 Tf
+5.83 0 TD
+0.0005 Tc
+0.1345 Tw
+[ (M\056 septentrionalis) ] TJ
+/TT6 1 Tf
+7.42 0 TD
+0.0003 Tc
+0.1347 Tw
+[ ( prefers wooded sites over lakeside sites\056  However\054 it ) ] TJ
+-13.25 -2.3 TD
+0.0008 Tc
+0.1692 Tw
+[ (cannot be concluded from) 8.6 ( these two pieces of data that ) ] TJ
+/TT8 1 Tf
+23.935 0 TD
+0 Tc
+0.17 Tw
+[ (M\056 lucifugus) ] TJ
+/TT6 1 Tf
+5.17 0 TD
+0.0002 Tc
+0.1698 Tw
+[ ( prefers lakeside ) ] TJ
+-29.105 -2.3 TD
+0.001 Tc
+-0.001 Tw
+[ (sites\054 b) 6 (ecaus) 5.2 (e) -0.2 ( ) ] TJ
+/TT8 1 Tf
+5.695 0 TD
+[ (M\056 luc) 4.9 (ifug) 6.1 (u) 1.1 (s) ] TJ
+/TT6 1 Tf
+5 0 TD
+0.0004 Tc
+-0.0004 Tw
+[ ( num) 8.2 (bers at lakeside sites were ) ] TJ
+12.665 0 TD
+-0.0037 Tw
+(equal to those at) Tj
+6.525 0 TD
+-0.0003 Tc
+0.0003 Tw
+( wooded sites\056 ) Tj
+ET
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 BIO\056G0\05628\0561 \055 Biology \055 Final Year Undergraduate \055 Female \055 Native Speaker \055 Research Paper) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(8) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+37 0 obj
+<<
+/Length 5318
+>>
+stream
+q
+/GS1 gs
+BT
+/TT6 1 Tf
+12 0 0 12 90 708.96 Tm
+0 g
+-0.0001 Tc
+0.2951 Tw
+[ ( ) -2455 (Both species showed the m) 7.7 (o) -0.1 (st activity during the early hours of the night\056 ) 295 ( ) ] TJ
+0 -2.3 TD
+0.0003 Tc
+0.0697 Tw
+[ (However\054 while ) ] TJ
+/TT8 1 Tf
+6.78 0 TD
+0 Tc
+0.065 Tw
+[ (M\056 lucifugus) ] TJ
+/TT6 1 Tf
+5.065 0 TD
+0.0003 Tc
+0.0689 Tw
+[ ( becomes active again at about 1\07200 am) 8.1 (\054 ) ] TJ
+/TT8 1 Tf
+16.8 0 TD
+0.0013 Tc
+0.0687 Tw
+[ (M\056 septentrion) 6.3 (a) 1.3 (lis) ] TJ
+/TT6 1 Tf
+7.355 0 TD
+0 Tc
+0 Tw
+( ) Tj
+-36 -2.3 TD
+0.0009 Tc
+0.0691 Tw
+[ (num) 8.7 (b) 0.9 (ers steadily d) 5.9 (eclin) 5.9 (e and d) 5.9 (r) ] TJ
+12.995 0 TD
+-0.0003 Tc
+0.0695 Tw
+[ (op off at around that tim) 7.5 (e) -1.5 (\056  Th) ] TJ
+12.525 0 TD
+0.0008 Tc
+0.0672 Tw
+[ (is trend) 5.8 ( m) 8.6 (a) -0.3 (y be related to ) ] TJ
+-25.52 -2.3 TD
+0.0005 Tc
+0.0238 Tw
+[ (being a gleaner\056  Becaus) 4.7 (e) -0.7 ( a glean) 5.5 (er must snat) ] TJ
+18.335 0 TD
+0.0003 Tc
+0.0232 Tw
+[ (ch insects off of stationary objects\054 it w) 7.5 (ould ) ] TJ
+-18.335 -2.3 TD
+0.001 Tc
+0.0897 Tw
+[ (be helpful for them) 8.8 ( to supplem) 8.8 (ent their echol) ] TJ
+18.73 0 TD
+0.0003 Tc
+[ (o) 5.3 (c) 4.1 (ation with sight\056  Further\054 because sight) -6.9 ( ) ] TJ
+-18.73 -2.3 TD
+0.0006 Tc
+0.0044 Tw
+(depends on the availability of light\054 using sight) Tj
+18.83 0 TD
+0.0009 Tc
+0.0053 Tw
+[ ( w) 8.1 (ould be m) 8.7 (o) 0.9 (re effec) ] TJ
+8.51 0 TD
+0.0012 Tc
+0.0038 Tw
+[ (tive during the ea) 5 (r) 4.2 (lie) 5 (r ) ] TJ
+-27.34 -2.3 TD
+0.0005 Tc
+-0.0021 Tw
+(hours of the evening\056) Tj
+/TT2 1 Tf
+8.44 0 TD
+0 Tc
+0 Tw
+( ) Tj
+/TT6 1 Tf
+-5.44 -2.3 TD
+-0.0002 Tc
+0.0202 Tw
+[ (Rainfall and tem) 7.6 (p) -0.2 (erature data\054 neither of) ] TJ
+16.305 0 TD
+-0.0003 Tc
+0.0186 Tw
+[ ( which was significa) ] TJ
+8.245 0 TD
+-0.0002 Tc
+0.0177 Tw
+(nt\054 nonetheless could ) Tj
+-27.55 -2.3 TD
+0.0008 Tc
+0.002 Tw
+[ (have had an influence on the tem) 8.6 (poral data\056 ) ] TJ
+17.72 0 TD
+0.0009 Tc
+0.0032 Tw
+[ ( Rain) 5.9 (fall and tem) 8.7 (p) 0.9 (eratu) 5.9 (r) -1.1 (e were reco) 5.9 (rded o) 5.9 (n) 0.9 (ce ) ] TJ
+-17.72 -2.3 TD
+0.0005 Tc
+0.1145 Tw
+[ (an hour\056  Thus\054 calls recorded during an hour) ] TJ
+18.935 0 TD
+0.0004 Tc
+0.1153 Tw
+[ ( in which rainfall was observed were not ) ] TJ
+-18.935 -2.3 TD
+-0.0016 Tw
+[ (necessarily recorded in the rain\056) 5.4 ( ) ] TJ
+T*
+0.0002 Tc
+0.0698 Tw
+[ ( ) -2680 (Another problem) 8 ( with the study arose from) 8 ( ) ] TJ
+21.055 0 TD
+0.001 Tc
+0.069 Tw
+[ (lim) 8.8 (itations of) 4 ( th) 6 (e An) ] TJ
+8.515 0 TD
+-0.0007 Tc
+0.0682 Tw
+[ (abat II detector\056 ) 67.5 ( ) ] TJ
+-29.57 -2.3 TD
+0.0009 Tc
+0.1437 Tw
+[ (The detecto) 5.9 (r) -1.1 ( record) 5.9 (ed only the nu) 5.9 (mber of calls\054 not the n) 5.9 (u) -4.1 (m) 8.7 (b) 0.9 (er of bats pres) 5.1 (ent\056  It is ) ] TJ
+0 -2.295 TD
+0.0008 Tc
+0.0395 Tw
+[ (possible th) 5.8 (at m) 8.6 (u) 0.8 (ltiple pa) 4.6 (sses were made by a single bat\056  For each specie) 4.6 (s) 0 (\054 if the number ) ] TJ
+0 -2.3 TD
+0.0006 Tc
+0.0894 Tw
+[ (of calls was) 4.8 ( evenly distributed am) 8.4 (ongst the nu) ] TJ
+19.155 0 TD
+0.0003 Tc
+0.0897 Tw
+[ (mber of bats present\054 then the number of) 8.3 ( ) ] TJ
+-19.155 -2.3 TD
+0.1387 Tw
+[ (calls record) 5.4 (ed is) 4.6 ( ind) 5.4 (i) -1.8 (cative of th) 5.4 (e relative) ] TJ
+17.32 0 TD
+0 Tc
+[ ( abundance of that sp) ] TJ
+9.045 0 TD
+-0.0003 Tc
+0.1403 Tw
+[ (ecies\054 and this problem ) ] TJ
+-26.365 -2.3 TD
+0.0004 Tc
+0.0946 Tw
+[ (should not influence our results\056  H) 7.6 (o) 0.4 (wever\054 if) ] TJ
+18.8 0 TD
+0.0002 Tc
+0.0948 Tw
+[ ( most of the calls recorded were m) 8 (a) -6 (de by ) ] TJ
+-18.8 -2.3 TD
+0.0007 Tc
+0.1293 Tw
+[ (one or a fe) -5.5 (w bats\054 then the num) 8.5 (b) 0.7 (er of calls ) ] TJ
+18.57 0 TD
+0.0004 Tc
+0.1296 Tw
+[ (was not evenly distributed\054 and this could ) ] TJ
+-18.57 -2.3 TD
+0 Tc
+0 Tw
+(have affected our results\056 ) Tj
+T*
+0.0002 Tc
+0.0078 Tw
+[ ( ) -2742 (It would also be helpful to) ] TJ
+13.57 0 TD
+0.0008 Tc
+0.0083 Tw
+[ ( see) 4.6 ( if) 3.8 ( the) 4.6 ( spatial and) 5.8 ( tem) ] TJ
+10.205 0 TD
+0.0004 Tc
+0.0079 Tw
+[ (poral segregation we observed ) ] TJ
+-23.775 -2.3 TD
+0.0011 Tc
+0.1789 Tw
+[ (exists in a) 4.9 (r) 4.1 (eas where the two species are a) 4.9 (llo) 6.1 (patr) 4.1 (ic\056  If) 4.1 ( this is the c) 4.9 (a) 0 (se\054 then we can ) ] TJ
+T*
+0.0001 Tc
+0.0282 Tw
+[ (conclude that the segregation ) ] TJ
+12.06 0 TD
+-0.0005 Tc
+0.0295 Tw
+[ (we observed is due to intrinsi) ] TJ
+11.885 0 TD
+0 Tc
+0.03 Tw
+[ (c differences between the two ) ] TJ
+-23.945 -2.3 TD
+0.0006 Tc
+0.1585 Tw
+[ (and tha) 4.4 (t) -1.6 ( co) 5.6 (mpetition) 5.6 ( d) 5.6 (o) 0.6 (es not inf) 3.6 (l) -1.6 (uence hab) 5.6 (i) -1.6 (ta) ] TJ
+19.45 0 TD
+0.1586 Tw
+[ (t pref) 3.6 (e) 4.4 (r) -1.4 (enc) 4.4 (e) -0.6 (\056  If) 3.6 (\054 however\054 eithe) 4.4 (r) -1.4 ( of) 3.6 ( the ) ] TJ
+ET
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 BIO\056G0\05628\0561 \055 Biology \055 Final Year Undergraduate \055 Female \055 Native Speaker \055 Research Paper) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(9) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+38 0 obj
+<<
+/Length 4280
+>>
+stream
+q
+/GS1 gs
+BT
+/TT6 1 Tf
+12 0 0 12 90 708.96 Tm
+0 g
+0 Tc
+0.03 Tw
+[ (species expands its foraging habi) ] TJ
+13.335 0 TD
+0.0001 Tc
+0.0274 Tw
+[ (tats \050if either species shows ) ] TJ
+11.39 0 TD
+0.0002 Tc
+0.0298 Tw
+[ (n) 5.2 (o) 0.2 ( preference) 4.1 ( for any of the ) ] TJ
+-24.725 -2.3 TD
+0.001 Tc
+-0.0022 Tw
+[ (habita) 4.8 (ts\051\054 th) 6 (en the seg) 6 (r) -1 (e) 4.8 (g) 1 (ation we ) ] TJ
+13.665 0 TD
+-0.0002 Tc
+0.0002 Tw
+(observed was due to competition\056 ) Tj
+-13.665 -2.3 TD
+0 Tc
+0 Tw
+( ) Tj
+0 -1.15 TD
+( ) Tj
+/TT2 1 Tf
+0 -1.16 TD
+-0.0007 Tc
+[ (ACKNOWLEDGME) -3.7 (N) 1.5 (TS) -4.5 ( ) ] TJ
+/TT6 1 Tf
+0 -1.14 TD
+-0.0003 Tc
+0.1994 Tw
+[ ( ) -2550.9 (Dr\056 Phil M) 3.9 (y) -0.3 (ers\054 Lucia Luna\054 Lyssa Sper) ] TJ
+20.155 0 TD
+0.0009 Tc
+0.1991 Tw
+[ (lich) 5.9 ( \050b) 5.9 (at nazi\051\054) 5.9 ( E) 6.7 (m) 8.7 (ilio Dirlik) 5.9 (ov\054 Sean ) ] TJ
+-20.155 -1.15 TD
+0 Tc
+0 Tw
+(Ewing\054 Alicia Eby\056 ) Tj
+T*
+( ) Tj
+T*
+( ) Tj
+/TT2 1 Tf
+0 -1.16 TD
+( ) Tj
+0 -1.15 TD
+-0.0014 Tc
+0.0064 Tw
+[ (LITERAT) -4.4 (URE CITE) -4.4 (D ) ] TJ
+/TT6 1 Tf
+0 -1.14 TD
+0 Tc
+0 Tw
+( ) Tj
+0 -1.15 TD
+0.0002 Tc
+0.0253 Tw
+[ (Barclay\054 R\056 M\056 R\056 \046 Fe) -6 (nton\054 M\056 B\056  1980\056  ) ] TJ
+/TT8 1 Tf
+17.485 0 TD
+0.0012 Tc
+0.0238 Tw
+[ (Myotis luc) 5 (ifugu) 6.2 (s) 5.4 (\056) ] TJ
+/TT6 1 Tf
+6.915 0 TD
+0.0002 Tc
+0.0248 Tw
+[ (  Ma) -6 (mm) 8 (alian Species 142\0721\055) ] TJ
+-22.9 -1.15 TD
+0 Tc
+0 Tw
+(8\056 ) Tj
+-1.5 -1.15 TD
+( ) Tj
+T*
+0.0005 Tc
+0.0395 Tw
+[ (Caceres\054 M\056) 5.5 ( C\056 \046 Barclay\054 R\056 M\056 R\056  2000\056  ) ] TJ
+/TT8 1 Tf
+18.03 0 TD
+0.0007 Tc
+0.0393 Tw
+[ (Myotis sep) 5.7 (t) -1.5 (entr) 4.9 (ionalis\056) ] TJ
+/TT6 1 Tf
+9.215 0 TD
+0.0002 Tc
+0.0398 Tw
+[ (  Mammalian Species) 4.4 ( ) ] TJ
+-25.745 -1.15 TD
+-0.0001 Tc
+0 Tw
+(634\0721\0554\056 ) Tj
+-1.5 -1.15 TD
+0 Tc
+( ) Tj
+T*
+-0.0002 Tc
+0.0346 Tw
+[ (Faure\054 P\056 A\056\054 Fullard\054 J\056 H\056 \046 Dawson\054 J\056 W) 8.6 (\056) ] TJ
+17.985 0 TD
+-0.0005 Tc
+0.0355 Tw
+[ (  1993\056  The gleaning attacks of the northern ) ] TJ
+-16.485 -1.15 TD
+0.0005 Tc
+0.0945 Tw
+(long\055eared bat\054 ) Tj
+/TT8 1 Tf
+6.45 0 TD
+0.001 Tc
+0.094 Tw
+[ (Myotis septen) 6 (triona) 6 (lis) ] TJ
+/TT6 1 Tf
+9.02 0 TD
+0.0008 Tc
+0.0992 Tw
+[ (\054 are relatively inaud) 5.8 (i) 3.6 (ble to m) 8.6 (o) 0.8 (ths) ] TJ
+/TT8 1 Tf
+13.945 0 TD
+0 Tc
+0 Tw
+(\056) Tj
+/TT6 1 Tf
+0.25 0 TD
+0.001 Tc
+0.099 Tw
+[ (  Journal of ) ] TJ
+-29.665 -1.15 TD
+0.0002 Tc
+-0.0002 Tw
+[ (Experim) 8 (e) -1 (ntal Biology 178\072173\055189\056 ) ] TJ
+-1.5 -1.15 TD
+0 Tc
+0 Tw
+( ) Tj
+T*
+0.0005 Tc
+0.12 Tw
+[ (Kurta\054 A\056  1995\056  Ma) -5.7 (mm) 8.3 (als of the Great La) ] TJ
+18.43 0 TD
+-0.0001 Tc
+0.1201 Tw
+[ (kes Region\056 University of Michigan Press\054 ) ] TJ
+-16.93 -1.15 TD
+0.0001 Tc
+-0.0001 Tw
+(Ann Arbor\054 66\05571\056 ) Tj
+-1.5 -1.145 TD
+0 Tc
+0 Tw
+( ) Tj
+0 -1.15 TD
+-0.0002 Tc
+0.1452 Tw
+[ (Ratcliffe\054 J\056 M\056 \046 Dawson\054 J\056 W) 8.6 (\056) -0.2 (  2003\056  Beha) ] TJ
+19.9 0 TD
+-0.0003 Tc
+0.1443 Tw
+[ (vioural flexibility\072 the little brown bat\054 ) ] TJ
+/TT8 1 Tf
+-18.4 -1.15 TD
+0.0001 Tc
+0.0599 Tw
+[ (Myotis lucifugus) ] TJ
+/TT6 1 Tf
+6.7 0 TD
+0 Tc
+0.059 Tw
+[ (\054 and the northern long\055eared bat\054 ) ] TJ
+/TT8 1 Tf
+13.905 0 TD
+0.06 Tw
+[ (M\056 septentrionalis) ] TJ
+/TT6 1 Tf
+7.335 0 TD
+-0.0004 Tc
+0.0604 Tw
+[ (\054 both glean and ) ] TJ
+-27.94 -1.15 TD
+0.0001 Tc
+-0.0001 Tw
+[ (hawk prey\056  Ani) -7.1 (m) 7.9 (al Behaviour 66\072847\055856\056 ) ] TJ
+-1.5 -1.15 TD
+0 Tc
+0 Tw
+( ) Tj
+T*
+0.0001 Tc
+0.3192 Tw
+[ (Schnitzler\054 H\056 U\056 \046 Kalko\054 E\056 K\056 V\056  ) ] TJ
+17.65 0 TD
+0.0006 Tc
+0.3181 Tw
+[ (2001\056  Echolocation by in) ] TJ
+11.59 0 TD
+-0.0007 Tc
+0.3207 Tw
+[ (sect\055eating bats\056 ) 320 ( ) ] TJ
+-27.74 -1.15 TD
+0.0003 Tc
+-0.0053 Tw
+(BioScience 51\072557\055569\056 ) Tj
+ET
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 BIO\056G0\05628\0561 \055 Biology \055 Final Year Undergraduate \055 Female \055 Native Speaker \055 Research Paper) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(10) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+xref
+0 39
+0000000000 65535 f 
+0000000009 00000 n 
+0000000127 00000 n 
+0000000228 00000 n 
+0000000277 00000 n 
+0000000652 00000 n 
+0000001003 00000 n 
+0000001366 00000 n 
+0000001717 00000 n 
+0000002080 00000 n 
+0000002487 00000 n 
+0000002907 00000 n 
+0000003315 00000 n 
+0000003679 00000 n 
+0000004043 00000 n 
+0000012135 00000 n 
+0000012220 00000 n 
+0000012653 00000 n 
+0000012930 00000 n 
+0000013354 00000 n 
+0000013624 00000 n 
+0000014021 00000 n 
+0000014303 00000 n 
+0000014933 00000 n 
+0000015197 00000 n 
+0000021054 00000 n 
+0000026158 00000 n 
+0000031063 00000 n 
+0000035778 00000 n 
+0000051345 00000 n 
+0000051382 00000 n 
+0000054081 00000 n 
+0000054451 00000 n 
+0000054694 00000 n 
+0000055087 00000 n 
+0000055336 00000 n 
+0000065686 00000 n 
+0000074590 00000 n 
+0000079961 00000 n 
+trailer
+<<
+/Size 39
+/Root 3 0 R
+/Info 2 0 R
+>>
+startxref
+84294
+%%EOF

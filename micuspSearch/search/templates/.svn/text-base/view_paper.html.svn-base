@@ -1,0 +1,227 @@
+       <html>
+           <head>
+	       <title>MICUSP -  {{pid}}</title>
+		<script type="text/javascript" src="/search/js/jquery-1.4.1.min.js"></script>
+		<script type="text/javascript" src="/search/js/jquery.qtip-1.0.0-rc3-dm.min.js"></script>
+
+               <style type="text/css">
+                   .hit { 
+                       background-color: #c9e9e8;
+                   }
+                   
+                   .term {
+                       font-weight: bold; 
+                   }
+                   
+		   #paperBody {
+			padding-top: 12px;
+			/*border-top: 2px solid #404040;*/
+			/*position: relative;*/
+			overflow: auto;
+			height: 65%;
+			line-height: 160%;
+			width: 70%;
+			padding-left: 5%;
+			padding-right: 5%;
+			font-size: 14px;
+			margin-left: 10%;
+			padding-right: 10%;
+			margin-top: 20px;
+			clear: both;
+		   }
+	
+		  #paperBody #text { text-align: left; }
+				
+
+		   #header .titleTable { width: 100%; margin: 0;}
+		   .titleTable td.paperID { width: 125px;}
+		   .titleTable td.bar { background: url("/search/img/header-shad.png") repeat-x scroll 0 0 #4CBBC2; vertical-align: top;}
+		   #header .titleTable td { font-size: 16px; font-weight: bold; font-family: "Segoe UI", Arial, Helvetica, Sans Serif; color: #FFFFFF; padding: 4px;}
+		   #header .titleTable .pdf-link a {  font-family: "Segoe UI", Arial, Helvetica, Sans Serif; font-size: 12pt; text-decoration: none; color: #000000}
+	           .pdf-link { text-align: right; width: 210px;}
+		 
+		   #header .titleTable .pdf-link a:hover { color: #4CBBC2;  }
+		   #header table { margin: 0px; }
+		   #header .label {
+			margin:0px;
+			padding-right: 8pt;
+			font-weight: bold;
+			text-align:right;
+	          }
+
+		#header table { font-size: 10pt;}
+	
+		/*
+		 #header .values {
+			background-color: #c9e9e8;
+		}
+		*/
+		#paperDataTable { width: 45%;  font-family: "Segoe UI", Arial, Helvetica, Sans Serif; float: left;}
+		#paperDataTable tr.odd td { background-color: #e5e5e5; }
+		
+
+		body { font-family: Tahoma,Sans Serif }
+
+
+		.head_1 { font-weight: bold; font-size: 105%;}
+		.head_2 { font-weight: bold; }
+		.head_3 { font-style: italic; }
+
+		.abstract {
+				font-size: 90%;
+				margin: 12pt;
+				border: 1px #909090 solid;
+				padding: 12pt;
+		}
+
+		.paper_title { font-size: 115%; font-weight: bold; text-align: center; margin-bottom: 8pt;}
+
+		.gap { margin-top: 10pt; margin-bottom: 10pt; margin-right: 20%; margin-left: 20%; 
+		       padding: 20pt; text-align: center; border: 1px solid #909090; font-style: italic; }
+
+
+		.fnref { font-size: 70%; vertical-align: 6px;}
+
+		.footnotes { margin-top: 20pt; border-top: 1px solid #505050; padding-top: 10pt; font-size: 90%;}
+
+
+		.fairuse {
+		/*border-top: 1px solid #505050;*/
+		text-align: center;
+	        font-size: 80%;
+        	color: #505050;
+		}
+
+
+		.fairuse div { text-align: center; }
+
+		.fu_title { font-weight: bold; text-decoration: underline; }
+
+		.hide { display: none; }
+
+		#footer {clear:both; background:#FFFFFF; color:#000000;height: 35px; margin-top: 24px; }
+		#footer div.content { text-align: center; margin-top: 10px;}
+		#footer div.content img { margin-right: 5px;vertical-align:bottom;; }
+		#footer div.content span { font-family:"Segoe UI",Arial,Helvetica,sans-serif; font-weight:bold;padding: 10px 0; margin:0; font-size: 96%;}
+
+		img { border:0 none; }
+
+		#fairuse {
+			clear: both;
+			margin-top: 10px;
+			padding-bottom: 100px;
+		}
+
+		.sh_fairuse {
+			font-weight: normal;
+			text-decoration: underline; 
+		}
+
+		#fair_use_statement {
+			font-size: 90%; 
+			padding-left: 20%;
+			padding-right: 20%;
+			color: #000000;
+		}
+
+		.highlight { background-color: yellow; }
+
+		#wordle { float: left; position: relative; width: 50%; height: 150px; padding-left: 10px; }
+
+		#wordleImage { /*width: 100%; height: 100%;*/ position: relative; top: 0px; cursor: pointer; }
+
+               </style>
+		<script>
+		$(document).ready(function() {
+
+			$(window).load(function() {
+				wordleHeight = $("#wordleImage").height();
+				divHeight = $("#wordle").height();
+				$("#wordleImage").css("top",(divHeight-wordleHeight)/2);
+			});
+
+			$('.sh_fairuse').click(function() {
+				$('.sh_fairuse').toggle();
+				$('#fair_use_statement').toggle();
+			}); 
+
+				wordlePath = $(this).next().context.title.substr(9) + ".png";
+				$('#wordleImage').qtip({
+				
+					content: {
+						text: '<img src="../img/wordle/'+wordlePath.replace(/ /,'')+'"/>',
+						title: {
+							text: '<br/>',
+							button: '<img class="tooltipClose" onclick="return false;" style="border:0;" src="../img/close.png" alt="close" />'
+						}
+					},
+					show: 'click',
+					hide: 'click',
+					position: {
+						corner: {
+							target: 'bottomRight',
+							tooltip: 'topRight'
+						},
+						adjust: {
+							x: 40,
+							y: 0
+						}
+					},
+					style: {
+						padding: 0,
+						name: 'dark',
+						width: 1000,
+						height: 310
+					}
+				});
+			
+		});
+		</script>
+           </head>
+           <body>
+
+		<div id="header">
+			{{ paperHead|safe }}
+		</div>
+		<div id="paperBody">
+			<div id="text">
+			{{ paperDiv|safe }}
+			</div>
+		</div>
+
+
+
+		
+
+
+	<!--	<div class="fairuse">
+        	        <div class="fu_title">MICUSP Fair Use Statement</div>
+	                <div>
+				<p>The Michigan Corpus of Upper-level Student Papers (MICUSP) is owned by the Regents of the University of Michigan (UM), who hold the copyright. The corpus has been developed by researchers at the UM English Language Institute. The corpus files are freely available for study, research and teaching. However, if any portion of this material is to be used for commercial purposes, such as for textbooks or tests, permission must be obtained in advance and a license fee may be required. For further information about copyright permissions, please contact Dr. Ute Römer at elicorpora@umich.edu.</p>
+
+				<p>The recommended citation for MICUSP is: Michigan Corpus of Upper-level Student Papers. (2009). Ann Arbor, MI: The Regents of the University of Michigan.</p>
+
+		        </div>
+		</div> -->
+		<div class="fairuse"> 
+			<span id="footer">
+			<div class="content">
+				<a id="block-m" href="http://www.umich.edu"><img src="/search/img/blockM.png" alt="University of Michigan"/></a>
+				<a id="lsa-logo" href="http://www.lsa.umich.edu"><img src="/search/img/lsa_logo.png" alt="LS&A"/></a>
+				<a id="eli-logo" href="http://www.lsa.umich.edu/eli"><img src="/search/img/eli_logo.png" alt="English Language Institute"/></a> 
+				<span>Copyright (c) 2009-2010 Regents of the University of Michigan</span>
+
+				<div id="fairuse">
+					<div><a class="sh_fairuse">Show</a><a class="sh_fairuse hide">Hide</a> MICUSP Fair Use Statement</div>
+					<div id="fair_use_statement" class="hide">
+						<p>The Michigan Corpus of Upper-level Student Papers (MICUSP) is owned by the Regents of the University of Michigan (UM), who hold the copyright. The corpus has been developed by researchers at the UM English Language Institute. The corpus files are freely available for study, research and teaching. However, if any portion of this material is to be used for commercial purposes, such as for textbooks or tests, permission must be obtained in advance and a license fee may be required. For further information about copyright permissions, please contact Dr. Ute R&ouml;mer at elicorpora@umich.edu.</p>
+						<p>The recommended citation for MICUSP is: Michigan Corpus of Upper-level Student Papers. (2009). Ann Arbor, MI: The Regents of the University of Michigan.</p>
+					</div>
+				</div> 
+			</div> 
+			</span>
+		</div> <!-- end footer --> 
+
+	   </body>
+
+	</html>

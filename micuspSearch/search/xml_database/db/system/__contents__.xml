@@ -1,0 +1,4 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/system" owner="admin" group="dba" mode="770" created="2009-12-07T12:50:44-05:00" version="1">
+    <resource type="XMLResource" name="users.xml" owner="admin" group="dba" mode="770" created="2009-05-19T19:26:26-04:00" modified="2009-11-23T12:37:17-05:00" filename="users.xml" mimetype="text/xml"/>
+    <subcollection name="config" filename="config"/>
+</collection>

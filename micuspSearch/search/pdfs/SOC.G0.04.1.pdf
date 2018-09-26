@@ -1,0 +1,4412 @@
+%PDF-1.3
+1 0 obj
+<<
+/Kids [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R 17 0 R 18 0 R ]
+/Type /Pages
+/Count 15
+>>
+endobj
+2 0 obj
+<<
+/Producer (Python PDF Library \055 http\072\057\057pybrary\056net\057pyPdf\057)
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+>>
+endobj
+4 0 obj
+<<
+/Parent 1 0 R
+/Contents 19 0 R
+/Resources <<
+/ExtGState <<
+/GS1 20 0 R
+>>
+/Font <<
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+/TT2 21 0 R
+/TT4 23 0 R
+/TT6 26 0 R
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Type /Page
+>>
+endobj
+5 0 obj
+<<
+/Parent 1 0 R
+/Contents 28 0 R
+/Resources <<
+/ExtGState <<
+/GS1 20 0 R
+>>
+/Font <<
+/TT8 29 0 R
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+/TT2 21 0 R
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Type /Page
+>>
+endobj
+6 0 obj
+<<
+/Parent 1 0 R
+/Contents 32 0 R
+/Resources <<
+/ExtGState <<
+/GS1 20 0 R
+>>
+/Font <<
+/TT8 29 0 R
+/TT12 33 0 R
+/TT2 21 0 R
+/TT6 26 0 R
+/TT10 35 0 R
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Type /Page
+>>
+endobj
+7 0 obj
+<<
+/Parent 1 0 R
+/Contents 37 0 R
+/Resources <<
+/ExtGState <<
+/GS1 20 0 R
+>>
+/Font <<
+/TT10 35 0 R
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+/TT2 21 0 R
+/TT6 26 0 R
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Type /Page
+>>
+endobj
+8 0 obj
+<<
+/Parent 1 0 R
+/Contents 38 0 R
+/Resources <<
+/ExtGState <<
+/GS1 20 0 R
+>>
+/Font <<
+/TT10 35 0 R
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+/TT2 21 0 R
+/TT6 26 0 R
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Type /Page
+>>
+endobj
+9 0 obj
+<<
+/Parent 1 0 R
+/Contents 39 0 R
+/Resources <<
+/ExtGState <<
+/GS1 20 0 R
+>>
+/Font <<
+/TT10 35 0 R
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+/TT2 21 0 R
+/TT6 26 0 R
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Type /Page
+>>
+endobj
+10 0 obj
+<<
+/Parent 1 0 R
+/Contents 40 0 R
+/Resources <<
+/ExtGState <<
+/GS1 20 0 R
+>>
+/Font <<
+/TT10 35 0 R
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+/TT2 21 0 R
+/TT6 26 0 R
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Type /Page
+>>
+endobj
+11 0 obj
+<<
+/Parent 1 0 R
+/Contents 41 0 R
+/Resources <<
+/ExtGState <<
+/GS1 20 0 R
+>>
+/Font <<
+/TT10 35 0 R
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+/TT2 21 0 R
+/TT6 26 0 R
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Type /Page
+>>
+endobj
+12 0 obj
+<<
+/Parent 1 0 R
+/Contents 42 0 R
+/Resources <<
+/ExtGState <<
+/GS1 20 0 R
+>>
+/Font <<
+/TT10 35 0 R
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+/TT12 33 0 R
+/TT2 21 0 R
+/TT6 26 0 R
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Type /Page
+>>
+endobj
+13 0 obj
+<<
+/Parent 1 0 R
+/Contents 43 0 R
+/Resources <<
+/ExtGState <<
+/GS1 20 0 R
+>>
+/Font <<
+/TT10 35 0 R
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+/TT2 21 0 R
+/TT6 26 0 R
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Type /Page
+>>
+endobj
+14 0 obj
+<<
+/Parent 1 0 R
+/Contents 44 0 R
+/Resources <<
+/ExtGState <<
+/GS1 20 0 R
+>>
+/Font <<
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+/TT2 21 0 R
+/TT6 26 0 R
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Type /Page
+>>
+endobj
+15 0 obj
+<<
+/Parent 1 0 R
+/Contents 45 0 R
+/Resources <<
+/ExtGState <<
+/GS1 20 0 R
+>>
+/Font <<
+/TT10 35 0 R
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+/TT2 21 0 R
+/TT6 26 0 R
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Type /Page
+>>
+endobj
+16 0 obj
+<<
+/Parent 1 0 R
+/Contents 46 0 R
+/Resources <<
+/ExtGState <<
+/GS1 20 0 R
+>>
+/Font <<
+/TT12 33 0 R
+/TT2 21 0 R
+/TT6 26 0 R
+/TT10 35 0 R
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+/TT14 47 0 R
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Type /Page
+>>
+endobj
+17 0 obj
+<<
+/Parent 1 0 R
+/Contents 49 0 R
+/Resources <<
+/ExtGState <<
+/GS1 20 0 R
+>>
+/Font <<
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+/TT2 21 0 R
+/TT6 26 0 R
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Type /Page
+>>
+endobj
+18 0 obj
+<<
+/Parent 1 0 R
+/Contents 50 0 R
+/Resources <<
+/ColorSpace <<
+/Cs6 51 0 R
+>>
+/ExtGState <<
+/GS1 20 0 R
+>>
+/Font <<
+/TT10 35 0 R
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+/TT2 21 0 R
+/TT6 26 0 R
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Type /Page
+>>
+endobj
+19 0 obj
+<<
+/Length 1126
+>>
+stream
+q
+/GS1 gs
+BT
+/TT2 1 Tf
+12 0 0 12 72 744.96 Tm
+0 g
+0 Tc
+0 Tw
+( ) Tj
+10.02 0 0 10.02 72 733.02 Tm
+( ) Tj
+12 0 0 12 72 59.2801 Tm
+( ) Tj
+10.02 0 0 10.02 72 47.3401 Tm
+( ) Tj
+/TT4 1 Tf
+0 66.3114 TD
+3.3428 Tc
+(  ) Tj
+/TT6 1 Tf
+24 0 0 24 306 686.22 Tm
+0 Tc
+( ) Tj
+0 -1.15 TD
+( ) Tj
+T*
+( ) Tj
+T*
+( ) Tj
+T*
+( ) Tj
+-8.0325 -1.15 TD
+-0.0001 Tc
+0.0013 Tw
+(How Reclaiming Solidarity Can Heal  ) Tj
+0.0025 -1.15 TD
+-0.0002 Tc
+-0.0001 Tw
+[ (A) 54.3 ( Sick France\072 ) 52.5 (A) 54.3 ( Research Proposal ) ] TJ
+8.03 -1.15 TD
+0 Tc
+0 Tw
+( ) Tj
+T*
+( ) Tj
+T*
+( ) Tj
+T*
+( ) Tj
+-5.5575 -1.15 TD
+0.0001 Tc
+-0.0004 Tw
+(COMMENTS IN CAPS\205) Tj
+ET
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 SOC\056G0\05604\0561 \055 Sociology \055 Final Year Undergraduate \055 Female \055 Native Speaker \055 Proposal) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(1) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+20 0 obj
+<<
+/OPM 1
+/Type /ExtGState
+/SM 0.02
+/OP false
+/SA false
+/op false
+>>
+endobj
+21 0 obj
+<<
+/FirstChar 32
+/Widths [ 250 ]
+/Encoding /WinAnsiEncoding
+/Type /Font
+/BaseFont /TimesNewRomanPSMT
+/LastChar 32
+/FontDescriptor 22 0 R
+/Subtype /TrueType
+>>
+endobj
+22 0 obj
+<<
+/FontBBox [ -568 -307 2000 1007 ]
+/StemV 82
+/Descent -216
+/XHeight -546
+/Flags 34
+/FontStretch /Normal
+/Ascent 891
+/FontName /TimesNewRomanPSMT
+/Type /FontDescriptor
+/FontWeight 400
+/ItalicAngle 0
+/FontFamily (Times New Roman)
+/CapHeight 656
+>>
+endobj
+23 0 obj
+<<
+/FirstChar 32
+/Widths [ 250 ]
+/Encoding /WinAnsiEncoding
+/Type /Font
+/BaseFont /GCINNC+FranklinGothic-Medium
+/LastChar 32
+/FontDescriptor 24 0 R
+/Subtype /TrueType
+>>
+endobj
+24 0 obj
+<<
+/FontBBox [ -169 -250 1093 891 ]
+/StemV 111
+/FontFile2 25 0 R
+/Descent -217
+/XHeight 493
+/Flags 32
+/FontStretch /Normal
+/Ascent 916
+/StemH 87
+/FontName /GCINNC+FranklinGothic-Medium
+/Type /FontDescriptor
+/FontWeight 400
+/ItalicAngle 0
+/FontFamily (Franklin Gothic Medium)
+/CapHeight 667
+>>
+endobj
+25 0 obj
+<<
+/Length 4023
+/Filter /FlateDecode
+/Length1 8916
+>>
+stream
+hﬁÏZ}pS◊ï?ÔKíç?dlAÙÑ0%c∞	pcY6Æc∞M$ 	K∂dlÀ+ÀBÑ.É-hæn>ßiÜ›ná›ÈÕáö∆€Ig…vvì-!i≥ŸdÛ—I∫	€4íø˝›+…íÜ¥ÏŒly“ÔùsÔ=Áﬁsœ=Á<I6	DîK{I¢ñu≠ï°Á#ÌËyÿÿ—Ë'è≤ö»˙ëP”±=ÆV˝nŸBKÅ„ù˝]Ωßë¯.ëaEWœŒŒ;úºOT™á¡Á>.˚:—Ë”≤0:Ú˛‹¥Ö(k.⁄s√ΩÒ[vŸﬁÒ£ΩÜ(ª•'⁄XêXêÄ~?ë≤†7pKø¸¶ÒËÚj_†7îπ˜˚D≥>¡¯Ì˝—Å8Ï∆5Îólº?ÍˇŸÿ#ﬁõÓ%AÍÓ"ÖL J$ÜRT8Où‚tìAúfêDAE“h ’‘ÊR©ñ‘¢Ú¿ƒ.°ﬂÿ.<≠}˜ıóŸ®≤ëä®ùﬂΩ¸~…%}Ñû]D˙˚˙ﬂ\ºMcw•ùq†! ë$˝,Ùsƒ9˙Y©är wñ:Ë+\¶4Æxù§∑È<¿Æü–)‡“kà÷P∂~ã>™üßj&EÔ÷èÎÑs‚åŒ◊IÂ˙©ã‚B6nÁ”çﬂoß˘OÑ“)Î1Ω1∫õÛcº˝	˝°◊„àƒ≥Ù,Ìõ”a3=Fﬂ•7Ë˙!Ì√^t·=ä“_	e¬BÚ–É¬lÏ°Ö–ùê;Iè@˚«t£˝Dµ+⁄<’Àó]∑¥™r…‚äEÂØùˇµyessÏ™ÌöŸ≥¨3KKf[ä
+ßòÛÛrs¶egôåEF|–BA+qy››Z©ÀØ58ÍfUkh˛`mÖF”≠vGAïØ<%¢)Nç
+µ»vç*íT[≠úóå7kRô˘C;‘÷f˙µô.Ø›n’ƒ2ºõ0é˜7jP3∑†‘‚≈ŸTkŸ’VÄ±>õoÍÇ]lAxXü∫d≥ê0'J]ı%©·Mç,LÊÉj“®FõÔƒÇfpò´ÍöPÙ°&jÇe-Ï˚Ç1Ê≤˝∏É›w0ø˝=ÛA /¡‰¥ló√ ._H…Ïi`ßÅÉpRh∏^‡åÿ‡^ô…îLgvπ∫µ⁄É~0éz8#ÖGFıÒCSájÆ0≈	ö¡•˘∫jD´htPM.O5”Vø3'Ë∂x5) ì$ïπ√mha~¿V5ìÛõ=™;¨&–fb~‹ıÏËæ®›Y.Ô˚∏UõÍ÷
+úZ#$o}€*%‹%ï5â™ˆ»zÔ‘Q;ª„lK`p¬Ì¿ÑòÃ›]«Œß"srﬁMAÊıÄ™Ì›⁄ù
+ú¿°Ll⁄f≠·ºÓ∑€˘1•]Ùw3+ªlgÓn5q0ƒwwà[ÕÊ;‹ë¿ï§	7[>¨KÕÓ“j€8°∂M^Ó8ªﬁóÓJlbñ≥Ωœû:œØãÊ‘[S¶Nˆ¯”=ËpgUfA&–‘U£^D´Ÿ-TMâéjæaªOÄVÀE-M)3;‘ƒ9“ø„Ã˚óˆ“=Ü2Û9blÉ£¡üH48‘ÜÑ?’˜nu®fG"ÈÒ$˙›~ï•"¥FıßZµÜC>ÕÏ+qZ,f6xo∞⁄|ôfK¶IBÑ"Ç>a∆v;ãºÉ£µ¥mÔzo™≠“VÎq™≠p¬s~62û±¥≥ëΩôëIuøn|åÿ„€¢ôÊMæÛÕ≈ÖÓJM(˛í·Pj\+ty%´ËKq¢Ub\∂i\£ÕpÇÀFQ0P,⁄ÕÏ‘ów‹Z„SÕHsÊÔVág˝&oµu2‡Ã/8ûX-°"≥&‘ïV>x5nF5Ÿ‰Æ6ÔTÌL–¢‘%¬–˙d≠0‘∫…;f∆≥}®Õ{œjóøŒóúã1Ôû«µºWúÏe-ïµ»√¬È∏h‚C÷±Z¢Ω|TÊº›1*Ô3e˙ÍS}fﬁ«J-Ï€'\xÊÍç˚MœpøNπƒ{MÈ.1É•4$iõú§J`±a!≠V~L´Ö'hõË£:`9˙è7gËV·û∫ghótZ?Ñ>¿ËF†
+p-iÑÅï@ìg∫‡áŸ<@RñhéÚ4ï ß»(øJ#Ú£‘¨|ùÓî=‡Õ4¢8hùbß<ﬂGƒˇ"íC#“g4bc¨
+òGÕÚœSTôù{»(ΩπübçVíçdëáhöÏ”-ªËZÏ#!ù¶ÎAw‡cT1@¿Kêmí◊—∞Ù≠]#W“|∆*ñÀ®\ﬁHC¬9˝!πéÜo8OCr;÷X≈Âá¡Øø˝G)ü‰Ê Î¡ﬂAy a*íÜ)kòÚ$-∆∫ÛeÅﬁ¿}√ˆÕÄ}≥=OÓ)e”Å€Xy)`” Ï{xxc“∂Àª.Aínìì¬– I˝–o*Ì¬›†ÚvRã©ïc9I∞{|ı.∆6<´ø;W(è—}È≥ÊÁyúVÅ˛ùtñ™1v´·=*«®\\Ç{Öñã?ßeÜ2Í7¸ˆ¬Ïëh5bo7õS“z–VÓó_”LÒQÚàﬂ#üÚü¥è≈h∆WÃ?∆ø§uÜqbv?•¥Îcí@˚_˚òM∞°Ç˘ùù=Ω2¡˙ÚÃ	¯∞wãº¿˛Èc§tòæIß’|Í·Òwü{5Çæ…„-~Vi∞ÿÄèé'ÄS¿€ù@∞®îI0ƒqû(¡>≥àü,FX| å‹?∞ùÔ·W∞„ìyÛ◊R	rØÑn Æ5f”`5prf6À∑,g&ÁF|Ò∏…Pƒ8Àaˇlˇ|Ø,æ.ßóÈ±‹TpöÚãø+–å=ü£»ky£˛–<‰¡Ø?AÏ>ª≠„4¥?B˚⁄∑°ΩM…EÓøEC¨\D-`˘» _ﬁôNV@˝åä/†¶1˙Ô¯&Öºb9Ò9:L˚∏ågg	üé¢Æ∞‹N”@ö.öÙmö≤∫√rü”NSV~öŒµØHYÕbucÚÏ3që°I·Ô3Á√ÚêÂÀE/§ÔÊ9zJõü´g‚g úâeûﬁ+˚&ïfΩ˛{+Ss•£ÿˇ˜Ù◊¯yaÊ•ïöy¸0ﬂ§øë©∑≤õ˛å˚Â#®ªr!5Úz[ïêW®µÜt@i¶,Wx›}é÷HOCÁfûuÚı¥áı°æ‹)Ì—œb›ul±‹¬d‰©ùÁQŒuá~^Éﬁé∫ù˘QO‰≈•¡oÜn±˛	õSÒSãtR]ßo)«êÁlèl-¶√∆—«˜8ÅÔØª@ﬂGﬁ√ÚôÂ∑˛	ã+√èÙ7å{∞◊ÿ≈ˆnEM¸,]ÿ~ôøòÓ/∞&Ê2ƒıwÂaúW=tÍ/Ûó=]À?K˚äÂÛÊÃ¯
+2Gë€Q„:j‹OGß˛/ÜìË{ÚÔ—„Õòc]«sÒF<_kiX¸q˝+¨œrk±˛éÙ#≤1q»)ü)œ¿AÄÌΩ4˝l/ËÁYL)M‰aœ%π:FÍ4l¶√Ü~v˛˙)ÂÈ∞Ùêø@≥5/«¸,ü´ıS|mÁâxO?ﬂdπ®¥ÈÁ,WÎß∏,n!ãÿb:ôòæúfbú’pVãx˝~Çñ„≥»¥˜…Q˝%Vª≈WY›”ﬂ1U–à±çzê•&ÇΩˇDõP˜V≤⁄K—ø∫˜_FÔc0û∫„®°'†{?ÓúÁ»ßE9¶ˇF9&ÓN!√O•óCOç1 0uÏÌˇc æ§∞ﬂf“êO”=‚À¥ÖÅ˝‚b|OX®äÒ„iÏ@Æü˜1€…l :DïZ<Wki9∞8ﬂï°ø=Û‹DÆÆ≈sÍ$–´¥SM≠ﬁV:Pº}GÒåY€wÃ∞nﬂQ⁄€æ∑Üµ∑ø¥'
+æ':√⁄-›÷Wl›÷∑'6s0íkãwÉEñYÒAã5>X⁄’æ´€bÌÍ.ÌåÄÔåX¨ùë“P∏»
+Ôˇãô∑∫JÌ;Å Á«^˚Ìò4v§‘6zxïÌ≈'ÊŸ^|¸§ÌÒ#-∂ ë#sm=Xf{pÀ2€˝¿wnZf;ﬁ“kª8u¢ƒñı·Ÿ=´lOOÏøŒvË‡€¡7ŸÜÅ^ìmø7j˚p;⁄{Ä€ÄéÄ…∂®ºiÛ
+€ñÕ•6Ô∆∂Å@ª…V˚m?Óïõ€ÛmÅEBÅÕ∫‹R≤ÃbπŒ2}©%ø íSi…Zb1,∂HZdYXûø¿ô7ˇ⁄¸y_Àõ[ñ?«ëß⁄ÛØ±ÂYgÕŒ-)ùôk)ûë;Ω∞(7ﬂ\êììõóìï=-«`4ÂH≤íCÇòSAB>UPîûGAYe≤ÂØ4Ÿ§&Uõl-UÇ6›Cû∂:≠P m≠”™úûQ·ÆZ•”£eµlˆ&·z5q_,⁄4yﬂ%⁄¥ÈÆMõΩ£B)ﬁœ#Aÿªˇ€÷4ı˘ú≥µ†ß’´g˚¥J∆‹5€GN\qÁó]«€k€›Î'ú) òãW<›9•„2â©óV¢’`oŒd€’íuÕ¥hŸ¨Õt‘9IdﬂqåÑ∏ï@Jks‰d<!('$0g*Œ€í≈ˆ{AnD?›´–F	øÏW_W_W_W_W__˙J˝úî˙Y©ú00\˘œ&˝?ødR˘]Ê˛Qu=u◊ﬂö¸eÓ .»°ëIÈgRøÚqΩYî˘}OˇØiﬁ ˛„4o§›B!;9jªÖª”º@§¸4/‚˚Îä4/Qµ‘òÊe{“º¸ìiﬁHˇ-˝Vexlà˙∂ıD˙‘∆h<ÈP#j@ç«¡Po ∂Mçv™m·ê⁄‘≈˙ÒH¥/–£∂ÌÏu:B™+Îè∆x∑∫⁄aµ7∞S›Rc°Æ» TBASwÑbÒ h˜`,2åt0˘ÅEjK4∆9µ#⁄ø3È
+«’µëéXt ⁄ü:ı"U]›”£râL=äm5∫ööõ]ŒÃRˆóØ#ÉΩÏÿˇ≠GfM‘F.–äQÄ˙hıPT•F|XåS≠¥"4Ä{ às… Ö®4íù∏∑A:ƒÁÏÉTc}êàC7 π.≥ì˙1÷âvóva4Üæ(ü7#≠“éÙ⁄al•ù†[πF˜.nQjï¨Q”Vwû8‰SÌnDõ…˘lô˘àÌæÖØz±èÈGaÀNÆ”Öµ„Ë[À5c‡;çˇ^´Ÿú*≠∆N{∏ùô9“VpÎ∂sã¡√.¯™/9?wS˝øÅÔx#Ã„_]Ø∂á¯Œ·√ˇmΩ?ÂÿJU\Ò^˙êjÿ†böÈjG˜QØúº⁄äUUOw⁄ZoŒØ9G÷‘ˇ<¸Ì∂‰0˙dâÁÂâ∆œôû1>åfV¶öˇè  ∑ÛxÙ
+
+endstream
+endobj
+26 0 obj
+<<
+/FirstChar 32
+/Widths [ 278 278 355 0 0 0 0 191 333 333 0 0 278 333 278 278 556 556 556 556 556 556 556 556 556 556 278 278 0 584 0 556 0 667 667 722 722 667 611 778 722 278 500 667 556 833 722 778 667 778 722 667 611 722 667 944 0 667 0 0 0 0 0 556 0 556 556 500 556 556 278 556 556 222 222 500 222 833 556 556 556 556 333 500 278 556 500 722 500 500 500 0 0 0 0 0 0 0 0 0 0 1000 0 0 0 0 0 0 0 0 0 0 0 222 222 333 333 0 556 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 667 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 556 ]
+/Encoding /WinAnsiEncoding
+/Type /Font
+/BaseFont /ArialMT
+/LastChar 233
+/FontDescriptor 27 0 R
+/Subtype /TrueType
+>>
+endobj
+27 0 obj
+<<
+/FontBBox [ -665 -325 2000 1006 ]
+/StemV 88
+/Descent -211
+/XHeight 515
+/Flags 32
+/FontStretch /Normal
+/Ascent 905
+/FontName /ArialMT
+/Type /FontDescriptor
+/FontWeight 400
+/ItalicAngle 0
+/FontFamily (Arial)
+/CapHeight 718
+>>
+endobj
+28 0 obj
+<<
+/Length 1599
+>>
+stream
+q
+/GS1 gs
+BT
+/TT2 1 Tf
+12 0 0 12 72 744.96 Tm
+0 g
+0 Tc
+0 Tw
+( ) Tj
+10.02 0 0 10.02 72 733.02 Tm
+( ) Tj
+12 0 0 12 72 59.2801 Tm
+( ) Tj
+10.02 0 0 10.02 72 47.3401 Tm
+( ) Tj
+/TT8 1 Tf
+23.3533 66.3114 TD
+( ) Tj
+-23.3533 -1.1317 TD
+( ) Tj
+T*
+( ) Tj
+T*
+( ) Tj
+T*
+( ) Tj
+T*
+( ) Tj
+T*
+( ) Tj
+T*
+( ) Tj
+T*
+( ) Tj
+T*
+( ) Tj
+T*
+( ) Tj
+T*
+( ) Tj
+T*
+( ) Tj
+T*
+( ) Tj
+T*
+( ) Tj
+0 -1.1257 TD
+( ) Tj
+0 -1.1317 TD
+-0.0009 Tc
+0.0024 Tw
+[ (Alt) -3.5 (h) 4.3 (ough t) -3.5 (h) 4.3 (e ) 6 (old regime is ) 6 (st) -3.5 (ill so near to us in t) -3.5 (i) 1.6 (me ) ] TJ
+22.1677 0 TD
+-0.0011 Tc
+0.0026 Tw
+[ (\055 ) 6 (every day ) 6 (we m) 7.1 (eet) -3.7 ( persons b) 7.7 (o) -3.1 (rn u) 6.8 (n) -2.9 (der it) -3.7 (s ) 6 (auspices \055 it) -3.7 ( ) ] TJ
+-22.1677 -1.1317 TD
+-0.0013 Tc
+0.0028 Tw
+(already seems buried in) Tj
+10.2156 0 TD
+0.0012 Tc
+0.0003 Tw
+[ ( the) 7.7 ( ni) 3.7 (gh) 6.4 (t ) 6 (of a) 9.9 (g) -0.5 (es) 4.1 (\056 ) ] TJ
+-10.2156 -1.1317 TD
+0 Tc
+0 Tw
+( ) Tj
+T*
+-0.0007 Tc
+0.0022 Tw
+[ ( ) -3341.3 (\055 Alexis de Tocqueville\054 The Old Regime a) 8 (n) -2.5 (d the Re) 5.8 (volution\054 ) 6 (1865) ] TJ
+ET
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 SOC\056G0\05604\0561 \055 Sociology \055 Final Year Undergraduate \055 Female \055 Native Speaker \055 Proposal) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(2) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+29 0 obj
+<<
+/FirstChar 32
+/Widths [ 250 0 0 0 0 0 0 0 0 0 0 0 241 241 241 0 0 586 0 0 0 586 586 0 586 0 0 0 0 0 0 0 0 603 0 0 0 0 0 0 0 0 0 0 0 0 0 646 0 0 639 0 461 0 0 0 0 0 0 0 0 0 0 0 0 536 530 478 535 521 315 507 538 248 0 0 248 853 537 525 528 530 347 458 321 529 447 699 457 456 ]
+/Encoding /WinAnsiEncoding
+/Type /Font
+/BaseFont /GCIOAF+FranklinGothic-MediumItalic
+/LastChar 121
+/FontDescriptor 30 0 R
+/Subtype /TrueType
+>>
+endobj
+30 0 obj
+<<
+/FontBBox [ -160 -307 1047 951 ]
+/StemV 112.227
+/FontFile2 31 0 R
+/Descent -217
+/XHeight 500
+/Flags 96
+/FontStretch /Normal
+/Ascent 916
+/FontName /GCIOAF+FranklinGothic-MediumItalic
+/Type /FontDescriptor
+/FontWeight 400
+/ItalicAngle -15
+/FontFamily (Franklin Gothic Medium)
+/CapHeight 671
+>>
+endobj
+31 0 obj
+<<
+/Length 11126
+/Filter /FlateDecode
+/Length1 18044
+>>
+stream
+hﬁúy	|U÷Ôπ˜VuıRΩÔÈÑÓN'h êŒd†!$†aàIÑH¬íÅ$*"*éÜÕÙ1*åcGË(Ã0Ç>}‡æË .AÈ˙Œ≠ÓDpÊ˜ÊÕkrÍÓ∑Ó=Á∂ a%0ò4qJvŒú£ç>Ï˘È⁄YÛkõœ˛ıö˛ √ ê≥nZÊ*:ãı\§SuÕıÛOøè∞T Õ–˙yÀÍéΩˆÀ Óq È•sjgø*˜˛†t4ÓóﬂÄÊøòœ Ë*±ù—0—“≈7ºêÉÌ[ÙìÊ5Õ™˝†Úçﬂπ@Ï7øvi≥8Uz◊g‡¸¿Ç⁄˘sæ∫p√ÄË<ﬂ€‹¥përG :éè7ﬂ8ßy‰èÀfÿ_√3›ÑÕ#A≠∏Må‡åµâíúá:j”j®A√(°:* –V∏Ïw’‘‚ \§‚∂¯-§Y*'
+ <r¸=>*^(WüïÍÛä˚ˆ‹†|£<ÒÀ æõ?≈r^√r»å)ÁpΩL”ïs,2Œ;œ¬˛=…æ–L%˛√Ã#pŒ#Òﬂã“ïøµ0Ù R•S9õ`à \ÂÂ"˘œ¥≤î˜aÄÚVrnH˘Ñ ßpøùB˙4IgìÌS…7Azi‹ã*Ωˇ˝Ôi‹Ò'8∑«k`ôœ¡#¯æ±ˇv|ìBNCÏ$ô§?î¡vxî§·-&A+‹´‘7/ƒì|
+üíthÑX@3ˆÔƒY‚Ûxf(;p◊˚pü5ÿªöïç∞ ûÇuà™!SÀ
+ÚÛr#9Ée–øoVüﬁô°Ù`¿ﬂ+-’ó‚ı∏]Ná›fµòMFŸ†◊i%ç( ¶†?âyä+KÊ∆º≈5±“–Ëê%+ùpv|vlæ`»©êò√1∞w@¥0¶	_12!∆2-ﬂq¡¯Ó˛XJqe0Ëã—L¸ª
+«ÒÔÍ⁄¿Ïòeˆ„ L™DI∆ÙÖ>$^≠™‚˚]ˆ*îÑr‡ÚóM mñéRoÒË8:†Ù≥8˘ú≥ÖÉ¢XV_e¡Ó‚âAvå8æè{å8«„…Æ∏_u‚_ÆQ2{n®dv#2bvÕ/¨8õ`D˜ƒÉæ8T<G?†?tËX5`'7wê“·D≠–“í°¥FdÉç™Ñ”‹Xt}VB£Ò˛8bˇe§S9∞·Ú!¿e›5{¢Fbö‚ò§æ7–ã÷∆`}†£ˇÅ∂ùòYñgáf◊NØå±Z<c∞ÃíÜ©ÿ¬˝ëj17W>Ï	î4⁄∞Õß’‡34öKÏﬂıc∑Æ∏≤5x¿≥aY≥Üccp∆òõO˙X[âß1¿õmm≠Åÿˆk*/Ú'ä‘Én+	·Ü∏Y…‹Q\8Ÿ›¬2ÒÔ™ŸúÎµÅÿ ôsx©›–∆`õ%Vz>àÏU1%Y6ªf.?Â‹Z~≥íπÅ∂ıs‘€mPO≠2¨§!T“X˚üfµµï◊◊ŒïÿΩ8ù™0ı∫Jï%»Ï—U…Æ‰ÑÎ¯…˘HÕË™`B<eì+ã˘¡Bµ£}â£ˆÙ‘${∞£§{0¿OpnÃ
+ƒ`reßÚ«úBhõU®^8XEp’§_V≈ƒLK(–ˆƒHM®Îõ+{jì=öLÀ¿´•°“ö∂∂“P†¥≠¶≠∂SY93∞Ñ⁄:  ⁄öKj\qUß≤Ω/V∫°*f©i CQZ3•ì+Ò,•ÅÜ⁄ÑÍéÒL÷™Ó·Iï#M@P"4Q	⁄,¯Œ`ê#q}gfb#∂Úö D; 3}œ@4;åú¨·#∫GúÂ|de˜HœÚö≤ı9‡>ﬂ”ˆÓ˘3[\ˆíÜ°1‚˙øœIå«Ï≈ïÃG´5Ícº¶£Z≈‹a¨”ÃN¥h9⁄êã«B1K8&WU,VT{Œˇ)°≤kÆ´,Ùı –r,Ù
+·Üñ)RﬂD–®ƒrMùª˘Ê≈S+/_›b4£:BdÌ5Q≤v uï˚,¨ùZ˘:¯‚öQU8VπùxTÌ•=Ωº‡-(„zÜj’!ﬂæ(¿JuTP;‘ˆ¨Njü∂ªè¿¨NöË≥®}‹‚"ëâRyº˝ÙsÒ}Òï⁄È$ô|πk£˜kUNc-IËÕ0ÄÉBLD Ü{≈ı0ò<ißU ÿˇ“r“•|áÙ=ÈÇ~Ïf≈à}3ê&!Èë2ë
+ê∆!5!H∂À¯|æÎœ#› KvñâÉÒ¬õ a·Ô0JxÍ≈^0R(ÉëÏå`;#i_$EŸ-ú≈˛/a§¶Fâ98ﬁÑ√Xp^Æõßúe0OxV	U∞ZsÓn¿uôP.‰)o„=~b7√ÎX˛	äRö §A∏
+Ç¬o óΩcÑ±∏O(°k`ä`VN
+ ó¸Ã)~F∏6Q◊º	π¬8§Œ™¸àkG—√∏~óÚΩÜ√`&ª&ä[`:{BŸŒv*áŸÂo»À æÔI|ˇ”xˇ;’{s¬{Û;˜‹âüüüÈﬂêzF<ﬂÂî8ﬂ/‘s∂_ûÎ
+Í <˘ñ(ÂwXZƒrÚ,ñ{ÑÂ0L3öU DYyi>éÌ◊¸QY'ˆWæüÉeÿûöîÈÛIôß≥s O86M”∑0ôFúΩ∑”ø¿VM¶ÚùÊQºK£‰ iƒûN];Æ¡3T˘Ú9§–«`}˙äÔ¬ é—n^q˛hN¡<Õnº{¸^,Wûß?¿KHà±W8qú≤s`Ê|Á≤'åÔb–óÏÇÒ‰IË+\É≤ùà‘9ƒã¯Ô==ß|Ø}ÓUﬂÉ≤Ë)Àí¯ªå¯∫IïUíTﬁ±"çF∫È®À7k?`9€:,Kÿy∞R∏TÃ"n8>9F8>P¸»ü—¸ÏÍﬁ¡spú·Ωê1,Bãt≠§áÒI fîoπŒp‹ÚsˆÏç¯Rq”]"∆πs¸Û˚´wÂ¯˙u˘´u\7≈T$~æ≤Ñû¸ß≤˚<ˇR¢^s›Í.˘yëìeÓeeoÚ≥Úµ∞Eyâ˝àm¥™.¢-‡˙»â€>7Q"±§«m˙æıäÎƒøî”·†˙~^Á≤D˘óÌ
+◊ÌD©Ìn˜6Yrª√u_-ﬂVÀπÿÓ•bÉÎ⁄ˇc…m∑=≤Ô∆EwŸAªÂ√ıêÎ◊EÆO _∏é‚∏*◊2e®VÜ“æXˆWnJ‚˚ƒ:e¨ä”§ÕeøCª˚∏r@ïæÉÛCç*~8è«*€ªÌ≠pïÚ£ óÛ∏ÌÆ‡RæWÌ-ûU¸'‹ƒm≠f<áÔ8≠ÆÁv˜YƒÈs–ø€v
+yxWÏÊ+
+[W	£‡j>Œ0AïÁX†Œ”AªZyRò°\‡∂î›9™C{"T)'Ÿß∏v
+åaF»Ê{ä•0âΩ†LDª3O‹~Ÿª¯>é}™çehõó„˘?∆s◊+ßzÙq•yVŸ ≠√9.\«Ô¿{ß‚‹GïgÑ£Xr~Òµ_*k¯^öU }¬]@ë_£8]¡Øp“Nê$Ø∏q^Ò=9ØV){ƒQËo?Ü“m0Q∫˝E~£9Ü};pÕg`ó¶a˘ΩrDÅ∫8™ÑBƒˇ˜◊ :U∑ }ÏIÂ¢p=ﬁâ≈—,QE‰
+”í> À— è\qÌ ∂O˘Xà<Gø$\≠Æi“LÅ·ö9¯Æ°†_BÏ~Ü˝ﬂ*ä∆ÖkC ˇVıy ÊÔ\≈:îœ∫}ÌßËƒ© £ö|+Ä¡Í¬p‹±≈◊tc˙◊e7∆πWmQú«òc&∆"3ûUhRﬁÂ∂õæs∏“÷¿uR‹å:êØ‰ÈÎê€m˚ê∆"≠«˛â∏◊÷_ï[8IÔêπ‚5&y◊nUÀwh∫≈› W‚nz[Ç∫Îóóø&r 1∆KNóè˝∑˝ˇ?Dﬂ˘˜ú$°è¯-'˙LÁÑ˜È4ÑË.q¸ô$≠DÍáÛ&`,x;'©,ÄsHMbˆ# ≠@zyóâ˝Â›~˝Œ¥3ﬂbˇ1åﬂvGï©ÊìV≤ô<Néê3D!ÈEJ	Ë€»í•¡ËË•AÔB◊©/ºﬂûqπSø=„ˆ}{∆{”¨ﬂ¥ƒÌªiâ˜ñ[±~À≠nﬂ-∑zÁ7c}~≥€7øŸ;Ø	ÎÛö‹æyMﬁºaÛË÷y{Ê—∏|pÉÂzœr√ÇU7¶,ZÏp¶.ZÏÙ-ZÏ≠üãı˙πN_˝\Øπ—ﬂÿ‘x∂NPI]#ˆ◊5:}ΩÎN÷—∫FÔúáoNCkK Õ≈ﬁ‡2§ú£˚éÔ;≥èÌk˜˙;ÔÊˇc˚$ˇÌ$ÁµMˇ¶ˆLˇ”Û˝[ë6WÁ˚€ëÓõ>ﬂÔÙ˘Q≈o∏€w7=Å]≠Êˇ Èm§CH{ë¶æKﬁ›ÔYìÁø´‚:ˇz§uH≠ïM˛5H´ëVa{“r§YµZˇL§úÍiC¸”ßy˝ï◊ÒW ’ñk˝5H9” Õ˛kë´ﬂW‡Ù‰;ùyN[Æ”q 9N›`ßfêìe;a†≥ˇ sø∞)´ØπwSF¶9=d
+ÕΩ¸¶â˝&e≠Ãb3ŒfP_jö—„M1:]n£ÕÓ0>"≥≈*ÀFì¨”dç§ïô  @®úD√¯}√¥~ÛP≠ü—˙°PÎÔò!1[îM≥,ßåäE¬eùd„‰XN∏,¶õ4≠≤Éêª´∞7F◊b235&¨≈¸ejÃV|›¥ N‚Â√k‘˚ÄêïkÓÚ%À™™pZlvŸî ÿÏ¥™XØlL´Ç0ˇ-Tü·Ej=Ÿ∏‚˜Ly¥ºd˝hVÁìp¢‰ïûﬂ‚‰pEœ¢‰,‹t·¢d?VzÍ=øò'÷ØÓ–ÒãÊNU”NFö4-ñÖ∑c˜Ï…11§≤$vd2^P#`÷(¡®}ò4aÕ £|§¿eÈ(ÖÊ(ãñ@ldIÃéÈq°!4
+FåÑ-E‰¶ÏBOµFéi∞[
+ç™
+Û$éÁs†é2,ºQΩçÙ<ügX…Ó ÓRÉ≠Ak&>N˝i•y	X¢|ˇÄ√Ï)|éíNÂ@‘£3Â¬(’0Òê h1BÑCÊÑëÆH6…ÓäX∫¨∂!Ÿ÷Hv∑∑áÏ°Çà4∂bWKø3Ωqø>>«ùø'ìã¥œË`¨S9’3≠ûPÚä'#Ÿë¬lNÉë`Aê|w˘…◊‰·Ωò¶ˆ√£„¯¢&zàÿÿ!
+áh6!$ª:“eÈÇ¸^¯Z‚=”ÔÃO<ˇùÑ÷p©ÿ
+fx&Íiﬂh©°ŒpßÅ…Y–Îu:j6õ;ï≥œò(≈J‘BGê„™›æå˜+q0)Òhû—d∫ã	∆£`≤0!/¿±fˆòÖaêÚ¿D˝}ì~Ö76öMÙ‚1J(™ÆúÎêÏÍÆú0û3±FZÜó[ë¬B@Z#<}!Á[aÑ?Ò1§™™"ÏM(ΩOAFAÑÖ©Œ Ó“5MvÜH˝ñá_!ø}áÕ),#o¯è_úÄ˜áQËùb%§¬+QS°L∆x+º‘p∫ÛÂNÂD‘iu‰ÀVõÌn£…a4ö,f≥¥ŒÌÊÚıÀñ¸
+7ë‹n˜^7s˜≤öL6≠—c§F#…¬ç˘ú|ì5l2Ä∆ê
+ROñêëê£Q+{‰,ô…≤~´√a∂¶ÿÎ≠K¨¨ò4(ñ’#∫]9xU~«ƒÖIv∏˙uﬁ¿K[#’-aQv§’40,r˛D¬adT€zëHN~^nÔP∫‘«îÇ,?ícs: îû1Ó][{ÕMÿ0k[Ì¡É,îwi˚º•O=˜m¸/ü<ˇûZæ˜´¥µó”7ﬁåﬂ“è?˝I¸≠N˛©£	„íﬂâÀ¿È∞/∫≤ﬁFÍ-d,øçΩüù“±©ï©©KSÖ1ÈÈıÈåå1V)‘õmw§¨´0‘®€–«P`c®0àCÜ∆øÆ¿:∆ZaeYV¢µ∞6hñj(Òk“ ¥§Å,%_í9«i[Îµ¥ZÊﬁjÚ≤≠Œ§]ì’úQ*ó"dF5∂[9úe-»ƒ˜åj˛ˇ ü’DB¶P	˘·R˘Vs\$….ç”·~˜∑æ}ÙÄ˝∆Øw~ˇÍÌÒøì	§˜K_\˙`˛√œlﬁ≤F∞eæﬂ˝¬·üˇÙó¯IRDd0M}Â‚Á;ñ.º{GSÕ.nI
+î¬:q	8!˝·Îh	bB+jBI	ıQΩ#≈—œ¡®”êi†E˝«ıüﬁüE≈é)®/cJ&ËÆ◊Qñnqz4eÈ£ESÊ‚ä«õºM·]˙uÆuÈ§øKüz†ﬁ¥⁄~ÎåFﬂ≥:s>/£¡|„@ˇ:J3ÿ≥ÏkÌ[Ïÿ]†gÈßì°Èª“i∫ÿg´≈õ∫UîT∂⁄ÜTW[›7d.Ú–ä¿‚H√˛!VÆéÇ•´ãõÔ¡É …›j¢≤§w^nÜ ]—•≤8Ä˘ô˘øWë¿'i}ïÿŒâ«O4›Îª¯•ü¢0a„7/Ω£Õˇ¶}ı˝õÈSÛ_~Ëß˝Ì_ŒõΩ7~ÈÊeGw¯VO,kò;a‚‹KìbÛVé/ZT9å∂Î6±≠∏≠W≥.†O—îÈ¥¸ô•!ZJàNœA'È4Ö:¨ìΩ 9–ˆÎùVË5Q‘‰J534á§∑%ßº§#è‡Tàî›ß’Î5ò(2—¶ì4WÀ–∏– ŒáÄL™ëI¯áˆ=2¬APF∫rZxovKu∏∫u†'¨E-mì‰û$ZäIH∏¬¡ ≤	2FÑ€‚g
+„÷-_–ªIv›Ò/»’Ò=b˘œœ“Î/=ä∫ÿ†|$Çx+PÁG]}µ§7%√\◊
+‘GZ*xtÜ|=∑_^¨\m#%2±-˜kà∆£i‰Âìˆ…Æ7ÊÉÊ0ÛΩ:ª„^&$0$Ãçﬁß∫ãT£mEwéñ•∫⁄Œ’EUöt»‰b¥ÂYÇÈ¥Å‘ê>Áâ/æ-˛ﬁÒcÑ=‹ÚÚ˛¯©ˆ—2î\äÔâüàø7ê)ﬂŸEˆú&uÒﬂpõ2„o%fÏà¶	Fáë¢òˆÇ	Âb¬íÓ5ô3<ÓVDt+√=Ç∞*!,èF@˜k_Ü£Ü„fH1,º¢&OÙä7ÄWÃ5°–ÃÊ§Ã<˜iÿ†RÕ/®ä›LòﬂíﬂëõèÀ¸åTTƒ%Á…F'ôËDT˜%\@ˆ`N/‚th§Ã «@
+
+Òã˜∆^Ó$•€ûªÁ·ùó˛A¶<8´‰˙Î„ˇ†É.Àá¸y˘ùügÓZ?~‘ı~d˛<DÍH©ï{$	(A‡◊cxΩLBÈ™Ñ◊$’¢◊dZ[Â—≤\ lÍU"x	wŒààz˛ÀN<ñ◊≥ÒèG¸®A!-æÛ‡≈ÉÒù¨CXqqï∞‚]Œ˘†räúhÀ√§4˙U}Rô…ˇË⁄‘-©O§I∆∫+›k›[‹O∏;›Rh'ùvB?7÷j‹l‹k<lËWÖãé’UÍ(©ÌGÿ˛Bµ€dBk5Ñâ!≥±÷`–÷⁄öˆ^˝2ç–˛i§⁄∏4,ã“(kH[ö∂6ççM´L£i“wÖßﬁ≥ƒ√<ûﬁ´ü0t®d _˛i†Ü˛Ü:R1ÄÄ€„Ò•j <ªKSv´á‡TgoÉ∂-DhhSñ•–≤÷≤≈ÚæE‹b!–f!‘b	€ú}€µ.‚t∂ßX∏Ùπﬂ¬=˙
+Ù¥voÖ√‹Å Z8Z"ºÜ3êV–=§€ô$ç^“¯µ®¶Ø•:BKW¿√nÉ9Ónú‰ÊMΩÉ	öÑÌc+?°∂úZ÷Ó&ÉIIøB©eÍé´è‹FFº¯Ò†»Ê¯≈◊&è©˚ÉœzU›ç´üºu˜´¬@ﬂ‰©wç¯Ò˜˜¸&~1ﬁuµè|aZ0˜7„üEIÊ*]Uu»˜EßÕ“/‘#c]K]k],!!Ón1 %nƒ⁄øVBÑPFb[˝∏nØéÇŒßkPzy$ÖÃÅíÎ∂Èò√dnóëmÇÏh◊X¥l‹4 ôë‘t™Íà*%ìe˘!BŒ™ÑœçÑÏñ∑#3-F.∫`‰√ı'OT‹˛Ï∫«.„:‚ø•m«mè-À/ù˜‘ûÆx˘Fr∑üäø¸˚Y-<2£|Õ^‹hÒÓåVJc%*"17£$UG¶#0e[PÉ¡QO0ø÷Úˇ†±†iY,XW˜	ìƒ%"›bM≠ÅÄ,õ¿Â29⁄©À‘Æµàêùå*"jdÅOÇŒ‡v∞°·±WÚfËÈhêKjn5™PE[¿6låüxˆ3‚zÛëw|/f=r”˝Õ„7M „/|˜·y2oﬂÆÃ#ÒsOØizÖ€?Â+abRvèGÁΩo"˝u„t”uÛtì† ∆ £ıÜ%ÜV#Ö.¥Võ,â	†ïQàFì|ƒòG|§µAÎ#πû’K$í%)EBuÒ-ÒQ∞yÃNIêı‘‹.∏ÄkÅﬁÇÀTarB·ŸÜ†±í ?ﬁ5|πM±⁄8ÓU®ıò/®∑ÿ"9n{Ñpy&nœÊ~∫Â∫«„áﬁ,Æ8qi˘Ì€ÍÀoø„ÕØ>zôò»ÍW©p±åÑû∫·(?‰6®D˘ÇùÏ#•]◊«{ÿK˚H“©Bz\⁄+iËíî÷J6ß(råsLwºÊÚ¨d≠~B¸àÜ¥
+õJı‰fD≥SBO÷Ía	†Op≠>,ì/eí% ÚRy≠ºE~_ñ‰TqnYΩD‹,R®I°HËëdâòHDB√È‰é3ÏºCÁíbÍ„BFoÎ™Dç⁄‚æt˝Ë¢àQkGÿx6›.3[µ'-9<»+¿ò=üıÛô§mQA‘íÑVZxhöÄì‘H]
+&EÅ›JgÏ‚«é|NÇÌv©Dj™{xrˇ#Gá¸»˘◊0Ô™ã«ègÜ√¡Ö˛D¸Ñ∆„®/S0(ÆtDΩãMƒ`–Î≠ãÄ)öŸÜﬁUDG´1q∑Ëv&©ò“8xüºb'ö< ˙r hG∑ì9AX6â¢´o&+1*∑ì‹ÄÌäa…Xªh∆œl0∂õµcıxat¥™ü"-ú’7∂Ñ´Øp≥ñCá8©9]$'õÁ5Ÿ§ÖÁ§<ŒG´°jñëB$rb˝zˇ˙¨W:¶GÉ
+⁄>
+|¬FÏsøÒy˘ÿ~tù'„ÌB!ä>Ü@	<≠±Y≠^∑,Kë’Éºƒu{ÚΩﬁëÊ,dë¨1Ys…Ph*"Eƒ^M†h·ÍA“”“QÈ¨$H•®@b/Ÿ-â˙‘MÉïÍáB∆}£Gl
+ß:⁄ÕyõÃzO‰≥QÚGx"œ=ø&6≥_ØŒ…Q\‰ò≤Öyñ¬Ìd6äæÄGƒÍÔ◊sIçÑíÁÆ™‰—®f0Ä≥‘‰Dçùô:PÓŒk'.[¯›;eë¡ÙÍMÛù˘s”<q¨r¡¥Ë¨e;´ˇ?1ï|Z;oÁÃÊ;F›?Ò_◊y†fÿÃ≤ñ¢)∑=3∑7à3&M¯_˜ÏO8!<xÿ™´o;zfÚrÆ±js„µ€‚B~^q≈∂¢4n}sMß—R9·£®}Éô5è<VÆîô—§◊k›8‡‡8b˛)¿íÃóX£_∞2äág}≠bƒÀÜ∞´¬JÀWÈqUT´◊J˙VÉÏ0d≠¨7∏	À#n“–™uì\óAŒ3∏s¿e»uXpùûúZì¶›b1 0…Ω—M´Us·ÄCgûpMh∆íAù6aŒ\›¢&Œ<7%z[Eé@5∆E€fO∞Zbøx-âµúòmªΩjGhÍ	tX∑Ì[∏›E´=wnz'n@wıè£w‹›w5˜ƒh‘4‚,ı;“‚®å÷cO¬’
+R'^≤êäA´${·´§Ü`^¬VﬁT‘äs@+ÊJ≥ :Åbf⁄D)˜ª’òJ‡Ò^¯∆¬‹°à∏˘m1*j?9˘‰tﬂ”_úﬁuZh:˜”CÏBRÇîâ¸KRi0~†L˙À—Ω‹ˇã{¥hPÊ`+5;Èıì/˛Ew›Ö™íFàˇÙIãƒ˛ö˘ÇBdd4PÍπ÷Cœπ…W©RÈG˘–J^uÌ¶/cûØìR%.x¡ Èt≠zŸ°◊À≤ö”∫Ω˘í¨ì-zS~Ü^Œ3Îâ^O˙‹ÙnÑ“˘°„K“pI:∆ódrÿdí≠⁄Lík≥[›Væ é´ä≠v´≈ﬁÍp:ß’i˜:˚:iÜ√ôÁ»pÃÅGn™;%ùie+2^ß∑ãß÷¶1∑˜J±∏úfKfMÊ L¶Ç%ëì£&¸«%5S∫h9í©˚=	û!⁄∫¡N§-=˝ó-@‚/Ò!+âC∆∫…kI5ITä?úÆ7ﬁsºt‹ÒY÷Â≥vÁ;πÎDÔ{Íæ¸ˆ›e;‹¥æÃﬂØãè¢ìÍ˙‹ˆß¯¡¯v·Ô7›uˆÏñeEÎì}
+3 7ºıÆ≥5”9¶≈¶ù&Ê1é5Vô…l0Ë\›\œt]©◊Æm÷∞Ñ>»8>€¿ıYg–i≠≤—!ÀFù— {π`º\üΩ§»∆<Ÿ#œèúÎ≤°>òÏ‘ô•v&ÊIﬁçﬁˇNüˇù6W´¯L~têzòß™s”â√àh›ÉÅÒ'vÀöÒË¯¶«tV…‡¬ÒGˇœg∫û©ÿ‹ö∑5zfIﬂ
+fLÙ›PM)ìß…ªe&PÃa›0]©¶\#Ì‘ıChX/ÁˇŒJ,´∑Îcz™˜ÍÁjöÖçu{Ñ:¢$c;∏lÌíÂ≤,;ëdsÎa<∑òﬁ;T:–áß◊â»í¸‘ÚVÈı≈ã'„g?[ªÚµ{n]ö2˚ÉMˇ ≥î˜>â∑Ì%ﬁmDs”ä•@ï„	 ¯‘∏Ú£h˛„Ï	]/n6“©&rµº_¶3‰UÚC7›.ìv¥…¥ä÷—õ®>!nÌÇ©'4dåìYÉâfu€utª.¶£jÊ@‡Ú‹¡ƒ?-ÙÚ˘Û=&≥KpËdçõÅœ‹^.S3œ&@ç=´ªF®°ßh$V≈ñ"ŒîñÆ+e≠ ıP∑ä†ÿ9√™Ì™\{r˜/Ïzˇƒ©#°€^ºÁôÔ˛¸FŸ˜ãWl_ˆÿ‚¯C‚Ù7œ}˘◊‚sﬂH!}$R¸”ßV¨@9èB~YP,ê
+€£ÅoÆ∑L7M'ÿ=ª¶¨—æÃæŒŒÏx}Ÿh2K7gä,–ÕÖ^úΩx ﬁã‰˙VgKÕò¢§aaì$8<‡£V¡‚≤ßùá™M«áuà ÖzÇÔ$†°à‰`>ï#!H5ˇ¿KBˆD é qD4R"O∆‡ô'*«⁄w˜Åõ*zÕó>æ}[∞|¯™5Òá®˝ıOYﬁ˘`K’•πd‰ˆ≤Ú·Ò#øˇ(È. Ã∞m™Åh?wJæY ä@≤"©ı“æñ¡àéeü≥ò†”Yô–îÅ&∏&WQ6Ê'À9`!π∫vë≈ùäŸêõ—ûZ#ño¬Íó˛Í+.NrrxXH0dn§p¬„0[2^2â8NÏ˙?W¢≥•≠SÓõí .ƒOcB˝≠lﬂ≈ˇ_Ê#Ã◊a÷ÇØ˜ÅuÙ1´MS¶xT2πMîÙ”’_≠øN/–°:≤&Ω=ù≤µ∂-6J≤ld©çÿ¥÷,k°u¨µ“⁄`]j]k›b}¬™∑Z≈’Ô˜"Ω2{5
+è√^†<È@G
+πWÀ2∆ç≤ªó4èIy/ÖN!%)Â)î¶h[µõµ¥üv®ñ2≠√÷«ö¯ˆ-Ä’Í¿µ⁄taliÅ_Á†òX^ü¡MùMç01É¿fK‚ªUıÎ<∑‡I)¥®˘Yÿû¸∏⁄g Â!f ]¢N∏{QaX«∞=”«îØª„∫W;IxŸ¡‚m%5Ÿc}h⁄'ƒwŒ%·-eC√9ûﬁ—; ◊¸ıÏ5—¸ﬁ9éAcVóo¸31"VÜ+gË.—ãâıÖ}‡¸ˆç66ä„˙fvvgv˜nÔÏ€ú} Ö5⁄p≈ÄÁú`db«∞°	áúÌÛ˘åÒ9w©S%˝àS©i≠'!j•V·j’Ù6%Mî(B¥jCEÀ⁄"‚àVM•¢4ï®àZﬂıÕ‹8M°˝QµëäüoÁÕÃõŸyoﬁºyoF[<◊Ú©H],ËwùçæN∂áù‚‘÷–Ún∂!¬~øØ™:T≤(r3∂ùPh¬∞]Y+-g_M]lëΩ—Ó≤˜ŸgåÕC√^∆>„∆˚F—–ﬂ1fjDå5Ü|'@√Ã3h>béôÃåò)
+W’NAuxäVã`ïfNŸN@≥æU~‚˜‰±F]ÂpDä∑¥‹‰Ó‰“Ió´Æ7z˝.ÉßYoÕÄ§‹	JºßHÀ’K«<M2N	5i†Hﬂ6L.Ê©öm/,:zœ€´~sÁ≈≠Œ‰ùQ¯‚ûïá…['IµSò=Yÿ–Sõ‡“kÍ+^a¥¯›)4‹≥-NdQL˜L'FIß¨≤∂ÍjpmπaÙ^¬5aàÑIƒØMπƒç∏rSu◊ÿí“èîU∂ﬂ?!,WÎg9ã±ÿãÔµ4ªu1€èe,bëZa≠¢V,⁄5¨Ø∏ã5Æªÿ·u•©"p«d‰ú⁄ç‰≠út{jJ
+¨WäE“Ä€÷<π)øß˜„Å`Ö∫m¨HÆQ+Ü≈$˛π•_æ˘/-ËõvÓm∏o≤9rˇÏ•^zxıQ∫eÓ´∫´◊gè!ﬂó2ÎBœÂ¢&o[_=¨¯ÊIy¬?»ì∫T/3aàìáàvò¬ ÉB¶ôÓ2¶„N¨k3î∏ÚòôAì7%Kñ«d⁄“
+«lÊ≤U¨Öu≥CÃ¿ön¢ﬁ0^1ò!åa¶e–ãÁ4≈ïñL7–ò eccI£d¿◊®˝{q?˚»°ˇƒß£DÖQËç÷›•5ÜH#πˆãW'HÁÌ√π8˝	r∑@ˇrÁ#ág®g"7Ú$ˇÑD∏<ôJÃ‰~7_«„ñéµ◊*µ◊ZŒJÏ'ﬂe«≈1S7˜h°∂Lªõ≠#1mÎ˚ƒîy‘vàq€≤¶¡ÁÇeÇèRÕ2-X6°X›ƒ∏GYq¡ße«ë_ÉÛ)M.PûﬂôT»–F#3ñâéºâ±—¶πp9X◊¥äÊÈ$˝=Gı(›@7”zÑÍîÍñ•{|ü‰⁄õ¸Óï‹GπÖd˚Ç>«7Ã]NhX˜Î)Ëw≤jCò∂O◊›é<«ØëÖ«eoi#D^>äñSﬁ ?Z-{7n]¢Q©´
+ôOT $zΩ2™¸ã®ú©®ú+Rö.¸g¸ó€
+ø˛˘ãøﬂKñ˝tYÜûü[Å≥∑âæ1◊J_«]Á€®ügqm8?CÉRÖdƒíÿ1qBP[f˜˙ÇFßîOS'9€ÆÎL	∑uÉÃî.®lîP-!∞ﬁ¿mW≥¥if¢Fõ¶,I‡áa‡ÉÜ¶VB–«R†‰v7-Õ\óX\dFW64¨ÏçÀUä™…≈iÅè >+⁄™rÕ•2•∂Juu(¢’Ö0˙”ã0]8{â¸Ë}¢=sıbaÇ<]xú.$ó
+g»˙BLÓ¡?.|]˚#J£æs
+É˝˜NX%ïæ÷≤Kañâz¢€∂„s¶u„bu–6gG∆É∫ßØ¡UËpã	©ÆoW5Ä)B"≈ıq@X<D¶™`!*á&Jl6\©Rß2%CØñ§í†äÙVT¬ë\ÍeŒÂDµ&ièööJK”Aürùµ~k{Ô≤e˛È%“}zÓ/€ß≈/ºenÿ±C{{n3}ÌØóü€™>	®ª%láxZA°‰9∫·∑ˇ⁄Ó[¿Îÿ:Ñ«o˙>˝ºqèÒﬂœ/ãgÕ%fN¡À÷løùF'¸+æ+˛ù{ùÅˆ‡ßÉØT›un√m∏ˇ(>U˙å Mbd˛å˝i±6´@}«]ÅÖï¬%!o XMÛK6ﬂ◊÷~«ñN¥ÿ]›;v~∂ÁÅ]>¥˚s{ˆ¬'„è¡ò‰Ç»™ Ía5ƒ õ–Î›	=êÜÒb)<¯÷¨ùWìÄëb±x˘üAY÷7iÒÉ[é…œ_Ô·ç“Wr™›bÃëÚ®√ªe‹Ä≈D+„û$KÂ3õ=I^.„ñkueúÇ£uñq6kªÀ8C¸[e‹@¸›2Œ·ol©◊—”Íµe£˚G“£^{&?îÓ˜“9/·Â≥âÅ‰ÅDvøóÙzÜí^«h>ôM‰”ô—ƒà◊3>ñLÙ'Ω÷Lv,ìU≈ﬁcÿz»;ê˜˙í^6ôJÁ∞Ir¿√Æ˚ìŸ|”·ÉŸtn ›/Èsı^w&´0Ø?36ûMßÜÚﬁ∂t6ìÀÊÁw]ÔyõFF<Eë√Æs…Ï°‰@}{kG◊¶∂hÖÅ“¯WlK§Ë»'F“˝ˇ	äˇ≠åPE;P-[1mÉ,™Á(ÏG(ç©ÌêÅ<aÆsi»·3Åøº¢Ä$¿4ã-<§ƒgR'Uü£Hïƒ∫Q§»c€å¬FÕ8.ü$“'∞_I›äµY,À®~+‘<V~˜‚ÚM„òˆ©Y|¶‘àJoI‚hºÚ®˚UIÈK˘a8àyI;†z´Ùü…}∑zÎç2Ÿ>ÉcWmR¯Ó<ñmS-≥XìSúÊo:jŸßáÀ}DÒz£è\y‘95∫Cjƒı(·VîU“∑AÙc30_˛;«±FJ¸ﬂo∑«ûTúDv(πå®öOJˇœ˙'-0=Üfx t¥≤AXâ–∞±^Ìπ“B”∆∆%€SªˆöØ¬B°Lˆ˜é˜æ*”ìµù(úö˚öxÑ≥fe¯ª  ã≤T
+
+endstream
+endobj
+32 0 obj
+<<
+/Length 9747
+>>
+stream
+q
+/GS1 gs
+BT
+/TT2 1 Tf
+12 0 0 12 72 744.96 Tm
+0 g
+0 Tc
+0 Tw
+( ) Tj
+10.02 0 0 10.02 72 733.02 Tm
+( ) Tj
+12 0 0 12 72 59.2801 Tm
+( ) Tj
+10.02 0 0 10.02 72 47.3401 Tm
+( ) Tj
+/TT8 1 Tf
+0 66.3114 TD
+( ) Tj
+0 -1.1317 TD
+( ) Tj
+T*
+( ) Tj
+/TT10 1 Tf
+14.8683 -1.2395 TD
+0.0004 Tc
+-0.0028 Tw
+[ (Prefac) 5.7 (e\072 ) 6 (Wh) 6.4 (y) 11.6 ( ) -6 (France Fas) 5.6 (c) -0.3 (inate) 5.7 (s) -0.3 ( Me) 5.7 ( ) ] TJ
+/TT12 1 Tf
+-14.8683 -1.1497 TD
+0 Tc
+0 Tw
+( ) Tj
+/TT6 1 Tf
+0 -1.1377 TD
+( ) Tj
+0 -1.1497 TD
+-0.0001 Tc
+-0.0023 Tw
+[ (I remembe) 5.2 (r) -2.4 ( the night) 8.3 (s in Paris vividly when the ) ] TJ
+/TT12 1 Tf
+20.9162 0 TD
+0.0002 Tc
+-0.0026 Tw
+[ (Fon) 5.5 (d) 5.5 (a) -0.5 (tion de) 5.5 (s Etats\055Uni) 6.8 (s) -2.8 ( ) ] TJ
+/TT6 1 Tf
+11.479 0 TD
+-0.0005 Tc
+-0.0019 Tw
+(in the fourteenth ) Tj
+-32.3952 -1.1437 TD
+0.0001 Tc
+-0.0025 Tw
+[ (arrondi) 6.7 (sseme) 5.4 (n) -0.6 (t would b) 5.4 (e) -0.6 ( a) 5.4 (buzz with a ) 6 (certain sort) ] TJ
+22.1916 0 TD
+-0.0002 Tc
+-0.0022 Tw
+[ ( of giddy excitem) 6.5 (ent that we Ameri) 6.4 (c) -3.2 (an ex) 8.8 (ch) 5.1 (ange ) ] TJ
+-22.1916 -1.1497 TD
+-0.0001 Tc
+-0.0023 Tw
+[ (stude) 5.2 (nts coul) 6.5 (d relate only to nights b) 5.2 (e) -0.8 (fore sno) 5.2 (w) -2.5 ( ) ] TJ
+21.3653 0 TD
+0.0004 Tc
+-0.0028 Tw
+[ (day) 9.4 (s in grad) 5.7 (e scho) 5.7 (ol\056  Although the feeling ) 6 (wa) 5.7 (s so ) ] TJ
+-21.3653 -1.1497 TD
+0.0002 Tc
+-0.0026 Tw
+[ (remini) 6.8 (scent o) 5.5 (f) 2.6 ( home\054 its so) 5.5 (urce wa) 5.5 (s so entirely un) 5.5 (\055A) ] TJ
+23.0778 0 TD
+0.0003 Tc
+-0.0027 Tw
+[ (meri) 6.9 (can\056 News of all\055day m) 7 (e) -0.4 (tro stri) 6.9 (ke) 5.6 (s would spre) 5.5 (ad ) ] TJ
+-23.0778 -1.1437 TD
+-0.0003 Tc
+-0.0021 Tw
+[ (quickly throu) 5 (ghout the city) 8.7 ( the day bef) ] TJ
+16.7545 0 TD
+0 Tc
+-0.0024 Tw
+[ (ore they were t) 8.4 (o) -0.7 ( occur\054 an) 5.3 (d for us) ] TJ
+14.8743 0 TD
+[ (\054 the ) 6 (stri) 6.6 (ke) 5.3 (s meant no) 5.3 ( way to get ) ] TJ
+-31.6287 -1.1497 TD
+0.0004 Tc
+-0.0028 Tw
+[ (to the Latin Quarte) 5.7 (r for cla) 5.7 (s) 3.4 (s \055 \055 a sno) 5.7 (w) -2 ( d) 5.7 (a) -0.3 (y \055 \055 Fren) ] TJ
+22.6886 0 TD
+0 Tc
+-0.0024 Tw
+[ (ch) 5.3 (\055style\056 It was hard to fathom) 6.7 ( how an e) 5.3 (normous ) 6 (city\047s ) ] TJ
+-22.6886 -1.1497 TD
+0.0001 Tc
+[ (massive tran) 5.4 (spo) 5.4 (r) -2.2 (tation sy) 9.1 (stem could ju) 5.4 (st ) ] TJ
+/TT12 1 Tf
+18.2515 0 TD
+0.0005 Tc
+-0.0029 Tw
+[ (shut do) 5.8 (wn ) ] TJ
+/TT6 1 Tf
+4.8263 0 TD
+-0.0002 Tc
+-0.0022 Tw
+[ (for a day\054 and) 5.1 ( we we) 5.1 (re al) 6.4 (ways skepti) 6.4 (c) -3.2 (al ) 6 (that it would ) ] TJ
+-23.0778 -1.1437 TD
+[ (really hap) 5.1 (pen) 5.1 (\056 ) -6 ( ) ] TJ
+0 -1.1497 TD
+0 Tc
+0 Tw
+( ) Tj
+T*
+-0.0007 Tc
+-0.0017 Tw
+[ (WHAT A BRI) 7.7 (LLIANT STA) 7.6 (R) -3.1 (T\205 ) ] TJ
+0 -1.1437 TD
+0 Tc
+0 Tw
+( ) Tj
+0 -1.1497 TD
+-0.0003 Tc
+-0.0021 Tw
+[ (But outside th) 5 (e doors of the) 5 ( ) ] TJ
+/TT12 1 Tf
+12.479 0 TD
+0.0001 Tc
+0 Tw
+(Fondation) Tj
+/TT6 1 Tf
+4.4491 0 TD
+0 Tc
+-0.0024 Tw
+[ (\054 th) 5.3 (ere was n) 5.3 (o) -0.7 ( m) 6.7 (y) 3 (stery\056 For th) 5.3 (e Fren) 5.3 (ch\054 the) 5.3 (r) -2.3 (e wa) 5.3 (s no d) 5.2 (o) 5.3 (ubt that ) ] TJ
+-16.9281 -1.1497 TD
+0.0003 Tc
+-0.0027 Tw
+[ (there would b) 5.6 (e) -0.4 ( a stri) 6.9 (ke\054 an) 5.6 (d there was n) 5.6 (o) -0.4 ( bewil) 6.9 (der) ] TJ
+22.2515 0 TD
+-0.0001 Tc
+-0.0023 Tw
+[ (me) 5.2 (nt con) 5.2 (c) -3.1 (erning) 5.2 ( worke) 5.2 (r) -2.4 (s mi) 6.5 (ssing a day of work\054 ) ] TJ
+-22.2515 -1.1437 TD
+0.0001 Tc
+-0.0025 Tw
+[ (stude) 5.4 (nts missing a day of class\056 The) 5.4 (s) -2.9 (e \042sno) 5.4 (w day) 9.1 (s\042) ] TJ
+22.8443 0 TD
+[ ( were routine\056 ) 6 (While the ) 6 (stri) 6.7 (ke) 5.4 (s may have been ) ] TJ
+-22.8443 -1.1497 TD
+[ (frustrating\054 there was ) 6 (som) 6.8 (e) -0.6 (thing intrin) 5.4 (si) 6.7 (cally ) ] TJ
+/TT12 1 Tf
+19.6407 0 TD
+0 Tc
+0 Tw
+[ (Fre) 5.3 (n) -0.7 (ch ) ] TJ
+/TT6 1 Tf
+3.3832 0 TD
+-0.0005 Tc
+-0.0019 Tw
+[ (in them\054 and in turn\054 som) 6.2 (e) -1.2 (thing e) 4.8 (s) -3.5 (sential) 6.1 (l) 0.1 (y ) ] TJ
+/TT12 1 Tf
+18.9162 0 TD
+0.0007 Tc
+0 Tw
+(un) Tj
+/TT6 1 Tf
+1.1138 0 TD
+0 Tc
+(\055) Tj
+-43.0539 -1.1497 TD
+-0.0001 Tc
+-0.0023 Tw
+[ (American\056 Th) 5.2 (e city\047s collect) 8.3 (ive accept) ] TJ
+16.5569 0 TD
+-0.0003 Tc
+-0.0021 Tw
+[ (an) 5 (ce of routinely comp) 5 (romi) 6.3 (sin) 5 (g) -1 ( a day of pro) 5 (ductivity\054 all in the name ) ] TJ
+-16.5569 -1.1437 TD
+-0.0002 Tc
+-0.0022 Tw
+[ (of solida) 5.1 (r) -2.5 (ity\054 in the name of) 8.2 ( preservin) 5.1 (g) -0.9 ( the unc) ] TJ
+20.4192 0 TD
+-0.0001 Tc
+-0.0083 Tw
+[ (omp) 5.2 (r) -2.4 (om) 6.6 (ised welfare ) -6 (state ) ] TJ
+11.7006 0 TD
+0.0002 Tc
+-0.0026 Tw
+[ (that had made F) 6.2 (r) -2.1 (an) 5.5 (ce) 5.5 ( the ) ] TJ
+-32.1198 -1.1497 TD
+-0.0001 Tc
+-0.0023 Tw
+[ (worl) 6.5 (d\047) 5.2 (s \042exce) 5.2 (p) -0.8 (tion\054\042 both baffled and am) 6.6 (aze) 5.2 (d) -0.8 ( me\056 I found myself committing the) 5.1 ( ultimate trea) 5.2 (son a) 5.2 (s) -3.1 ( an ) ] TJ
+T*
+-0.0005 Tc
+-0.0019 Tw
+[ (American\072 I felt jealou) 4.8 (s of the Fren) 4.8 (ch\056 In my lifet) ] TJ
+21.0719 0 TD
+-0.0001 Tc
+-0.0023 Tw
+[ (ime\054 I had never known a so) 5.2 (ciet) 8.3 (y where p) 5.2 (r) -2.4 (ote) 5.2 (s) -3.1 (t by the ) ] TJ
+-21.0719 -1.1437 TD
+0.0002 Tc
+-0.0026 Tw
+[ (peopl) 6.8 (e co) 5.5 (uld ) 6 (have su) 5.5 (ch a) 5.5 (n) 5.5 ( effect on the govern) 5.5 (m) 0.9 (ent\054 ) ] TJ
+23.7425 0 TD
+0 Tc
+-0.0024 Tw
+[ (a so) 5.3 (ciety whe) 5.3 (r) -2.3 (e protest wa) 5.3 (s not loo) 5.3 (k) -3 (ed ) 6 (down upo) 5.3 (n ) ] TJ
+-23.7425 -1.1497 TD
+-0.0003 Tc
+-0.0021 Tw
+[ (by the mainst) 8.1 (ream a) 5 (s) -3.3 ( ultra) 5 (\055) -2.6 (leftism but a) 5 (c) -3.3 (cept) ] TJ
+19.8623 0 TD
+[ (ed a) 4.9 (nd ) 6 (embraced a) 4.8 (s) -3.4 ( part of a natio) 4.9 (nal identity\056 ) ] TJ
+-19.8623 -1.1497 TD
+0 Tc
+0 Tw
+( ) Tj
+0 -1.1437 TD
+-0.0006 Tc
+-0.0018 Tw
+(I\222M GLAD YOU ARE INTRIGUED\054 AND I CAN ) Tj
+20.7425 0 TD
+-0.0012 Tc
+-0.0012 Tw
+(SEE YOUR APPRECIATION ) Tj
+13.1437 0 TD
+-0.0015 Tc
+-0.0009 Tw
+(FOR DE TOCQUEVILLE\205 ) Tj
+-33.8862 -1.1497 TD
+0 Tc
+0 Tw
+( ) Tj
+0 -1.1437 TD
+-0.0024 Tw
+[ (On Octo) 5.3 (be) 5.3 (r 2) 5.3 (7) -0.7 (\054 news bro) 5.3 (k) 3 (e out about th) 5.3 (e riots in the ) ] TJ
+23.4611 0 TD
+0.0002 Tc
+-0.0026 Tw
+[ (Parisi) 6.8 (an subu) 5.5 (rb Cli) 6.8 (c) -2.8 (hy\055so) 5.5 (u) 5.5 (s) -2.8 (\055Boi) 6.8 (s\054 trigge) 5.5 (red by the ) ] TJ
+-23.4611 -1.1497 TD
+-0.0001 Tc
+-0.0023 Tw
+[ (accide) 5.2 (ntal de) 5.2 (ath of two No) 5.2 (rth Af) ] TJ
+14.1437 0 TD
+0.0002 Tc
+-0.0026 Tw
+[ (rica) 5.5 (n youths ru) 5.5 (mored) 5.5 ( to be fleeing from the poli) 6.8 (c) 3.2 (e\056 Three ) 6 (wee) 5.5 (ks of ) ] TJ
+-14.1437 -1.1497 TD
+[ (national\054 viole) 5.5 (n) -0.5 (t unre) 5.5 (s) -2.8 (t followed\054 an) 5.5 (d bef) 8.6 (ore it wa) 5.5 (s over\054 9000 ) 6 (ca) 5.5 (rs ) 6 (had be) 5.5 (en set abla) 5.5 (z) -2.8 (e an) 5.5 (d 3) 5.5 (000 pe) 5.5 (ople ) ] TJ
+0 -1.1437 TD
+[ (had be) 5.5 (en arrested\056 Althou) 5.5 (gh the high) 5.5 (\055ri) 6.8 (se) 5.5 (s of the ) ] TJ
+/TT12 1 Tf
+21.9162 0 TD
+0.0004 Tc
+0 Tw
+[ (ba) 5.7 (nlieue) ] TJ
+/TT6 1 Tf
+3.7784 0 TD
+-0.0002 Tc
+-0.0022 Tw
+[ ( ) 6 (were visible fro) 5.1 (m) 0.5 ( my windo) 5.1 (w in th) 5.1 (e ) ] TJ
+/TT12 1 Tf
+15.9641 0 TD
+0.0001 Tc
+0 Tw
+[ (Fondatio) 5.4 (n ) ] TJ
+-41.6587 -1.1497 TD
+-0.0007 Tc
+-0.0017 Tw
+[ (des Etats\055Uni) 5.9 (s) ] TJ
+/TT6 1 Tf
+6.491 0 TD
+-0.0001 Tc
+-0.0023 Tw
+[ (\054 so was the ) 6 (Eiffel Tower\054 ) 6 (and so I focu) 5.2 (sed o) 5.2 (n) -0.8 ( the id) ] TJ
+22.8443 0 TD
+-0.0005 Tc
+-0.0019 Tw
+[ (yllic Paris\054 no) 4.8 (t the real Pari) 6.1 (s\056  In light of ) ] TJ
+-29.3353 -1.1497 TD
+[ (the riots\054 in light of the 55 percent vote to reje) 4.8 (ct ) ] TJ
+21.0299 0 TD
+-0.0001 Tc
+-0.0023 Tw
+[ (the Europ) 5.2 (ean ) 6 (Con) 5.2 (s) -3.1 (titution\054 in light of a France whe) 5.2 (r) -2.4 (e the ) ] TJ
+-21.0299 -1.1437 TD
+0.0002 Tc
+-0.0026 Tw
+[ (Eiffel Tower a) 5.5 (nd the violen) 5.5 (ce\055rid) 5.5 (den ) 6 (sub) 5.5 (u) -0.5 (rb) 5.5 (s ca) 5.5 (n be seen from o) 5.5 (n) -0.5 (e) 5.5 ( windo) 5.5 (w\054 I am compell) 6.8 (ed to) 5.5 ( ) ] TJ
+0 -1.1497 TD
+0.0001 Tc
+-0.0025 Tw
+[ (unde) 5.4 (rsta) 5.4 (nd h) 5.4 (o) -0.6 (w the ide) 5.4 (o) -0.6 (lo) 5.4 (gical F) 6.2 (r) -2.2 (an) 5.4 (ce\054 ) 6 (the one hel) 6.7 (d in esteem by t) 8.5 (he Fre) 5.4 (n) -0.6 (ch\054 differs fro) 5.4 (m) 0.8 ( the real ) ] TJ
+T*
+0.0002 Tc
+-0.0026 Tw
+[ (Fran) 5.5 (ce\054 the o) 5.5 (ne held in ) 6 (co) 5.5 (ntempt by its unempl) 6.8 (oy) ] TJ
+21.8024 0 TD
+-0.0002 Tc
+-0.0022 Tw
+[ (ed\054 young immig) 5.1 (r) 3.5 (ants\056 I am co) 5.1 (mpelled to un) 5.1 (derstand ) ] TJ
+-21.8024 -1.1437 TD
+-0.0001 Tc
+-0.0023 Tw
+[ (the myths of ideolo) 5.2 (g) -0.8 (ical F) 5.9 (r) 3.6 (ance and h) 5.2 (o) 5.2 (w) -2.5 ( the nation ) 6 (mu) ] TJ
+24.1856 0 TD
+0 Tc
+-0.0024 Tw
+[ (st re) 5.3 (sh) 5.3 (ape) 5.3 ( this ideolo) 5.3 (g) -0.7 (y to accommo) 5.3 (d) 5.3 (a) -0.7 (te a new ) ] TJ
+-24.1856 -1.1497 TD
+-0.0001 Tc
+-0.0023 Tw
+[ (gene) 5.2 (ration of ) 6 (Europ) 5.2 (ean int) 8.3 (egratio) 5.2 (n\054 glob) 5.2 (alizatio) 5.2 (n\054 and) 5.2 ( immigration\056 ) 6 (GREAT\056) 8.3 ( ) ] TJ
+T*
+0 Tc
+0 Tw
+( ) Tj
+/TT10 1 Tf
+0 -2.2994 TD
+( ) Tj
+0 -2.2934 TD
+( ) Tj
+/TT6 1 Tf
+T*
+3.315 Tc
+(  ) Tj
+T*
+0 Tc
+( ) Tj
+/TT10 1 Tf
+23.3533 -2.2994 TD
+( ) Tj
+0 -2.2934 TD
+( ) Tj
+0 -2.2994 TD
+( ) Tj
+ET
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 SOC\056G0\05604\0561 \055 Sociology \055 Final Year Undergraduate \055 Female \055 Native Speaker \055 Proposal) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(3) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+33 0 obj
+<<
+/FirstChar 32
+/Widths [ 278 0 0 0 0 0 0 0 0 0 0 0 0 333 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 667 611 778 0 0 0 0 0 0 0 0 0 0 0 0 611 722 0 0 0 0 0 0 0 0 0 0 0 556 556 500 556 556 0 0 556 222 0 0 222 0 556 556 0 0 333 500 278 556 0 722 ]
+/Encoding /WinAnsiEncoding
+/Type /Font
+/BaseFont /Arial-ItalicMT
+/LastChar 119
+/FontDescriptor 34 0 R
+/Subtype /TrueType
+>>
+endobj
+34 0 obj
+<<
+/FontBBox [ -517 -325 1082 998 ]
+/StemV 85.863
+/Descent -211
+/XHeight 515
+/Flags 96
+/FontStretch /Normal
+/Ascent 905
+/FontName /Arial-ItalicMT
+/Type /FontDescriptor
+/FontWeight 400
+/ItalicAngle -15
+/FontFamily (Arial)
+/CapHeight 718
+>>
+endobj
+35 0 obj
+<<
+/FirstChar 32
+/Widths [ 278 0 0 0 0 0 0 0 0 0 0 0 278 0 0 0 0 0 0 0 0 0 0 0 0 0 333 0 0 0 0 611 0 722 722 722 722 667 611 778 722 278 0 722 611 833 722 778 667 0 722 667 611 0 667 944 0 667 0 0 0 0 0 0 0 556 0 556 611 556 333 611 611 278 0 0 278 889 611 611 611 0 389 556 333 611 556 778 556 556 ]
+/Encoding /WinAnsiEncoding
+/Type /Font
+/BaseFont /Arial-BoldMT
+/LastChar 121
+/FontDescriptor 36 0 R
+/Subtype /TrueType
+>>
+endobj
+36 0 obj
+<<
+/FontBBox [ -628 -376 2000 1010 ]
+/StemV 138
+/Descent -211
+/XHeight 515
+/Flags 32
+/FontStretch /Normal
+/Ascent 905
+/FontName /Arial-BoldMT
+/Type /FontDescriptor
+/FontWeight 700
+/ItalicAngle 0
+/FontFamily (Arial)
+/CapHeight 718
+>>
+endobj
+37 0 obj
+<<
+/Length 8197
+>>
+stream
+q
+/GS1 gs
+BT
+/TT2 1 Tf
+12 0 0 12 72 744.96 Tm
+0 g
+0 Tc
+0 Tw
+( ) Tj
+10.02 0 0 10.02 72 733.02 Tm
+( ) Tj
+12 0 0 12 72 59.2801 Tm
+( ) Tj
+10.02 0 0 10.02 72 47.3401 Tm
+( ) Tj
+/TT10 1 Tf
+23.3533 66.2036 TD
+( ) Tj
+0 -2.2934 TD
+( ) Tj
+-14.4431 -2.2994 TD
+0.0008 Tc
+-0.0032 Tw
+[ (HO) 6.2 (W RE) 9.1 (CL) 6.8 (AIMING SOL) 6.9 (I) 3.2 (DA) 4.4 (RITY CA) 4.4 (N HEA) 4.4 (L) 0.9 ( A SICK F) 6.9 (R) -1.6 (A) 4.4 (N) 4.4 (C) -1.6 (E) 9.1 ( ) ] TJ
+-8.9102 -2.2934 TD
+0.0004 Tc
+-0.0028 Tw
+[ (Wh) -5.5 (y) 17.6 ( The French Fear ) 6 (Ch) 6.4 (ange) 5.7 ( ) ] TJ
+/TT6 1 Tf
+3.5928 -2.2874 TD
+-0.0001 Tc
+-0.0023 Tw
+[ (Outsid) 5.2 (e of France\054 the world is ch) 5.2 (angi) 6.5 (ng) 5.2 (\056 Globa) ] TJ
+21.0838 0 TD
+0 Tc
+-0.0024 Tw
+[ (lizatio) 5.2 (n is be) 5.3 (comin) 5.3 (g) -0.7 ( an increa) 5.3 (si) 6.6 (ngly powerful) 6.6 ( ) ] TJ
+-24.6766 -2.2994 TD
+0.0002 Tc
+-0.0026 Tw
+[ (force ) 6 (who) 5.5 (s) -2.8 (e ) 6 (stren) 5.5 (g) -0.5 (th sp) 5.5 (ares few ) 6 (cou) 5.5 (n) -0.5 (tries\056 The Eu) ] TJ
+22.4671 0 TD
+[ (ro) 5.5 (pean ) 6 (Union\054 ) 6 (with the 200) 5.5 (2) 5.5 ( initiation of the euro and ) ] TJ
+-22.4671 -2.2934 TD
+-0.0004 Tc
+-0.002 Tw
+[ (the draft of its own Con) 4.9 (s) -3.4 (titution\054 is on a trajecto) ] TJ
+20.7485 0 TD
+0.0004 Tc
+-0.0028 Tw
+[ (ry towa) 5.7 (rds in) 5.7 (crea) 5.7 (se) 5.7 (d) 5.7 ( powe) 5.7 (r) -1.9 ( and in) 5.7 (fluence on th) 5.7 (e worl) 7 (d ) ] TJ
+-20.7485 -2.2934 TD
+-0.0003 Tc
+-0.0021 Tw
+[ (stage\056 Immig) 5 (r) 3.4 (ation rate) 5 (s into Fran) 5 (ce\054 pa) 5 (rticularly fr) ] TJ
+22.2455 0 TD
+0.0003 Tc
+-0.0027 Tw
+[ (om ) 6 (the North Afri) 6.9 (can regi) ] TJ
+11.0958 0 TD
+0.0001 Tc
+-0.0025 Tw
+[ (o) 5.4 (n) -0.6 ( kn) 5.4 (own a) 5.3 (s) -2.9 ( the M) 6.8 (aghreb\054 ) ] TJ
+-33.3413 -2.2934 TD
+[ (contin) 5.4 (ue to ri) 6.7 (se\056 Yet\054 as a whol) 6.7 (e\054 the French are ) 6 (re) 5.4 (si) ] TJ
+23.0719 0 TD
+-0.0003 Tc
+-0.0021 Tw
+[ (stant to cha) 5 (n) 5 (ge\056 In a 1990 ) 6 (Wo) 5 (rld Value) 5 (s) 2.7 ( Survey\054 only ) ] TJ
+-23.0719 -2.2994 TD
+0.0003 Tc
+-0.0027 Tw
+[ (30 perce) 5.6 (nt of the Fren) 5.6 (ch ) 6 (re) 5.6 (ported t) ] TJ
+15.4252 0 TD
+0 Tc
+-0.0024 Tw
+[ (hat th) 5.3 (ey \042welco) 5.3 (me ) 6 (cha) 5.3 (nge\042 an) 5.3 (d only 12 perce) 5.3 (nt said that n) 5.3 (e) -0.7 (w ide) 5.3 (a) -0.7 (s ) ] TJ
+-15.4252 -2.2934 TD
+-0.0003 Tc
+-0.0021 Tw
+[ (were better th) 5 (an old on) 5 (es \050Smith 60\051\056 Th) 5 (ey perceive g) 5 (l) ] TJ
+24.018 0 TD
+0 Tc
+-0.0024 Tw
+[ (obali) 6.6 (z) -3 (ation a) 5.3 (s) -3 ( a thre) 5.2 (at to their che) 5.3 (r) -2.3 (ishe) 5.3 (d national ) ] TJ
+-24.018 -2.2934 TD
+-0.0002 Tc
+-0.0022 Tw
+[ (identity which) 5.1 ( becom) 6.5 (es in) 5.1 (crea) 5.1 (singly co) 5.1 (mpromi) 6.4 (se) 5.1 (d wi) ] TJ
+23.3473 0 TD
+-0.0004 Tc
+-0.002 Tw
+[ (th every \042McJob\042 cre) 4.9 (a) -1.1 (ted ) 6 (and every ste) 4.9 (p) -1.1 ( towards ) ] TJ
+-23.3473 -2.2994 TD
+[ (privatizatio) 5 (n\056 A 2001 poll fo) 5 (und that 72 ) ] TJ
+17.2575 0 TD
+-0.0001 Tc
+-0.0023 Tw
+[ (p) 5.2 (e) -0.8 (rcent of the Fren) 5.2 (ch a) 5.2 (r) -2.4 (e suspi) 6.5 (c) -3.1 (io) ] TJ
+15.0898 0 TD
+-0.0004 Tc
+-0.002 Tw
+[ (us of g) 4.9 (l) 0.2 (obali) 6.2 (z) -3.4 (ation\073 6) 4.9 (5) -1.1 ( percent ) ] TJ
+-32.3473 -2.2934 TD
+-0.0002 Tc
+-0.0022 Tw
+[ (believe it to be the prima) 5.1 (r) -2.5 (y cau) 5.1 (s) -3.2 (e of soci) 6.4 (al inequ) 5.1 (a) ] TJ
+21.8623 0 TD
+-0.0003 Tc
+-0.0021 Tw
+[ (lity\073 ) -6 (and 55 p) 5 (e) -1 (rce) 5 (n) -1 (t believe it a threat to Fre) 5 (n) -1 (ch ) ] TJ
+-21.8623 -2.2934 TD
+0.0001 Tc
+-0.0025 Tw
+[ (comp) 5.4 (anie) 5.4 (s) -2.9 ( a) 5.4 (nd job) 5.4 (s) -2.9 (\056 Only 12 perce) 5.4 (nt re) 5.4 (ported that) ] TJ
+22.4192 0 TD
+-0.0004 Tc
+-0.002 Tw
+[ ( th) 4.9 (ey were e) 4.9 (n) -1.1 (th) 4.9 (usia) 4.9 (stic a) 4.9 (bout) 8 ( it \05055\051\056  ) ] TJ
+-22.4192 -2.2994 TD
+[ ( ) -3317.4 (Much of thi) 6.3 (s) -3.3 ( resi) 6.3 (stant ideol) 6.3 (ogy is learne) 5 (d fr) ] TJ
+22.509 0 TD
+0 Tc
+-0.0024 Tw
+[ (om Fre) 5.3 (n) -0.7 (ch political lea) 5.3 (ders\056 Beca) 5.3 (use cre) 5.3 (a) -0.7 (ting a ) ] TJ
+-22.509 -2.2934 TD
+-0.0002 Tc
+-0.0022 Tw
+[ (scape) 5.1 (goat is ) 6 (easi) 6.4 (e) -0.9 (r than a) 5.1 (d) -0.9 (mitting to mistakes\054 Fren) 5.1 (ch) ] TJ
+24.1317 0 TD
+0.0003 Tc
+-0.0027 Tw
+[ ( politicia) 5.6 (ns a) 5.6 (r) -2 (e qui) 6.9 (ck to bl) 6.9 (ame dom) 7 (esti) 6.9 (c economi) 6.9 (c) -2.7 ( ) ] TJ
+-24.1317 -2.2934 TD
+0.0002 Tc
+-0.0026 Tw
+[ (and soci) 6.8 (al problem) 6.9 (s on ex) 9.2 (ternal facto) 5.5 (r) 3.9 (s\054 most notably) 9.2 ( on ) ] TJ
+25.2395 0 TD
+-0.0004 Tc
+-0.002 Tw
+[ (globali) 6.2 (z) -3.4 (ati) 6.2 (on\056 They are ) 6 (relu) 4.9 (ctant to admit to the ) ] TJ
+-25.2395 -2.2934 TD
+0.0001 Tc
+-0.0025 Tw
+[ (publi) 6.7 (c) -2.9 ( that ce) 5.4 (rtain cut) 8.5 (s) -2.9 ( in state spen) 5.4 (ding) 5.4 ( could ) ] TJ
+20.7006 0 TD
+-0.0002 Tc
+-0.0022 Tw
+[ (a) 5.1 (c) -3.2 (tuall) 6.4 (y) 2.8 ( benefit the masse) 5.1 (s) -3.2 (\054 hen) 5.1 (ceforth ) 6 (blami) 6.4 (ng the ) ] TJ
+-20.7006 -2.2994 TD
+-0.0003 Tc
+-0.0021 Tw
+[ (deman) 5 (ds of g) 5 (l) 0.3 (obali) 6.3 (z) -3.3 (ation to) 5 ( defend any p) 5 (o) -1 (licy involving ) ] TJ
+24.6347 0 TD
+0.0001 Tc
+-0.0025 Tw
+[ (spe) 5.3 (ndin) 5.3 (g) -0.6 ( cuts\056 Unli) 6.7 (ke in ) 6 (the su) 5.4 (ccessfu) 5.4 (l) 0.7 ( reform ) ] TJ
+-24.6347 -2.2934 TD
+0.0003 Tc
+-0.0027 Tw
+[ (storie) 5.6 (s of De) 5.6 (nmark an) 5.6 (d Swed) 5.6 (en\054 Fre) 5.6 (n) -0.4 (ch political) ] TJ
+21.479 0 TD
+0.0002 Tc
+-0.0026 Tw
+[ ( lea) 5.5 (ders have av) 9.2 (oided h) 5.5 (one) 5.5 (stl) 6.8 (y) 3.2 ( and boldly pro) 5.5 (c) -2.8 (laim) 6.9 (ed ) ] TJ
+-21.479 -2.2934 TD
+0.0001 Tc
+-0.0025 Tw
+[ (the necessity of resh) 5.4 (uffling so) 5.4 (ci) ] TJ
+13.8743 0 TD
+-0.0003 Tc
+-0.0021 Tw
+[ (al spen) 5 (ding\056 Whe) 5 (n) -1 ( former Fren) 5 (ch p) 5 (r) -2.6 (esi) 6.3 (dent Fran) 5 (coi) 6.3 (s) -3.3 ( Mitteran) 5 (d) -1 ( and ) ] TJ
+-13.8743 -2.2994 TD
+0.0002 Tc
+-0.0026 Tw
+[ (curre) 5.5 (n) -0.5 (t pre) 5.5 (s) -2.8 (id) 5.5 (ent Ja) 5.5 (cqu) 5.5 (e) -0.5 (s ) 6 (Chirac m) 6.9 (ade ) 6 (cuts involvi) ] TJ
+22.5808 0 TD
+-0.0004 Tc
+-0.002 Tw
+[ (n) 4.9 (g) 4.9 ( the civil servi) 6.2 (c) -3.4 (e\054 they attrib) 4.9 (uted them to being ) ] TJ
+-22.5808 -2.2934 TD
+[ (force) 5 (d) -1 ( to mee) 5 (t) 2.1 ( demand) 5 (s of the Europ) 5 (ean) 5 ( Monetary Un) 5 (i) ] TJ
+24.3533 0 TD
+0 Tc
+-0.0024 Tw
+[ (on rathe) 5.3 (r) -2.3 ( tha) 5.3 (n) -0.7 ( to their own) 5.3 ( deci) 6.6 (s) -3 (ion) 5.3 (\055) -2.3 (ma) 5.2 (king\056 In a ) ] TJ
+-24.3533 -2.2934 TD
+-0.0003 Tc
+-0.0021 Tw
+[ (symboli) 6.3 (c) -3.3 ( ge) 5 (sture of suppo) 5 (rt for t) ] TJ
+14.1976 0 TD
+0.0001 Tc
+-0.0025 Tw
+[ (he anti\055globali) 6.7 (z) -2.9 (ation ) 6 (movement\054 former P) 8.4 (r) -2.2 (ime M) 6.8 (i) 0.7 (nister Li) 6.7 (onel ) 6 (Jo) 5.4 (spin too) 5.4 (k) -2.9 ( ) ] TJ
+-14.1976 -2.2994 TD
+-0.0001 Tc
+-0.0023 Tw
+[ (Fran) 5.2 (ce\047) 5.2 (s) -3.1 ( mo) 5.2 (st powerful a) 5.2 (n) 5.2 (d) -0.8 ( famous a) 5.2 (n) -0.8 (ti\055glob) 5.2 (a) -0.8 (lizat) ] TJ
+22.2156 0 TD
+-0.0005 Tc
+-0.0019 Tw
+[ (ion) 4.8 ( activist\054 Jos\351) 4.7 ( Bov\351\054 out for a highly publi) 6.1 (c) -3.5 (ized ) ] TJ
+-22.2156 -2.2934 TD
+0.0003 Tc
+-0.0027 Tw
+[ (dinne) 5.6 (r to con) 5.6 (g) -0.4 (ratulate hi) 6.9 (s radical efforts ) 6 (whi) 6.9 (c) -2.7 (h ) ] TJ
+20.5868 0 TD
+-0.0001 Tc
+-0.0023 Tw
+[ (have in) 5.2 (volved wide) 5.2 (sprea) 5.2 (d) -0.8 ( vandali) 6.5 (z) -3.1 (ation of M) 6.6 (c) -3.1 (Donald\047) 5.2 (s ) ] TJ
+-20.5868 -2.2934 TD
+0.0002 Tc
+-0.0026 Tw
+[ (resta) 5.5 (u) -0.5 (rants a) 5.5 (nd Gen) 5.5 (e) -0.5 (ral M) 6.9 (o) -0.5 (tors pl) 6.8 (ants ) 6 (\05059\051\056 By ex) ] TJ
+22.1317 0 TD
+0.0004 Tc
+-0.0028 Tw
+[ (pre) 5.7 (ssi) 7 (ng official ) 6 (political ) 6 (supp) 5.7 (ort for the ant) 8.8 (i\055) ] TJ
+ET
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 SOC\056G0\05604\0561 \055 Sociology \055 Final Year Undergraduate \055 Female \055 Native Speaker \055 Proposal) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(4) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+38 0 obj
+<<
+/Length 8877
+>>
+stream
+q
+/GS1 gs
+BT
+/TT2 1 Tf
+12 0 0 12 72 744.96 Tm
+0 g
+0 Tc
+0 Tw
+( ) Tj
+10.02 0 0 10.02 72 733.02 Tm
+( ) Tj
+12 0 0 12 72 59.2801 Tm
+( ) Tj
+10.02 0 0 10.02 72 47.3401 Tm
+( ) Tj
+/TT6 1 Tf
+0 66.2096 TD
+-0.0004 Tc
+-0.002 Tw
+[ (globali) 6.2 (z) -3.4 (ation ) 6 (movement\054 F) 5.6 (r) -2.7 (en) 4.9 (ch politi) 6.2 (c) -3.4 (ia) 4.9 (ns have u) 4.9 (s) -3.4 (e) 4.9 (d) 4.9 ( their autho) 4.9 (rity to legitimize it\056 ) -6 (Intertwinin) 4.9 (g) -1.1 ( highly ) ] TJ
+0 -2.2934 TD
+-0.0001 Tc
+-0.0023 Tw
+[ (defen) 5.2 (sive nat) 8.3 (ionali) 6.5 (s) -3.1 (m with ) 6 (publi) 6.5 (c) -3.1 ( policy ) 6 (diminishe) 5.2 (s) -3.1 ( prosp) 5.2 (e) -0.8 (ct) 8.3 (s of rat) 8.3 (i) 0.5 (onal dialo) 5.2 (g) -0.8 (u) 5.2 (e) -0.8 (\056 ) ] TJ
+0 -2.2994 TD
+0.0001 Tc
+-0.0025 Tw
+[ ( ) -3317.4 (There is a vicious ) 6 (cycle in ) 6 (Fren) 5.4 (ch d) 5.4 (o) -0.6 (me) 5.4 (stic polit) ] TJ
+24.7305 0 TD
+0.0002 Tc
+-0.0026 Tw
+[ (i) 6.8 (cs\072 the peo) 5.4 (ple wi) 6.8 (sh to pre) 5.5 (s) -2.8 (erve ) 6 (their distin) 5.5 (ct ) ] TJ
+-24.7305 -2.2934 TD
+-0.0003 Tc
+-0.0021 Tw
+[ (cultural identi) 6.3 (t) 2.1 (y which is la) 5 (rgely embed) 5 (d) 5 (ed in the ) ] TJ
+21.6886 0 TD
+-0.0002 Tc
+-0.0022 Tw
+[ (eno) 5.1 (rmous ) 6 (welfa) 5.1 (r) -2.5 (e) 5.1 ( state\073 the politician) 5.1 (s) -3.2 (\054 wishi) 6.4 (ng to ) ] TJ
+-21.6886 -2.2934 TD
+0.0002 Tc
+-0.0026 Tw
+[ (appe) 5.5 (ase the peopl) 6.8 (e and m) 6.9 (a) -0.5 (intain their ) 6 (suppo) 5.5 (rt\054 resi) 6.8 (st unpo) ] TJ
+26.024 0 TD
+-0.0002 Tc
+-0.0022 Tw
+[ (pula) 5.1 (r) -2.5 ( pressures to ad) 5.1 (apt to externa) 5.1 (l) 0.4 ( chan) 5.1 (ge\073 ) ] TJ
+-26.024 -2.2994 TD
+-0.0003 Tc
+-0.0021 Tw
+[ (the peopl) 6.3 (e\054 seeing that the) 5 ( politicia) ] TJ
+15.3713 0 TD
+0 Tc
+-0.0024 Tw
+[ (n) 5.3 (s) -3 ( who po) 5.3 (ssess a) 5.3 (u) -0.7 (thority are resi) ] TJ
+14.8084 0 TD
+-0.0002 Tc
+-0.0022 Tw
+[ (sting chan) 5.1 (ge\054 believe th) 5 (eir own ) ] TJ
+-30.1796 -2.2934 TD
+0.0004 Tc
+-0.0028 Tw
+[ (resi) 7 (stan) 5.7 (ce to ) 6 (be legitimized) 5.7 ( and gro) 5.7 (w) -2 ( mo) 5.7 (re stub) 5.7 (bo) 5.7 (rn) ] TJ
+23.1377 0 TD
+-0.0003 Tc
+-0.0021 Tw
+[ ( in) 5 ( their belief systems\056 Unde) 5 (rstan) 5 (d) -1 (ing the ) 6 (powerful ) ] TJ
+-23.1377 -2.2934 TD
+0 Tc
+-0.0024 Tw
+[ (ideolo) 5.3 (g) -0.7 (y that drives F) 6.1 (r) -2.3 (en) 5.3 (ch) 5.3 ( pride in the e) 5.3 (x) 3 (isting ) ] TJ
+21.1377 0 TD
+0.0004 Tc
+-0.0028 Tw
+[ (syste) 5.7 (m) 1.1 ( and hind) 5.7 (ers their ) 6 (willing) 5.7 (ness to ch) 5.6 (an) 5.7 (ge is an ) ] TJ
+-21.1377 -2.2934 TD
+[ (essential ) 6 (step) 5.7 ( toward) 5.7 (s ) 6 (con) 5.7 (v) 3.4 (incing the F) 6.5 (r) 4.1 (ench t) ] TJ
+20.4671 0 TD
+-0.0002 Tc
+-0.0022 Tw
+[ (hat refo) 5.1 (rm nee) 5.1 (d not be equ) 5.1 (ated th) 5.1 (e type of Anglo\055) ] TJ
+-20.4671 -2.2994 TD
+-0.0005 Tc
+-0.0019 Tw
+[ (Saxon\057Ameri) 6.1 (c) -3.5 (an\054 lai) 6.1 (s) -3.5 (sez\055faire\054 often ) ] TJ
+16.2575 0 TD
+-0.0013 Tc
+-0.0011 Tw
+[ (rut) 7.1 (h) -2 (less) -4.3 (\054 c) -4.3 (a) 4 (pitalis) -4.3 (m) -0.6 ( they s) -4.3 (o) -2 ( fear\056) 7.1 ( ) ] TJ
+/TT10 1 Tf
+-16.2575 -2.2994 TD
+-0.0007 Tc
+-0.0017 Tw
+[ (Solidarit) -9 (y) 16.5 (\072) -3 ( T) -6.6 (r) -0.8 (ul) -4.3 (y) 10.5 ( A French Value\077 ) ] TJ
+/TT6 1 Tf
+0 -2.2874 TD
+-0.0001 Tc
+-0.0023 Tw
+[ ( ) -3317.4 (Behind ne) 5.2 (arly) 8.9 ( every gestu) 5.2 (re of resi) 6.5 (stan) 5.2 (ce to chan) ] TJ
+25.503 0 TD
+-0.0003 Tc
+-0.0021 Tw
+[ (ge li) 6.3 (es the notio) 5 (n of solida) 5 (r) -2.6 (ity\056 It is an ideolo) 5 (g) -1 (y ) ] TJ
+-25.503 -2.2994 TD
+-0.0002 Tc
+-0.0022 Tw
+[ (that the Fren) 5.1 (ch seem to h) 5.1 (a) -0.9 (ve claime) 5.1 (d as its o) 5.1 (w) -2.6 (n\054 an) ] TJ
+23.0778 0 TD
+-0.0003 Tc
+-0.0021 Tw
+(d many feel that their nat) Tj
+10.988 0 TD
+0.0001 Tc
+-0.0025 Tw
+[ (io) 5.4 (n che) 5.4 (r) -2.2 (ishe) 5.4 (s it more than ) ] TJ
+-34.0659 -2.2934 TD
+-0.0001 Tc
+-0.0023 Tw
+[ (any other\054 So) 5.2 (lidarity\222s o) 5.2 (r) -2.4 (igi) 6.5 (n) -0.8 (s are emb) 5.2 (e) -0.8 (d) 5.2 (ded in the Fr) ] TJ
+23.4072 0 TD
+0.0001 Tc
+-0.0025 Tw
+[ (ench Revol) 6.7 (u) -0.6 (tion\054 whe) 5.4 (n) -0.6 ( legi) 6.7 (slators p) 5.4 (r) -2.2 (o) 5.3 (c) -2.9 (la) 5.4 (imed their ) ] TJ
+-23.4072 -2.2934 TD
+-0.0003 Tc
+-0.0021 Tw
+[ (\042sacre) 5 (d debt\042) 7.4 ( to eliminating extreme po) 5 (verty\056 At this) ] TJ
+22.8443 0 TD
+0 Tc
+-0.0024 Tw
+[ ( time\054 they cre) 5.3 (a) -0.7 (ted the nobl) 6.6 (e idea of a st) 8.4 (ate dedi) 6.6 (cated) 5.3 ( ) ] TJ
+-22.8443 -2.2994 TD
+0.0003 Tc
+-0.0027 Tw
+[ (to old\055ag) 5.6 (e pe) 5.6 (nsio) 5.6 (ns\054 wage ) 6 (sup) 5.6 (p) -0.4 (leme) 5.6 (nts\054) 8.7 ( wide) 5.6 (spread ) ] TJ
+23.521 0 TD
+[ (acce) 5.6 (ss to ed) 5.6 (ucatio) 5.6 (n\054 and t) ] TJ
+11.5988 0 TD
+0.0001 Tc
+-0.0025 Tw
+[ (he gua) 5.4 (rante) 5.4 (e) 5.4 ( of the right ) ] TJ
+-35.1198 -2.2934 TD
+0.0002 Tc
+-0.0026 Tw
+[ (to work \050Ambl) 6.8 (e) -0.5 (r 3\051\056 Th) 5.5 (ese pro) 5.5 (c) -2.8 (lam) 6.9 (a) -0.5 (tion) 5.5 (s failed to be) 5.5 (co) ] TJ
+24.1916 0 TD
+-0.0006 Tc
+-0.0018 Tw
+[ (me ) 6 (reality\054 however\054 and) 4.7 ( it) ] TJ
+11.6407 0 TD
+0.0001 Tc
+-0.0025 Tw
+[ ( was not un) 5.4 (til the end of ) ] TJ
+-35.8323 -2.2934 TD
+-0.0003 Tc
+-0.0021 Tw
+[ (the 19th ce) 5 (ntury that the first anti\055) ] TJ
+14.8743 0 TD
+0.0003 Tc
+-0.0027 Tw
+[ (pove) 5.6 (r) -2 (t) 8.7 (y) 3.3 ( legislation ) 6 (wa) 5.6 (s pa) 5.6 (ssed\056 The ) ] TJ
+16.0838 0 TD
+0.0002 Tc
+-0.0026 Tw
+[ (lang) 5.5 (uag) 5.5 (e) 5.5 ( of solidarity wa) 5.5 (s reb) 5.5 (o) -0.5 (rn ) ] TJ
+-30.9581 -2.2934 TD
+-0.0001 Tc
+-0.0023 Tw
+[ (at this time\054 and it was a la) 5.2 (ngua) 5.2 (ge of re) 5.2 (distrib) 5.2 (u) -0.8 (tion\054 ) ] TJ
+22.7485 0 TD
+-0.0002 Tc
+-0.0022 Tw
+[ (o) 5.1 (f) 2.2 ( the obligatio) 5.1 (n of the privileged a) 5.1 (nd co) 5.1 (mfortable to ) ] TJ
+-22.7485 -2.2994 TD
+0 Tc
+-0.0024 Tw
+[ (their less fort) 8.4 (unate compat) 8.4 (riots\056 The b) 5.3 (e) -0.7 (li) 6.6 (ef was that ) ] TJ
+22.8563 0 TD
+[ (in) 5.3 ( a nation with) 5.3 ( high soli) 6.6 (darit) 8.4 (y\054 individuals ) 6 (were bou) 5.2 (nd ) ] TJ
+-22.8563 -2.2934 TD
+-0.0002 Tc
+-0.0022 Tw
+[ (to their families\054 their fello) 5.1 (w citizen) 5.1 (s) -3.2 (\054 an) 5.1 (d the state\054 ) ] TJ
+22.521 0 TD
+0.0001 Tc
+-0.0025 Tw
+[ (and they were expecte) 5.4 (d to make ) 6 (ce) 5.4 (rtain ) 6 (sa) 5.4 (crifices fo) 5.4 (r ) ] TJ
+-22.521 -2.2934 TD
+0.0006 Tc
+-0.003 Tw
+[ (the comm) 7.3 (on ) 6 (good\056 Thi) 7.2 (s) -2.4 ( rh) 5.9 (etoric ) 6 (wa) 5.9 (s ag) 5.9 (ain re) 5.9 (claim) 7.3 (e) -0.1 (d) 5.9 ( in ) ] TJ
+24.7365 0 TD
+-0.0001 Tc
+-0.0023 Tw
+[ (the 1970) 5.2 (s by the Sociali) 6.5 (s) -3.1 (ts in po) 5.2 (we) 5.2 (r\054 but again\054 it ) ] TJ
+-24.7365 -2.2994 TD
+-0.001 Tc
+-0.0014 Tw
+[ (failed\056 Yet\054 th) -7.7 (e Frenc) -4 (h) -1.7 (\054 as) -4 ( well as) -4 ( much of the worl) ] TJ
+22.3114 0 TD
+0.0001 Tc
+-0.0025 Tw
+[ (d\054 ) 6 (perceive Fran) 5.4 (ce a) 5.3 (s) -2.9 ( a st) ] TJ
+11.479 0 TD
+-0.0001 Tc
+-0.0083 Tw
+[ (ate with ) -6 (high soli) 6.5 (darity\056 ) ] TJ
+-33.7904 -2.2934 TD
+0 Tc
+-0.0024 Tw
+[ ( ) -3317.4 (To begin to e) 5.3 (x) 3 (plain ho) 5.3 (w this is po) 5.3 (ssible\054 ) 6 (one mu) ] TJ
+24.7844 0 TD
+[ (st examine the ben) 5.2 (efits ) ] TJ
+10.5449 0 TD
+-0.0002 Tc
+-0.0022 Tw
+[ (of being ) 6 (part of the 59) 5.1 ( ) ] TJ
+-35.3293 -2.2934 TD
+-0.0001 Tc
+-0.0023 Tw
+[ (percent of the) 5.2 ( Fren) 5.2 (ch po) 5.2 (pul) 6.5 (ation with sta) 5.2 (b) -0.8 (le employ) ] TJ
+22.8623 0 TD
+[ (m) 6.6 (ent\056 For these peopl) 6.5 (e\054 Fra) 5.2 (n) -0.8 (ce i) 6.5 (s) -3.1 ( an ide) 5.2 (a) -0.8 (l place to ) ] TJ
+-22.8623 -2.2994 TD
+-0.0004 Tc
+-0.002 Tw
+[ (call hom) 6.3 (e\056 Th) 4.9 (e health) 4.9 (care system i) 6.2 (s) -3.4 ( the best in the wo) ] TJ
+24.024 0 TD
+0.0001 Tc
+-0.0025 Tw
+[ (rld\054 acco) 5.4 (rdi) 6.7 (n) 5.4 (g to the Worl) 6.7 (d Health O) 5.5 (r) -2.2 (g) 5.3 (anization\056 ) ] TJ
+-24.024 -2.2934 TD
+[ (There are fe) 5.4 (w waitin) 5.4 (g lists for surge) 5.4 (r) -2.2 (ies\054) 8.5 ( pharm) 6.8 (a) -0.6 (c) ] TJ
+21.8024 0 TD
+0.0002 Tc
+-0.0026 Tw
+[ (euti) 6.8 (c) -2.8 (al) 6.8 (s are ) 6 (cove) 5.5 (red fro) 5.5 (m) 0.9 ( 75 to 100 pe) 5.5 (rcent) 8.6 (\054 and they ) ] TJ
+-21.8024 -2.2934 TD
+-0.0001 Tc
+-0.0023 Tw
+[ (are con) 5.2 (s) -3.1 (um) 6.6 (e) 5.2 (d) -0.8 ( at twice the) 5.2 ( rate as in Bri) 6.5 (t) 2.3 (ain \050Smi) ] TJ
+21.4671 0 TD
+0 Tc
+-0.0024 Tw
+[ (th 4\051\056 Contra) 5.3 (ry to the U\056S\056\054 where publi) 6.6 (c) -3 ( hou) 5.3 (si) 6.6 (ng ha) 5.3 (s ) ] TJ
+ET
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 SOC\056G0\05604\0561 \055 Sociology \055 Final Year Undergraduate \055 Female \055 Native Speaker \055 Proposal) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(5) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+39 0 obj
+<<
+/Length 8176
+>>
+stream
+q
+/GS1 gs
+BT
+/TT2 1 Tf
+12 0 0 12 72 744.96 Tm
+0 g
+0 Tc
+0 Tw
+( ) Tj
+10.02 0 0 10.02 72 733.02 Tm
+( ) Tj
+12 0 0 12 72 59.2801 Tm
+( ) Tj
+10.02 0 0 10.02 72 47.3401 Tm
+( ) Tj
+/TT6 1 Tf
+0 66.2096 TD
+-0.0002 Tc
+-0.0022 Tw
+[ (never surpa) 5.1 (s) 2.8 (sed o) 5.1 (ne pe) 5.1 (rcent of total new hou) 5.1 (sin) 5.1 (g) -0.9 (\054 one fi) ] TJ
+25.0778 0 TD
+-0.0003 Tc
+-0.0021 Tw
+[ (fth of French h) 5 (o) -1 (u) 5 (s) -3.3 (ing i) 6.3 (s) -3.3 ( built with pu) 5 (blic mon) 5 (e) -1 (y\054 ) ] TJ
+-25.0778 -2.2934 TD
+0.0001 Tc
+-0.0025 Tw
+[ (and it benefit) 8.5 (s over on) 5.4 (e third of the pop) 5.4 (ulation \0504) 5.4 (\051\056 ) ] TJ
+22.3054 0 TD
+0.0002 Tc
+-0.0026 Tw
+[ (O) 5.6 (n) -0.5 ( top of the 35 hour ) 6 (wo) 5.5 (rk ) 6 (wee) 5.5 (k) -2.8 (\054 the Fre) 5.5 (n) -0.5 (ch h) 5.5 (a) -0.5 (ve ) ] TJ
+-22.3054 -2.2994 TD
+-0.0002 Tc
+-0.0022 Tw
+[ (three to four t) 8.2 (i) 0.4 (mes mo) 5.1 (re va) 5.1 (cation time th) 5.1 (an thei) ] TJ
+20.8563 0 TD
+0.0004 Tc
+-0.0028 Tw
+[ (r North) 5.7 ( America) 5.7 (n) -0.3 ( co) 5.7 (unterp) 5.7 (a) -0.3 (rt) 8.8 (s\054 and the mean ) 6 (age of ) ] TJ
+-20.8563 -2.2934 TD
+0.0002 Tc
+-0.0026 Tw
+[ (retirem) 6.9 (ent is ) 6 (58\0565 \0503) 5.5 (\051\056 The ) 6 (minimum wa) 5.5 (ge ha) 5.5 (s bee) 5.5 (n ) ] TJ
+23.1258 0 TD
+-0.0004 Tc
+-0.002 Tw
+[ (raise) 4.9 (d) -1.1 ( every year with inflati) 6.2 (on and i) 6.2 (s) -3.4 ( ove) 4.9 (r) -2.7 ( 60 ) ] TJ
+-23.1258 -2.2934 TD
+[ (percent of the) 4.9 ( median wag) 4.9 (e) -1.1 (\054 wherea) 4.9 (s in) 4.9 ( the U\056S\056\054 it ) ] TJ
+22.9042 0 TD
+(is only 39 percent of the median wage \0505\051\056 There is ) Tj
+-22.9042 -2.2994 TD
+-0.0002 Tc
+-0.0022 Tw
+[ (excelle) 5.1 (nt state\055fund) 5.1 (ed day) 8.8 (care\054 gre) 5.1 (a) -0.9 (tly sub) 5.1 (s) -3.2 (idi) 6.4 (z) -3.2 (e) 5.1 (d) -0.9 (\054 e) ] TJ
+23.2455 0 TD
+0.0001 Tc
+-0.0025 Tw
+[ (fficient publi) 6.7 (c) -2.9 ( tran) 5.4 (spo) 5.4 (r) -2.2 (tation\054) 8.5 ( and the wo) 5.4 (rl) 6.7 (d\047s mo) 5.4 (st ) ] TJ
+-23.2455 -2.2934 TD
+-0.0002 Tc
+-0.0022 Tw
+[ (impre) 5.1 (s) 2.8 (sive sy) 8.8 (stem of muse) 5.1 (ums\056 ) 6 ( ) ] TJ
+T*
+0.0002 Tc
+-0.0026 Tw
+[ ( ) -3317.4 (Yet\054 there is anothe) 5.5 (r Fra) 5.5 (n) 5.5 (c) -2.8 (e\054 whi) 6.8 (c) -2.8 (h lo) 5.5 (o) 5.5 (ks n) 5.5 (o) -0.5 (thi) ] TJ
+24.1198 0 TD
+0 Tc
+-0.0024 Tw
+[ (ng li) 6.6 (ke the notion o) 5.3 (f) 2.4 ( solidarity de) 5.3 (fined duri) 6.6 (ng the ) ] TJ
+-24.1198 -2.2934 TD
+0.0001 Tc
+[ (Revolutio) 5.4 (n) -0.6 (\056 Out of all West) 8.5 (ern natio) 5.4 (ns\054 F) 6.2 (r) -2.2 (an) 5.4 (ce ha) 5.4 (s ) ] TJ
+22.5808 0 TD
+[ (ha) 5.4 (d the highe) 5.4 (st increa) 5.4 (se in u) 5.4 (nemploym) 6.8 (ent) 8.5 ( and the ) ] TJ
+-22.5808 -2.2994 TD
+-0.0001 Tc
+-0.0023 Tw
+[ (poorest record of job cre) 5.2 (a) -0.8 (tion duri) 6.5 (ng the ) 6 (last qua) 5.2 (rter) ] TJ
+22.976 0 TD
+[ ( of) 8.3 ( the 20th cent) 8.3 (ury\056 Since 19) 5.2 (80\054 the unem) 6.6 (ployment ) ] TJ
+-22.976 -2.2934 TD
+0.0001 Tc
+-0.0025 Tw
+[ (rate ha) 5.4 (s hove) 5.4 (r) -2.2 (ed at 10 pe) 5.4 (rcent \050K) 8.4 (re) 5.4 (sl 27\051\056 Of the ) ] TJ
+21.7485 0 TD
+-0.0001 Tc
+-0.0023 Tw
+[ (une) 5.2 (mployed\054 45 ) 6 (percent have ) 6 (been o) 5.2 (u) -0.8 (t of work fo) 5.1 (r a ) ] TJ
+-21.7485 -2.2934 TD
+-0.0002 Tc
+-0.0022 Tw
+[ (year \055\055 ) 6 (six times the U\056S\056 ra) 5.1 (te of long term unempl) ] TJ
+22.018 0 TD
+-0.0001 Tc
+-0.0023 Tw
+[ (oyment whi) 6.5 (c) -3.1 (h is eight percent) 8.3 ( \050133) 5.2 (\051\056  Between 19) 5.2 (80 ) ] TJ
+-22.018 -2.2994 TD
+[ (and 19) 5.2 (91\054 onl) 6.5 (y 5 perce) 5.2 (nt of Fran) 5.2 (ce\047) 5.2 (s) -3.1 ( bud) 5.2 (get went to jo) ] TJ
+24.0479 0 TD
+-0.0003 Tc
+-0.0021 Tw
+[ (b cre) 5 (a) -1 (tion\054 as oppo) 5 (sed to 4) 5 (3) -1 ( percent in the U\056S\056 ) ] TJ
+-24.0479 -2.2934 TD
+0 Tc
+-0.0024 Tw
+[ (and 20 p) 5.3 (e) -0.7 (rce) 5.3 (n) -0.7 (t in the more) 5.3 ( compa) 5.3 (r) -2.3 (a) 5.3 (b) -0.7 (le ) 6 (Germ) 6.7 (any \050S) 8.3 (mith 109\051\056 Yo) 5.3 (uth and immi) 6.6 (grant) 8.4 (s\054 indep) 5.3 (ende) 5.3 (ntly\054 are ) ] TJ
+T*
+-0.0005 Tc
+-0.0019 Tw
+[ (particula) 4.8 (rly susceptibl) 6.1 (e) -1.2 ( to long\055te) 4.8 (rm un) 4.8 (e) 4.8 (m) 0.2 (ploym) ] TJ
+21.1317 0 TD
+-0.0004 Tc
+-0.002 Tw
+[ (ent\054 a) 4.9 (nd young im) 6.3 (migra) 4.9 (n) -1.1 (ts face) 4.9 ( a double je) 4.8 (o) 4.9 (pardy\056 A ) ] TJ
+-21.1317 -2.2994 TD
+-0.0006 Tc
+-0.0018 Tw
+[ (young North ) 6 (African immi) 6 (g) 4.7 (r) -2.9 (ant is fou) 4.7 (r) -2.9 ( to five time) ] TJ
+21.5689 0 TD
+0.0003 Tc
+-0.0027 Tw
+[ (s more likely than ) 6 (a young Fren) 5.6 (ch\055bo) 5.6 (r) -2 (n man ) 6 (or wo) 5.6 (man ) ] TJ
+-21.5689 -2.2934 TD
+0 Tc
+-0.0024 Tw
+[ (to be unempl) 6.6 (oyed\054 and wh) 5.3 (en acco) 5.3 (untin) 5.3 (g for edu) 5.3 (catio) 5.3 (n) -0.7 (\054 st) ] TJ
+25.2994 0 TD
+-0.0002 Tc
+-0.0022 Tw
+[ (ill 1\0565 times mo) 5.1 (re likely \050Fre) 5.1 (nch Violence\051\056 The ) ] TJ
+-25.2994 -2.2934 TD
+0.0002 Tc
+-0.0026 Tw
+[ (gene) 5.5 (ral youth) 5.5 ( unemploym) 6.9 (e) 5.5 (nt rate ha) 5.5 (s ho) 5.5 (vered bet) ] TJ
+22.2994 0 TD
+0 Tc
+-0.0024 Tw
+[ (wee) 5.3 (n) -0.7 ( 20 and 3) 5.3 (0) -0.7 ( p) 5.3 (e) -0.7 (rcent sin) 5.3 (c) -3 (e ) 6 (1980 \050Smith ) 6 (9\051\056  ) ] TJ
+-22.2994 -2.2934 TD
+[ ( ) -3317.4 (Fran) 5.3 (ce i) 6.6 (s) -3 ( pla) 5.3 (gued ) 6 (with ine) 5.3 (quality\056 Its tax syst) ] TJ
+23.3413 0 TD
+0.0002 Tc
+-0.0026 Tw
+[ (em is mo) 5.5 (re re) 5.5 (gre) 5.5 (s) 3.2 (sive than any othe) 5.5 (r Europ) 5.5 (ean ) ] TJ
+-23.3413 -2.2994 TD
+-0.0002 Tc
+-0.0022 Tw
+[ (nation\054 and th) 5.1 (e wealth tax affects only the we) 5.1 (althie) 5.1 (st) ] TJ
+23.0838 0 TD
+[ ( one pe) 5.1 (rcent o) 5.1 (f) 2.2 ( the populati) 6.4 (on\054 as op) 5.1 (po) 5.1 (sed to the ) ] TJ
+-23.0838 -2.2934 TD
+0.0001 Tc
+-0.0025 Tw
+[ (Swedi) 6.7 (sh\054 Da) 5.4 (nish\054 Ge) 5.4 (rma) 5.4 (n) 5.4 (\054) 2.5 ( and Can) 5.4 (adi) 6.7 (an tax on the wealthi) 6.7 (e) -0.6 (st 25 ) 6 (percent \050K) 8.4 (re) 5.4 (sl 125\051\056 In no o) 5.4 (t) 2.5 (her nation ) ] TJ
+T*
+-0.0001 Tc
+-0.0023 Tw
+[ (is the publi) 6.5 (c) -3.1 ( sector m) 6.6 (o) -0.8 (re p) 5.2 (r) 3.6 (ivileged\056 Publ) 6.5 (ic se) 5.2 (cto) 5.2 (r) -2.4 ( ) ] TJ
+21.9102 0 TD
+[ (wo) 5.2 (rkers ) 6 (con) 5.2 (s) -3.1 (titute) 5.1 ( 30 percent of) 8.3 ( the labor force but ) ] TJ
+-21.9102 -2.2994 TD
+0.0002 Tc
+-0.0026 Tw
+[ (con) 5.5 (s) -2.8 (um) 6.9 (e 60 ) 6 (percent of the) 5.5 ( nation\047s a) 5.5 (n) -0.5 (n) 5.5 (ual pen) 5.5 (sion ) 6 (cost) ] TJ
+24.6587 0 TD
+[ (s ) 6 (\050Smith 2) 5.5 (3) -0.5 (\051\056 The ab) 5.5 (se) 5.5 (ntee rate is t) 8.6 (w) -2.2 (ice as hi) 6.8 (gh ) ] TJ
+-24.6587 -2.2934 TD
+[ (as in the priv) 9.2 (ate se) 5.5 (ctor\054 an) 5.5 (d there a) 5.5 (r) -2.1 (e 5) 5.5 (00\054000 to ) ] TJ
+21.8084 0 TD
+0.0003 Tc
+-0.0027 Tw
+[ (1\0540) 5.6 (00\054000 too m) 7 (any publi) 6.9 (c) -2.7 (\055se) 5.6 (c) -2.7 (tor ) 6 (worke) 5.6 (r) -2 (s i) 6.9 (n) -0.4 ( Fran) 5.5 (ce ) ] TJ
+-21.8084 -2.2934 TD
+-0.0005 Tc
+-0.0019 Tw
+[ (\05024) 4.8 (\051) -2.8 (\056  ) ] TJ
+/TT10 1 Tf
+0 -2.3054 TD
+-0.0001 Tc
+-0.0023 Tw
+[ (The Po) 17.9 (w) -24.7 (e) 5.2 (r o) 6 (f) -2.4 ( A M) -5.4 (y) 17.1 (th ) ] TJ
+/TT6 1 Tf
+0 -2.2874 TD
+[ ( ) -3317.4 (De) 5.2 (spite the in) 5.2 (equality between the ) ] TJ
+19.1317 0 TD
+0.0005 Tc
+-0.0029 Tw
+[ (wi) 7.1 (nn) 5.8 (ers a) 5.8 (nd the lo) 5.8 (sers in the ) ] TJ
+12.982 0 TD
+0 Tc
+-0.0024 Tw
+[ (F) 6.1 (r) 3.7 (ench welfa) 5.3 (r) -2.3 (e ) 6 (state\054 the pub) 5.2 (lic ) ] TJ
+-32.1138 -2.2934 TD
+0.0003 Tc
+-0.0027 Tw
+[ (se) 5.6 (ctor ta) 5.6 (ke) 5.6 (s the lang) 5.6 (uage ) 6 (of solida) 5.6 (r) -2 (ity to the stre) 5.6 (et) ] TJ
+22.3054 0 TD
+[ (s ) 6 (whe) 5.5 (never the) 5.6 ( governm) 7 (ent ) ] TJ
+12.5928 0 TD
+-0.0088 Tw
+[ (prop) 5.7 (oses redi) 7 (stributive ) ] TJ
+ET
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 SOC\056G0\05604\0561 \055 Sociology \055 Final Year Undergraduate \055 Female \055 Native Speaker \055 Proposal) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(6) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+40 0 obj
+<<
+/Length 8431
+>>
+stream
+q
+/GS1 gs
+BT
+/TT2 1 Tf
+12 0 0 12 72 744.96 Tm
+0 g
+0 Tc
+0 Tw
+( ) Tj
+10.02 0 0 10.02 72 733.02 Tm
+( ) Tj
+12 0 0 12 72 59.2801 Tm
+( ) Tj
+10.02 0 0 10.02 72 47.3401 Tm
+( ) Tj
+/TT6 1 Tf
+0 66.2096 TD
+-0.0001 Tc
+-0.0023 Tw
+[ (legisl) 6.5 (ation\056 In the mid\0551) 5.2 (990) 5.2 (s\054 with health) 5.2 (care and p) 5.2 (e) -0.8 (n) 5.2 (s) -3.1 (ion fun) 5.2 (d) -0.8 (s ru) 5.2 (nning u) 5.2 (p) -0.8 ( an a) 5.2 (nnual d) 5.2 (e) -0.8 (ficit of the franc ) ] TJ
+0 -2.2934 TD
+-0.0002 Tc
+-0.0022 Tw
+[ (equivalent of ) 6 (30\0555) 5.1 (0) -0.9 ( billion ) 6 (euro) 5.1 (s) -3.2 (\054 Prime ) 6 (Ministe) 5.1 (r) -2.5 ( ) ] TJ
+21.2994 0 TD
+0.0003 Tc
+-0.0027 Tw
+[ (Alain) 5.6 ( Jupp) 5.6 (\351 pro) 5.6 (p) -0.4 (o) 5.6 (s) -2.7 (ed le) 5.6 (gisl) 6.9 (ation that would ) 6 (have ) ] TJ
+-21.2994 -2.2994 TD
+-0.0002 Tc
+-0.0022 Tw
+[ (targeted the t) 8.2 (op half of the incom) 6.5 (e) -0.9 ( ladd) 5.1 (e) 5.1 (r) -2.5 ( to im) ] TJ
+20.6347 0 TD
+0.0002 Tc
+-0.0026 Tw
+[ (prove e) 5.5 (m) 0.9 (ployment o) 5.5 (pportu) 5.5 (nities f) 8.6 (o) -0.5 (r the poo) 5.5 (r a) 5.5 (nd ) ] TJ
+-20.6347 -2.2934 TD
+-0.0001 Tc
+-0.0023 Tw
+[ (unempl) 6.5 (oyed \050Smith 38\051\056 Six weeks of strike) 5.2 (s en) 5.2 (sue) 5.2 (d) -0.8 ( ) ] TJ
+23.4671 0 TD
+0.0001 Tc
+-0.0025 Tw
+[ (throu) 5.4 (gho) 5.4 (ut the cou) 5.4 (n) -0.6 (try\054 and the worl) 6.7 (d lo) 5.4 (oke) 5.4 (d) -0.6 ( on\054 ) ] TJ
+-23.4671 -2.2934 TD
+[ (interp) 5.4 (reting th) 5.4 (e prote) 5.4 (s) -2.9 (ters a) 5.4 (s) -2.9 ( nobl) 6.7 (e defen) 5.4 (ders of a hum) ] TJ
+24.2994 0 TD
+-0.0006 Tc
+-0.0018 Tw
+[ (ane type of solidarity in face of U\056S\056 neo\055libe) 4.7 (r) -2.9 (al ) ] TJ
+-24.2994 -2.2994 TD
+-0.0001 Tc
+-0.0023 Tw
+[ (globali) 6.5 (z) -3.1 (ation\056 ) 6 (With 60 pe) 5.2 (rcent of nationa) 5.2 (l supp) 5.2 (ort for ) ] TJ
+23.3054 0 TD
+0.0005 Tc
+-0.0029 Tw
+[ (the stri) 7.1 (ke) 5.8 (s\054 Ju) 5.8 (pp\351\047) 5.8 (s age) 5.8 (nda) 5.8 ( failed \05039) 5.8 (\051) -1.8 (\056 Many Fren) 5.8 (ch ) ] TJ
+-23.3054 -2.2934 TD
+-0.0003 Tc
+-0.0021 Tw
+[ (believe that a) 5 ( state with a high level of social ) 6 (welf) ] TJ
+21.7485 0 TD
+-0.0005 Tc
+-0.0019 Tw
+[ (are is the heig) 4.8 (h) -1.2 (t of civiliz) ] TJ
+10.8743 0 TD
+[ (ation\054 and mo) 4.8 (reove) 4.8 (r) -2.8 (\054 that ) ] TJ
+-32.6228 -2.2934 TD
+0.0004 Tc
+-0.0028 Tw
+[ (defend) 5.7 (ers of the larg) 5.7 (e welf) 8.8 (are stat) 8.8 (e ar) ] TJ
+16.8144 0 TD
+0 Tc
+-0.0024 Tw
+[ (e ) 6 (defend) 5.3 (ers of civilizatio) 5.3 (n\056) ] TJ
+11.479 0 TD
+-0.0004 Tc
+-0.002 Tw
+[ ( Theoretically\054 this ide) 4.9 (a) -1.1 ( ha) 4.9 (s a lot of truth\073 ) ] TJ
+-28.2934 -2.2934 TD
+-0.0002 Tc
+-0.0022 Tw
+[ (but curre) 5.1 (n) -0.9 (t France is a nati) 6.4 (on plag) 5.1 (ued ) 6 (with unemploy) 8.8 (m) ] TJ
+24.2934 0 TD
+[ (ent\054 instabili) 6.4 (ty\054 and raci) 6.4 (sm \055 hardly a model for the ) ] TJ
+-24.2934 -2.2994 TD
+[ (ultimate goal ) 6 (of civilization ) 6 (and ha) 5.1 (rdly a repre) 5.1 (s) -3.2 (e) 5.1 (n) -0.9 (ta) ] TJ
+22.4132 0 TD
+-0.0004 Tc
+-0.002 Tw
+[ (tion) 4.9 ( of the origina) 4.9 (l) 0.2 ( definition of solid) 4.9 (arity\056 ) ] TJ
+-22.4132 -2.2934 TD
+0.0004 Tc
+-0.0028 Tw
+[ ( ) -3317.4 (While the F) 6.4 (r) -1.9 (e) 5.7 (n) -0.3 (ch ) 6 (see ) 6 (cha) 5.7 (n) 5.7 (ges in ) 6 (state spendi) 7 (ng a) 5.7 (s) ] TJ
+26.2275 0 TD
+[ ( threats to ) 6 (solid) 5.7 (arity\054 embra) 5.7 (c) -2.6 (i) 7 (ng su) 5.6 (ch ) 6 (cha) 5.7 (n) 5.7 (ge ) ] TJ
+-26.2275 -2.2934 TD
+0 Tc
+-0.0024 Tw
+[ (coul) 6.6 (d help th) 5.3 (em re) 5.3 (claim th) 5.3 (e origin) 5.3 (al noti) 6.6 (on of solid) 5.3 (arit) 8.4 (y ) ] TJ
+24.2874 0 TD
+-0.0001 Tc
+-0.0023 Tw
+[ (that was bo) 5.1 (rn du) 5.2 (ring a) 5.2 (n) -0.8 ( era of greater idealism\056 In ) ] TJ
+-24.2874 -2.2994 TD
+0.0002 Tc
+-0.0026 Tw
+[ (the Nethe) 5.5 (r) -2.1 (lan) 5.5 (d) -0.5 (s\054 for examp) 5.5 (l) 0.8 (e\054 unemploy) 9.2 (ment wa) 5.5 (s 12 ) 6 (per) ] TJ
+25.0778 0 TD
+0 Tc
+-0.0024 Tw
+[ (cent du) 5.3 (rin) 5.3 (g) -0.7 ( the 1980) 5.3 (s\054 and by the mid\05519) 5.3 (90) 5.3 (s\054 it ) ] TJ
+-25.0778 -2.2934 TD
+0.0001 Tc
+[ (had de) 5.4 (cline) 5.4 (d) -0.6 ( ) 6 (to only 4 percent\056 New jo) 5.4 (bs appea) 5.4 (red at ) 6 (4 to 6 times the rate of its ) 6 (Europ) 5.4 (ean n) 5.3 (e) -0.6 (i) 6.7 (ghbo) 5.4 (rs\054 an) 5.4 (d ) ] TJ
+T*
+-0.0001 Tc
+-0.0023 Tw
+[ (the majority o) 5.2 (f) 2.3 ( them were d) 5.2 (e) -0.8 (sirable jo) 5.2 (bs ) 6 (with goo) ] TJ
+21.6347 0 TD
+0 Tc
+-0.0024 Tw
+[ (d be) 5.3 (nefits \05012) 5.3 (0) -0.7 (\051\056 ) 6 (This was a) 5.3 (ccomplished th) 5.3 (rough h) 5.3 (one) 5.3 (st ) ] TJ
+-21.6347 -2.2994 TD
+0.0003 Tc
+-0.0027 Tw
+[ (dialog) 5.6 (ue bet) 8.7 (wee) 5.6 (n) -0.4 ( the stat) 8.7 (e\054 labor\054 and ) 6 (busi) 6.9 (n) -0.4 (e) 5.6 (ss\054 an) ] TJ
+22.8024 0 TD
+0.0007 Tc
+-0.0031 Tw
+[ (d wag) 6 (e) 0 ( re) 6 (stra) 6 (int for low\055i) 7.3 (n) 0 (come wo) 5.9 (rkers ) 6 (wa) 6 (s ) ] TJ
+-22.8024 -2.2934 TD
+0 Tc
+-0.0024 Tw
+[ (comp) 5.3 (en) 5.3 (sated) 5.3 ( with tax redu) 5.3 (ction) 5.3 (s) -3 ( and ) 6 (strengthe) 5.3 (ned fa) 5.3 (mily policy\056 The Neth) 5.3 (erla) 5.2 (n) 5.3 (d) -0.7 (s be) 5.3 (gan to u) 5.3 (s) -3 (e soci) 6.6 (al ) ] TJ
+T*
+-0.0004 Tc
+-0.002 Tw
+[ (policy a) 4.9 (s) -3.4 ( a way of suppo) 4.9 (rting the market) 8 (\054 not fighting ) ] TJ
+23.521 0 TD
+-0.0001 Tc
+-0.0023 Tw
+[ (it\056 France ) 6 (coul) 6.5 (d do this a) 5.2 (s) -3.1 ( well if its definition of ) ] TJ
+-23.521 -2.2934 TD
+-0.0003 Tc
+-0.0021 Tw
+[ (solid) 5 (arity wa) 5 (s not in reality se) 5 (curity for th) 5 (e alrea) 5 (d) -1 (y priv) 8.7 (ileged a) 5 (nd co) 4.9 (mfortable\056 NI) 8.1 (CE\041 ) ] TJ
+/TT10 1 Tf
+0 -2.3054 TD
+-0.0006 Tc
+-0.0018 Tw
+(The Stage is Set for Change\054 ) Tj
+13.8084 0 TD
+-0.0003 Tc
+-0.0021 Tw
+[ (But ) 6 (Who Will The Actors ) 6 (Be\077 ) ] TJ
+/TT6 1 Tf
+-10.2156 -2.2874 TD
+-0.0001 Tc
+-0.0023 Tw
+[ (Perha) 5.2 (p) -0.8 (s the ) 6 (May refere) 5.2 (nd) 5.2 (um in whi) 6.5 (c) -3.1 (h 5) 5.2 (5) -0.8 ( percent of the Fre) 5.2 (n) -0.8 (ch de) 5.2 (cide) 5.1 (d to reje) 5.2 (ct the EU ) ] TJ
+-3.5928 -2.2934 TD
+0 Tc
+-0.0024 Tw
+[ (Con) 5.3 (s) -3 (titution a) 5.3 (nd the Nove) 5.3 (mber ri) 6.6 (ots ha) 5.3 (ve incited th) ] TJ
+22.6407 0 TD
+-0.0003 Tc
+-0.0021 Tw
+[ (e) 5 ( flame that co) 5 (uld potentially) 8.7 ( lead to reform\056 Although ) ] TJ
+-22.6407 -2.2994 TD
+0.0001 Tc
+-0.0025 Tw
+[ (Fran) 5.4 (ce ) 6 (wa) 5.4 (s n) 5.4 (o) -0.6 (t obliged to ) 6 (hold a refe) 5.4 (re) 5.4 (ndum on the ) 6 (Con) 5.3 (s) -2.9 (titution vote\054 Chira) 5.4 (c) -2.9 ( was so co) 5.4 (nfide) 5.4 (n) -0.6 (t that his ) ] TJ
+0 -2.2934 TD
+-0.0001 Tc
+-0.0023 Tw
+[ (peopl) 6.5 (e woul) 6.5 (d) 5.2 ( supp) 5.2 (ort him i) 6.5 (n) -0.8 ( backin) 5.2 (g) -0.8 ( of the Co) 5.2 (nstitutio) 5.2 (n) -0.8 ( that he cho) 5.2 (s) -3.1 (e to hold o) 5.2 (n) 5.2 (e) -0.8 ( anyway\056 Th) 5.2 (e ) ] TJ
+T*
+0.0004 Tc
+-0.0028 Tw
+[ (Con) 5.7 (s) -2.6 (titution ) 6 (woul) 7 (d have st) 8.8 (rength) 5.7 (ene) 5.7 (d Europ) 5.7 (ean fo) 5.7 (rei) 7 (gn ) ] TJ
+24.9102 0 TD
+-0.0003 Tc
+-0.0021 Tw
+[ (poli) 6.3 (c) -3.3 (y by creating a) 5 (n) -1 ( EU foreign mini) 6.3 (ster \055 a ) ] TJ
+-24.9102 -2.2994 TD
+0.0004 Tc
+-0.0028 Tw
+[ (long) 5.7 (standin) 5.7 (g) -0.3 ( ) 6 (Fren) 5.7 (ch g) 5.7 (oal\056 It also incl) 7 (ude) 5.7 (d a cha) 5.7 (r) -1.9 (ter of) ] TJ
+23.7425 0 TD
+0.0001 Tc
+-0.0025 Tw
+[ ( fundamental ) 6 (rights in ali) 6.7 (g) -0.6 (n) 5.4 (m) 0.8 (ent with co) 5.4 (re Fren) 5.4 (ch ) ] TJ
+-23.7425 -2.2934 TD
+0.0002 Tc
+-0.0026 Tw
+[ (rights ) 6 (reg) 5.5 (a) -0.5 (rdi) 6.8 (ng employm) 6.9 (e) 5.5 (nt and welfa) 5.5 (r) 3.9 (e\056 It has wi) ] TJ
+22.2994 0 TD
+0 Tc
+-0.0024 Tw
+[ (de) 5.3 (spread p) 5.3 (o) -0.7 (litical sup) 5.3 (port\073 even Fra) 5.3 (n) -0.7 (cois ) 6 (Holla) 5.3 (nde\054 ) ] TJ
+-22.2994 -2.2934 TD
+-0.0001 Tc
+-0.0023 Tw
+[ (head of the o) 5.2 (ppo) 5.2 (sition Socialist party\054 su) 5.2 (pporte) 5.2 (d the ) ] TJ
+23.2515 0 TD
+-0.0004 Tc
+-0.002 Tw
+[ (Constitution \050Can the Co) 4.9 (nsti) 6.2 (tution be Saved\077\051\056 Yet\054 ) ] TJ
+ET
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 SOC\056G0\05604\0561 \055 Sociology \055 Final Year Undergraduate \055 Female \055 Native Speaker \055 Proposal) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(7) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+41 0 obj
+<<
+/Length 8319
+>>
+stream
+q
+/GS1 gs
+BT
+/TT2 1 Tf
+12 0 0 12 72 744.96 Tm
+0 g
+0 Tc
+0 Tw
+( ) Tj
+10.02 0 0 10.02 72 733.02 Tm
+( ) Tj
+12 0 0 12 72 59.2801 Tm
+( ) Tj
+10.02 0 0 10.02 72 47.3401 Tm
+( ) Tj
+/TT6 1 Tf
+0 66.2096 TD
+-0.0001 Tc
+-0.0023 Tw
+[ (the right wo) 5.2 (rri) 6.5 (ed that the Constituti) ] TJ
+15.2036 0 TD
+[ (on ) 6 (wo) 5.2 (uld pave the ) 6 (way for Tu) 5.2 (rke) 5.2 (y) 2.9 (\047s admittan) 5.2 (c) 2.9 (e into the EU\054 and the left ) ] TJ
+-15.2036 -2.2934 TD
+-0.0003 Tc
+-0.0021 Tw
+[ (worrie) 5 (d that it entren) 5 (c) -3.3 (he) 5 (d too many ) ] TJ
+15.9222 0 TD
+-0.0002 Tc
+-0.0022 Tw
+[ (Angl) 6.4 (o\055Saxon lib) 5.1 (eral market poli) 6.4 (c) -3.2 (ie) 5.1 (s\056) ] TJ
+15.8623 0 TD
+-0.0001 Tc
+-0.0023 Tw
+[ ( If the shocking vote h) 5.2 (a) -0.8 (s a silve) 5.2 (r) -2.4 ( ) ] TJ
+-31.7844 -2.2994 TD
+-0.0004 Tc
+-0.002 Tw
+[ (lining\054 it is that politician) 4.9 (s) -3.4 ( are finally spea) 4.9 (king h) ] TJ
+20.6407 0 TD
+0.0001 Tc
+-0.0025 Tw
+[ (one) 5.4 (stly about Fran) 5.4 (ce\047) 5.4 (s) -2.9 ( role in the E) 8.4 (u) -0.6 (rop) 5.4 (ean ) 6 (Unio) 5.4 (n as ) ] TJ
+-20.6407 -2.2934 TD
+-0.0003 Tc
+-0.0021 Tw
+[ (essential to its rep) 5 (u) -1 (tation a) 5 (nd su) 5 (rvival\056 Before the re) ] TJ
+22.9701 0 TD
+0 Tc
+-0.0024 Tw
+[ (fe) 5.3 (rend) 5.3 (um\054 Chi) 6.6 (r) 3.7 (ac predi) 6.6 (cted that Fran) 5.3 (ce mi) 6.6 (ght \042cea) 5.3 (se ) ] TJ
+-22.9701 -2.2934 TD
+-0.0003 Tc
+-0.0021 Tw
+[ (to exist politically\042 if it reject) 8.1 (ed the Co) 5 (nsti) 6.3 (tu) ] TJ
+18.8204 0 TD
+-0.0001 Tc
+-0.0023 Tw
+[ (tion\054 and after the refe) 5.2 (ren) 5.2 (dum\054 he add) 5.2 (ressed the n) 5.2 (a) -0.8 (tion ) ] TJ
+-18.8204 -2.2994 TD
+0.0001 Tc
+-0.0025 Tw
+[ (pro) 5.4 (c) -2.9 (laimi) 6.7 (ng \042We cann) 5.4 (ot prese) 5.4 (r) -2.2 (ve ou) 5.4 (r economi) 6.7 (c) -2.9 ( and ) 6 (social) ] TJ
+25.7126 0 TD
+-0.0002 Tc
+-0.0022 Tw
+[ ( mo) 5.1 (del\054 we can\047t bri) 6.4 (n) -0.9 (g) 5.1 ( our value) 5.1 (s) -3.2 ( to other pa) 5.1 (rts ) ] TJ
+-25.7126 -2.2934 TD
+-0.0001 Tc
+-0.0023 Tw
+[ (of the world ) 6 (without hol) 6.5 (din) 5.2 (g) -0.8 ( our full pla) 5.2 (c) 2.9 (e in Europ) 5.2 (e) -0.8 (\224 \050Chirac Ap) 5.2 (pea) 5.2 (ls for Unity\051\056  ) ] TJ
+T*
+0 Tc
+-0.0024 Tw
+[ ( ) -3317.4 (In another ) 6 (sh) 5.3 (ocking e) 5.3 (p) -0.7 (isod) 5.3 (e\054 t) ] TJ
+16.9042 0 TD
+[ (he recent riots have ex) 9 (posed the ch) ] TJ
+15.8204 0 TD
+[ (ronic p) 5.3 (r) -2.3 (obl) 6.6 (em ) 6 (of con) 5.3 (c) -3 (entrated ) ] TJ
+-32.7245 -2.2934 TD
+-0.0001 Tc
+-0.0023 Tw
+[ (poverty and raci) 6.5 (sm in Fra) 5.2 (n) 5.2 (c) -3.1 (e\056 60 pe) 5.2 (rcen) 5.2 (t of the Frenc) ] TJ
+23.7425 0 TD
+0.0001 Tc
+-0.0025 Tw
+[ (h admit to harborin) 5.4 (g ra) 5.4 (ci) 6.7 (st feeling) 5.4 (s) -2.9 (\054 and ) 6 (75 perce) 5.4 (nt ) ] TJ
+-23.7425 -2.2994 TD
+0 Tc
+[ (think there are too many Arab) 5.3 (s in) ] TJ
+14.7066 0 TD
+-0.0001 Tc
+-0.0023 Tw
+[ ( the co) 5.2 (untry \050Smith 177\051\056 In the 2) 5.2 (002 presi) 6.5 (dent) 8.3 (ial electio) 5.2 (n) -0.8 (\054 5 million ) ] TJ
+-14.7066 -2.2934 TD
+0.0003 Tc
+-0.0027 Tw
+[ (voted for Jea) 5.6 (n) -0.4 (\055Ma) 5.6 (r) -2 (ie Le P) 8.6 (en\054 leade) 5.6 (r of the xenop) 5.6 (hobi) 6.9 (c ) ] TJ
+24.3593 0 TD
+-0.0001 Tc
+-0.0023 Tw
+[ (Natio) 5.2 (nal Front party and ) 6 (Fran) 5.2 (ce\222) 6.5 (s) -3.1 ( lou) 5.2 (d) 5.2 (e) -0.8 (st voice in ) ] TJ
+-24.3593 -2.2934 TD
+0 Tc
+-0.0024 Tw
+[ (favor of comp) 5.3 (letely closed ) 6 (bord) 5.3 (e) -0.7 (rs\056 The ) 6 (riots requi) ] TJ
+22.1317 0 TD
+0.0003 Tc
+-0.0027 Tw
+[ (red ) 6 (Chirac to a) 5.6 (c) -2.7 (knowl) 6.9 (edge ) 6 (co) 5.6 (nce) 5.6 (n) -0.4 (trated p) 5.6 (o) 5.6 (v) 3.3 (erty and ) ] TJ
+-22.1317 -2.2994 TD
+0.0001 Tc
+-0.0025 Tw
+[ (raci) 6.7 (sm\056 He h) 5.4 (a) -0.6 (s vowed to create ne) 5.4 (w op) 5.4 (portunitie) 5.4 (s) ] TJ
+22.0838 0 TD
+-0.0001 Tc
+-0.0023 Tw
+[ ( for young peo) 5.2 (pl) 6.5 (e\054 calling raci) 6.5 (sm a \223p) 5.2 (oison\224 and ) ] TJ
+-22.0838 -2.2934 TD
+0.0003 Tc
+-0.0087 Tw
+[ (anno) 5.6 (un) 5.6 (cing measures ) -6 (for the ) -6 (training ) ] TJ
+16.7605 0 TD
+-0.0002 Tc
+-0.0022 Tw
+[ (of) 8.2 ( 50\054000 youth) 5.1 (s) -3.2 ( in 200) 5.1 (7\056 He) 5.1 ( said) ] TJ
+14.8683 0 TD
+-0.0003 Tc
+-0.0021 Tw
+[ ( that for these young i) 6.3 (mmigra) 5 (n) -1 (ts\054 ) ] TJ
+-31.6287 -2.2934 TD
+0.0005 Tc
+-0.0029 Tw
+[ (there was a ) 6 (\223cri) 7.1 (sis of me) 5.8 (a) 5.8 (n) -0.2 (ing\054 a cri) 7.1 (s) ] TJ
+16.1976 0 TD
+0 Tc
+-0.0024 Tw
+[ (i) 6.6 (s) -3 ( of identity\042 \050Chira) 5.3 (c in Ne) 5.3 (w ) 6 (Pledge\205) 6 (\051 ) ] TJ
+-16.1976 -2.2994 TD
+0.0001 Tc
+[ ( ) -3317.4 (Ho) 5.4 (wever\054 a) 5.4 (s) -2.9 ( the histo) 5.4 (r) -2.2 (y of Fran) 5.4 (ce h) 5.4 (a) -0.6 (s d) 5.4 (e) -0.6 (mon) 5.4 (s) ] TJ
+24.2335 0 TD
+-0.0004 Tc
+-0.002 Tw
+[ (trate) 4.9 (d) -1.1 ( and continu) 4.9 (e) 4.9 (s) -3.4 ( to demon) 4.9 (strate\054 politician) 4.9 (s) -3.4 ( ) ] TJ
+-24.2335 -2.2934 TD
+-0.0002 Tc
+-0.0022 Tw
+[ (are enti) 6.4 (r) -2.5 (ely in) 5.1 (ert without b) 5.1 (r) 3.5 (oad po) 5.1 (pula) 5.1 (r) -2.5 ( suppo) 5.1 (rt\056  Beca) 5.1 (us) ] TJ
+24.7964 0 TD
+-0.0003 Tc
+-0.0021 Tw
+[ (e ) 6 (solid) 4.9 (arity is su) 5 (ch a) 5 (n) -1 ( all\055inclu) 5 (s) -3.3 (ive ideo) 5 (logy\054 I ) ] TJ
+-24.7964 -2.2934 TD
+-0.0001 Tc
+-0.0023 Tw
+[ (believe that throu) 5.2 (gh recl) 6.5 (aiming its ori) 6.5 (g) -0.8 (i) 6.5 (nal Fre) 5.2 (n) -0.8 (ch de) 5.2 (fi) ] TJ
+23.6287 0 TD
+[ (nition\054 popul) 6.5 (ar opini) 6.5 (on will) 6.5 ( shift to supp) 5.1 (ort of a more ) ] TJ
+-23.6287 -2.2934 TD
+[ (egalitari) 6.5 (an st) 8.3 (ate\056 With true) 5.2 ( solida) 5.2 (r) -2.4 (ity\054 th) -6.8 (e Fren) 5.2 (ch ) ] TJ
+21.4132 0 TD
+-0.0003 Tc
+-0.0021 Tw
+[ (wou) 5 (l) 0.3 (d have voted) 5 ( in favor of the EU Con) 5 (s) -3.3 (titution\054 ) ] TJ
+-21.4132 -2.2994 TD
+0 Tc
+-0.0024 Tw
+[ (becau) 5.3 (se they) 9 ( would h) 5.3 (a) -0.7 (ve reco) 5.3 (gni) 6.6 (zed th) 5.3 (at a favorable) 5.3 ( r) ] TJ
+24.1856 0 TD
+0.0002 Tc
+-0.0026 Tw
+[ (eputation ) 6 (wi) 6.8 (thin the EU is intrinsi) 6.8 (c for creating jo) 5.5 (bs ) ] TJ
+-24.1856 -2.2934 TD
+-0.0001 Tc
+-0.0023 Tw
+[ (for the unem) 6.6 (ployed\056 A nation with true ) 6 (solidarity wo) 5.2 (ul) 6.5 (d ) ] TJ
+24.1856 0 TD
+0 Tc
+-0.0024 Tw
+[ (not have wi) 6.6 (tnessed three) 5.3 ( wee) 5.3 (ks of viol) 6.6 (ent rioting ) ] TJ
+-24.1856 -2.2934 TD
+0.0006 Tc
+-0.003 Tw
+[ (by a rese) 5.9 (nted) 5.9 ( and disi) 7.2 (nt) ] TJ
+10.5988 0 TD
+-0.0004 Tc
+-0.002 Tw
+[ (egrated pop) 4.9 (ulati) 6.2 (on\056   ) ] TJ
+/TT10 1 Tf
+-10.5988 -2.3054 TD
+[ (A Camp) 5.7 (aign for Solidarity ) ] TJ
+/TT6 1 Tf
+3.5928 -2.2874 TD
+0 Tc
+-0.0024 Tw
+[ (I propo) 5.3 (se that) 8.4 ( a massive\054 public ) 6 (camp) 5.3 (aig) 5.3 (n) -0.7 ( sho) 5.3 (u) -0.7 (ld be l) 6.6 (aun) 5.3 (che) 5.3 (d) -0.7 ( in France to recl) 6.6 (ai) 6.6 (m the true ) ] TJ
+-3.5928 -2.2934 TD
+-0.0002 Tc
+-0.0022 Tw
+[ (ideolo) 5.1 (g) -0.9 (y of solidarity\056 It would assum) 6.5 (e) -0.9 ( si) 6.4 (milar qu) 5.1 (alitie) ] TJ
+23.4132 0 TD
+-0.0001 Tc
+-0.0023 Tw
+[ (s of succe) 5.2 (ssful) 6.5 ( public h) 5.2 (ealth) 5.2 ( campai) 6.5 (gn) 5.2 (s\073 it would be ) ] TJ
+-23.4132 -2.2994 TD
+0 Tc
+-0.0024 Tw
+[ (endo) 5.3 (rsed by politicia) 5.3 (ns\054 bu) 5.3 (t have broad ) 6 (sup) 5.3 (port\073 it wo) 5.3 (uld ) ] TJ
+25.1916 0 TD
+0.0001 Tc
+[ (be pe) 5.4 (rvasive \055 on billbo) 5.4 (a) -0.6 (rd) 5.4 (s\054 in metro) 5.4 ( stations\054 in ) ] TJ
+-25.1916 -2.2934 TD
+-0.0001 Tc
+-0.0023 Tw
+[ (newsp) 5.2 (ape) 5.2 (rs\054 ) 6 (on T\056V\056 com) 6.6 (m) 0.6 (ercial) 6.5 (s\073 it would find a wa) ] TJ
+23.2395 0 TD
+0 Tc
+-0.0024 Tw
+[ (y to reach th) 5.3 (e rich a) 5.3 (nd the) 5.3 ( poor\054 the urb) 5.3 (an and the ) ] TJ
+-23.2395 -2.2934 TD
+[ (rural\054 the employed an) 5.3 (d the unempl) ] TJ
+15.7066 0 TD
+[ (oye) 5.3 (d) -0.7 (\054 the native Fren) 5.3 (ch a) 5.3 (nd rece) ] TJ
+14.5868 0 TD
+-0.0004 Tc
+-0.002 Tw
+[ (nt immigrants\056 It would) 4.9 ( use the ) ] TJ
+ET
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 SOC\056G0\05604\0561 \055 Sociology \055 Final Year Undergraduate \055 Female \055 Native Speaker \055 Proposal) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(8) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+42 0 obj
+<<
+/Length 8506
+>>
+stream
+q
+/GS1 gs
+BT
+/TT2 1 Tf
+12 0 0 12 72 744.96 Tm
+0 g
+0 Tc
+0 Tw
+( ) Tj
+10.02 0 0 10.02 72 733.02 Tm
+( ) Tj
+12 0 0 12 72 59.2801 Tm
+( ) Tj
+10.02 0 0 10.02 72 47.3401 Tm
+( ) Tj
+/TT6 1 Tf
+0 66.2096 TD
+-0.0024 Tw
+[ (ideolo) 5.3 (g) -0.7 (y born) 5.3 ( in their che) 5.3 (r) -2.3 (i) 6.6 (s) -3 (he) 5.3 (d revoluti) 6.6 (on to link the ) 6 (ideali) 6.6 (s) -3 (tic pa) 5.3 (st) 8.4 ( to the trouble) 5.3 (d) -0.7 ( pre) 5.3 (s) -3 (ent to h) 5.3 (opefully a ) ] TJ
+0 -2.2934 TD
+-0.0002 Tc
+-0.0022 Tw
+[ (more e) 5.1 (galitari) 6.4 (an future\056 It would ap) 5.1 (peal t) 8.2 (o) -0.9 ( patriotism ) ] TJ
+23.2455 0 TD
+0.0002 Tc
+-0.0026 Tw
+[ (a) 5.5 (nd nation) 5.5 (a) -0.5 (l pride by recl) 6.8 (ai) 6.8 (ming wh) 5.5 (at it truly mean) 5.5 (s ) ] TJ
+-23.2455 -2.2994 TD
+0.0001 Tc
+-0.0025 Tw
+[ (to be Fren) 5.4 (ch\054) 8.5 ( part of the \223e) 5.4 (xception fra) 5.4 (n) 5.4 (c) -2.9 (ai) 6.7 (se\056\224 Before su) 5.4 (ch a cam) 6.8 (paign ) 6 (could ) 6 (b) 5.4 (e) -0.6 ( laun) 5.3 (che) 5.4 (d) -0.6 (\054 many ) ] TJ
+0 -2.2934 TD
+[ (que) 5.4 (stion) 5.4 (s) -2.9 ( mu) 5.4 (st be aske) 5.4 (d a) 5.4 (bout the natio) 5.4 (n and its pe) 5.4 (o) 5.4 (p) -0.6 (le) ] TJ
+24.9641 0 TD
+-0.0004 Tc
+-0.002 Tw
+[ (\056 First\054 I will learn ho) 4.9 (w th) 4.9 (e ideolo) 4.9 (g) -1.1 (y of solid) 4.9 (arity ) ] TJ
+-24.9641 -2.2934 TD
+-0.0006 Tc
+-0.0018 Tw
+[ (fits into Fren) 4.7 (ch history\056 Second\054 I will find out ) ] TJ
+20.024 0 TD
+0 Tc
+-0.0024 Tw
+[ (how the ) 6 (Fren) 5.3 (ch p) 5.3 (e) -0.7 (rcei) 6.6 (ve the ideolo) 5.3 (g) -0.7 (y and reality) 9 ( of ) ] TJ
+-20.024 -2.2994 TD
+-0.0004 Tc
+-0.002 Tw
+[ (solid) 4.9 (arity\056 Finally\054 I will discover wh) 4.9 (ose suppo) ] TJ
+20.024 0 TD
+-0.0001 Tc
+-0.0023 Tw
+[ (rt of the camp) 5.2 (aign ) 6 (wo) 5.2 (uld be mo) 5.1 (st effective\056 ) ] TJ
+/TT10 1 Tf
+-20.024 -2.2994 TD
+-0.0002 Tc
+-0.0022 Tw
+[ (Histori) 8.2 (cal Appeal\072 Prima) 5.1 (r) -6.2 (y) 11 ( Texts) 5.1 ( ) ] TJ
+/TT6 1 Tf
+0 -2.2874 TD
+0.0001 Tc
+-0.0025 Tw
+[ ( ) -3317.4 (Und) 5.4 (e) -0.6 (rstandi) 6.7 (n) 5.4 (g) -0.6 ( and ap) 5.4 (pre) 5.4 (c) -2.9 (i) 6.7 (a) -0.6 (ting nation) 5.4 (a) -0.6 (l) 6.7 ( history is) ] TJ
+25.7305 0 TD
+0 Tc
+[ ( an ) 6 (essential ) 6 (com) 6.7 (pone) 5.3 (nt of Fre) 5.3 (n) -0.7 (ch ) 6 (culture\056 ) ] TJ
+-25.7305 -2.2934 TD
+-0.0003 Tc
+-0.0021 Tw
+[ (Histo) 5 (r) -2.6 (y is ofte) 5 (n discu) 5 (s) -3.3 (sed a) 5 (t) 2.1 ( dinner table) 5 (s) -3.3 ( and i) 6.3 (s) ] TJ
+21.3593 0 TD
+-0.0002 Tc
+-0.0022 Tw
+[ ( the most valued ) 6 (school ) 6 (subj) 6.4 (ect\056 Thus\054 a soli) 6.4 (darity ) ] TJ
+-21.3593 -2.2994 TD
+0.0003 Tc
+-0.0027 Tw
+[ (camp) 5.6 (aign ) 6 (sh) 5.6 (ould ap) 5.6 (peal t) 8.7 (o) -0.4 ( the Fren) 5.6 (ch ) 6 (histori) 6.9 (c) -2.7 (al ) 6 (con) 5.6 (sci) 6.9 (en) 5.6 (ce\056 To d) 5.6 (o) -0.4 ( this\054 I must learn ) ] TJ
+/TT12 1 Tf
+37.4431 0 TD
+0.0011 Tc
+0 Tw
+(who ) Tj
+/TT6 1 Tf
+2.1138 0 TD
+-0.0038 Tc
+0.0014 Tw
+[ (has) -6.8 ( d) -4.5 (e) -4.5 (f) -1.4 (in) -4.5 (ed) -4.5 ( ) ] TJ
+-39.5569 -2.2934 TD
+-0.0001 Tc
+-0.0023 Tw
+[ (solid) 5.2 (arity as a) 5.2 (n) -0.8 ( egalitari) 6.5 (an ) 6 (notion an) 5.2 (d impart into t) ] TJ
+21.9701 0 TD
+0.0002 Tc
+-0.0026 Tw
+[ (he campaig) 5.5 (n) -0.5 ( those who a) 5.5 (r) -2.1 (e hel) 6.8 (d in histori) 6.8 (c) -2.8 (al ) 6 (high ) ] TJ
+-21.9701 -2.2934 TD
+0.0001 Tc
+-0.0025 Tw
+[ (esteem\056 A bill) 6.7 (board co) 5.4 (uld contain a qu) 5.4 (ote on soli) 6.7 (darit) ] TJ
+23.4132 0 TD
+-0.0001 Tc
+-0.0023 Tw
+[ (y by a respe) 5.2 (c) 2.9 (ted Fren) 5.2 (chm) 6.6 (an from the Revolution ) ] TJ
+-23.4132 -2.2994 TD
+0.0003 Tc
+-0.0027 Tw
+[ (over a pictu) 5.6 (r) -2 (e) 5.6 ( of a car bu) 5.6 (rni) 6.9 (ng \226 a manife) 5.6 (station of) ] TJ
+22.2515 0 TD
+-0.0001 Tc
+-0.0023 Tw
+[ ( ho) 5.2 (w Fre) 5.2 (n) -0.8 (ch the notion of egal) 6.5 (itarian solida) 5.2 (r) 3.6 (ity is and ) ] TJ
+-22.2515 -2.2934 TD
+0.0003 Tc
+-0.0027 Tw
+[ (how far F) 6.3 (r) -2 (an) 5.6 (ce has ) 6 (strayed) 5.6 ( from its histo) 5.6 (r) -2 (y and ro) 5.6 (ots\056) ] TJ
+23.5808 0 TD
+-0.0003 Tc
+-0.0021 Tw
+[ ( To do this\054 I must lea) 5 (r) -2.6 (n who ha) 5 (s define) 5 (d) -1 ( solid) 5 (arity ) ] TJ
+-23.5808 -2.2934 TD
+-0.0001 Tc
+-0.0023 Tw
+[ (as an e) 5.2 (galitarian notion a) 5.2 (n) 5.2 (d) -0.8 ( impart into the cam) 6.6 (pai) ] TJ
+22.3653 0 TD
+0 Tc
+-0.0024 Tw
+[ (g) 5.3 (n) -0.7 ( those ) 6 (who a) 5.3 (r) 3.7 (e held in hi) 6.6 (storical high e) 5.3 (s) 3 (teem\056 ) ] TJ
+-22.3653 -2.2994 TD
+-0.0003 Tc
+-0.0021 Tw
+[ ( ) -3317.4 (I will also u) 5 (s) -3.3 (e) 5 ( primary texts and existing ) 6 (schola) 5 (r) ] TJ
+24.6168 0 TD
+-0.0001 Tc
+-0.0023 Tw
+[ (ly literature to und) 5.2 (e) 5.2 (r) -2.4 (stan) 5.2 (d ho) 5.2 (w attaining true ) ] TJ
+-24.6168 -2.2934 TD
+-0.0003 Tc
+-0.0021 Tw
+[ (solidarity has ) 6 (failed in the past\056 No) ] TJ
+15.2036 0 TD
+[ (t only will this enabl) 6.2 (e the campai) 6.2 (gn to) ] TJ
+16.5269 0 TD
+-0.0005 Tc
+-0.0019 Tw
+[ ( learn from past mi) 6.1 (stakes\054 but it ) ] TJ
+-31.7305 -2.2934 TD
+0 Tc
+-0.0024 Tw
+[ (will pre) 5.3 (s) -3 (e) 5.3 (n) -0.7 (t solidarity as a) 5.3 (n) -0.7 ( intrinsi) 6.6 (cally ) 6 (Fren) 5.3 (ch ) ] TJ
+20.7485 0 TD
+-0.0001 Tc
+-0.0023 Tw
+[ (valu) 5.2 (e that no other ) 6 (gene) 5.2 (ration h) 5.2 (a) 5.2 (s) -3.1 ( bee) 5.2 (n able t) 8.3 (o) -0.8 ( fully ) ] TJ
+-20.7485 -2.2934 TD
+0.0001 Tc
+-0.0025 Tw
+[ (reali) 6.7 (z) -2.9 (e\056 Thi) 6.7 (s) -2.9 ( sen) 5.4 (s) -2.9 (e of re) 5.4 (sp) 5.4 (onsi) 6.7 (b) -0.6 (ility coul) 6.7 (d give a ) ] TJ
+21.3593 0 TD
+[ (downtrodd) 5.4 (en po) 5.4 (p) 5.4 (u) -0.6 (lation a sen) 5.4 (s) -2.9 (e of pu) 5.4 (rpo) 5.4 (s) -2.9 (e) 5.4 ( again\054 as ) ] TJ
+-21.3593 -2.2994 TD
+[ (they take on ) 6 (a new effort t) 8.5 (o) -0.6 ( recl) 6.7 (aim thei) 6.7 (r \223Fren) 5.4 (c) -2.9 (hn) 5.4 (es) ] TJ
+23.0719 0 TD
+-0.0002 Tc
+-0.0022 Tw
+[ (s\224 in a mo) 5.1 (re p) 5.1 (r) -2.5 (odu) 5.1 (ctive ma) 5.1 (nner tha) 5.1 (n) -0.9 ( turning to the ) ] TJ
+-23.0719 -2.2934 TD
+-0.0001 Tc
+-0.0023 Tw
+[ (insul) 6.5 (a) -0.8 (r Le Pe) 5.2 (n or protestin) 5.2 (g) -0.8 ( globali) 6.5 (z) -3.1 (atio) 5.2 (n\056  ) ] TJ
+/TT10 1 Tf
+0 -2.2994 TD
+0 Tc
+-0.0024 Tw
+[ (Attitud) 6 (es of ) 6 (the People) 5.3 (\072) -2.3 ( Focus Gr) 5.9 (ou) 6 (ps) 5.3 ( ) ] TJ
+/TT6 1 Tf
+0 -2.2934 TD
+0.0002 Tc
+-0.0026 Tw
+[ ( ) -3317.4 (In orde) 5.5 (r to de) 5.5 (sign a ) 6 (camp) 5.5 (a) 5.5 (i) 0.8 (gn targete) 5.5 (d) -0.5 ( a) 5.5 (t) 2.6 ( t) ] TJ
+22.3892 0 TD
+-0.0002 Tc
+-0.0022 Tw
+[ (he entire French pop) 5.1 (ulati) 6.4 (on\054 it is essen) 5.1 (t) 2.2 (ial to ) ] TJ
+-22.3892 -2.2934 TD
+0.0002 Tc
+-0.0026 Tw
+[ (unde) 5.5 (rsta) 5.5 (nd h) 5.5 (o) -0.5 (w differe) 5.5 (nt segment) 8.6 (s of the popul) 6.8 (ation ) 6 (view) ] TJ
+25.521 0 TD
+0 Tc
+-0.0024 Tw
+[ ( soli) 6.6 (darit) 8.4 (y\056 To accom) 6.7 (p) 5.3 (lish this\054 I will hold focus ) ] TJ
+-25.521 -2.2934 TD
+0.0002 Tc
+-0.0026 Tw
+[ (grou) 5.5 (ps a) 5.5 (c) 3.2 (ro) 5.5 (ss a wid) 5.5 (e) -0.5 ( gam) 6.9 (ut of demographi) 6.8 (c gro) 5.5 (u) -0.5 (p) 5.5 (s) -2.8 (\054 ) ] TJ
+23.521 0 TD
+0.0006 Tc
+-0.003 Tw
+[ (broken do) 5.8 (wn) 5.9 ( by age\054 race\054) 9 ( soci) 7.2 (oe) 5.9 (con) 5.9 (o) 5.9 (m) 1.3 (ic cla) 5.9 (s) 3.6 (s\054 ) ] TJ
+-23.521 -2.2994 TD
+0 Tc
+-0.0024 Tw
+[ (publi) 6.6 (c) -3 (\057private) 5.3 ( employee\054 a) 5.3 (nd ru) 5.3 (ral\057urba) 5.3 (n resi) 6.6 (den) 5.3 (ce\056 I ) ] TJ
+23.521 0 TD
+-0.0001 Tc
+-0.0023 Tw
+[ (am intere) 5.2 (ste) 5.2 (d) -0.8 ( in finding a) 5.2 (n) -0.8 (swers to the) 5.2 ( following ) ] TJ
+-23.521 -2.2934 TD
+-0.0002 Tc
+-0.0022 Tw
+[ (que) 5.1 (stion) 5.1 (s) -3.2 (\072 1\051 What do) 5.1 (es it mean to be F) 5.8 (r) -2.5 (en) 5.1 (ch to you\077) ] TJ
+23.7485 0 TD
+0.0001 Tc
+-0.0025 Tw
+[ (\073 2\051 Whe) 5.4 (n) -0.6 ( you hear the ) 6 (wo) 5.4 (rd soli) 6.7 (da) 5.4 (rity\054 ) -6 (do you think ) ] TJ
+-23.7485 -2.2934 TD
+[ (of Fran) 5.4 (ce\077 E) 8.4 (v) 3.1 (en if you don\222t think cu) 5.4 (rre) 5.4 (n) -0.6 (t Fran) 5.4 (ce is d) 5.4 (e) ] TJ
+23.9641 0 TD
+-0.0003 Tc
+-0.0021 Tw
+[ (fined by soli) 6.3 (darity\054 do you think that\054 at ) -6 (heart\054 it is a ) ] TJ
+ET
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 SOC\056G0\05604\0561 \055 Sociology \055 Final Year Undergraduate \055 Female \055 Native Speaker \055 Proposal) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(9) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+43 0 obj
+<<
+/Length 8313
+>>
+stream
+q
+/GS1 gs
+BT
+/TT2 1 Tf
+12 0 0 12 72 744.96 Tm
+0 g
+0 Tc
+0 Tw
+( ) Tj
+10.02 0 0 10.02 72 733.02 Tm
+( ) Tj
+12 0 0 12 72 59.2801 Tm
+( ) Tj
+10.02 0 0 10.02 72 47.3401 Tm
+( ) Tj
+/TT6 1 Tf
+0 66.2096 TD
+-0.0003 Tc
+-0.0021 Tw
+[ (Fren) 5 (ch valu) 5 (e) 5 (\077) -1 (\073 3\051 Ho) 5 (w do ) 6 (you define so) 5 (lidarity\077\073 4\051 \050Afte) ] TJ
+24.8982 0 TD
+-0.0001 Tc
+-0.0023 Tw
+[ (r telling them the origi) 6.5 (n) 5.2 (al definition o) 5.2 (f) 2.3 ( solidarity\051 ) ] TJ
+-24.8982 -2.2934 TD
+-0.0012 Tc
+-0.0012 Tw
+[ (Do you think) -4.2 ( Franc) -4.2 (e) -1.9 ( fits) -4.2 ( this) -4.2 ( definition\077\073 5\051 What do ) ] TJ
+22.8563 0 TD
+0.0001 Tc
+-0.0025 Tw
+[ (you think ) 6 (woul) 6.7 (d give Fran) 5.4 (ce) 5.4 ( more solida) 5.3 (r) -2.2 (i) 6.7 (t) 2.5 (y\077\073 6\051 What ) ] TJ
+-22.8563 -2.2994 TD
+-0.0003 Tc
+-0.0021 Tw
+[ (do you fear a) 5 (r) -2.6 (e the greate) 5 (s) -3.3 (t threat) 8.1 (s to solidarity\077) 5 ( ) ] TJ
+0 -2.2934 TD
+-0.0002 Tc
+-0.0022 Tw
+[ ( ) -3317.4 (Although the) 5.1 (s) 2.8 (e six que) 5.1 (stion) 5.1 (s) -3.2 ( will be ) 6 (central to ) ] TJ
+24.006 0 TD
+[ (the discussion of eve) 5.1 (r) -2.5 (y focu) 5.1 (s gro) 5.1 (u) 5.1 (p) -0.9 (\054 I expect ) ] TJ
+-24.006 -2.2934 TD
+-0.0001 Tc
+-0.0023 Tw
+[ (different dem) 6.6 (ogra) 5.2 (phi) 6.5 (c grou) 5.2 (ps to beg very differ) ] TJ
+20.6946 0 TD
+[ (ent su) 5.2 (b\055qu) 5.2 (estio) 5.2 (n) -0.8 (s\056 I expect white\054) 8.3 ( middle\055aged\054) 8.3 ( ) ] TJ
+-20.6946 -2.2994 TD
+-0.0005 Tc
+-0.0019 Tw
+[ (comfo) 4.8 (r) -2.8 (tably e) 4.8 (m) 0.2 (ployed focu) 4.8 (s gro) 4.8 (u) -1.2 (p) 4.8 (s) -3.5 ( to believe that ) ] TJ
+22.521 0 TD
+-0.0001 Tc
+-0.0023 Tw
+[ (France ha) 5.2 (s a hi) 6.5 (gh level of sol) 6.5 (i) 0.5 (darity\056 Thus\054 ) 6 (I must ) ] TJ
+-22.521 -2.2934 TD
+0.0002 Tc
+-0.0026 Tw
+[ (prob) 5.5 (e an) 5.5 (swers for the follo) 5.5 (wing\072 1\051 h) 5.5 (o) ] TJ
+16.6467 0 TD
+0 Tc
+-0.0024 Tw
+[ (w ) 6 (they explain the high u) 5.3 (nem) 6.7 (ployment) ] TJ
+16.976 0 TD
+-0.0003 Tc
+-0.0021 Tw
+[ ( rate) 5 ( and the riots\073) 8.1 ( 2\051 if they ) ] TJ
+-33.6228 -2.2934 TD
+-0.0002 Tc
+-0.0022 Tw
+[ (believe that it is essential t) 8.2 (o) -0.9 ( make ) 6 (sa) 5.1 (crif) 8.2 (ice) 5.1 (s) -3.2 ( to ) ] TJ
+20.7425 0 TD
+-0.0001 Tc
+-0.0023 Tw
+[ (create) 5.2 ( more empl) 6.5 (oyment oppo) 5.2 (rtu) 5.2 (n) ] TJ
+15.2575 0 TD
+-0.0005 Tc
+-0.0019 Tw
+[ (ities\073 3\051 ho) 4.8 (w much they ) ] TJ
+-36 -2.2934 TD
+0 Tc
+-0.0024 Tw
+[ (woul) 6.6 (d be willi) 6.6 (ng to sa) 5.3 (crifice if it m) ] TJ
+14.6946 0 TD
+-0.0005 Tc
+-0.0019 Tw
+[ (eant stability and greater eq) 4.8 (uality\073 4\051 ) ] TJ
+16.3713 0 TD
+[ (if they believe solid) 4.8 (arity is being ) ] TJ
+-31.0659 -2.2994 TD
+-0.0001 Tc
+-0.0023 Tw
+[ (threaten) 5.2 (ed a) 5.2 (nd by what\056 If the comforta) 5.2 (ble\054 privilege) 5.2 (d cl) ] TJ
+24.5269 0 TD
+0.0001 Tc
+-0.0025 Tw
+[ (a) 5.4 (ss b) 5.4 (e) -0.6 (liev) 9.1 (e) -0.6 (s there is hi) 6.7 (gh soli) 6.7 (darity in spite of the ) ] TJ
+-24.5269 -2.2934 TD
+0.0002 Tc
+-0.0026 Tw
+[ (nation\222) 6.8 (s cu) 5.5 (rre) 5.5 (n) -0.5 (t soci) 6.8 (al and ) 6 (eco) 5.5 (nomi) 6.8 (c) -2.8 ( pro) 5.5 (b) -0.5 (lems\054 then it) 8.6 ( is) ] TJ
+24.7904 0 TD
+-0.0003 Tc
+-0.0021 Tw
+[ ( essential t) 8.1 (o) -1 ( unde) 5 (rsta) 5 (nd ) 6 (to what they attribute the ) ] TJ
+-24.7904 -2.2934 TD
+0.0002 Tc
+-0.0026 Tw
+[ (probl) 6.8 (em) 6.9 (s\056 On) 5.5 (ly through un) 5.5 (derstandi) 6.8 (ng o) 5.5 (f) 2.6 ( this can a p) ] TJ
+23.4671 0 TD
+-0.0003 Tc
+-0.0021 Tw
+[ (ublic ) 6 (camp) 5 (aig) 5 (n) -1 ( effectively debun) 5 (k comm) 6.4 (on myths\056 If ) ] TJ
+-23.4671 -2.2994 TD
+-0.0002 Tc
+-0.0022 Tw
+[ (they believe that sa) 5.1 (crifice is unn) 5.1 (ec) ] TJ
+15.2036 0 TD
+0 Tc
+-0.0024 Tw
+[ (essa) 5.3 (ry in creating ) 6 (a more e) 5.2 (galit) 8.4 (ar) ] TJ
+14.7545 0 TD
+-0.0002 Tc
+-0.0022 Tw
+[ (ian\054 mo) 5.1 (re p) 5.1 (r) -2.5 (odu) 5.1 (ctive\054 mo) 5.1 (re stabl) 6.4 (e ) ] TJ
+-29.9581 -2.2934 TD
+0.0002 Tc
+-0.0026 Tw
+[ (so) 5.5 (ciety\054 then a camp) 5.5 (aign ) 6 (must cl) 6.8 (early ) 6 (explain ho) 5.5 (w sa) ] TJ
+23.521 0 TD
+0.0003 Tc
+-0.0027 Tw
+[ (crifi) 6.9 (c) -2.7 (e ha) 5.6 (s b) 5.6 (een an e) 5.5 (s) 3.3 (sen) 5.6 (t) 2.7 (ial compo) 5.6 (n) -0.4 (e) 5.5 (n) -0.4 (t of reform\054 ) ] TJ
+-23.521 -2.2934 TD
+-0.0004 Tc
+-0.002 Tw
+[ (not in the ultra\055Capitali) 6.2 (st Ameri) 6.2 (c) -3.4 (an ) 6 (way\054 but in t) ] TJ
+20.8563 0 TD
+0.0003 Tc
+-0.0027 Tw
+[ (he democratic ) 6 (so) 5.6 (ci) 6.9 (alist way of the Dutch and t) 8.7 (he Swed) 5.5 (es\056) 8.7 ( ) ] TJ
+-20.8563 -2.2994 TD
+-0.0001 Tc
+-0.0023 Tw
+[ ( ) -3317.4 (I expect the less fortunate\054) 8.3 ( includi) 6.5 (ng the) 5.2 ( unem) ] TJ
+23.9581 0 TD
+-0.0003 Tc
+-0.0021 Tw
+[ (ploye) 5 (d) -1 ( and many im) 6.4 (migra) 5 (n) -1 (ts\054 to have a negativ) 8.7 (e ) ] TJ
+-23.9581 -2.2934 TD
+-0.0005 Tc
+-0.0019 Tw
+[ (perceptio) 4.8 (n on) 4.8 ( their nation\222) 6.1 (s level of solid) 4.8 (arity\056 Afte) ] TJ
+21.9581 0 TD
+0 Tc
+-0.0024 Tw
+[ (r all\054 they are ben) 5.3 (efiting far less from Fran) 5.3 (ce\222s ) ] TJ
+-21.9581 -2.2934 TD
+-0.0005 Tc
+-0.0019 Tw
+[ (enormou) 4.8 (s) -3.5 ( we) 4.8 (lfare state\056 Althoug) 4.8 (h thei) ] TJ
+16.7545 0 TD
+0.0001 Tc
+-0.0025 Tw
+[ (r suppo) 5.4 (rt of a so) 5.4 (lidarity cam) 6.8 (p) 5.4 (aign is) ] TJ
+15.7006 0 TD
+-0.0006 Tc
+-0.0018 Tw
+[ ( n) 4.7 (o) -1.3 (t as important a) 4.7 (s) -3.6 ( the sup) 4.7 (port ) ] TJ
+-32.4551 -2.2934 TD
+0.0001 Tc
+-0.0025 Tw
+[ (of the wealthi) 6.7 (e) -0.6 (r cla) 5.4 (s) 3.1 (s that votes more\054 has a mo) 5.4 (re po) 5.4 (we) ] TJ
+24.6946 0 TD
+-0.0001 Tc
+-0.0023 Tw
+[ (rful voi) 6.5 (c) -3.1 (e\054 and will b) 5.2 (e) -0.8 ( asked to ma) 5.2 (ke ) 6 (sa) 5.2 (crifices\054 it ) ] TJ
+-24.6946 -2.2994 TD
+0.0002 Tc
+-0.0026 Tw
+[ (is still impo) 5.5 (rta) 5.5 (n) -0.5 (t to learn wh) 5.5 (at their most ) 6 (pre) 5.5 (ssi) 6.8 (ng ) ] TJ
+21.8563 0 TD
+-0.0002 Tc
+-0.0022 Tw
+[ (con) 5.1 (c) -3.2 (erns a) 5.1 (r) -2.5 (e\056 If the peo) 5.1 (ple wh) 5.1 (ose live) 5.1 (s) -3.2 ( wo) 5.1 (u) 5 (l) 0.4 (d benefit ) ] TJ
+-21.8563 -2.2934 TD
+[ (from a su) 5.1 (cce) 5.1 (ssful ) 6 (camp) 5.1 (aig) 5.1 (n) -0.9 ( do not perceive it that ) ] TJ
+22.4611 0 TD
+-0.0001 Tc
+-0.0023 Tw
+[ (way and do not loudly voice th) 5.2 (eir su) 5.2 (ppo) 5.2 (rt for it\054 then it ) ] TJ
+-22.4611 -2.2934 TD
+0.0001 Tc
+-0.0025 Tw
+[ (will be difficul) 6.7 (t) 2.5 ( to convince ) 6 (the elite that the cam) 6.8 (pai) ] TJ
+22.3653 0 TD
+-0.0006 Tc
+-0.0018 Tw
+(gn is legitimate\056 From focus groups with the less ) Tj
+-22.3653 -2.2994 TD
+0 Tc
+-0.0024 Tw
+[ (fortunate\054 I wi) 6.6 (ll focus o) 5.3 (n) -0.7 ( wh) 5.3 (at the particip) 5.3 (ants beli) 6.6 (e) -0.7 (ve ) ] TJ
+23.6347 0 TD
+-0.0002 Tc
+-0.0022 Tw
+[ (are the mo) 5.1 (st pertine) 5.1 (nt acti) 6.4 (ons to take to create ) 6 (a ) ] TJ
+-23.6347 -2.2934 TD
+[ (society with more ) 6 (solidarit) 8.2 (y\056 The campaign will nee) ] TJ
+22.4132 0 TD
+0.0005 Tc
+-0.0029 Tw
+[ (d to emphasi) 7.1 (ze ) 6 (the seri) 7.1 (ou) ] TJ
+11.4252 0 TD
+0.0004 Tc
+-0.0028 Tw
+[ (sness of the gov) 9.4 (ernm) 7.1 (ent ) ] TJ
+-33.8383 -2.2934 TD
+[ (towards the) 5.6 (s) 3.3 (e sug) 5.6 (g) -0.4 (e) 5.6 (s) -2.7 (ted ) 6 (action) 5.6 (s an) 5.6 (d target rural a) 5.6 (n) 5.6 (d) -0.4 ( urba) 5.6 (n co) 5.6 (ncern) 5.6 (s) -2.7 ( in their resp) 5.6 (ective env) 9.3 (ironm) 7 (ents\054 ) ] TJ
+0 -2.2994 TD
+0 Tc
+-0.0024 Tw
+[ (and immig) 5.3 (r) -2.3 (an) 5.3 (t and native concern in thei) 6.6 (rs\056) 8.4 ( ) ] TJ
+/TT10 1 Tf
+T*
+[ (Leader) 5.9 (s of the Campaig) 6 (n) 0.1 ( ) ] TJ
+/TT6 1 Tf
+0 -2.2874 TD
+0.0005 Tc
+-0.0029 Tw
+[ ( ) -3317.4 (The ca) 5.8 (mpai) 7.1 (g) 5.8 (n) -0.2 ( must re) 5.8 (ceiv) 9.5 (e broa) 5.8 (d su) 5.8 (pp) 5.8 (ort from ) ] TJ
+24.8383 0 TD
+-0.0002 Tc
+-0.0022 Tw
+[ (multi) 6.4 (p) -0.9 (le political parties\054 o) 5.1 (r) -2.5 (ga) 5.1 (ni) 6.4 (zation) 5.1 (s\054 and ) 6 (even ) ] TJ
+ET
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 SOC\056G0\05604\0561 \055 Sociology \055 Final Year Undergraduate \055 Female \055 Native Speaker \055 Proposal) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(10) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+44 0 obj
+<<
+/Length 8654
+>>
+stream
+q
+/GS1 gs
+BT
+/TT2 1 Tf
+12 0 0 12 72 744.96 Tm
+0 g
+0 Tc
+0 Tw
+( ) Tj
+10.02 0 0 10.02 72 733.02 Tm
+( ) Tj
+12 0 0 12 72 59.2801 Tm
+( ) Tj
+10.02 0 0 10.02 72 47.3401 Tm
+( ) Tj
+/TT6 1 Tf
+0 66.2096 TD
+-0.0002 Tc
+-0.0022 Tw
+[ (busi) 6.4 (n) -0.9 (e) 5.1 (s) -3.2 (ses\056 ) 6 (Some theori) 6.4 (z) 2.8 (e that the EU Con) 5.1 (s) -3.2 (titution ) ] TJ
+23.0719 0 TD
+0.0002 Tc
+-0.0026 Tw
+[ (wa) 5.5 (s reje) 5.5 (cted ) 6 (becau) 5.5 (se of Chira) 5.5 (c) -2.8 (\222s u) 5.5 (npo) 5.5 (p) 5.5 (u) -0.5 (larity\054 and ) ] TJ
+-23.0719 -2.2934 TD
+0.0003 Tc
+-0.0027 Tw
+[ (that many of the \223no) 5.6 (n) -0.4 (\224 vote) 5.6 (rs ) 6 (were reje) 5.6 (ct) 8.7 (ing su) 5.6 (ppo) 5.6 (rt) ] TJ
+22.8563 0 TD
+-0.0003 Tc
+-0.0021 Tw
+[ ( of his admini) 6.3 (s) -3.3 (tration more than the Co) 5 (nsti) 6.3 (tution\056 The ) ] TJ
+-22.8563 -2.2994 TD
+0.0002 Tc
+-0.0026 Tw
+[ (more ) 6 (wide) 5.5 (sp) 5.5 (read the supp) 5.5 (ort for the ca) 5.5 (mpaign i) 6.8 (s) -2.8 (\054 the mo) ] TJ
+25.2455 0 TD
+-0.0003 Tc
+-0.0021 Tw
+[ (re p) 5 (eopl) 6.3 (e it is likely to reach\056 Ho) 4.9 (we) 5 (ver\054 quantity ) ] TJ
+-25.2455 -2.2934 TD
+0.0002 Tc
+-0.0026 Tw
+[ (doe) 5.5 (s not mea) 5.5 (n) -0.5 ( quality whe) 5.5 (n) -0.5 ( deci) 6.8 (d) -0.5 (ing ) 6 (wh) 5.5 (o sho) 5.5 (u) -0.5 (ld sup) ] TJ
+23.6347 0 TD
+-0.0005 Tc
+-0.0019 Tw
+(port the initiative\056 If the variation of involved ) Tj
+-23.6347 -2.2934 TD
+-0.0002 Tc
+-0.0022 Tw
+[ (ideolo) 5.1 (g) -0.9 (ies i) 6.4 (s) -3.2 ( too extreme\054 it will be plagu) 5.1 (ed with divi) ] TJ
+22.8084 0 TD
+0.0003 Tc
+-0.0027 Tw
+[ (si) 6.9 (veness an) 5.6 (d inertia\056 The) 5.6 (r) ] TJ
+11.4311 0 TD
+-0.0002 Tc
+-0.0022 Tw
+[ (ef) 8.2 (ore\054 I will do extensive ) ] TJ
+-34.2395 -2.2994 TD
+0.0001 Tc
+-0.0025 Tw
+[ (resea) 5.4 (r) -2.2 (ch on p) 5.4 (o) -0.6 (litician) 5.4 (s) -2.9 (\054 org) 5.4 (anization) 5.4 (s\054 and bu) 5.4 (sine) 5.4 (sse) 5.4 (s) -2.9 ( re) 5.4 (spe) 5.4 (c) -2.9 (ted b) 5.4 (y) 3.1 ( the French popul) 6.7 (ation\056) 8.5 ( ) ] TJ
+0 -2.2934 TD
+-0.0005 Tc
+-0.0019 Tw
+[ ( ) -3317.4 (First of all\054 regardi) 6.1 (ng politi) 6.1 (c) -3.5 (ians) ] TJ
+17.3533 0 TD
+-0.0004 Tc
+-0.002 Tw
+[ (\054 the likely succeeder ) 6 (of Chirac w) ] TJ
+14.5928 0 TD
+[ (ill ) 6 (either be ) 6 (Nicolas Sarkozy\054) 8.1 ( the ) ] TJ
+-31.9461 -2.2934 TD
+-0.0002 Tc
+-0.0022 Tw
+[ (curre) 5.1 (n) -0.9 (t interio) 5.1 (r) -2.5 ( ministe) 5.1 (r) -2.5 ( or ) 6 (Domini) 6.4 (que d) 5.1 (e) -0.9 ( Villepin\054 the ) ] TJ
+23.521 0 TD
+0 Tc
+-0.0024 Tw
+[ (current Prim) 6.7 (e Ministe) 5.3 (r) -2.3 (\056 Both were ) 6 (criti) 6.6 (c) -3 (i) 6.6 (z) -3 (ed for th) 5.3 (eir ) ] TJ
+-23.521 -2.2934 TD
+-0.0002 Tc
+-0.0022 Tw
+[ (handli) 6.4 (ng of the riots\056 Sarko) 5.1 (z) -3.2 (y calle) 5.1 (d the rioters \223s) ] TJ
+21.5808 0 TD
+0.0002 Tc
+-0.0026 Tw
+[ (cum\224 and sai) 6.8 (d) -0.5 ( that their neigh) 5.5 (bo) 5.5 (rhoo) 5.5 (ds n) 5.5 (eed t) 8.6 (o) -0.5 ( be ) ] TJ
+-21.5808 -2.2994 TD
+0.0001 Tc
+-0.0025 Tw
+[ (\223ho) 5.4 (s) -2.9 (ed d) 5.4 (o) -0.6 (wn\224 \050Vinocur\051 De) 5.4 ( Villepin acq) 5.4 (u) 5.4 (i) 0.7 (red a reput) ] TJ
+22.9162 0 TD
+0.0002 Tc
+-0.0026 Tw
+[ (ati) 6.8 (on in the med) 5.5 (i) 0.8 (a for posse) 5.5 (ssing a) 5.5 (r) -2.1 (roga) 5.4 (nce and a ) ] TJ
+-22.9162 -2.2934 TD
+0.0001 Tc
+-0.0025 Tw
+[ (hot temper ) 6 (when qu) 5.4 (estio) 5.4 (n) 5.4 (ed on the riot) 8.5 (s\056 An unpop) 5.4 (ul) 6.7 (ar) ] TJ
+24.2994 0 TD
+-0.0001 Tc
+-0.0023 Tw
+[ ( presi) 6.5 (dent\222) 6.5 (s) 2.9 ( backing of th) 5.2 (e camp) 5.2 (aign ) 6 (woul) 6.5 (d likely ) ] TJ
+-24.2994 -2.2934 TD
+0 Tc
+-0.0024 Tw
+[ (incite mist) 8.4 (ru) 5.3 (st for it\054 just as in the ca) 5.3 (se of) 8.4 ( the EU) ] TJ
+21.2994 0 TD
+-0.0007 Tc
+-0.0017 Tw
+[ ( Con) 4.6 (s) 2.3 (titution\056 Altho) -7.4 (ugh they ) ] TJ
+12.485 0 TD
+0.0004 Tc
+-0.0028 Tw
+[ (will ) 6 (address the ri) 7 (ots in their ) ] TJ
+-33.7844 -2.2994 TD
+[ (camp) 5.7 (aign) 5.7 (s fo) 5.7 (r pre) 5.7 (s) -2.6 (id) 5.7 (en) 5.7 (cy and ho) 5.7 (pefully) 9.4 ( resto) 5.7 (r) -1.9 (e their ) ] TJ
+23.4611 0 TD
+-0.0003 Tc
+-0.0021 Tw
+[ (reputatio) 5 (ns\054 o) 5 (t) 2.1 (her political partie) 5 (s) -3.3 ( than those in ) ] TJ
+-23.4611 -2.2934 TD
+0.0001 Tc
+-0.0025 Tw
+[ (power mu) 5.4 (ch ) 6 (sup) 5.4 (port a soli) 6.7 (darity cam) 6.8 (pai) 6.7 (gn\056 I plan to rese) 5.4 (arch ho) 5.4 (w ) 6 (to best co) 5.4 (nvince mo) 5.4 (re mo) 5.4 (derate ) ] TJ
+T*
+[ (partie) 5.4 (s) -2.9 ( to back the ca) 5.4 (mpai) 6.7 (gn\054 whi) 6.7 (c) -2.9 (h will) 6.7 ( involve great) ] TJ
+23.4671 0 TD
+[ ( investigation ) 6 (into their platform) 6.8 (s and thei) 6.7 (r party ) ] TJ
+-23.4671 -2.2994 TD
+-0.0002 Tc
+-0.0022 Tw
+[ (leade) 5.1 (rs\056 Altho) 5.1 (ugh\054 I would ) 6 (not cha) 5.1 (nge th) 5.1 (e goal of the camp) 5.1 (aign to ) 6 (pand) 5.1 (er to a wide ran) 5.1 (ge of p) 5.1 (l) 0.4 (atforms\054 I ) ] TJ
+0 -2.2934 TD
+0 Tc
+-0.0024 Tw
+[ (believe that b) 5.3 (e) -0.7 (ca) 5.3 (use soli) 6.6 (da) 5.3 (rity is su) 5.3 (ch an) 5.3 ( inclu) 5.3 (s) -3 (iv) ] TJ
+21.6886 0 TD
+-0.0001 Tc
+-0.0023 Tw
+[ (e ide) 5.2 (o) -0.8 (logy\054 there ) 6 (woul) 6.5 (d be a) 5.2 (s) -3.1 (p) 5.2 (e) -0.8 (cts of eve) 5.2 (r) -2.4 (y platform ) ] TJ
+-21.6886 -2.2934 TD
+-0.0002 Tc
+-0.0022 Tw
+[ (that would ) 6 (su) 5.1 (pport its revival\054 except ) ] TJ
+16.3653 0 TD
+0.0002 Tc
+-0.0026 Tw
+[ (perhap) 5.5 (s one) 5.5 (s on) 5.5 ( the far Left and far Rig) 5.5 (h) -0.5 (t\056 ) ] TJ
+-16.3653 -2.2934 TD
+0.0001 Tc
+-0.0025 Tw
+[ ( ) -3317.4 (The su) 5.4 (ppo) 5.4 (rt of reno) 5.4 (wne) 5.4 (d) -0.6 ( orga) 5.4 (nization) 5.4 (s is al) ] TJ
+22.9581 0 TD
+-0.0001 Tc
+-0.0023 Tw
+[ (so n) 5.2 (e) -0.8 (cessary\054 and the) 5.2 (r) 3.6 (e sho) 5.2 (u) -0.8 (ld be a) 5.1 ( mixture of ) ] TJ
+-22.9581 -2.2994 TD
+[ (orga) 5.2 (nization) 5.2 (s viewed a) 5.2 (s) -3.1 ( un) 5.2 (iquely Fre) 5.2 (n) -0.8 (ch) 5.2 ( and org) 5.2 (ani) 6.5 (za) 5.2 (ti) ] TJ
+24.5689 0 TD
+0.0003 Tc
+-0.0027 Tw
+[ (ons de) 5.6 (dicated to more p) 5.6 (r) 4 (ogre) 5.6 (s) 3.3 (sive ca) 5.6 (use) 5.6 (s) -2.7 (\054 su) 5.6 (ch ) ] TJ
+-24.5689 -2.2934 TD
+0.0002 Tc
+-0.0026 Tw
+[ (as combatin) 5.5 (g) 5.5 ( raci) 6.8 (sm\056 Ideal) 6.8 (ly\054 the campa) 5.5 (i) 0.8 (gn sh) 5.5 (ould h) 5.5 (a) 5.5 (v) 3.2 (e t) ] TJ
+25.3413 0 TD
+-0.0004 Tc
+-0.002 Tw
+[ (he supp) 4.9 (ort of many unions\054 si) 6.2 (nce it is ultimately ) ] TJ
+-25.3413 -2.2934 TD
+0 Tc
+-0.0024 Tw
+[ (pro) 5.3 (\055) -2.3 (lab) 5.3 (o) -0.7 (r\054 but) 8.4 ( it will difficult ) -6 (to convin) 5.3 (ce the unio) 5.3 (n) -0.7 (s ) ] TJ
+22.2515 0 TD
+[ (to ) 6 (whi) 6.6 (c) -3 (h the priv) 9 (ileged b) 5.3 (e) -0.7 (long) 5.3 ( of this\056 Beca) 5.3 (use I am not ) ] TJ
+-22.2515 -2.2994 TD
+-0.0005 Tc
+-0.0019 Tw
+[ (familiar with ) 6 (many French ) 6 (organizations\054 I woul) ] TJ
+20.7425 0 TD
+-0.0007 Tc
+-0.0017 Tw
+(d need to learn about t) Tj
+9.982 0 TD
+(hem through newspapers\054 ) Tj
+-30.7246 -2.2934 TD
+0 Tc
+-0.0024 Tw
+[ (maga) 5.3 (zine) 5.3 (s\054 a) 5.3 (nd evaluative) 5.3 ( rese) 5.3 (arch a) 5.3 (r) -2.3 (ticle) 5.3 (s) -3 (\056 I would ) ] TJ
+23.4132 0 TD
+0.0004 Tc
+-0.0028 Tw
+[ (l) 7 (ook for ) 6 (qualiti) 7 (e) -0.3 (s such as ef) 8.8 (fectivene) 5.7 (ss\054 ) 6 (wide) 5.7 (sp) 5.7 (rea) 5.7 (d) -0.3 ( ) ] TJ
+-23.4132 -2.2934 TD
+0.0002 Tc
+-0.0026 Tw
+[ (appe) 5.5 (al\054 and h) 5.5 (i) 0.8 (gh name ) 6 (re) 5.5 (cognition\056 Reg) 5.5 (a) -0.5 (rdin) 5.5 (g bu) 5.5 (sine) 5.5 (sses) ] TJ
+25.7485 0 TD
+0.0001 Tc
+-0.0025 Tw
+[ (\054 I woul) 6.7 (d have to resea) 5.4 (r) -2.2 (ch thei) 6.7 (r hi) 6.7 (sto) 5.4 (r) -2.2 (ies to ) ] TJ
+-25.7485 -2.2994 TD
+-0.0001 Tc
+-0.0023 Tw
+[ (ensure that th) 5.2 (ey were ) 6 (start) 8.3 (ed in Fra) 5.2 (n) -0.8 (ce and have a) 5.2 (n) -0.8 ( et) ] TJ
+24.2455 0 TD
+-0.0002 Tc
+-0.0022 Tw
+[ (hical reputa) 5.1 (t) 2.2 (ion\056 For this\054 I could rely p) 5.1 (r) 3.5 (imarily on ) ] TJ
+-24.2455 -2.2934 TD
+0 Tc
+-0.0024 Tw
+[ (the internet\054 b) 5.3 (u) -0.7 (t once I hav) 9 (e narro) 5.3 (wed d) 5.3 (o) -0.7 (wn a li) 6.6 (st\054 it ) ] TJ
+23.1317 0 TD
+0.0003 Tc
+-0.0027 Tw
+[ (woul) 6.9 (d be wi) 6.9 (se to poll the Fren) 5.5 (ch pu) 5.6 (blic ) 6 (about their ) ] TJ
+-23.1317 -2.2934 TD
+-0.0003 Tc
+-0.0021 Tw
+[ (attitudes toward the) 5 (s) -3.3 (e bu) 5 (sinesse) 5 (s\056  ) ] TJ
+ET
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 SOC\056G0\05604\0561 \055 Sociology \055 Final Year Undergraduate \055 Female \055 Native Speaker \055 Proposal) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(11) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+45 0 obj
+<<
+/Length 8122
+>>
+stream
+q
+/GS1 gs
+BT
+/TT2 1 Tf
+12 0 0 12 72 744.96 Tm
+0 g
+0 Tc
+0 Tw
+( ) Tj
+10.02 0 0 10.02 72 733.02 Tm
+( ) Tj
+12 0 0 12 72 59.2801 Tm
+( ) Tj
+10.02 0 0 10.02 72 47.3401 Tm
+( ) Tj
+/TT10 1 Tf
+0 66.2036 TD
+0.0004 Tc
+-0.0028 Tw
+[ (Wh) -5.5 (y) 17.6 ( France Matters) 5.7 ( ) ] TJ
+0 -2.2874 TD
+0 Tc
+0 Tw
+( ) Tj
+/TT6 1 Tf
+3.5928 0 TD
+-0.0001 Tc
+-0.0023 Tw
+[ (The pa) 5.2 (st six months h) 5.2 (a) -0.8 (ve made it clea) 5.2 (r ) 6 (to Eur) ] TJ
+20.3054 0 TD
+-0.0002 Tc
+-0.0022 Tw
+[ (ope tha) 5.1 (t) 2.2 ( France matters\056 Th) 5.1 (e reje) 5.1 (ction of the EU ) ] TJ
+-23.8982 -2.2994 TD
+-0.0003 Tc
+-0.0021 Tw
+[ (Constitution ) 6 (was a blow to European ) ] TJ
+16.479 0 TD
+(power and prestige\056 It will slow down) Tj
+16.2036 0 TD
+[ ( the advancement ) 6 (of its forward ) ] TJ
+-32.6826 -2.2934 TD
+-0.0001 Tc
+-0.0023 Tw
+[ (trajecto) 5.2 (ry whil) 6.5 (e the Con) 5.2 (s) -3.1 (titution is bei) 6.5 (ng) 5.2 ( revised\056 ) ] TJ
+21.6407 0 TD
+0 Tc
+-0.0024 Tw
+[ (As ) 6 (stated earlie) 5.3 (r\054 this del) 6.6 (ays the) 5.3 ( creatio) 5.3 (n of an EU ) ] TJ
+-21.6407 -2.2934 TD
+0.0004 Tc
+-0.0028 Tw
+[ (foreign mi) 7 (nist) 8.8 (er and a Eu) 5.7 (ro) 5.7 (pean ) 6 (cha) 5.7 (r) -1.9 (ter ) 6 (of fundament) 8.8 (al) ] TJ
+24.4671 0 TD
+-0.0002 Tc
+-0.0022 Tw
+[ ( rights\054 not t) 8.2 (o) -0.9 ( mention\054 co) 5.1 (uld dimini) 6.4 (sh the ) ] TJ
+-24.4671 -2.2994 TD
+-0.0003 Tc
+-0.0021 Tw
+[ (internatio) 5 (nal ) 6 (perceptio) 5 (n of the EU\222s pote) 5 (n) -1 (tial to ) ] TJ
+20.9701 0 TD
+-0.0002 Tc
+-0.0022 Tw
+[ (unify ) -6 (and strength) 5.1 (e) 5.1 (n) -0.9 (\056 Fran) 5.1 (ce is a) 5.1 ( key player in) 5.1 ( the ) ] TJ
+-20.9701 -2.2934 TD
+0.0003 Tc
+-0.0027 Tw
+[ (Europ) 5.6 (ean ) 6 (Uni) 6.9 (on\072 it was on) 5.6 (e of its foundi) 6.9 (ng memb) 5.6 (ers ) ] TJ
+23.4671 0 TD
+0 Tc
+-0.0024 Tw
+[ (and ha) 5.3 (s hi) 6.6 (sto) 5.3 (r) -2.3 (ically join) 5.3 (ed ) 6 (with Ge) 5.3 (rman) 5.3 (y to drive ) ] TJ
+-23.4671 -2.2934 TD
+-0.0001 Tc
+-0.0023 Tw
+[ (Europ) 5.2 (ean int) 8.3 (egratio) 5.2 (n \050Can) 5.2 ( the Con) 5.2 (s) -3.1 (titution be Saved) 5.2 (\077) -0.8 (\051\056 The enti) 6.5 (r) -2.4 (e) 5.2 ( Europe) 5.2 (an co) 5.2 (mmunity is d) 5.2 (epen) 5.2 (dent on ) ] TJ
+T*
+0 Tc
+-0.0024 Tw
+[ (the attitude of the Fren) 5.3 (ch turnin) 5.3 (g in favor of cha) 5.3 (nge\056) 8.4 ( ) ] TJ
+0 -2.2994 TD
+[ ( ) -3317.4 (The Euro) 5.3 (pea) 5.3 (n comm) 6.7 (unity is also dep) 5.3 (en) 5.3 (dent on Fr) ] TJ
+25.7305 0 TD
+0.0001 Tc
+[ (an) 5.3 (ce be) 5.4 (comi) 6.7 (ng ) 6 (a more inte) 5.4 (grated so) 5.4 (ciety with ) ] TJ
+-25.7305 -2.2934 TD
+[ (a lowe) 5.4 (r une) 5.4 (m) 6.8 (p) -0.6 (loyment rate) 5.4 (\056 Although it woul) 6.7 (d be unf) 8.5 (air to blame t) 8.5 (he sp) 5.4 (rea) 5.4 (d) -0.6 ( of riots to Bru) 5.4 (ssels an) 5.4 (d ) ] TJ
+T*
+-0.0003 Tc
+-0.0021 Tw
+[ (Berlin solely on the Fre) 5 (n) -1 (ch\054 one ca) 5 (nnot) 8.1 ( deny that t) ] TJ
+22.2455 0 TD
+0.0003 Tc
+-0.0027 Tw
+[ (he unre) 5.6 (s) -2.7 (t in Fra) 5.6 (n) -0.4 (ce in) 5.6 (spi) 6.9 (r) -2 (ed i) 6.9 (t) 2.7 (s neigh) 5.6 (bors\056 Other ) ] TJ
+-22.2455 -2.2994 TD
+-0.0001 Tc
+-0.0023 Tw
+[ (Europ) 5.2 (ean n) 5.2 (a) -0.8 (tions ) 6 (sho) 5.2 (u) -0.8 (ld fear that continued in) 5.2 (equali) 6.5 (t) 2.3 (y in) ] TJ
+25.1377 0 TD
+[ ( France ) 6 (will incite viol) 6.5 (ence that will influen) 5.2 (ce the ) ] TJ
+-25.1377 -2.2934 TD
+0.0001 Tc
+-0.0025 Tw
+[ (oppresse) 5.4 (d cl) 6.7 (asse) 5.4 (s elsewh) 5.4 (ere to also re) 5.4 (sort to violen) ] TJ
+23.1317 0 TD
+-0.0001 Tc
+-0.0023 Tw
+[ (ce in orde) 5.2 (r to be noticed\056) ] TJ
+10.988 0 TD
+-0.0002 Tc
+-0.0022 Tw
+[ ( France must no) 5.1 (tice its ) ] TJ
+-34.1198 -2.2934 TD
+0.0005 Tc
+-0.0029 Tw
+[ (oppresse) 5.8 (d cl) 7.1 (ass before this hap) 5.8 (pen) 5.8 (s\056) 8.9 ( ) ] TJ
+0 -2.2994 TD
+0.0001 Tc
+-0.0025 Tw
+[ ( ) -3317.4 (If France ) 6 (cont) 8.5 (inue) 5.4 (s on the ) 6 (same traje) 5.4 (c) -2.9 (to) 5.4 (ry \226 us) ] TJ
+24.3952 0 TD
+0.0003 Tc
+-0.0027 Tw
+[ (ing gl) 6.9 (o) 5.6 (balization an) 5.6 (d immigratio) 5.6 (n) 5.6 ( as scap) 5.6 (ego) 5.6 (a) 5.6 (t) 2.7 (s ) ] TJ
+-24.3952 -2.2934 TD
+0.0005 Tc
+-0.0029 Tw
+[ (for its econo) 5.8 (mic and ) 6 (so) 5.8 (cia) 5.8 (l) 1.1 ( proble) 5.8 (m) 1.2 (s \226 ) 6 (control of the ) ] TJ
+23.2994 0 TD
+-0.0001 Tc
+-0.0023 Tw
+[ (nation could ) 6 (eventually fall into dange) 5.2 (ro) 5.2 (us ha) 5.2 (nd) 5.2 (s\056 In ) ] TJ
+-23.2994 -2.2934 TD
+0 Tc
+-0.0024 Tw
+[ (the first\055roun) 5.3 (d of the Fren) 5.3 (ch 20) 5.3 (02 presi) 6.6 (dential ele) 5.3 (c) -3 (ti) ] TJ
+22.8084 0 TD
+-0.0002 Tc
+-0.0022 Tw
+[ (o) 5.1 (n) -0.9 (s\054 Le Pen re) 5.1 (ceived alm) 6.5 (o) -0.9 (st) 8.2 ( 17 percent of) 8.2 ( the vote \226 ) ] TJ
+-22.8084 -2.2934 TD
+0.0001 Tc
+-0.0025 Tw
+[ (only 3 percen) 5.4 (t) 2.5 ( less than ) 6 (Ch) 5.4 (irac\056 A political leade) 5.4 (r on t) ] TJ
+23.5269 0 TD
+0.0002 Tc
+-0.0026 Tw
+[ (he far Rig) 5.5 (h) -0.5 (t with su) 5.5 (ch rea) 5.5 (c) -2.8 (tiona) 5.5 (ry views wo) 5.5 (uld be a ) ] TJ
+-23.5269 -2.2994 TD
+0.0001 Tc
+-0.0025 Tw
+[ (disa) 5.4 (ster fo) 5.4 (r the Europ) 5.4 (ean a) 5.4 (nd glob) 5.4 (al co) 5.4 (mmunity\056 The) 5.4 ( world ) 6 (can) 5.4 (not) 8.5 ( afford Fra) 5.4 (n) -0.6 (ce to be compl) 6.7 (e) -0.6 (tely ) ] TJ
+0 -2.2934 TD
+0 Tc
+[ (isolatio) 5.3 (nist\056 Many nation) 5.3 (s) -3 ( a) 5.3 (r) -2.3 (e dep) 5.3 (end) 5.3 (ent) 8.4 ( on its eco) 5.3 (n) ] TJ
+22.9701 0 TD
+[ (o) 5.3 (m) 0.7 (y which i) 6.6 (s) -3 ( the se) 5.3 (co) 5.2 (nd largest in Europ) 5.3 (e) -0.7 ( and the ) ] TJ
+-22.9701 -2.2934 TD
+[ (fifth largest in) 5.3 ( the world\056 F) 6 (r) 3.7 (ance\222s influ) 5.3 (e) -0.7 (n) 5.3 (c) -3 (e spre) 5.3 (ad) 5.3 (s ) ] TJ
+23.018 0 TD
+-0.0002 Tc
+-0.0022 Tw
+[ (around the ) 6 (worl) 6.4 (d\054 from Ameri) 6.4 (c) -3.2 (a to No) 5.1 (rthe) 5.1 (rn Africa\056 I ) ] TJ
+-23.018 -2.2994 TD
+-0.0003 Tc
+-0.0021 Tw
+[ (believe that a) 5 (s) -3.3 ( Fra) 5 (n) -1 (ce gro) 5 (w) -2.7 (s mo) 5 (re in) 5 (sul) 6.3 (a) -1 (r\054 it is ) ] TJ
+20.8563 0 TD
+-0.0001 Tc
+-0.0023 Tw
+[ (incline) 5.2 (d) -0.8 ( to grow m) 6.6 (o) -0.8 (re anti\055Ame) 5.2 (r) -2.4 (ican\054 and a lon) 5.2 (g) -0.8 (stan) 5.1 (ding ) ] TJ
+-20.8563 -2.2934 TD
+0 Tc
+-0.0024 Tw
+[ (friend an) 5.3 (d pol) 6.6 (itical ally will cea) 5.3 (s) -3 (e to exist) 8.4 (\056) 2.4 ( Closin) 5.3 (g Fr) ] TJ
+22.9701 0 TD
+0.0001 Tc
+[ (a) 5.4 (n) -0.6 (ce\222) 6.7 (s) -2.9 ( bo) 5.4 (rde) 5.4 (r) 3.8 (s will rest) 8.5 (rict th) 5.4 (e oppo) 5.4 (rtunitie) 5.4 (s) -2.9 ( of those ) ] TJ
+-22.9701 -2.2934 TD
+0.0002 Tc
+-0.0026 Tw
+[ (from the Mag) 5.5 (h) -0.5 (reb ) 6 (who im) 6.9 (migrate for e) 5.5 (c) 3.2 (onomi) 6.8 (c) -2.8 ( and p) 5.5 (o) -0.5 (lit) ] TJ
+24.6886 0 TD
+0.0006 Tc
+-0.003 Tw
+[ (ical re) 5.9 (ason) 5.9 (s and ) 6 (cho) 5.9 (o) -0.1 (se) 5.9 ( Fran) 5.9 (ce be) 5.9 (ca) 5.9 (use of its ) ] TJ
+-24.6886 -2.2994 TD
+0 Tc
+-0.0024 Tw
+[ (imperi) 6.6 (a) -0.7 (listi) 6.6 (c h) 5.3 (i) 0.6 (story in this region\056 Fran) 5.3 (ce) 5.3 (\222s leni) ] TJ
+20.5808 0 TD
+-0.0001 Tc
+-0.0023 Tw
+[ (e) 5.2 (n) -0.8 (t immigration p) 5.2 (o) -0.8 (lici) 6.5 (e) -0.8 (s are the de) 5.2 (bt they owe the ) ] TJ
+-20.5808 -2.2934 TD
+0.0004 Tc
+-0.0028 Tw
+[ (Magh) 5.7 (reb for ) 6 (colo) 5.7 (nizi) 7 (ng the) 5.7 (i) 1 (r cultu) 5.7 (r) -1.9 (e an) 5.7 (d rend) 5.7 (eri) 7 (ng the) 5.7 (m) 1.1 ( econ) 5.7 (omi) 7 (c) -2.6 (a) 5.7 (lly depende) 5.7 (nt) 8.8 (\056 Revokin) 5.7 (g) -0.3 ( this debt ) ] TJ
+T*
+[ (coul) 6.9 (d fuel gre) 5.6 (a) -0.4 (t rese) 5.6 (ntment) 8.7 ( and increa) 5.6 (se) 5.6 (d attitudes of) ] TJ
+23.8084 0 TD
+-0.0001 Tc
+-0.0023 Tw
+[ ( anti\055Weste) 5.2 (r) -2.4 (ni) 6.5 (zation in a) 5.2 (n) -0.8 ( a) 5.2 (l) 0.5 (ready un) 5.2 (stab) 5.2 (le regio) 5.2 (n) -0.8 (\056 ) ] TJ
+ET
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 SOC\056G0\05604\0561 \055 Sociology \055 Final Year Undergraduate \055 Female \055 Native Speaker \055 Proposal) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(12) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+46 0 obj
+<<
+/Length 8509
+>>
+stream
+q
+/GS1 gs
+BT
+/TT2 1 Tf
+12 0 0 12 72 744.96 Tm
+0 g
+0 Tc
+0 Tw
+( ) Tj
+10.02 0 0 10.02 72 733.02 Tm
+( ) Tj
+12 0 0 12 72 59.2801 Tm
+( ) Tj
+10.02 0 0 10.02 72 47.3401 Tm
+( ) Tj
+/TT10 1 Tf
+0 66.2036 TD
+0.0007 Tc
+-0.0031 Tw
+[ (Ho) 18.7 (w) -23.9 ( ) 6 (A ) 6 (Cam) 9.6 (p) 0.8 (aign Aim) 3.6 (e) 0 (d) 6.8 ( At Ideology) 17.9 ( ) -6 (Can Serv) 11.9 (e As A Model) 9.1 ( ) ] TJ
+0 -2.2874 TD
+0 Tc
+0 Tw
+( ) Tj
+/TT6 1 Tf
+3.5928 0 TD
+-0.0002 Tc
+-0.0022 Tw
+[ (While it ca) 5.1 (nn) 5.1 (ot be denie) 5.1 (d) -0.9 ( that the Fren) 5.1 (ch fear) ] TJ
+20.1976 0 TD
+-0.0003 Tc
+-0.0021 Tw
+[ ( chang) 4.9 (e) 5 ( more than m) 6.4 (any other nati) 6.3 (ons\054 fea) 5 (r) -2.6 ( of ) ] TJ
+-23.7904 -2.2994 TD
+0.0001 Tc
+-0.0025 Tw
+[ (cha) 5.4 (nge i) 6.7 (s) -2.9 ( by no mean) 5.4 (s uni) 6.7 (quely Fre) 5.4 (n) -0.6 (ch\056 Fear of ch) 5.4 (an) ] TJ
+23.8024 0 TD
+0.0004 Tc
+-0.0028 Tw
+[ (ge app) 5.6 (ears al) 7 (l over the wo) 5.7 (rld\054 from wom) 7.1 (en\222s ri) 7 (ghts ) ] TJ
+-23.8024 -2.2934 TD
+-0.0003 Tc
+-0.0021 Tw
+[ (in the Middle ) 6 (East\054 to adop) 5 (ting a market eco) 5 (nomy in p) 5 (o) ] TJ
+24.3533 0 TD
+-0.0002 Tc
+-0.0022 Tw
+[ (st\055Comm) 6.5 (uni) 6.4 (st nation) 5.1 (s) -3.2 (\054 to globali) 6.4 (z) -3.2 (ation ) 6 (prote) 5.1 (s) -3.2 (ts in ) ] TJ
+-24.3533 -2.2934 TD
+[ (South Ameri) 6.4 (c) 2.8 (a\054 to permitting gay marri) 6.4 (ag) 5.1 (e in North Am) ] TJ
+24.2395 0 TD
+-0.0003 Tc
+-0.0021 Tw
+[ (erica\056 While p) 4.9 (o) -1 (litician) 5 (s) -3.3 ( and ) 6 (orga) 5 (nization) 5 (s fighting ) ] TJ
+-24.2395 -2.2994 TD
+-0.0002 Tc
+-0.0022 Tw
+[ (for cha) 5.1 (nge mi) 6.4 (ght go to gre) 5.1 (a) -0.9 (t lengths to relay its benefi) 6.4 (t) ] TJ
+24.0778 0 TD
+-0.0001 Tc
+-0.0023 Tw
+[ (s\054 rarely do t) 8.3 (hey target the) 5.2 (i) 0.5 (r cam) 6.6 (paig) 5.2 (n) -0.8 ( a) 5.2 (t) 2.3 ( the ) ] TJ
+-24.0778 -2.2934 TD
+-0.0002 Tc
+-0.0022 Tw
+[ (ideolo) 5.1 (g) -0.9 (y behi) 6.4 (nd re) 5.1 (sista) 5.1 (n) -0.9 (ce) 5.1 (\056 In some ca) 5.1 (ses\054 this would) 5.1 ( ) ] TJ
+24.0719 0 TD
+0 Tc
+-0.0024 Tw
+[ (not be feasib) 5.3 (le or practi) 6.6 (cal) 6.6 (\056) 2.4 ( Sometimes there a) 5.3 (r) -2.3 (e ) ] TJ
+-24.0719 -2.2934 TD
+-0.0002 Tc
+-0.0022 Tw
+[ (many ideolo) 5.1 (g) 5.1 (i) 0.4 (es drivin) 5.1 (g a single attitude ) 6 (and some) ] TJ
+22.3593 0 TD
+0.0002 Tc
+-0.0026 Tw
+[ (tim) 6.9 (e) -0.5 (s the) 5.5 (s) -2.8 (e ide) 5.5 (o) 5.5 (l) 0.8 (ogie) 5.5 (s) -2.8 ( are d) 5.5 (a) 5.5 (ngerou) 5.5 (s\056 Attacki) 6.8 (ng ) ] TJ
+-22.3593 -2.2934 TD
+0.0001 Tc
+-0.0025 Tw
+[ (negative ide) 5.4 (o) 5.4 (l) 0.7 (ogie) 5.4 (s) -2.9 ( is ri) 6.7 (ski) 6.7 (er and le) 5.4 (ss effective than ) ] TJ
+22.9701 0 TD
+0 Tc
+[ (a) 5.3 (c) -3 (centuatin) 5.3 (g a) 5.3 (nd red) 5.3 (e) -0.7 (fining ) 6 (positive on) 5.3 (es\056) 8.4 ( However\054 ) ] TJ
+-22.9701 -2.2994 TD
+0.0003 Tc
+-0.0027 Tw
+[ (there a) 5.6 (r) -2 (e mo) 5.6 (re cultures li) 6.9 (ke) 5.6 ( Fran) 5.6 (ce\054 with ) 6 (a wide) 5.6 (sp) 5.6 (rea) 5.6 (d) 5.6 (\054) ] TJ
+24.2874 0 TD
+-0.0001 Tc
+-0.0023 Tw
+[ ( collective id) 5.2 (eology with it) 8.3 (s hea) 5.2 (rt in the right pla) 5.2 (c) -3.1 (e ) ] TJ
+-24.2874 -2.2934 TD
+0 Tc
+-0.0024 Tw
+[ (but its reality in the wro) 5.3 (ng p) 5.3 (l) 0.6 (ace\056 ) 6 ( ) ] TJ
+T*
+-0.0003 Tc
+-0.0021 Tw
+[ ( ) -3317.4 (For exampl) 6.3 (e\054 in America\054 the notion of the Amer) ] TJ
+24.7904 0 TD
+-0.0002 Tc
+-0.0022 Tw
+[ (ican d) 5.1 (r) -2.5 (eam i) 6.4 (s) -3.2 ( pertin) 5.1 (ent to the nation\222s ) 6 (colle) 5.1 (ctive ) ] TJ
+-24.7904 -2.2994 TD
+0.0001 Tc
+-0.0025 Tw
+[ (con) 5.4 (s) 3.1 (cien) 5.4 (ce\056 ) 6 (The notion th) 5.4 (at with hard ) 6 (work\054 anyon) 5.4 (e) 5.4 ( c) ] TJ
+23.521 0 TD
+0.0004 Tc
+-0.0028 Tw
+[ (an succe) 5.7 (e) -0.3 (d) 5.7 ( in America i) 7 (s) 3.4 ( cheri) 7 (s) -2.6 (h) 5.7 (ed by) 9.4 ( America) 5.7 (n) -0.3 (s ) ] TJ
+-23.521 -2.2934 TD
+-0.0007 Tc
+-0.0017 Tw
+(and many firmly believe in it\056 An anti\055poverty cam) Tj
+21.7485 0 TD
+0 Tc
+-0.0024 Tw
+[ (pai) 6.6 (gn co) 5.3 (uld u) 5.3 (s) -3 (e ) 6 (the ideolo) 5.3 (g) -0.7 (y of the American dre) 5.3 (a) -0.7 (m to ) ] TJ
+-21.7485 -2.2934 TD
+-0.0002 Tc
+-0.0022 Tw
+[ (sho) 5.1 (w) -2.6 ( that ma) 5.1 (ny no longe) 5.1 (r find it attainab) 5.1 (le\054 beca) 5.1 (u) ] TJ
+21.9701 0 TD
+[ (se o) 5.1 (f) 2.2 ( an unlivable) 5.1 ( minimum wa) 5.1 (ge\054 uneq) 5.1 (ual e) 5.1 (ducational ) ] TJ
+-21.9701 -2.2994 TD
+0.0001 Tc
+-0.0025 Tw
+[ (oppo) 5.4 (rtunitie) 5.4 (s) -2.9 (\054 area) 5.4 (s of con) 5.4 (c) -2.9 (entrated pov) 9.1 (erty and ra) 5.4 (ci) 6.7 (sm\054 ) ] TJ
+25.1856 0 TD
+-0.0002 Tc
+-0.0022 Tw
+[ (etc\056 Demo) 5.1 (nstratin) 5.1 (g that ) ] TJ
+10.5988 0 TD
+0.0002 Tc
+-0.0026 Tw
+[ (a treasured p) 5.4 (r) -2.1 (inci) 6.8 (ple at ) ] TJ
+-35.7844 -2.2934 TD
+-0.0003 Tc
+-0.0021 Tw
+[ (the core of Ameri) 6.3 (c) -3.3 (an id) 5 (eol) 6.3 (ogy is no lon) 5 (ger a reality ) ] TJ
+22.6886 0 TD
+-0.0002 Tc
+-0.0022 Tw
+[ (of America ) 6 (cou) 5.1 (l) 0.4 (d potentially cha) 5.1 (nge ma) 5.1 (ny attitudes in ) ] TJ
+-22.6886 -2.2934 TD
+0.0001 Tc
+-0.0025 Tw
+[ (favor of supp) 5.4 (orting legi) 6.7 (slati) 6.7 (on to re) 5.4 (claim ) 6 (the American) ] TJ
+23.7425 0 TD
+[ ( dream\056 Thi) 6.7 (s) -2.9 ( i) 6.7 (s) -2.9 ( ho) 5.4 (w Fra) 5.4 (n) -0.6 (ce) 5.4 ( could ) 6 (serve ) 6 (as a mod) 5.3 (e) -0.6 (l ) ] TJ
+-23.7425 -2.2934 TD
+-0.0002 Tc
+-0.0022 Tw
+[ (to other natio) 5.1 (ns an) 5.1 (d cultu) 5.1 (r) 3.5 (es\056   ) ] TJ
+/TT10 1 Tf
+0 -2.3054 TD
+-0.0003 Tc
+-0.0021 Tw
+[ (Conclu) 5.7 (sion\072 ) 6 (An Encor) 5.6 (e) -1 ( to the ) ] TJ
+/TT14 1 Tf
+14.3054 0 TD
+0.0001 Tc
+-0.0085 Tw
+[ (Tren) 6.1 (te Glorieuse) 5.4 (s) -0.6 (\077) 6.2 ( ) ] TJ
+/TT6 1 Tf
+-14.3054 -2.2874 TD
+0.0005 Tc
+3.3145 Tw
+[ ( The ) ] TJ
+/TT12 1 Tf
+5.5928 0 TD
+0 Tc
+-0.0024 Tw
+[ (Trente G) 5.4 (l) 0.6 (orieu) 5.3 (s) -3 (e) 5.3 (s) -3 ( ) ] TJ
+/TT6 1 Tf
+8.2096 0 TD
+-0.0002 Tc
+-0.0022 Tw
+[ (refe) 5.1 (r to the thirty ) -6 (years afte) 5.1 (r World War II when Fran) 5.1 (ce\222) 6.4 (s) -3.2 ( GNP grew by) 8.8 ( ) ] TJ
+-13.8024 -2.2934 TD
+-0.0001 Tc
+-0.0023 Tw
+[ (over 5 pe) 5.2 (rcen) 5.2 (t annually an) 5.2 (d unempl) 6.5 (oym) 6.6 (ent never sup) 5.2 (e) -0.8 (rs) ] TJ
+25.1856 0 TD
+0.0001 Tc
+-0.0025 Tw
+[ (ede) 5.4 (d a level of 3 percen) 5.4 (t) 2.5 ( \050Kresl 2) 5.4 (\051) -2.2 (\056 Th) 5.4 (e Fren) 5.4 (ch ) ] TJ
+-25.1856 -2.2994 TD
+-0.0003 Tc
+-0.0021 Tw
+[ (reflect on the) 5 (s) -3.3 (e years with ) 6 (bittersweet n) 5 (o) -1 (stalgi) 6.3 (a\056 In fa) ] TJ
+23.4671 0 TD
+-0.0001 Tc
+-0.0023 Tw
+[ (ct\054 they are n) 5.2 (o) -0.8 (stalgi) 6.5 (c ab) 5.2 (ou) 5.2 (t much of thei) 6.5 (r histo) 5.2 (r) -2.4 (y\054 ) ] TJ
+-23.4671 -2.2934 TD
+-0.0002 Tc
+-0.0022 Tw
+[ (even that whi) 6.4 (c) -3.2 (h precede) 5.1 (d them by cent) ] TJ
+17.3713 0 TD
+0.0003 Tc
+-0.0027 Tw
+[ (u) 5.6 (r) -2 (ies\056 Th) 5.6 (ey are) 5.6 ( a preservin) 5.6 (g) -0.4 ( so) 5.6 (ci) ] TJ
+14.479 0 TD
+-0.0004 Tc
+-0.002 Tw
+[ (ety\056 They preserve thei) 6.2 (r cities\054 ) ] TJ
+-31.8503 -2.2934 TD
+0.0001 Tc
+-0.0025 Tw
+[ (their ch) 5.4 (ateau) 5.4 (x\054 their cathe) 5.4 (d) -0.6 (ral) 6.7 (s) -2.9 (\054 thei) ] TJ
+15.8144 0 TD
+0.0004 Tc
+-0.0028 Tw
+[ (r art) 8.8 (\054) 2.8 ( their small cafes\054 their ) 6 (sm) ] TJ
+13.6407 0 TD
+0.0001 Tc
+-0.0025 Tw
+[ (okin) 5.4 (g habit\054 their lan) 5.4 (gua) 5.4 (ge) 5.4 (\054 even their ) ] TJ
+-29.4551 -2.2994 TD
+0 Tc
+[ (wine a) 5.3 (nd che) 5.3 (e) -0.7 (se\056 Th) 5.3 (ey are) 5.3 ( a chan) 5.3 (ging ) 6 (society\056 There is McDon) 5.3 (a) -0.7 (ld\222) 6.6 (s) -3 ( on the Cha) 5.3 (m) 0.7 (ps \311lys\351) 5.3 (e) -0.7 (s ) 6 (and ) ] TJ
+0 -2.2934 TD
+0.0004 Tc
+-0.0028 Tw
+[ (Starbu) 5.7 (cks ne) 5.7 (ar the Louv) 9.4 (re) 5.7 (\056 Maroon 5 a) 5.7 (nd Natali) 7 (e Imbr) ] TJ
+24.0838 0 TD
+0.0001 Tc
+-0.0025 Tw
+[ (ugli) 6.7 (a) -0.6 ( drew ) 6 (a cro) 5.4 (w) -2.3 (d of th) 5.4 (ousand) 5.4 (s at a free co) 5.4 (ncert ) ] TJ
+-24.0838 -2.2934 TD
+0 Tc
+[ (at the Eiffel T) -5.9 (o) -0.7 (we) 5.3 (r to boo) 5.3 (st supp) 5.3 (ort for the Olympic ) ] TJ
+22.7545 0 TD
+-0.0005 Tc
+-0.0019 Tw
+[ (bi) 6.1 (d\056 They even have reality televisio) 4.8 (n) -1.2 ( now\056 It is no ) ] TJ
+ET
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 SOC\056G0\05604\0561 \055 Sociology \055 Final Year Undergraduate \055 Female \055 Native Speaker \055 Proposal) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(13) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+47 0 obj
+<<
+/FirstChar 32
+/Widths [ 278 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 611 0 0 0 0 0 0 0 778 0 0 0 0 0 0 0 0 0 0 0 0 611 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 556 0 0 0 278 0 0 278 0 611 611 0 0 389 556 333 611 ]
+/Encoding /WinAnsiEncoding
+/Type /Font
+/BaseFont /Arial-BoldItalicMT
+/LastChar 117
+/FontDescriptor 48 0 R
+/Subtype /TrueType
+>>
+endobj
+48 0 obj
+<<
+/FontBBox [ -560 -376 1157 1000 ]
+/StemV 135.84
+/Descent -211
+/XHeight 515
+/Flags 96
+/FontStretch /Normal
+/Ascent 905
+/FontName /Arial-BoldItalicMT
+/Type /FontDescriptor
+/FontWeight 700
+/ItalicAngle -15
+/FontFamily (Arial)
+/CapHeight 718
+>>
+endobj
+49 0 obj
+<<
+/Length 1968
+>>
+stream
+q
+/GS1 gs
+BT
+/TT2 1 Tf
+12 0 0 12 72 744.96 Tm
+0 g
+0 Tc
+0 Tw
+( ) Tj
+10.02 0 0 10.02 72 733.02 Tm
+( ) Tj
+12 0 0 12 72 59.2801 Tm
+( ) Tj
+10.02 0 0 10.02 72 47.3401 Tm
+( ) Tj
+/TT6 1 Tf
+0 66.2096 TD
+-0.0024 Tw
+[ (won) 5.3 (der that the Fre) 5.3 (n) -0.7 (ch are resi) 6.6 (stant to ) 6 (cha) 5.3 (nge\054 ) ] TJ
+21.2515 0 TD
+0.0003 Tc
+-0.0027 Tw
+[ (but chang) 5.6 (e doe) 5.5 (s n) 5.6 (o) -0.4 (t nece) 5.6 (s) 3.3 (sarily) 9.3 ( mean Ameri) 6.9 (c) -2.7 (ani) 6.9 (zatio) 5.6 (n) -0.4 ( ) ] TJ
+-21.2515 -2.2934 TD
+0 Tc
+-0.0024 Tw
+[ (and a sli) 6.6 (ppe) 5.3 (ry slope towards complete ) 6 (privatizatio) 5.3 (n\056) ] TJ
+22.8563 0 TD
+[ ( Cha) 5.2 (nge ) 6 (com) 6.7 (e) -0.7 (s in many fo) 5.3 (rms\056 In Fra) 5.3 (n) -0.7 (ce\054 chan) 5.3 (ge ) ] TJ
+-22.8563 -2.2994 TD
+0.0003 Tc
+-0.0027 Tw
+[ (must create j) 6.9 (obs a) 5.6 (nd bol) 6.9 (st) 8.7 (er toleran) 5.6 (c) -2.7 (e\056  Focu) 5.6 (sin) 5.6 (g) -0.4 ( on ) 6 (so) ] TJ
+24.521 0 TD
+0 Tc
+-0.0024 Tw
+[ (lid) 5.3 (arity is a strategy that turn) 5.3 (s to a che) 5.3 (r) 3.7 (ishe) 5.3 (d pa) 5.3 (st ) ] TJ
+-24.521 -2.2934 TD
+0.0002 Tc
+-0.0026 Tw
+[ (to write a ne) 5.5 (w ch) 5.5 (apter in ) 6 (Fren) 5.5 (ch hi) 6.8 (story that can ) ] TJ
+21.5269 0 TD
+0.0004 Tc
+-0.0028 Tw
+[ (be narrated ) 6 (with pride a) 5.7 (s) -2.6 ( the ) 6 (worl) 7 (d and F) 6.4 (r) -1.9 (a) 5.7 (n) -0.3 (ce ) 6 (contin) 5.7 (ue ) ] TJ
+-21.5269 -2.2934 TD
+[ (to chan) 5.6 (ge\056) 8.7 ( ) ] TJ
+23.3533 -2.2994 TD
+0 Tc
+0 Tw
+( ) Tj
+ET
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 SOC\056G0\05604\0561 \055 Sociology \055 Final Year Undergraduate \055 Female \055 Native Speaker \055 Proposal) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(14) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+50 0 obj
+<<
+/Length 5629
+>>
+stream
+q
+/GS1 gs
+BT
+/TT2 1 Tf
+12 0 0 12 72 744.96 Tm
+0 g
+0 Tc
+0 Tw
+( ) Tj
+10.02 0 0 10.02 72 733.02 Tm
+( ) Tj
+12 0 0 12 72 59.2801 Tm
+( ) Tj
+10.02 0 0 10.02 72 47.3401 Tm
+( ) Tj
+/TT6 1 Tf
+19.5509 66.2096 TD
+0.0003 Tc
+-0.0027 Tw
+[ (Wo) 5.6 (rks Consu) 5.6 (l) 0.9 (ted ) ] TJ
+-19.5509 -2.2934 TD
+0 Tc
+-0.0024 Tw
+[ (Ambler\054 Jo) 5.3 (hn) 5.3 (\056 The Fren) 5.3 (ch ) 6 (Welfare State\056) ] TJ
+ET
+136.44 685.98 117.3 0.72003 re
+f
+BT
+10.02 0 0 10.02 253.74 687.78 Tm
+-0.0002 Tc
+-0.0022 Tw
+[ ( New Yor) 3.5 (k) -3.2 (\054 NY\072 New Yo) 5.1 (r) 3.5 (k) -3.2 ( Univ) 2.8 (e) 5.1 (r) -2.5 (sity) 2.8 ( Pres) 2.8 (s\054 199) 5.1 (1\056 ) ] TJ
+-18.1377 -2.2994 TD
+-0.0003 Tc
+-0.0021 Tw
+[ (Baldersh) 5 (eim\054 Harold an) 5 (d Jean\055P) 8 (a) -1 (scal ) 6 (Daloz\056 Politic) ] TJ
+22.8024 0 TD
+-0.0002 Tc
+-0.0022 Tw
+[ (al ) 6 (Lead) 5.1 (ership in) 5.1 ( a Global Age) 5.1 (\072) 2.2 ( The Experie) 5.1 (nce) 5.1 (s) -3.2 ( of ) ] TJ
+ET
+273.78 662.94 249.6 0.71997 re
+f
+BT
+10.02 0 0 10.02 526.14 664.7401 Tm
+0 Tc
+0 Tw
+( ) Tj
+-45.3234 -2.2934 TD
+-0.0024 Tw
+[ ( ) -3317.4 (Fran) 5.3 (ce a) 5.3 (nd Norway\056) ] TJ
+ET
+108 639.96 90.06 0.72003 re
+f
+BT
+10.02 0 0 10.02 198.06 641.76 Tm
+-0.0004 Tc
+-0.002 Tw
+[ ( Burlin) 4.9 (gton\054 VT\072 Ashgate Publishi) 6.2 (ng\054 2003\056) 8 ( ) ] TJ
+-12.5808 -2.2934 TD
+0 Tc
+-0.0024 Tw
+[ (\223Ca) 5.3 (n) -0.7 ( the Co) 5.3 (n) 5.3 (s) -3 (titution be Saved\077\224 T) 6 (he Econ) 5.3 (omist\056 18 ) 6 (April 200) 5.3 (5\056 ) ] TJ
+0 -2.2994 TD
+3.315 Tc
+0 Tw
+(  ) Tj
+/Cs6 cs
+0 0 1 scn
+3.8683 0 TD
+-0.0005 Tc
+[ (http\072\057\057www\056e) 4.8 (c) -3.5 (on) 4.8 (omist\056co) 4.8 (m) 0.2 (\057agend) 4.8 (a\057disp) ] TJ
+17.3653 0 TD
+-0.0003 Tc
+[ (layStory\056cfm) 6.4 (\077story\137i) 6.3 (d\07538) 5 (8058) 5 (3) ] TJ
+ET
+110.76 593.94 314.28 0.72003 re
+f
+BT
+10.02 0 0 10.02 425.04 595.74 Tm
+0 g
+0 Tc
+( ) Tj
+-35.2335 -2.2934 TD
+0.0006 Tc
+-0.003 Tw
+[ (\223Chi) 7.2 (ra) 5.9 (c Appe) 5.9 (als for F) 6.6 (r) -1.7 (en) 5.9 (ch) 5.9 ( Unity\056\224 BBC Ne) 5.9 (ws\056 27 ) 6 (No) 5.9 (vember 2) 5.9 (005\056) 9 (  ) ] TJ
+T*
+-0.0011 Tc
+3.3161 Tw
+[ ( http\072\057\057 ) 3317.4 (news\056bbc\056co\056uk\057go\057pr\057fr) ] TJ
+16.6826 0 TD
+-0.0003 Tc
+0 Tw
+[ (\057\055\0571\057hi\057worl) 6.3 (d\057eur) ] TJ
+6.8802 0 TD
+-0.0008 Tc
+[ (ope\0574597549\056) 7.6 (stm ) ] TJ
+-23.5629 -2.2934 TD
+0.0004 Tc
+-0.0028 Tw
+[ (\223Chi) 7 (ra) 5.7 (c in Ne) 5.7 (w Pledge to ) 6 (End Riots\056) 8.8 (\224 BBC Ne) 5.7 (ws\056 15 ) 6 (Novemb) 5.7 (er 2) 5.7 (0) 5.7 (05\056 ) ] TJ
+0 -2.2994 TD
+0 Tc
+0 Tw
+( ) Tj
+/Cs6 cs
+0 0 1 scn
+3.5928 0 TD
+[ (http\072\057\057news\056b) 5.3 (b) -0.7 (c\056co\056uk\0571\057hi\057) 8.4 (w) -2.4 (orl) 6.6 (d) -0.7 (\057eu) 5.3 (r) -2.3 (ope\057) 8.4 (4437) 5.3 (206\056) 8.4 (stm) ] TJ
+ET
+108 501.96 234.06 0.72 re
+f
+BT
+10.02 0 0 10.02 342.06 503.76 Tm
+0 g
+( ) Tj
+-26.9521 -2.2934 TD
+-0.0024 Tw
+[ (\223French Viole) 5.3 (n) -0.7 (ce \221Ba) 5.3 (ck to ) 6 (Normal\056\222\224 BBC Ne) 5.3 (ws\056 17 Novemb) 5.3 (er 2) 5.3 (0) 5.3 (05\056 ) ] TJ
+T*
+0 Tw
+( ) Tj
+/Cs6 cs
+0 0 1 scn
+3.5928 0 TD
+-0.0001 Tc
+[ (http\072\057\057news\056b) 5.2 (b) -0.8 (c\056co\056uk\0572\057hi\057) 8.3 (euro) 5.2 (pe\05744) 5.2 (45) 5.2 (428\056stm) ] TJ
+ET
+108 456 207.36 0.72 re
+f
+BT
+10.02 0 0 10.02 315.36 457.8 Tm
+0 g
+0 Tc
+( ) Tj
+-24.2874 -2.2994 TD
+-0.0024 Tw
+[ (Kresl\054 Peter a) 5.3 (nd Sylvain Gallais\056 Fran) 5.3 (ce) 5.3 ( Encounte) 5.3 (r) 3.7 (s Globali) 6.6 (z) -3 (ation\056) ] TJ
+ET
+217.68 432.96 147.84 0.72 re
+f
+BT
+10.02 0 0 10.02 365.52 434.76 Tm
+-0.0009 Tc
+-0.0015 Tw
+( Northampton\054 MA\072 Edward Elgar  ) Tj
+-29.2934 -2.2934 TD
+0.0001 Tc
+3.3149 Tw
+[ ( Publishi) 6.7 (ng\054 ) 3317.4 (2) 5.4 (002\056) 8.5 ( ) ] TJ
+T*
+-0.0004 Tc
+-0.002 Tw
+[ (Smith\054 Timothy\056 France in Cri) 6.2 (s) -3.4 (is\072 ) 6 (Welfar) ] TJ
+17.5808 0 TD
+-0.0001 Tc
+-0.0023 Tw
+[ (e\054 Inequality\054 and Glo) 5.2 (bali) 6.5 (z) -3.1 (a) 5.2 (t) 2.3 (ion sin) 5.2 (c) -3.1 (e 19) 5.2 (80) ] TJ
+ET
+144.18 387 291.9 0.72 re
+f
+BT
+10.02 0 0 10.02 436.08 388.8 Tm
+-0.0016 Tc
+-0.0008 Tw
+(\056 UK\072 Cambridge ) Tj
+-36.3353 -2.2994 TD
+-0.0004 Tc
+-0.002 Tw
+[ ( ) -3317.4 (University Press\054 2004\056) 8 ( ) ] TJ
+0 -2.2934 TD
+-0.0002 Tc
+-0.0022 Tw
+[ (Tiersky\054 Ro) 5.1 (n) 5.1 (a) -0.9 (ld\056 Fran) 5.1 (ce in) 5.1 ( the New Eu) 5.1 (rope\072 Ch) 5.1 (angi) 6.4 (n) 5.1 (g) -0.9 ( Yet Steadfast) ] TJ
+ET
+147 340.98 227.34 0.71997 re
+f
+BT
+10.02 0 0 10.02 374.34 342.78 Tm
+-0.001 Tc
+-0.0014 Tw
+(\056 Belmont\054 CA\072 Wadsworth  ) Tj
+-30.1737 -2.2934 TD
+0.0001 Tc
+3.3149 Tw
+[ ( Publishi) 6.7 (ng\054 ) 3317.4 (1) 5.4 (994\056) 8.5 ( ) ] TJ
+T*
+0 Tc
+-0.0024 Tw
+[ (Vinocu) 5.3 (r) -2.3 (\054 Jo) 5.3 (hn) 5.3 (\056 \223With Wo) 5.3 (bbl) 6.6 (y Landing\054 Sa) 5.3 (rko) 5.3 (z) -3 (y Survive) 5.3 (s) -3 ( Riot) 8.4 (s\056\224 The ) 6 (Ne) 5.3 (w York Times) ] TJ
+ET
+353.76 295.02 93.42 0.72 re
+f
+BT
+10.02 0 0 10.02 447.18 296.8201 Tm
+-0.0004 Tc
+-0.002 Tw
+[ (\056 15 ) 6 (Novembe) 4.9 (r) -2.7 (  ) ] TJ
+-37.4431 -2.2994 TD
+0.0007 Tc
+3.3143 Tw
+[ ( 2005\056) 9.1 ( ) ] TJ
+0 -2.2934 TD
+0 Tc
+0 Tw
+( ) Tj
+T*
+3.315 Tc
+(  ) Tj
+/TT10 1 Tf
+0 -2.3054 TD
+(  ) Tj
+/TT6 1 Tf
+0 -2.2874 TD
+(  ) Tj
+0 -2.2934 TD
+-0.0024 Tc
+(  ) Tj
+ET
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 SOC\056G0\05604\0561 \055 Sociology \055 Final Year Undergraduate \055 Female \055 Native Speaker \055 Proposal) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(15) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+51 0 obj
+[ /ICCBased 52 0 R ]
+endobj
+52 0 obj
+<<
+/Length 2598
+/N 3
+/Filter /FlateDecode
+/Alternate /DeviceRGB
+>>
+stream
+hﬁúñwTT◊áœΩwz°Õ0“zì.0ÄÙ. Qf  √Mlà®@DEê†Ä£°H¨àb!(®`HPb0ä®®dF÷J|yyÔÂÂ˜«Ωﬂ⁄gÔs˜Ÿ{üµ. $O./ñ ô'‡z8”WÖG–±˝ xÄ¶ 0YÈ©æAÓ¡@$/7z∫»	¸ãﬁH¸æeËÈOßÉˇO“¨Tæ  »_ƒÊlN:Kƒ˘"N §äÌ3"¶∆$äFâô/JPƒrbé[‰•ü}ŸQÃÏd[ƒ‚úSŸ…l1˜àx{Üê#bƒGƒ\N¶àoãX3IòÃÒ[ql2áô ä$∂8¨xõàòƒtÒr p§∏/8Êp≤‚Cπ§§fÛπqÒ∫.KènjmÕ†{r2ì8Å°?ìï»‰≥È.)…©L^6 ãg˛,qmÈ¢"[öZ[Zöô~Q®ˇ∫¯7%ÓÌ"Ω
+¯‹3à÷˜áÌØ¸RÍ `Ãäj≥Î[Ã~ :∂ wˇõÊ! $E}køÒ≈yh‚yâRmåç333ç∏ñë∏†øÎ:¸}Ò=#ÒvøóáÓ âe
+ìtq›X)I)B>==ï…‚–ˇ<ƒˇ8ØÛX»âÂ9<QD®h ∏º8QªylÆÄõ¬£syˇ©âˇ0ÏOZúkë(ıü 5 H›†‰Á>Ä¢yP‹ıﬂ˚ÊÉ‚õ¶:±8˜ü˝˚Æpâ¯ëŒç˚ÁLg	˘ãk‚k	–Ä $»†tÅ!0V¿87∞¯Å`÷à…Ä2A.ÿ
+@ÿˆÇJPÍA#h'@8.ÄÀ‡:∏	ÓÄ`åÉÁ`ºÛa!2DÅ‰!UH2ÄÃ dπA>P ECqBπ–®*Ö*°Z®˙:]ÄÆB–=höÇ~Öﬁ√LÇ©∞2¨√ÿ	ˆÜÉ·5púÁ¿˘N∏ÆÉè¡Ì¯:|Åü√≥@àQC‚Ç¯!H,¬G6 ÖH9Rá¥ ]H/rA¶ëw(äÇ¢£Q∂(OTäÖJCm@£*QGQÌ®‘-‘(jı	MF+°–6h/Ù*t:]Ä.G7†€–ó–w–„Ë7ÜÜ—¡Xa<1·òÃ:L1Ê ¶s3Ä√Ãb±Xy¨÷ÎáebÿÏ~Ï1Ï9Ï v˚Gƒ©‚ÃpÓ∏óá+«5·Œ‚q∏yº^oÉ˜√≥ÒŸ¯|=æ?éü'HtvÑ`Ba3°Ç–B∏DxHxE$’â÷ƒ "ó∏âXA<NºB%æ#…êÙI.§Híê¥ìtÑtûtèÙäL&kì…dy'πë|ë¸ò¸VÇ"a$·%¡ñÿ(Q%—.1(ÒB/©%È$πV2G≤\Ú§‰…i)ºî∂îãSjÉTï‘)©a©Yiä¥©¥üt≤t±tìÙUÈI¨å∂åõ[&_Ê∞ÃEô1
+B—†∏PXî-îz % 8C’°zQ®E‘o®˝‘YŸe≤°≤Y≤U≤gdGhMõÊEK¢ï–N–ÜhÔó(/qZ¬Y≤cIÀí¡%srärérπBπVπ;rÔÂÈÚnÚâÚªÂ;‰)†Ù2*\RòV§*⁄*≤O(ﬁWÇïÙïï÷)VÍSöUVQˆPNUﬁØ|QyZÖ¶‚®í†R¶rVeJï¢jØ U-S=ß˙å.Kw¢'—+Ë=Ù5%5O5°Z≠Zø⁄º∫ézàzûz´˙#ÇC#V£L£[cFSU”W3W≥YÛæ^ã°ØµO´WkN[G;L{õváˆ§éúéóNéN≥ŒC]≤ÆÉnönùÓm=åC/QÔÄﬁM}XﬂB?^øJˇÜl`i¿58`0∞Ω‘z)oi›“aCí°ìaÜa≥·®Õ»«(œ®√ËÖ±¶qÑÒn„^„O&&I&ı&LeLWòÊôvô˛j¶o∆2´2ªmN6w7ﬂhﬁi˛rô¡2Œ≤ÉÀÓZP,|-∂Yt[|¥¥≤‰[∂XNYiZE[U[3®F1„ä5⁄⁄Ÿz£ıiÎw6ñ6õ6øÿ⁄&⁄6ŸN.◊YŒY^ø|ÃN›éiWk7bO∑è∂?d?‚†Ê¿t®sx‚®·»vlpúp“sJp:ÊÙ¬ŸƒôÔ‹Ê<Áb„≤ﬁÂº+‚Í·ZË⁄Ô&„‚VÈˆÿ]›=ŒΩŸ}∆√¬cù«yO¥ß∑Ánœa/e/ñW£◊Ã
+´ÎWÙxìºÉº+Ωü¯Ë˚}∫|aﬂæ{|Æ‘Z…[Ÿ·¸º¸ˆ¯=Ú◊ÒOÛˇ> ‡P4–407∞7à‘Ù&ÿ9∏$¯Aànà0§;T242¥1t.Ã5¨4ldïÒ™ı´Æá+Ñs√;#∞°≥´›VÔ]=iY9¥FgM÷ö´k÷&≠=%≈å:çéãnä˛¿Ùc÷1gcºb™cfX.¨}¨ÁlGv{äc«)ÂLƒ⁄≈ñ∆N∆Ÿ≈Ìâõäwà/èüÊ∫p+π/<jÊ˝è$.$Ö%µ&„í£ìOÒdxâºûïî¨îÅTÉ‘Ç‘ë4õ¥Ωi3|o~C:îæ&ΩS@˝Lı	uÖ[Ö£ˆUo3C3OfIgÒ≤˙≤ı≥wdO‰∏Á|ΩµéµÆ;W-wsÓËzßıµ†1∫7jlÃﬂ8æ…c”—ÕÑÕâõ»3…+Õ{Ω%lKWær˛¶¸±≠[õ$
+¯√€l∑’lGmÁnÔﬂaæcˇéOÖÏ¬kE&EÂEäY≈◊æ2˝™‚´Öù±;˚K,KÓ¬Ï‚Ì⁄Ì∞˚h©tiNÈÿﬂ=ÌeÙ≤¬≤◊{£ˆ^-_V^≥è∞O∏o§¬ß¢søÊ˛]˚?T∆Wﬁ©rÆj≠V™ﬁQ=wÄ}`†„¡ñÂö¢ö˜á∏áÓ÷z‘∂◊i◊ï∆Œ8¸¥>¥æ˜k∆◊ç
+Eèéå<⁄”h’ÿÿ§‘T“7õßéEª˘çÎ7ù-Ü-µ≠¥÷¢„‡∏¯≥o£ø:·}¢˚$„dÀwZﬂU∑Q⁄
+€°ˆÏˆôé¯éëŒŒÅS+NuwŸvµ}oÙ˝ë”jß´Œ»û)9K8õv·\ŒπŸÛ©Áß/ƒ]ÎéÍ~pq’≈€==˝óº/]πÏ~˘bØSÔπ+vWN_µπzÍ„Z«uÀÎÌ}}m?X¸–÷oŸﬂ~√ÍFÁMÎõ]ÀŒ:^∏ÂzÎÚmØ€◊Ô¨º302tw8rx‰.˚Ó‰Ω§{/Ôg‹ü∞È!˙a·#©GÂèï◊˝®˜cÎàÂ»ôQ◊—æ'AOå±∆ûˇî˛”áÒ¸ß‰ßÂ™çìfìßß‹ßn>[˝l¸yÍÛ˘ÈÇü•Æ~°˚‚ª_ÈõY53˛íˇr·◊‚WÚØéº^ˆ∫{÷ˆÒõ‰7ÛsÖoÂﬂ}«x◊˚>Ï˝ƒ|ÊÏáäèzª>yz∏êº∞õ  ˜ÑÛ˚
+
+endstream
+endobj
+xref
+0 53
+0000000000 65535 f 
+0000000009 00000 n 
+0000000162 00000 n 
+0000000263 00000 n 
+0000000312 00000 n 
+0000000675 00000 n 
+0000001026 00000 n 
+0000001415 00000 n 
+0000001779 00000 n 
+0000002143 00000 n 
+0000002507 00000 n 
+0000002872 00000 n 
+0000003237 00000 n 
+0000003615 00000 n 
+0000003980 00000 n 
+0000004332 00000 n 
+0000004697 00000 n 
+0000005088 00000 n 
+0000005440 00000 n 
+0000005835 00000 n 
+0000007014 00000 n 
+0000007099 00000 n 
+0000007274 00000 n 
+0000007538 00000 n 
+0000007724 00000 n 
+0000008033 00000 n 
+0000012144 00000 n 
+0000012877 00000 n 
+0000013120 00000 n 
+0000014772 00000 n 
+0000015211 00000 n 
+0000015522 00000 n 
+0000026738 00000 n 
+0000036538 00000 n 
+0000036927 00000 n 
+0000037182 00000 n 
+0000037621 00000 n 
+0000037870 00000 n 
+0000046120 00000 n 
+0000055050 00000 n 
+0000063279 00000 n 
+0000071763 00000 n 
+0000080135 00000 n 
+0000088694 00000 n 
+0000097060 00000 n 
+0000105767 00000 n 
+0000113942 00000 n 
+0000122504 00000 n 
+0000122875 00000 n 
+0000123135 00000 n 
+0000125156 00000 n 
+0000130838 00000 n 
+0000130875 00000 n 
+trailer
+<<
+/Size 53
+/Root 3 0 R
+/Info 2 0 R
+>>
+startxref
+133574
+%%EOF

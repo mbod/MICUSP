@@ -1,0 +1,52 @@
+8
+
+dir
+403
+http://elicorpora.info:8080/svn/micusp-search/micusp/search/xml_database/db/system/config/db/MICUSP
+http://elicorpora.info:8080/svn
+
+
+
+2009-11-23T18:04:24.856776Z
+206
+micusp
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b51d07f0-856a-4f1b-8b93-dc9f36a6b9b9
+
+collection.xconf
+file
+
+
+
+
+2009-11-23T18:08:28.000000Z
+51b5b3778639ed81ded703819d697ff9
+2009-11-23T18:04:24.856776Z
+206
+micusp
+
+__contents__.xml
+file
+
+
+
+
+2009-11-23T18:08:28.000000Z
+de73792d62bd3c10759cfae795d1bc5a
+2009-11-23T18:04:24.856776Z
+206
+micusp
+

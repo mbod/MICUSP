@@ -1,0 +1,2237 @@
+%PDF-1.3
+1 0 obj
+<<
+/Kids [ 4 0 R 5 0 R 6 0 R 7 0 R ]
+/Type /Pages
+/Count 4
+>>
+endobj
+2 0 obj
+<<
+/Producer (Python PDF Library \055 http\072\057\057pybrary\056net\057pyPdf\057)
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+>>
+endobj
+4 0 obj
+<<
+/Parent 1 0 R
+/Contents 8 0 R
+/Resources <<
+/ExtGState <<
+/GS1 9 0 R
+>>
+/Font <<
+/TT8 10 0 R
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+/TT2 12 0 R
+/TT4 14 0 R
+/TT6 16 0 R
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Type /Page
+>>
+endobj
+5 0 obj
+<<
+/Parent 1 0 R
+/Contents 18 0 R
+/Resources <<
+/ExtGState <<
+/GS1 9 0 R
+>>
+/Font <<
+/TT8 10 0 R
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+/TT2 12 0 R
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Type /Page
+>>
+endobj
+6 0 obj
+<<
+/Parent 1 0 R
+/Contents 19 0 R
+/Resources <<
+/ExtGState <<
+/GS1 9 0 R
+>>
+/Font <<
+/TT8 10 0 R
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+/TT2 12 0 R
+/TT4 14 0 R
+/TT6 16 0 R
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Type /Page
+>>
+endobj
+7 0 obj
+<<
+/Parent 1 0 R
+/Contents 20 0 R
+/Resources <<
+/ExtGState <<
+/GS1 9 0 R
+>>
+/Font <<
+/TT8 10 0 R
+/TT12 21 0 R
+/TT2 12 0 R
+/TT4 14 0 R
+/TT10 23 0 R
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Type /Page
+>>
+endobj
+8 0 obj
+<<
+/Length 10318
+>>
+stream
+q
+/GS1 gs
+BT
+/TT2 1 Tf
+12 0 0 12 72 744.9 Tm
+0 g
+0 Tc
+0 Tw
+(                                                                  Miniproposal                                                 ) Tj
+34.14 0 TD
+(     ) Tj
+ET
+70.5 741.48 471 0.72003 re
+f
+BT
+9 0 0 9 303.72 38.16 Tm
+(1 ) Tj
+/TT4 1 Tf
+13.98 0 0 13.98 72.66 706.92 Tm
+0.0008 Tc
+-0.0011 Tw
+(A Conserved Role of Cas\055Spg System in) Tj
+17.0258 0 TD
+0.0006 Tc
+-0.0017 Tw
+( Endoderm Specification during Early ) Tj
+-5.6052 -1.1502 TD
+0.0005 Tc
+-0.0016 Tw
+[ (Vertebrat) -5.5 (e) 2.3 ( Development ) ] TJ
+12 0 0 12 72 676.74 Tm
+-0.0001 Tc
+0 Tw
+(Background\072) Tj
+/TT2 1 Tf
+5.615 0 TD
+0.0003 Tc
+0.2697 Tw
+[ ( How multipo) 5.3 (t) -1.9 (ent early em) 8.1 (bryonic cells d) 5.3 (i) -1.9 (fferentiate into endoderm) 8.1 (al lineag) 5.3 (e ) ] TJ
+-5.615 -1.15 TD
+0.4197 Tw
+[ (rem) 8.1 (a) -0.9 (ins elusive\056 Although a group of transc) ] TJ
+20.04 0 TD
+0.0006 Tc
+0.4177 Tw
+(ription factors are im) Tj
+9.675 0 TD
+0.0002 Tc
+0.4198 Tw
+[ (plicated in endoderm ) ] TJ
+-29.715 -1.15 TD
+0.0003 Tc
+0.0334 Tw
+[ (developm) 8.1 (ent\054 how they work t) ] TJ
+12.325 0 TD
+0.0002 Tc
+0.0335 Tw
+[ (ogether to induce endoderm) 8 ( differe) ] TJ
+14.235 0 TD
+0.0006 Tc
+0.0319 Tw
+[ (ntiation is la) ] TJ
+5.015 0 TD
+-0.0003 Tc
+0.0353 Tw
+(rgely unknown\056 In ) Tj
+-31.575 -1.15 TD
+0.0005 Tc
+0.1955 Tw
+[ (zebrafish\054 S) 6.7 (pg\054 a POU dom) 8.3 (a) -0.7 (in tran) ] TJ
+14.945 0 TD
+0.0004 Tc
+0.1946 Tw
+[ (scription factor\054 acts w) 7.6 (ith ) ] TJ
+11.195 0 TD
+0.1947 Tw
+[ (Cas\054 a prospective endoderm) 8.1 (al) -6.9 ( ) ] TJ
+-26.14 -1.15 TD
+-0.0003 Tc
+0.3153 Tw
+[ (HMG domain transcription factor induced by) ] TJ
+19.705 0 TD
+0.0006 Tc
+0.3144 Tw
+[ ( Nodal \050T) 6.4 (GF\055beta superfam) 8.4 (ily\051 signaling\054 to ) ] TJ
+-19.705 -1.15 TD
+0.0005 Tc
+0.4282 Tw
+[ (activate endoderm) 8.3 ( developm) 8.3 (ent through activa) ] TJ
+20.485 0 TD
+0.0002 Tc
+0.4298 Tw
+[ (tion of endoderm) 8 ( specific genes such as ) ] TJ
+-20.485 -1.15 TD
+0.0006 Tc
+0.2644 Tw
+[ (sox17\050Reim et al\056\054 2004\051\056 In m) 8.4 (i) -1.6 (ce\054 chim) 8.4 (eric ) ] TJ
+19.55 0 TD
+0.0003 Tc
+0.2647 Tw
+[ (study showed that Smad2\055m) 8.1 (e) -0.9 (diated TGF\055beta ) ] TJ
+-19.55 -1.145 TD
+0.0001 Tc
+0.0649 Tw
+[ (signaling\050Trem) 7.9 (blay et al\056\054 2000\051 and Sox17\050Kanai\055) ] TJ
+20.79 0 TD
+0.0003 Tc
+0.0622 Tw
+[ (Azum) 8.1 (a et al\056\054 2002\051 are ) ] TJ
+9.945 0 TD
+-0.0001 Tc
+0.0617 Tw
+[ (also required for the ) ] TJ
+-30.735 -1.15 TD
+0.0003 Tc
+0.1647 Tw
+[ (initial specification of the endoderm\056 Oct4\054 m) 8.1 (i) -6.9 (ce ) ] TJ
+20.795 0 TD
+-0.0002 Tc
+0.1652 Tw
+[ (orthology of zebrafish spg\054 controls lineage ) ] TJ
+-20.795 -1.15 TD
+0.0004 Tc
+0.1137 Tw
+[ (comm) 8.2 (it) -6.8 (m) 8.2 (e) -0.8 (nt) -6.8 ( in a dose\055dependent m) 8.2 (a) -0.8 (nner\072 an in) ] TJ
+19.735 0 TD
+0.0007 Tc
+0.1133 Tw
+[ (creas) 4.9 (e in ex) 5.7 (pression cau) 5.7 (ses differentiation into) 5.7 ( ) ] TJ
+-19.735 -1.15 TD
+0.5614 Tw
+[ (prim) 8.4 (itive endoderm) 8.4 ( a) -5.6 (nd m) 8.4 (e) -0.6 (soderm) 8.4 (\054 while downr) ] TJ
+22.355 0 TD
+0.0004 Tc
+0.5562 Tw
+[ (egulation induces dedifferentiation to) 5.4 ( ) ] TJ
+-22.355 -1.15 TD
+-0.0001 Tc
+0.0551 Tw
+[ (trophectoderm) 7.7 (\050) -7.1 (N) 2.1 (iwa et al\056\054 2000\051\056 P) 6.1 (OU and SOX\050SRY) ] TJ
+22.4 0 TD
+-0.0003 Tc
+0.0553 Tw
+[ (\055related HMG\051 transcription factors have ) ] TJ
+-22.4 -1.15 TD
+0.0004 Tc
+0.1796 Tw
+[ (been suggested to exem) 8.2 (plify their f) 8.4 (unctional ) ] TJ
+19.125 0 TD
+0.0001 Tc
+0.1774 Tw
+[ (partnership through com) 7.9 (b) ] TJ
+10.68 0 TD
+-0.0003 Tc
+0.1803 Tw
+[ (i) -7.5 (n) -0.3 (ational binding onto ) ] TJ
+-29.805 -1.15 TD
+0.0005 Tc
+0.0635 Tw
+[ (Sox\055Oct enhancer elem) 8.3 (ent\050Rem) 8.3 (e) -0.7 (nyi et al\056\054 2003\051) ] TJ
+19.895 0 TD
+0.0004 Tc
+0.0646 Tw
+[ (\056 W) 9.2 (h) 0.4 (ether there exits ) ] TJ
+8.835 0 TD
+0.0008 Tc
+0.0642 Tw
+[ (a f) 8.8 (unctional cas hom) 8.6 (olog ) ] TJ
+-28.73 -1.15 TD
+0.0004 Tc
+-0.0016 Tw
+[ (in m) 8.2 (i) -1.8 (ce that acts with Oct4 to induce endode) ] TJ
+17.83 0 TD
+-0.0003 Tw
+[ (rm) 8.1 ( differentiation aw) ] TJ
+8.49 0 TD
+-0.0053 Tw
+(aits investigation\056  ) Tj
+-26.32 -1.15 TD
+0 Tc
+0 Tw
+( ) Tj
+/TT4 1 Tf
+T*
+-0.0002 Tc
+0.4852 Tw
+(Preliminary Studies\072 ) Tj
+/TT2 1 Tf
+10.08 0 TD
+0.0003 Tc
+0.458 Tw
+[ (Research in our lab using ES) 6.5 ( cel) ] TJ
+15.755 0 TD
+0.4571 Tw
+[ (l line stably trans) 4.6 (f) 3.4 (ected with ) ] TJ
+-25.835 -1.15 TD
+-0.0002 Tc
+1.0552 Tw
+[ (nkx2\0565\050cardiac\055specific transcription factor) ] TJ
+19.4 0 TD
+0 Tc
+1.055 Tw
+[ (\051 prom) 7.8 (oter\072GFP reporter construct and ) ] TJ
+-19.4 -1.15 TD
+0.0004 Tc
+0.0096 Tw
+[ (sox17\050endoderm) 8.2 ( specific transcription factor\051 pr) ] TJ
+19.425 0 TD
+[ (om) 8.1 (oter\072CFP reporter construct showed that upon ) ] TJ
+-19.425 -1.15 TD
+0 Tc
+0.0262 Tw
+[ (Nodal treatm) 7.8 (ent\054 Oct4 mRNA a) ] TJ
+12.845 0 TD
+0.0003 Tc
+0.0259 Tw
+[ (nd protein expression levels are ) ] TJ
+13.05 0 TD
+0 Tc
+0.025 Tw
+[ (transiently upregulated\05024hr and ) ] TJ
+-25.895 -1.15 TD
+0.0007 Tc
+0.005 Tw
+[ (48 hr but not after\051\073 Sox7 m) 8.5 (R) -2.3 (NA le) ] TJ
+14.295 0 TD
+0.001 Tc
+0.004 Tw
+(vel can hardly be detected be) Tj
+11.665 0 TD
+0.0001 Tc
+0.0049 Tw
+(fore Nodal induction\054 but started ) Tj
+-25.96 -1.15 TD
+0.0002 Tc
+0.1978 Tw
+[ (to express at 24hr till 96hr ) ] TJ
+11.97 0 TD
+0.0003 Tc
+0.198 Tw
+[ (post Nodal treatm) 8.1 (e) -0.9 (nt\073 Expression ) ] TJ
+14.405 0 TD
+-0.0006 Tc
+0.2006 Tw
+[ (of both reporter genes can be ) ] TJ
+-26.375 -1.15 TD
+0.0007 Tc
+0.0728 Tw
+[ (observed in a portion\050\0762) 5.7 (0\045 each) 5.7 (\051 of the d) 5.7 (i) -1.5 (fferentia) ] TJ
+21.105 0 TD
+0.001 Tc
+0.074 Tw
+[ (ted ES cells\05096h) 6 (r\051\056) 6 ( In) 6 ( an attem) 8.8 (p) 1 (t to iden) 6 (tif) 9 (y) 6 ( ) ] TJ
+-21.105 -1.15 TD
+0.0002 Tc
+0.2381 Tw
+[ (transcription factors that play) ] TJ
+12.47 0 TD
+0.0004 Tc
+0.2371 Tw
+[ ( essential role) ] TJ
+5.975 0 TD
+0.0001 Tc
+0.2391 Tw
+[ ( in endoderm) 7.9 ( for) -6.9 (m) 7.9 (ation\054 we initiated an siRNA ) ] TJ
+-18.445 -1.15 TD
+0.3349 Tw
+[ (screening using a series of short interferin) ] TJ
+18.785 0 TD
+-0.0005 Tc
+0.3355 Tw
+(g RNA expression vectors ) Tj
+12.11 0 TD
+-0.0004 Tc
+0.3354 Tw
+[ (targeted to various ) ] TJ
+-30.895 -1.15 TD
+-0.0005 Tc
+0.0805 Tw
+(transcription factors and transfect) Tj
+13.65 0 TD
+0.0002 Tc
+0.0785 Tw
+[ (ed them) 8 ( into the ES) ] TJ
+8.195 0 TD
+0 Tc
+0.079 Tw
+[ ( cell line\056 Am) 7.8 (ong the tr) ] TJ
+9.665 0 TD
+-0.0004 Tc
+0.0804 Tw
+(anscription factors ) Tj
+-31.51 -1.15 TD
+0 Tc
+0.375 Tw
+[ (tested\054 Sox7 siRNA s) -5.8 (uppressed the sox17\072CFP ) ] TJ
+21.23 0 TD
+0.0003 Tc
+0.3747 Tw
+[ (expression without significantly affecting ) ] TJ
+-21.23 -1.15 TD
+-0.0002 Tc
+0.1902 Tw
+[ (nkx2\0565\072GFP expression\056 Immunostaining of the ) ] TJ
+20.195 0 TD
+0.0002 Tc
+0.1898 Tw
+[ (ES cells upon Nodal treatm) 8 (e) -0.9 (nt\05024 and 48hr\051 ) ] TJ
+-20.195 -1.15 TD
+0.0005 Tc
+0.2195 Tw
+[ (showed that Sox7 colocalize in the nuclei of) 8.5 ( a ) ] TJ
+20.62 0 TD
+0.0002 Tc
+0.219 Tw
+[ (portion of the ES c) -5.9 (e) -1 (lls with Oct4 staining\056 ) ] TJ
+-20.62 -1.15 TD
+0.0001 Tc
+0.1749 Tw
+[ (Immunostaining of the m) 7.9 (i) -2.1 (ce blastocyst section fu) ] TJ
+20.77 0 TD
+0.0006 Tc
+0.1744 Tw
+[ (rther confi) -6.6 (m) 8.4 (ed that Sox7 colocalizes in the ) ] TJ
+-20.77 -1.15 TD
+0.0001 Tc
+0.0349 Tw
+[ (nuclei of a portion of the cells expressing Oct4) ] TJ
+19 0 TD
+0.0003 Tc
+0.0347 Tw
+[ ( in the ICM\056 C) 7.3 (o) 0.3 (immunoprecipitation experim) 8.1 (e) -0.8 (nts ) ] TJ
+-19 -1.15 TD
+0.1047 Tw
+[ (perform) 8.1 (e) -0.9 (d in Nodal induced ES cells\05048hr\051 suggests) ] TJ
+21.57 0 TD
+-0.0002 Tc
+0.1045 Tw
+[ ( that Oct4 and Sox7 associate in the sam) 7.6 (e) -1.3 ( ) ] TJ
+-21.57 -1.15 TD
+0.0007 Tc
+0.0043 Tw
+[ (com) 8.5 (p) 0.7 (lex\056  ) ] TJ
+T*
+0 Tc
+0 Tw
+( ) Tj
+T*
+0.0005 Tc
+0.2045 Tw
+[ (Based on the clue fro) 5.5 (m) 8.3 ( the zebrafish cas\055spg) 5.5 ( sy) ] TJ
+20.69 0 TD
+0.0004 Tc
+0.2046 Tw
+[ (stem) 8.2 ( and our prelim) 8.2 (inary data in m) 8.2 (i) -1.8 (ce\054 we ) ] TJ
+-20.69 -1.15 TD
+0.3147 Tw
+[ (hypothesize that ) ] TJ
+/TT6 1 Tf
+7.41 0 TD
+0.3246 Tw
+[ (Sox7 acts with) 6.6 ( Oct4 to induce en) ] TJ
+15.395 0 TD
+[ (doderm differentiation in) 6.5 ( mice early) -5.8 ( ) ] TJ
+-22.805 -1.15 TD
+0.0007 Tc
+-0.0007 Tw
+[ (embryonic d) 5.7 (evelop) 5.7 (ment\056) 5.7 ( ) ] TJ
+/TT2 1 Tf
+10.245 0 TD
+0.0002 Tc
+-0.0027 Tw
+( To test the hypothesis\054 we propos) Tj
+13.64 0 TD
+-0.0002 Tc
+0.0002 Tw
+(e the following specific aims\072 ) Tj
+-23.885 -1.15 TD
+0 Tc
+0 Tw
+( ) Tj
+/TT4 1 Tf
+0 -1.16 TD
+0.001 Tc
+-0.001 Tw
+(Aim 1\072 ) Tj
+/TT6 1 Tf
+3.17 0 TD
+0 Tc
+-0.0006 Tw
+(To test the role of Oct4 and Sox7 t) Tj
+14.055 0 TD
+0.0002 Tc
+-0.0012 Tw
+[ (ogeth) 6.4 (er for mice endoderm specification\056  ) ] TJ
+/TT2 1 Tf
+-17.225 -1.14 TD
+-0.0002 Tw
+[ (Ai) -7 (m) 8 ( 1a\072  ) ] TJ
+/TT8 1 Tf
+3.75 0 TD
+0.0004 Tc
+-0.0004 Tw
+(Examine if Sox7 and Oct4 are both re) Tj
+15.145 0 TD
+0.0001 Tc
+-0.0017 Tw
+(quired for endoderm specification) Tj
+ET
+72 136.68 390.36 0.60001 re
+f
+BT
+12 0 0 12 462.36 138.6 Tm
+-0.005 Tc
+0 Tw
+(  ) Tj
+/TT2 1 Tf
+-32.53 -1.15 TD
+0 Tc
+( ) Tj
+T*
+-0.0001 Tc
+(Rational\072) Tj
+ET
+72 109.08 44.04 0.60001 re
+f
+BT
+12 0 0 12 116.04 111.0001 Tm
+-0.0002 Tc
+0.2852 Tw
+[ ( Oct4 protein is abundant in the ICM of) ] TJ
+18.105 0 TD
+0 Tc
+0.285 Tw
+[ ( early blastocysts and downregulated in ) ] TJ
+-21.775 -1.15 TD
+0.0004 Tc
+0.0356 Tw
+[ (trophectoderm\054 while even m) 8.2 (o) 0.4 (re highly express) 4.6 (e) 4.2 (d ) ] TJ
+20.46 0 TD
+0.001 Tc
+0.034 Tw
+[ (in nascent prim) 8.8 (itive endoderm) 8.8 (\050Pa) -5.2 (l) -1.2 (m) 8.8 (i) -1.2 (eri et al\056) 6 (\054) 6 ( ) ] TJ
+-20.46 -1.15 TD
+-0.0002 Tc
+0.3802 Tw
+[ (1994\051\056 Our prelim) 7.6 (inary data suggested that ) ] TJ
+19.68 0 TD
+0.0004 Tc
+0.3779 Tw
+[ (Nodal induced m) 8.2 (e) -0.8 (soendoderm) 8.2 ( differentiation ) ] TJ
+ET
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 BIO\056G2\05606\0561 \055 Biology \055 Second year Graduate \055 Female \055 NNS \050L1\072 Chinese\051 \055 Proposal) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(1) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+9 0 obj
+<<
+/OPM 1
+/Type /ExtGState
+/SM 0.02
+/OP false
+/SA false
+/op false
+>>
+endobj
+10 0 obj
+<<
+/FirstChar 32
+/Widths [ 250 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 500 0 0 500 0 0 0 0 0 0 0 0 0 0 0 0 0 611 0 0 0 0 0 0 0 0 0 722 0 0 0 500 0 0 0 0 0 0 0 0 0 0 0 0 0 500 500 444 500 444 278 500 500 278 0 0 278 722 500 500 500 500 389 389 278 500 444 667 444 ]
+/Encoding /WinAnsiEncoding
+/Type /Font
+/BaseFont /TimesNewRomanPS-ItalicMT
+/LastChar 120
+/FontDescriptor 11 0 R
+/Subtype /TrueType
+>>
+endobj
+11 0 obj
+<<
+/FontBBox [ -498 -307 1120 1023 ]
+/StemV 71.742
+/Descent -216
+/XHeight -546
+/Flags 98
+/FontStretch /Normal
+/Ascent 891
+/FontName /TimesNewRomanPS-ItalicMT
+/Type /FontDescriptor
+/FontWeight 400
+/ItalicAngle -15
+/FontFamily (Times New Roman)
+/CapHeight 656
+>>
+endobj
+12 0 obj
+<<
+/FirstChar 32
+/Widths [ 250 0 0 0 0 833 0 0 333 333 0 564 250 333 250 278 500 500 500 500 500 500 500 500 500 500 278 278 0 0 564 0 0 722 667 667 722 611 556 722 722 333 0 722 611 889 722 722 556 0 667 556 611 722 0 944 722 722 0 0 0 0 0 0 0 444 500 444 500 444 333 500 500 278 278 500 278 778 500 500 500 500 333 389 278 500 500 722 500 500 444 ]
+/Encoding /WinAnsiEncoding
+/Type /Font
+/BaseFont /TimesNewRomanPSMT
+/LastChar 122
+/FontDescriptor 13 0 R
+/Subtype /TrueType
+>>
+endobj
+13 0 obj
+<<
+/FontBBox [ -568 -307 2000 1007 ]
+/StemV 82
+/Descent -216
+/XHeight -546
+/Flags 34
+/FontStretch /Normal
+/Ascent 891
+/FontName /TimesNewRomanPSMT
+/Type /FontDescriptor
+/FontWeight 400
+/ItalicAngle 0
+/FontFamily (Times New Roman)
+/CapHeight 656
+>>
+endobj
+14 0 obj
+<<
+/FirstChar 32
+/Widths [ 250 0 0 0 0 0 0 0 0 0 0 0 0 333 0 0 0 500 500 0 0 0 0 0 0 0 333 0 0 0 0 0 0 722 667 722 722 667 0 0 0 0 0 0 0 0 0 0 611 0 722 556 0 0 722 0 0 0 0 0 0 0 0 0 0 500 556 444 556 444 333 500 0 278 0 556 278 833 556 500 556 0 444 389 333 556 500 0 0 500 ]
+/Encoding /WinAnsiEncoding
+/Type /Font
+/BaseFont /TimesNewRomanPS-BoldMT
+/LastChar 121
+/FontDescriptor 15 0 R
+/Subtype /TrueType
+>>
+endobj
+15 0 obj
+<<
+/FontBBox [ -558 -307 2000 1026 ]
+/StemV 136
+/Descent -216
+/XHeight -546
+/Flags 34
+/FontStretch /Normal
+/Ascent 891
+/FontName /TimesNewRomanPS-BoldMT
+/Type /FontDescriptor
+/FontWeight 700
+/ItalicAngle 0
+/FontFamily (Times New Roman)
+/CapHeight 656
+>>
+endobj
+16 0 obj
+<<
+/FirstChar 32
+/Widths [ 250 0 0 0 0 0 0 0 0 0 0 0 0 0 250 0 0 0 0 0 500 0 0 500 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 722 0 0 0 556 611 0 0 0 0 0 0 0 0 0 0 0 0 500 500 444 500 444 333 500 556 278 0 0 278 778 556 500 500 0 389 389 278 556 444 667 500 444 ]
+/Encoding /WinAnsiEncoding
+/Type /Font
+/BaseFont /TimesNewRomanPS-BoldItalicMT
+/LastChar 121
+/FontDescriptor 17 0 R
+/Subtype /TrueType
+>>
+endobj
+17 0 obj
+<<
+/FontBBox [ -547 -307 1206 1032 ]
+/StemV 116.867
+/Descent -216
+/XHeight -531
+/Flags 98
+/FontStretch /Normal
+/Ascent 891
+/FontName /TimesNewRomanPS-BoldItalicMT
+/Type /FontDescriptor
+/FontWeight 700
+/ItalicAngle -15
+/FontFamily (Times New Roman)
+/CapHeight 656
+>>
+endobj
+18 0 obj
+<<
+/Length 9857
+>>
+stream
+q
+/GS1 gs
+BT
+/TT2 1 Tf
+12 0 0 12 72 744.9 Tm
+0 g
+0 Tc
+0 Tw
+(                                                                  Miniproposal                                                 ) Tj
+34.14 0 TD
+(     ) Tj
+ET
+70.5 741.48 471 0.72003 re
+f
+BT
+9 0 0 9 303.72 38.16 Tm
+(2 ) Tj
+12 0 0 12 72 708.96 Tm
+0.01 Tw
+[ (correlated w) 7.2 (ith Oct4 upregulation\056 A) 7.2 (nd siRNA know) ] TJ
+21.29 0 TD
+[ (down of sox7 repressed the endoderm) 7.8 (al fate\054 ) ] TJ
+-21.29 -1.15 TD
+0.0008 Tc
+0.0734 Tw
+[ (suggesting that Sox7 is necessary in) 5.8 ( this lin) 5.8 (eag) ] TJ
+19.34 0 TD
+0.0002 Tc
+0.0748 Tw
+[ (e specificatio) 5.2 (n\056 However\054 it is not clear whether ) ] TJ
+-19.34 -1.15 TD
+0 Tc
+0.5683 Tw
+[ (Oct4 upregulation is require) ] TJ
+12.955 0 TD
+0.0001 Tc
+0.5691 Tw
+[ (d for endoderm) 7.9 ( differentiation or m) 7.9 (e) -1 (rely for m) 7.9 (e) -1.1 (soder) -6.9 (m) 2.9 ( ) ] TJ
+-12.955 -1.15 TD
+0.0004 Tc
+0.0146 Tw
+[ (differentiation\056 Also\054 it is not clear whether loss of) ] TJ
+20.29 0 TD
+0.0005 Tc
+0.0145 Tw
+[ ( Sox7 affects endoderm) 8.3 (al specification in vivo\056 ) 15 ( ) ] TJ
+-20.29 -1.15 TD
+0 Tc
+0 Tw
+( ) Tj
+T*
+0.0007 Tc
+(Approach\072 ) Tj
+ET
+72 638.04 54 0.59998 re
+f
+BT
+12 0 0 12 126 639.96 Tm
+0.0003 Tc
+0.0247 Tw
+[ (To test if transient Oct4 upregulation is) ] TJ
+15.88 0 TD
+0.0001 Tc
+0.0259 Tw
+[ ( required for endoderm) 7.9 ( differentiation\054 siRNA ) ] TJ
+-20.38 -1.15 TD
+-0.0007 Tc
+0.1819 Tw
+[ (or antisense cDNA m) 7.1 (e) -6.9 (diated Oc) ] TJ
+13.655 0 TD
+-0.0005 Tc
+0.1805 Tw
+[ (t4 knockdown will be perfor) -7.5 (m) 7.3 (ed ) ] TJ
+14.245 0 TD
+0 Tc
+0.1787 Tw
+[ (in Nodal induced ES cells ) ] TJ
+-27.9 -1.15 TD
+0.0002 Tc
+0.3048 Tw
+[ (express) 4.4 (i) -2 (ng nkx2\0565 promoter\072GFP and sox17 prom) 8 (ot) ] TJ
+22.305 0 TD
+0.0003 Tc
+0.3047 Tw
+[ (er\072CFP\056 Knockdown efficiency will be ) ] TJ
+-22.305 -1.15 TD
+0.0047 Tw
+[ (verified by qPCR and Western blo) ] TJ
+13.83 0 TD
+0.0009 Tc
+0.0028 Tw
+[ (tting\056 Em) 8.7 (pty vector trans) 5.1 (f) 3.9 (ected ce) ] TJ
+13.54 0 TD
+0.0011 Tc
+0.0029 Tw
+[ (lls will serve as) 5.3 ( contro) 6.1 (l\056 GFP) 7.3 ( ) ] TJ
+-27.37 -1.15 TD
+0.0002 Tc
+0.029 Tw
+[ (and CFP signals will be monitored by fluores) ] TJ
+18.35 0 TD
+0.0004 Tc
+0.0296 Tw
+[ (cent m) 8.2 (i) -1.8 (croscopy and quantified by flow cytom) 8.2 (e) -0.8 (try\056 ) ] TJ
+-18.35 -1.15 TD
+0.0006 Tc
+0.0002 Tw
+[ (Other m) 8.4 (a) -0.6 (rkers for endoderm) 8.4 ( and m) 8.4 (e) -0.6 (s) -5.2 (oderm) 8.4 ( speci) ] TJ
+19.825 0 TD
+0.0001 Tc
+-0.0001 Tw
+(fic genes will also be tested by qPCR\056 ) Tj
+-19.825 -1.15 TD
+0 Tc
+0 Tw
+( ) Tj
+T*
+0.0004 Tc
+0.0403 Tw
+[ (To exam) 8.2 (ine if loss of Sox7 affects endoderm) 8.2 (al) ] TJ
+18.97 0 TD
+0.0381 Tw
+[ ( specification in vivo\054 we will generate sox7) ] TJ
+7.98 0 0 7.98 514.98 548.88 Tm
+-0.0009 Tc
+0 Tw
+(\055\057\055) Tj
+12 0 0 12 522.48 543.36 Tm
+0.0015 Tc
+0.0385 Tw
+[ ( ES ) ] TJ
+-37.54 -1.15 TD
+0.0003 Tc
+0.2297 Tw
+[ (cells carrying reporter transgene ) ] TJ
+14.085 0 TD
+0.2296 Tw
+[ (sox17 promoter\072CFP and inject it ) ] TJ
+14.745 0 TD
+0.2297 Tw
+[ (into blastocyst to create) -5.9 ( ) ] TJ
+-28.83 -1.15 TD
+0.0008 Tc
+-0.0001 Tw
+[ (chim) 8.6 (era m) 8.6 (i) -1.4 (ce\056 W) 9.6 (ildtype ES cells with the sa) ] TJ
+17.72 0 TD
+0.0011 Tc
+-0.0018 Tw
+[ (m) 8.9 (e) -0.1 ( reporte) 4.9 (r gene) 4.9 ( will se) 4.9 (rve a) 4.9 (s) 0.3 ( contro) 6.1 (l\056  ) ] TJ
+-17.72 -1.15 TD
+0 Tc
+0 Tw
+( ) Tj
+T*
+0.0004 Tc
+0.1571 Tw
+[ (Anticipated results and) 5.4 ( potential problem) 8.2 (s\072 ) ] TJ
+ET
+72 486.24 219.12 0.59998 re
+f
+BT
+12 0 0 12 291.12 488.16 Tm
+0.0001 Tc
+0.1599 Tw
+[ (Oct4 knockdown level should ) ] TJ
+12.86 0 TD
+-0.0006 Tc
+0.1589 Tw
+[ (be adjusted so that ) ] TJ
+-31.12 -1.15 TD
+0.0003 Tc
+0.0587 Tw
+[ (there will be sim) 8.1 (ilar level of ) ] TJ
+11.905 0 TD
+-0.0002 Tc
+0.0589 Tw
+[ (Oct4 expression as is before ) ] TJ
+11.815 0 TD
+0.0552 Tw
+(Nodal induction\056 ) Tj
+7.08 0 TD
+0 Tc
+0.06 Tw
+[ (Loss of nkx2\0565\072GFP ) ] TJ
+-30.8 -1.15 TD
+0.0009 Tc
+0.0133 Tw
+[ (express) 5.1 (i) -1.3 (on will a) 4.7 (l) -1.3 (so se) 4.7 (r) 3.9 (v) 0.9 (e as contro) 5.9 (l\054 sinc) 4.7 (e tr) 3.9 (ans) 5.1 (c) ] TJ
+19.76 0 TD
+0.0007 Tc
+0.0128 Tw
+[ (ient Oc) 4.5 (t4 u) 5.7 (p) 0.7 (regula) 4.5 (tion has been su) 5.7 (ggested to b) 5.7 (e) -5.5 ( ) ] TJ
+-19.76 -1.15 TD
+0.0003 Tc
+0.0184 Tw
+[ (required for cardiac gene expression\056 ) ] TJ
+15.145 0 TD
+0.0197 Tw
+[ (If sox17\072CFP expression is also) ] TJ
+12.755 0 TD
+0.0002 Tc
+0.0173 Tw
+[ ( repressed\054 it suggested that ) ] TJ
+-27.9 -1.15 TD
+0.0548 Tw
+[ (transcient Oct4 upregulation is required for e) ] TJ
+18.33 0 TD
+0.0004 Tc
+0.0546 Tw
+[ (ndoderm) 8.2 ( specific gene expression\056 However\054 if the) -5.8 ( ) ] TJ
+-18.33 -1.15 TD
+0.1622 Tw
+[ (expression of reporter gene is ) ] TJ
+12.9 0 TD
+0.0002 Tc
+0.1623 Tw
+[ (not downregulated\054 it suggests th) ] TJ
+13.845 0 TD
+0.0001 Tc
+0.1632 Tw
+[ (at sox17 is re) ] TJ
+5.795 0 TD
+-0.0003 Tc
+0.1603 Tw
+[ (gulated through ) ] TJ
+-32.54 -1.15 TD
+0.0002 Tc
+0.1648 Tw
+[ (another pathway indep) 5.2 (e) -1 (ndent of O) 7.4 (c) -1 (t4\056 W) 9 (e) -1 ( will ) ] TJ
+20.14 0 TD
+0.0001 Tc
+0.164 Tw
+[ (further loo) 5.1 (k) 0.1 ( at expres) 4.3 (s) 4.3 (i) -2.1 (on of other endoderm ) ] TJ
+-20.14 -1.15 TD
+0.0006 Tc
+0.0337 Tw
+[ (m) 8.4 (a) -0.6 (rkers to see if they are related to transcient ) ] TJ
+18.79 0 TD
+-0.0001 Tc
+0.0351 Tw
+[ (Oct4 upregulation\056 If none of the) -6.2 (m) 7.7 ( are affected\054 it ) ] TJ
+-18.79 -1.15 TD
+0.1888 Tw
+[ (suggests that that transcient Oc) ] TJ
+13.195 0 TD
+-0.0003 Tc
+0.189 Tw
+[ (t4 upregulation is not required ) ] TJ
+13.3 0 TD
+0.0003 Tc
+0.1897 Tw
+[ (for endoderm) 8.1 ( specification\056 If ) ] TJ
+-26.495 -1.15 TD
+0.0007 Tc
+0.0226 Tw
+[ (som) 8.5 (e) -0.5 ( of the m) 8.5 (a) -0.5 (rkers are even upregulated\054 it is al) ] TJ
+19.88 0 TD
+0.0001 Tc
+0.0249 Tw
+[ (so interesting\054 suggesting ) ] TJ
+10.465 0 TD
+0.0005 Tc
+0.0232 Tw
+[ (that Oct4 plays a role ) ] TJ
+-30.345 -1.145 TD
+0.0005 Tw
+[ (in differentiating m) 8.3 (e) -0.7 (soderm) 8.3 ( and endoderm) 8.3 (\056  ) ] TJ
+0 -1.15 TD
+0 Tc
+0 Tw
+( ) Tj
+T*
+0.0007 Tc
+0.0293 Tw
+(For the sox7) Tj
+7.98 0 0 7.98 132.72 328.14 Tm
+-0.0009 Tc
+0 Tw
+(\055\057\055) Tj
+12 0 0 12 140.22 322.62 Tm
+-0.0003 Tc
+0.0303 Tw
+[ (\057sox17\072CFP donor and sox7) ] TJ
+7.98 0 0 7.98 274.98 328.14 Tm
+0.0002 Tc
+0 Tw
+(\053\057\053) Tj
+12 0 0 12 286.2 322.62 Tm
+0.001 Tc
+0.0285 Tw
+[ ( recipient ch) 6 (im) 8.8 (era m) 8.8 (i) -1.2 (ce\054 we expect to) 6 ( see the los) 5.2 (s) 0.2 ( of ) ] TJ
+-17.85 -1.15 TD
+-0.0001 Tc
+0.1842 Tw
+[ (sox17\072CFP reporter expression and loss of endoderm) ] TJ
+22.315 0 TD
+0.0003 Tc
+0.1847 Tw
+[ ( germ) 8.1 ( layer compared with the control\054 ) ] TJ
+-22.315 -1.15 TD
+0.0007 Tc
+0.0734 Tw
+[ (suggesting Sox7 is required for endoderm) 8.5 ( spe) -5.5 (c) -0.5 (ific) ] TJ
+20.575 0 TD
+0.0001 Tc
+0.0757 Tw
+[ ( gene expression and endoderm for) -6.9 (m) 7.9 (ation\056 If ) ] TJ
+-20.575 -1.15 TD
+0.0002 Tc
+0.0935 Tw
+[ (the sox17\072CFP reporter expression is ) ] TJ
+15.5 0 TD
+0 Tc
+0.094 Tw
+[ (too low in the wildtype contro) ] TJ
+12.55 0 TD
+-0.0003 Tc
+0.0953 Tw
+[ (l\054 w) 6.9 (e) -1.5 ( will alternatively use ) ] TJ
+-28.05 -1.15 TD
+-0.0006 Tc
+0.2356 Tw
+[ (siRNA of s) -6.4 (ox7 to inject into blastocysts and ) ] TJ
+19.76 0 TD
+0.0004 Tc
+0.2346 Tw
+[ (reim) 8.2 (plant into pseudopregnant m) 8.2 (i) -1.8 (ce to see if ) ] TJ
+-19.76 -1.15 TD
+0.1287 Tw
+[ (endoderm) 8.2 ( developm) 8.2 (ent will be affected\056 If we ) ] TJ
+19.615 0 TD
+0.1289 Tw
+[ (can also ob) 5.3 (serve GFP express) 4.5 (i) -1.9 (ng in the sox7) ] TJ
+7.98 0 0 7.98 532.5599 259.1401 Tm
+-0.0009 Tc
+0 Tw
+(\055\057\055) Tj
+12 0 0 12 539.9999 253.6201 Tm
+0 Tc
+( ) Tj
+-39 -1.15 TD
+0.0002 Tc
+0.1648 Tw
+[ (doner chimera m) 8 (i) -2 (ce\054 it suggests th) ] TJ
+14.48 0 TD
+-0.0001 Tc
+0.1651 Tw
+[ (at sox17 can be activated th) ] TJ
+11.9 0 TD
+0.0003 Tc
+0.1622 Tw
+[ (rough other pathw) 7.5 (a) -0.9 (ys in vivo\054 ) ] TJ
+-26.38 -1.15 TD
+0.0002 Tc
+0.1285 Tw
+[ (probably independent of Nodal si) ] TJ
+13.905 0 TD
+0.0001 Tc
+0.1309 Tw
+[ (gnaling\056 W) 8.9 (e) -1.1 ( m) 7.9 (a) -1.1 (y further test th) ] TJ
+13.135 0 TD
+-0.0001 Tc
+0.1288 Tw
+[ (is possibility by using Nodal ) ] TJ
+-27.04 -1.15 TD
+0 Tc
+-0.005 Tw
+(antagonists\056  ) Tj
+T*
+0 Tw
+( ) Tj
+T*
+-0.0004 Tc
+0.0004 Tw
+[ (Ai) -7.6 (m) 7.4 ( 1b\072 ) ] TJ
+/TT8 1 Tf
+3.555 0 TD
+0.0001 Tc
+-0.0001 Tw
+(Examine if Sox7 and Oct4 are sufficient for endoderm specification) Tj
+ET
+72 182.7 366.3 0.60001 re
+f
+BT
+12 0 0 12 438.3 184.6201 Tm
+0 Tc
+0 Tw
+(  ) Tj
+-30.525 -1.155 TD
+( ) Tj
+/TT2 1 Tf
+0 -1.145 TD
+-0.0001 Tc
+(Rational\072) Tj
+ET
+72 155.1 44.04 0.59999 re
+f
+BT
+12 0 0 12 116.04 157.0201 Tm
+0.0006 Tc
+0.2444 Tw
+[ ( It has been suggested that m) 8.4 (i) -1.6 (sexpressi) ] TJ
+16.98 0 TD
+0.0004 Tc
+0.2446 Tw
+[ (ong of cas can ectopically elicit endoderm) 13.2 ( ) ] TJ
+-20.65 -1.15 TD
+0.0001 Tc
+0.0292 Tw
+[ (differentiation in an spg background but cannot do so) ] TJ
+21.625 0 TD
+0 Tc
+0.03 Tw
+[ ( without spg\056 It would be interesting to test ) ] TJ
+-21.625 -1.15 TD
+0.0002 Tc
+0.0198 Tw
+[ (whether ectopic exp) 5.2 (r) -1.8 (ess) 4.4 (i) -2 (on or forced overexp) ] TJ
+18.335 0 TD
+0.0003 Tc
+0.0184 Tw
+[ (ression of Sox7 will induc) ] TJ
+10.575 0 TD
+0.0007 Tc
+0.0193 Tw
+[ (e endoderm) 8.5 ( specification) 5.7 ( ) ] TJ
+-28.91 -1.15 TD
+0.0001 Tc
+-0.0017 Tw
+(and whether that is) Tj
+7.585 0 TD
+-0.0034 Tw
+( Oct4 dependent\056  ) Tj
+-7.585 -1.15 TD
+0 Tc
+0 Tw
+( ) Tj
+ET
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 BIO\056G2\05606\0561 \055 Biology \055 Second year Graduate \055 Female \055 NNS \050L1\072 Chinese\051 \055 Proposal) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(2) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+19 0 obj
+<<
+/Length 10056
+>>
+stream
+q
+/GS1 gs
+BT
+/TT2 1 Tf
+12 0 0 12 72 744.9 Tm
+0 g
+0 Tc
+0 Tw
+(                                                                  Miniproposal                                                 ) Tj
+34.14 0 TD
+(     ) Tj
+ET
+70.5 741.48 471 0.72003 re
+f
+BT
+9 0 0 9 303.72 38.16 Tm
+(3 ) Tj
+12 0 0 12 72 708.96 Tm
+0.0007 Tc
+(Approach\072 ) Tj
+ET
+72 707.04 57.06 0.59998 re
+f
+BT
+12 0 0 12 129.06 708.96 Tm
+0 Tc
+0.285 Tw
+[ (To test if upregulation of Sox7 with ) ] TJ
+16.58 0 TD
+0.0001 Tc
+[ (Oct4 can induce endoderm) 7.9 ( specific gene ) ] TJ
+-21.335 -1.15 TD
+0.0004 Tc
+0.0321 Tw
+[ (expression\054 we will use Tetracylin) ] TJ
+13.83 0 TD
+-0.0004 Tc
+0.0341 Tw
+[ (e\050Tc\051 inducible transgene of S) ] TJ
+12.23 0 TD
+-0.0005 Tc
+0.0365 Tw
+[ (ox7\056 W) 8.3 (e) -6.7 ( will withdraw Tc upon ) ] TJ
+-26.06 -1.15 TD
+0.0003 Tc
+0.0597 Tw
+[ (Nodal induction to co\055activate S) ] TJ
+13.185 0 TD
+0 Tc
+0.0612 Tw
+[ (ox7 expression\056 Non Nodal trea) ] TJ
+12.93 0 TD
+0.0002 Tc
+0.0598 Tw
+[ (ted cells and non Tc withdrawn ) ] TJ
+-26.115 -1.15 TD
+0.0005 Tc
+-0.0017 Tw
+[ (cells will ser) 3.5 (v) 0.5 (e as control\056 ) ] TJ
+T*
+0 Tc
+0 Tw
+( ) Tj
+T*
+0.0005 Tc
+0.1732 Tw
+[ (Anticipated results and potential problem) 8.3 (s\072) ] TJ
+ET
+72 638.04 215.1 0.59998 re
+f
+BT
+12 0 0 12 287.1 639.96 Tm
+0.0002 Tc
+0.1748 Tw
+[ ( Since the function of a gi) ] TJ
+11.385 0 TD
+0.0004 Tc
+0.1746 Tw
+(ven transcription factor ) Tj
+-29.31 -1.15 TD
+0.3247 Tw
+[ (m) 8.1 (i) -1.9 (ght be dose\055dependent\054 the Sox7 transgene ) ] TJ
+20.37 0 TD
+[ (expressing level in non Nodal induced Tc) -5.7 ( ) ] TJ
+-20.37 -1.15 TD
+0.0884 Tw
+[ (withdrawn cells be adjusted co) ] TJ
+12.69 0 TD
+0.0858 Tw
+[ (m) 8.2 (p) 0.4 (arable to the Sox7 expression ) ] TJ
+13.74 0 TD
+-0.0002 Tc
+0.0902 Tw
+[ (level in Nodal induced non T) 5.6 (c) 3.6 ( ) ] TJ
+-26.43 -1.15 TD
+0.0004 Tc
+0.1438 Tw
+[ (withdrawn cells\056 Then the sam) 8.2 (e) -0.8 ( condition of Tc) ] TJ
+20.125 0 TD
+0.0007 Tc
+0.1443 Tw
+[ ( withdrawn) 5.7 ( will be ap) 5.7 (plied to No) 5.7 (dal induced) 5.7 ( ) ] TJ
+-20.125 -1.15 TD
+0.0002 Tc
+0.0748 Tw
+[ (cells and see if Sox7 transgenic cells show hi) ] TJ
+18.66 0 TD
+[ (gher level of sox17\072GFP reporter gene expression ) ] TJ
+-18.66 -1.15 TD
+0.0006 Tc
+0.0586 Tw
+[ (com) 8.4 (p) 0.6 (ared with the non Tc withdrawn cells\056 If ) ] TJ
+19.005 0 TD
+0.0002 Tc
+0.0598 Tw
+(sox7 transgene upregulation and Nodal induction ) Tj
+-19.005 -1.15 TD
+0.0006 Tc
+0.0844 Tw
+[ (prom) 8.4 (otes endoderm) 8.4 ( spe) -5.6 (c) -0.6 (ific gene expression co) ] TJ
+19.62 0 TD
+0.0003 Tc
+0.0847 Tw
+[ (mpared with Nodal induction alone\054 it suggests ) ] TJ
+-19.62 -1.15 TD
+0 Tc
+0.175 Tw
+[ (that Sox7 and Oct4 are sufficient for endoderm) 7.8 ( ) ] TJ
+20.5 0 TD
+0.0003 Tc
+0.1747 Tw
+[ (specification\056 If sox7 ) ] TJ
+9.195 0 TD
+-0.0002 Tc
+0.1702 Tw
+(transgene upregulation ) Tj
+-29.695 -1.15 TD
+0.0005 Tc
+0.1086 Tw
+[ (alone\054 without Nodal induction can drive endoder) ] TJ
+20.53 0 TD
+0.1095 Tw
+[ (m) 8.3 ( specific gene expression\054 it suggested that ) ] TJ
+-20.53 -1.15 TD
+-0.0001 Tc
+0.0201 Tw
+[ (sox7 acts downstream) 7.7 ( or independent of Oct4 for ) ] TJ
+20.145 0 TD
+0.0001 Tc
+0.019 Tw
+[ (endoderm) 7.9 ( specification\056 To further test if Sox7 ) ] TJ
+-20.145 -1.15 TD
+0.0006 Tc
+0.0679 Tw
+[ (can induce endoderm) 8.4 ( form) 8.4 (ation in vivo\054 ES cells ) ] TJ
+20.355 0 TD
+0.0003 Tc
+0.068 Tw
+(overexpressing Sox7 will be) Tj
+11.565 0 TD
+0.0011 Tc
+0.0689 Tw
+[ ( trans) 5.3 (p) 1.1 (lanted) 6.1 ( into) 6.1 ( ) ] TJ
+-31.92 -1.15 TD
+0.0007 Tc
+0.1151 Tw
+[ (m) 8.5 (i) -1.5 (ce ICM or trophectoderm) 8.5 ( and do lin) ] TJ
+16.195 0 TD
+0.0001 Tc
+0.1149 Tw
+[ (eage tracing of the transplanted) ] TJ
+13.01 0 TD
+0.0004 Tc
+0.1129 Tw
+[ ( cells to see if they can ) ] TJ
+-29.205 -1.15 TD
+0.0012 Tw
+[ (ectopically express endoderm) 8.2 ( m) 8.2 (a) -0.8 (rke) -5.8 (r) -1.6 (\056 ) ] TJ
+T*
+0 Tc
+0 Tw
+( ) Tj
+/TT4 1 Tf
+0 -1.16 TD
+0.001 Tc
+-0.001 Tw
+(Aim 2\072 ) Tj
+/TT6 1 Tf
+3.17 0 TD
+0 Tc
+0 Tw
+(To test the regulatory mechanism of Oc) Tj
+16.275 0 TD
+[ (t4 and Sox7 in endoderm differen) 6.1 (tiation\056 ) ] TJ
+/TT2 1 Tf
+-19.445 -1.14 TD
+-0.0011 Tc
+0.0661 Tw
+[ (Ai) -8.3 (m) 6.7 ( 2a) ] TJ
+ET
+72 431.04 36.42 0.59998 re
+f
+BT
+12 0 0 12 108.42 432.96 Tm
+0.0022 Tc
+0.0628 Tw
+(\072  ) Tj
+/TT8 1 Tf
+0.91 0 TD
+0.0004 Tc
+0.0646 Tw
+[ (Examine whether Oct4 and Sox7 interacts in a complex on the enhancer of endoderm ) ] TJ
+-3.945 -1.155 TD
+0.0007 Tc
+-0.0007 Tw
+[ (specific gen) 5.7 (e) -0.5 (s  ) ] TJ
+/TT2 1 Tf
+0 -1.145 TD
+0 Tc
+0 Tw
+( ) Tj
+0 -1.15 TD
+0.0005 Tc
+(Rational\072 ) Tj
+ET
+72 389.64 47.58 0.60001 re
+f
+BT
+12 0 0 12 119.58 391.56 Tm
+0.0004 Tc
+0.0451 Tw
+[ ( In zebrafish\054 Spg and Cas has been shown to) ] TJ
+18.53 0 TD
+0.0446 Tw
+[ ( be a) -5.8 (b) 0.4 (le to synergistically activate sox17 ) ] TJ
+-22.495 -1.15 TD
+0 Tc
+0.065 Tw
+[ (prom) 7.8 (oter\056 Immunostaining of the ) ] TJ
+13.78 0 TD
+0.0001 Tc
+0.0639 Tw
+[ (mice ES cells and blastocyst s) ] TJ
+12.345 0 TD
+-0.0003 Tc
+0.0653 Tw
+[ (uggested colocalization of Oct4 ) ] TJ
+-26.125 -1.15 TD
+0.0004 Tc
+0.1896 Tw
+[ (and Sox7\056 Coi) -6.8 (m) 3.2 (m) 8.2 (unoprecipitation e) ] TJ
+15.075 0 TD
+0.0005 Tc
+0.1895 Tw
+[ (xperim) 8.3 (e) -0.7 (nts suggests that Oct4 and Sox7 associate in the ) ] TJ
+-15.075 -1.145 TD
+0.0006 Tc
+0.0134 Tw
+[ (sam) 8.4 (e) -0.6 ( com) 8.4 (p) 0.6 (l) -6.6 (e) -0.6 (x in vivo\056 However\054 it ) ] TJ
+14.36 0 TD
+0.0004 Tc
+0.0129 Tw
+[ (is not clear whether these two pr) ] TJ
+13.085 0 TD
+-0.0003 Tc
+0.0136 Tw
+[ (oteins interact through direct ) ] TJ
+-27.445 -1.15 TD
+0 Tc
+0.1393 Tw
+[ (binding\054 if they form) 7.8 ( a com) 7.8 (p) 0 (lex that binds DNA ) ] TJ
+20.79 0 TD
+-0.0002 Tc
+0.1402 Tw
+[ (and whether sox17 prom) 7.6 (oter is one of their ) ] TJ
+-20.79 -1.15 TD
+0.0003 Tc
+-0.0003 Tw
+(shared target\056 ) Tj
+T*
+0 Tc
+0 Tw
+( ) Tj
+T*
+0.0007 Tc
+(Approach\072 ) Tj
+ET
+72 293.1 53.82 0.60004 re
+f
+BT
+12 0 0 12 125.82 295.0201 Tm
+0.0143 Tw
+[ (GST\055pull down will be perf) 3.7 (orm) 8.5 (e) -0.5 (d using purif) 3.7 (ie) ] TJ
+19.095 0 TD
+0.0004 Tc
+0.0137 Tw
+[ (d GST\055Oct4 and HA\055Sox7 to tes) 4.6 (t) -1.8 ( they) 5.4 ( ) ] TJ
+-23.58 -1.15 TD
+0.0008 Tc
+0.062 Tw
+[ (can interac) 4.6 (t) -1.4 ( direc) 4.6 (tly in v) 5.8 (itro\056 EMSA assay usin) ] TJ
+19.175 0 TD
+-0.0001 Tc
+0.0642 Tw
+[ (g Myc\055Oct4 and HA\055Sox7 affinity purified from ) ] TJ
+-19.175 -1.15 TD
+0.0012 Tc
+0.0416 Tw
+[ (transf) 4.2 (ec) 5 (ted cell cultu) 6.2 (re will be pe) 5 (rf) 4.2 (orm) 9 (e) 0 (d to test ) ] TJ
+19.8 0 TD
+0.0009 Tc
+0.0435 Tw
+[ (if) 3.9 ( they c) 4.7 (a) -0.3 (n) 5.9 ( cause th) 5.9 (e mobility shif) 3.9 (t of) 3.9 ( the DNA ) ] TJ
+-19.8 -1.15 TD
+0.0007 Tc
+0.2176 Tw
+[ (contain) 5.7 (i) -1.5 (ng Octam) 8.5 (e) -0.5 (r and Sox elem) 8.5 (ents\056 The s) 4.9 (p) 0.7 (eci) ] TJ
+20.89 0 TD
+0.0012 Tc
+0.2188 Tw
+[ (f) 4.2 (i) -1 (city of) 9.2 ( the b) 6.2 (i) -1 (ndin) 6.2 (g) 1.2 ( will b) 6.2 (e) 0 ( c) 5 (onf) 4.2 (irm) 9 (e) 0.1 (d by ) ] TJ
+-20.89 -1.15 TD
+-0.0001 Tc
+0.2501 Tw
+[ (supershift analyses with anti\055Myc and anti) ] TJ
+18.21 0 TD
+0.0009 Tc
+0.2478 Tw
+[ (\055HA antibod) 5.9 (ie) 4.7 (s\056  Chrom) 8.7 (a) -0.3 (tin imm) 8.7 (unoprecip) 5.9 (ita) 4.7 (tion) 5.9 ( ) ] TJ
+-18.21 -1.15 TD
+0 Tc
+0.039 Tw
+[ (assay using Oct4 and Sox7 antibody ) ] TJ
+15.005 0 TD
+-0.0001 Tc
+0.0392 Tw
+[ (in ES cells 48hr after Nodal tr) ] TJ
+12.235 0 TD
+0.0003 Tc
+0.0397 Tw
+[ (eatm) 8.1 (e) -5.9 (n) 0.3 (t will be perform) 8.1 (e) -0.8 (d to ) ] TJ
+-27.24 -1.15 TD
+-0.0003 Tw
+[ (see if they co\055occupy the endoderm) 8.1 ( specific gene prom) 8.1 (oter such as sox17\056  ) ] TJ
+T*
+0 Tc
+0 Tw
+( ) Tj
+T*
+0.0004 Tc
+0.0971 Tw
+[ (Anticipated results and potential problem) 8.2 (s\072 ) ] TJ
+ET
+72 182.7 215.58 0.60001 re
+f
+BT
+12 0 0 12 287.58 184.6201 Tm
+0.1004 Tw
+[ (If GST\055Oct4 can pull dow) 7.5 (n HA\055Sox7\054 it suggested ) ] TJ
+-17.965 -1.15 TD
+0.0006 Tc
+0.039 Tw
+[ (direc) 4.4 (t) -1.6 ( inte) 4.4 (ra) 4.4 (ction b) 5.6 (e) -0.6 (twe) 4.4 (e) -0.6 (n the) 4.4 ( two p) 5.6 (r) -1.4 (ote) 4.4 (i) -1.6 (ns\056 Fur) 3.6 (t) 3.4 (her m) 8.4 (u) 0.6 (tatio) 5.6 (n of) 3.6 ( the POU and HMG dom) 8.4 (ain will ) ] TJ
+T*
+0.001 Tc
+0.074 Tw
+[ (test whe) 4.8 (t) -1.2 (her) 4 ( the in) 6 (ter) 4 (action is v) 6 (i) -1.2 (a th) 6 (ese dom) 8.8 (ains\056 If) 4 ( we observe m) 8.8 (obility) 6 ( shif) 4 (t in My) 6 (c\055Oct4 an) 6 (d) 6 ( ) ] TJ
+T*
+0.0001 Tc
+0.2686 Tw
+[ (HA\055Sox7\054 it suggests the binding of the two f) ] TJ
+20.34 0 TD
+0.0003 Tc
+0.2689 Tw
+[ (actors to DNA\056 We can further m) 8.1 (u) 0.3 (tate th) -4.7 (e ) ] TJ
+-20.34 -1.15 TD
+0.0092 Tw
+[ (consensus O) 7.5 (c) -0.9 (t or) 3.3 ( Sox binding site) 4.1 ( to) 5.3 ( see if) 3.3 ( it will ) ] TJ
+19.95 0 TD
+0.0008 Tc
+0.0084 Tw
+[ (res) 5 (t) -1.4 (ore) 4.6 ( the) 4.6 ( mobility) 5.8 ( shif) 3.8 (t\056 If) 3.8 ( the pu) 5.8 (r) 3.8 (i) -1.4 (f) 3.8 (i) -1.4 (ed pro) 5.8 (t) -1.4 (ein) 5.8 ( ) ] TJ
+-19.95 -1.15 TD
+0.001 Tc
+0.029 Tw
+[ (cannot caus) 5.2 (e) -0.2 ( the m) 8.8 (obility shift\054 it is) 5.2 ( possible that ) ] TJ
+20.065 0 TD
+0.0007 Tc
+0.0293 Tw
+[ (the bindin) 5.7 (g) 0.7 ( requires other partn) 5.7 (e) -0.5 (rs\056) 5.7 ( To test this) 4.9 ( ) ] TJ
+-20.065 -1.15 TD
+0.0008 Tc
+0.0582 Tw
+[ (we will add ES cell ly) 5.8 (sa) 4.6 (tes and se) 4.6 (e if) 3.8 ( it helps in ) ] TJ
+19.99 0 TD
+0.0011 Tc
+[ (the m) 8.9 (obility) 6.1 ( shif) 4.1 (t\056 To bette) 4.9 (r tes) 5.3 (t) -1.1 ( the binding of) 4.1 ( ) ] TJ
+-19.99 -1.15 TD
+0.0002 Tc
+0.1648 Tw
+[ (the two factors to DNA in vivo\054 ChIP assay w) 7.4 (ill) ] TJ
+20.7 0 TD
+0.0004 Tc
+0.1646 Tw
+[ ( be perform) 8.2 (e) -0.8 (d to test) ] TJ
+8.93 0 TD
+-0.0006 Tc
+0.1656 Tw
+[ ( if they co\055occupy the ) ] TJ
+ET
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 BIO\056G2\05606\0561 \055 Biology \055 Second year Graduate \055 Female \055 NNS \050L1\072 Chinese\051 \055 Proposal) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(3) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+20 0 obj
+<<
+/Length 12280
+>>
+stream
+q
+/GS1 gs
+BT
+/TT2 1 Tf
+12 0 0 12 72 744.9 Tm
+0 g
+0 Tc
+0 Tw
+(                                                                  Miniproposal                                                 ) Tj
+34.14 0 TD
+(     ) Tj
+ET
+70.5 741.48 471 0.72003 re
+f
+BT
+9 0 0 9 303.72 38.16 Tm
+(4 ) Tj
+12 0 0 12 72 708.96 Tm
+0.0007 Tc
+0.0143 Tw
+[ (endogenous gene prom) 8.5 (oter\056 Sox17 prom) 8.5 (oter and ) ] TJ
+19.845 0 TD
+0.0003 Tc
+0.0147 Tw
+[ (other known endoderm) 8.1 ( s) -5.5 (p) 0.3 (ecific gene prom) 8.1 (oters ) ] TJ
+-19.845 -1.15 TD
+0.0005 Tc
+0.0778 Tw
+[ (will be candidate target) ] TJ
+9.6 0 TD
+0.0002 Tc
+0.0798 Tw
+[ ( DNA\056 Furtherm) 8 (ore\054 ChIP on Chip an) ] TJ
+15.585 0 TD
+0.0003 Tc
+0.0787 Tw
+[ (alysis will be perform) 8.1 (e) -5.9 (d in Nodal ) ] TJ
+-25.185 -1.15 TD
+0.0001 Tc
+-0.0007 Tw
+(induced ES cells and see how the two transcri) Tj
+18.335 0 TD
+0.0003 Tc
+-0.0003 Tw
+(ption factors localize to) Tj
+9.415 0 TD
+0.0005 Tc
+-0.003 Tw
+[ ( the genom) 8.3 (ic region\056  ) ] TJ
+/TT4 1 Tf
+-27.75 -1.16 TD
+0 Tc
+0 Tw
+( ) Tj
+/TT2 1 Tf
+0 -1.14 TD
+-0.0011 Tc
+0.0011 Tw
+[ (Ai) -8.3 (m) 6.7 ( 2b) ] TJ
+ET
+72 651.84 36.3 0.60004 re
+f
+BT
+12 0 0 12 108.3 653.76 Tm
+0.0022 Tc
+-0.0022 Tw
+(\072  ) Tj
+/TT8 1 Tf
+0.78 0 TD
+0.0003 Tc
+-0.0013 Tw
+(Examine whether Oct4 and Sox7 acti) Tj
+14.855 0 TD
+-0.0023 Tw
+(vate or repress each other  ) Tj
+-18.66 -1.155 TD
+0 Tc
+0 Tw
+( ) Tj
+/TT2 1 Tf
+0 -1.145 TD
+0.0005 Tc
+(Rational\072 ) Tj
+ET
+72 624.24 48.9 0.60004 re
+f
+BT
+12 0 0 12 120.9 626.16 Tm
+0.0004 Tc
+0.1546 Tw
+[ ( Our prelim) 8.2 (inary data suggests that Oct4 is transiently upregulated and then turned ) ] TJ
+-4.075 -1.15 TD
+0.0258 Tw
+[ (down during m) 8.2 (e) -0.8 (soendoderm) 8.2 ( differentiation\054 while ) ] TJ
+20.515 0 TD
+0.0001 Tc
+0.0249 Tw
+[ (Sox7 is turned on\056 Although in zebrafish\054 Spg ) ] TJ
+-20.515 -1.15 TD
+0.0005 Tc
+0.2095 Tw
+[ (and Cas seem) 8.3 ( to cooperate in activation of ) ] TJ
+18.905 0 TD
+0.0004 Tc
+0.2083 Tw
+[ (sox17 expression\054 it is uncl) ] TJ
+11.705 0 TD
+-0.0001 Tc
+0.2113 Tw
+[ (ear if in m) 7.7 (i) -2.3 (ce early ) ] TJ
+-30.61 -1.15 TD
+0.0006 Tc
+0.0194 Tw
+[ (em) 8.4 (bryonic developm) 8.4 (ent\054 these two factors cooperat) ] TJ
+20.77 0 TD
+0.0003 Tc
+0.0197 Tw
+[ (e with each other in transcriptional activation ) ] TJ
+-20.77 -1.15 TD
+-0.0003 Tw
+[ (of endoderm specific gene expression\054 or one m) 8.1 (a) -0.9 (y ) ] TJ
+20.355 0 TD
+-0.0015 Tw
+(repress the activity or e) Tj
+9.33 0 TD
+-0.002 Tw
+[ (xpression of) 8.4 ( another\056  ) ] TJ
+-29.685 -1.15 TD
+0 Tc
+0 Tw
+( ) Tj
+T*
+0.0007 Tc
+(Approach\072 ) Tj
+ET
+72 541.44 55.08 0.59998 re
+f
+BT
+12 0 0 12 127.08 543.36 Tm
+0 Tc
+0.119 Tw
+[ (Co\055transfect oct4 and\057or sox7 with sox17 ) ] TJ
+17.49 0 TD
+0.0005 Tc
+0.117 Tw
+[ (promoter driven luci) ] TJ
+8.465 0 TD
+-0.0003 Tc
+0.1203 Tw
+[ (ferase reporter DNA ) ] TJ
+-30.545 -1.15 TD
+0.001 Tc
+0.0082 Tw
+[ (into m) 8.8 (i) -1.2 (ce ES cells to see if th) ] TJ
+11.765 0 TD
+0 Tc
+0.01 Tw
+[ (ey can synergistically activate th) ] TJ
+13.09 0 TD
+0.0003 Tc
+0.0097 Tw
+[ (e endoderm specific gene prom) 8.1 (oter\056 ) ] TJ
+-24.855 -1.15 TD
+-0.0019 Tw
+[ (Furtherm) 8.1 (ore\054 test the lucife) ] TJ
+10.885 0 TD
+(rase reporter activitity usi) Tj
+10.25 0 TD
+0 Tc
+-0.001 Tw
+(ng Oct4 and Sox7 promoter\056  ) Tj
+-21.135 -1.15 TD
+0 Tw
+( ) Tj
+T*
+0.0009 Tc
+0.2441 Tw
+[ (Anticipa) 4.7 (t) -1.3 (ed) 5.9 ( results and potentia) 4.7 (l p) 5.9 (r) -1.1 (oblem) 8.7 (s\072) ] TJ
+ET
+72 486.24 218.46 0.59998 re
+f
+BT
+12 0 0 12 290.46 488.16 Tm
+0.0004 Tc
+0.2446 Tw
+[ ( If both Sox7 and Oct4 are required to activate ) ] TJ
+-18.205 -1.15 TD
+0.2563 Tw
+[ (sox17\072GFP expression\054 it suggests that these two ) ] TJ
+21.59 0 TD
+0.0006 Tc
+0.2569 Tw
+[ (factors act synergistic) ] TJ
+9.245 0 TD
+0.0002 Tc
+0.2581 Tw
+[ (ally\056 If Sox7 alone ) ] TJ
+-30.835 -1.15 TD
+0.0004 Tc
+0.0071 Tw
+(activates sox17\072GFP expre) Tj
+10.74 0 TD
+-0.0001 Tc
+0.0101 Tw
+[ (ssion\054 which will be repressed with ) ] TJ
+14.36 0 TD
+0.0006 Tc
+0.0056 Tw
+[ (Oct4 co\055expressed\054 it suggests that ) ] TJ
+-25.1 -1.15 TD
+0.0004 Tc
+-0.001 Tw
+[ (Oct4 acts as an co\055repressor for the endoderm) 8.2 ( sp) ] TJ
+19.5 0 TD
+0.0005 Tc
+-0.0005 Tw
+[ (ecific gene expression\056 F) 6.7 (u) ] TJ
+10.445 0 TD
+0.0008 Tc
+-0.0033 Tw
+[ (rther experim) 8.6 (e) -0.4 (nt using ) ] TJ
+-29.945 -1.15 TD
+-0.0004 Tc
+0.2794 Tw
+[ (ChIP assay to test Sox7 or) ] TJ
+11.92 0 TD
+-0.0005 Tc
+0.2805 Tw
+[ ( Oct4 localization on the e) ] TJ
+11.915 0 TD
+0.0001 Tc
+0.2786 Tw
+[ (ndogenous sox17 promoter m) 7.9 (a) -1.1 (y be ) ] TJ
+-23.835 -1.15 TD
+0.0004 Tc
+0.024 Tw
+[ (perform) 8.2 (e) -0.8 (d a) -5.8 (t) -1.8 ( different tim) 8.2 (e points to test if Oct4 r) ] TJ
+20.085 0 TD
+0.001 Tc
+[ (ecru) 6 (its Sox) 6 (7) 1 ( to the targ) 6 (et) ] TJ
+10.1 0 TD
+0.0005 Tc
+0.0232 Tw
+[ ( prom) 8.3 (oter but later on ) ] TJ
+-30.185 -1.15 TD
+0.0003 Tc
+0.0882 Tw
+[ (gets off the prom) 8.1 (oter\054 which allows target ge) ] TJ
+18.565 0 TD
+-0.0001 Tc
+0.0894 Tw
+[ (ne activation by Sox7\056 Also\054 testing the Sox7 and ) ] TJ
+-18.565 -1.15 TD
+0.0293 Tw
+[ (Oct4 transcriptional activity on Oct4 and Sox7 prom) ] TJ
+21.215 0 TD
+[ (oter will allow us to investigate the possible ) ] TJ
+-21.215 -1.15 TD
+0.0003 Tc
+-0.0003 Tw
+[ (feedback lo) 5.3 (op between the two facto) 5.3 (r) -1.7 (s\056 ) ] TJ
+/TT4 1 Tf
+15.905 0 TD
+0 Tc
+0 Tw
+( ) Tj
+/TT2 1 Tf
+-15.905 -1.15 TD
+( ) Tj
+/TT4 1 Tf
+0 -1.145 TD
+0.001 Tc
+[ (Significan) 7.2 (c) 4.8 (e) -0.2 (\072 ) ] TJ
+/TT2 1 Tf
+5.795 0 TD
+0.0012 Tc
+0.018 Tw
+[ ( I) 4.2 (t) -1 ( is ou) 6.2 (r belief) 4.2 ( th) 6.2 (at in) 6.2 (vestig) 6.2 (ating) 6.2 ( the conserv) 6.2 (e) 5 (d role of) 4.2 ( zeb) 6.2 (raf) 4.2 (i) -1 (sh cas) 5.4 (\055sp) 6.2 (g) 1.2 ( system) 9 ( in ) ] TJ
+-5.795 -1.15 TD
+0.0008 Tc
+0.0435 Tw
+[ (m) 8.6 (i) -1.4 (ce will no) 5.8 (t only) 5.8 ( give insight into) 5.8 ( the evolu) 5.8 (tio) ] TJ
+19.405 0 TD
+0.0007 Tc
+0.0443 Tw
+[ (n) 5.7 ( of early) 5.7 ( em) 8.5 (bryonic d) 5.7 (e) -0.5 (v) 5.7 (e) -0.5 (lopm) 8.5 (ent but also hav) 5.7 (e) -0.5 ( ) ] TJ
+-19.405 -1.15 TD
+0.0002 Tc
+0.0785 Tw
+[ (therapeutic implication as to coax ) ] TJ
+14.145 0 TD
+0.0005 Tc
+[ (stem) 8.3 ( cells to for) -6.5 (m) 8.3 ( endoderm) 8.3 (al ti) ] TJ
+13.355 0 TD
+-0.0004 Tc
+0.0804 Tw
+[ (ssue\054 a likely prerequisite to ) ] TJ
+-27.5 -1.15 TD
+0.0003 Tc
+-0.0003 Tw
+[ (for) -6.7 (m) 8.1 (ing endoderm) 8.1 (al organs de novo\056  ) ] TJ
+T*
+0 Tc
+0 Tw
+( ) Tj
+/TT10 1 Tf
+9.48 0 0 9.48 72 282.7201 Tm
+0.0016 Tc
+(References\072 ) Tj
+0 -1.2215 TD
+0.0013 Tc
+0.081 Tw
+[ (Kanai\055Azuma M\054 Kanai Y) 3.9 (\054) 1.9 ( Gad) 4.3 ( J) -6.8 (M) -0.3 (\054 Tajima Y) 3.9 (\054) 1.9 ( ) ] TJ
+25.4114 0 TD
+0.0017 Tc
+0.0806 Tw
+[ (Taya C\054 ) -6.3 (Kuro) 4.7 (hmaru M\054 Sanai Y\054 Yo) 4.7 (nekawa ) ] TJ
+-25.4114 -1.2152 TD
+0.0006 Tc
+0.1829 Tw
+[ (H\054 ) -6.3 (Yazaki) -5.7 ( ) -6.3 (K\054 Tam PP) -7 (\054) -5.2 ( Hayashi Y) -3.1 (\056) ] TJ
+/TT12 1 Tf
+19.019 0 TD
+-0.001 Tc
+0.1178 Tw
+[ (Dep) -4.5 (l) 1.3 (et) -5.7 (ion o) -8 (f) -3.9 ( def) -3.9 (i) 1.3 (ni) -5.1 (tiv) -4.1 (e) -0.2 ( ) -6.3 (gut e) -6.6 (n) -1.1 (do) -8 (de) -6.6 (r) -4.6 (m) -3 ( in Sox) -4.1 (1) -4.5 (7\055) -8.9 (null mu) -7.4 (tant) -5.7 ( ) ] TJ
+-19.019 -1.2215 TD
+0.0028 Tc
+0.0001 Tw
+[ (mi) 5.1 (c) 4.8 (e) -2.8 (\056) 5.8 ( Develop) 5.6 (m) 0.8 (ent) 4.4 (\056) 5.8 ( ) -6.3 (2) 5.6 (002) 5.6 ( May\07312) 5.6 (9) 5.6 (\050) -5.1 (1) 5.6 (0) 5.6 (\051) 1.2 (\0722) 5.6 (367) 5.6 (\05579\056 ) ] TJ
+/TT10 1 Tf
+0 -1.2152 TD
+0.0006 Tc
+0.3095 Tw
+[ (Niwa H\054 M) -7.3 (i) 0.6 (yazaki J\054 ) -6.3 (Smith A) -7.8 (G) 1.5 (\056) ] TJ
+/TT12 1 Tf
+18.3608 0 TD
+-0.0013 Tc
+0.2447 Tw
+[ ( Quant) -6 (i) 1 (ta) -8.3 (tiv) -10.8 (e) -0.5 ( ex) -4.4 (pr) -4.9 (es) -5.6 (sio) -8.3 (n) -1.4 ( of) -4.2 ( Oct\0553\057) -9.2 (4 def) -4.2 (i) -5.4 (nes ) -6.3 (di) -5.4 (f) -4.2 (f) -4.2 (e) -0.5 (rent) -6 (iati) -5.4 (on) -7.7 (\054) -4.6 ( ) ] TJ
+-18.3608 -1.2215 TD
+0.0041 Tw
+[ (de) -6.8 (dif) -4.1 (f) -4.1 (e) -0.4 (r) -4.8 (e) -0.4 (nt) -5.9 (ia) -8.2 (tion or ) -6.3 (self) -4.1 (\055r) -4.8 (enewa) -8.2 (l) 1.1 ( of) -4.1 ( ES cel) -5.3 (l) 1.1 (s) -5.5 (\056) 1.8 ( Nat ) -6.3 (G) -4.3 (e) -0.4 (net) -5.9 (\056) 1.8 ( 2) -4.7 (0) 1.6 (0) -4.7 (0) -4.7 ( Apr\073) -9.1 (24\050) -9.1 (4\051\0723) -4.7 (72\055) -9.1 (6\056) -4.5 ( ) ] TJ
+/TT10 1 Tf
+0 -1.2152 TD
+0.0007 Tc
+0.398 Tw
+[ (Palmieri SL\054 Peter W\054 ) -6.3 (Hess ) -6.3 (H\054 Scholer) -8.6 ( HR\056) ] TJ
+/TT12 1 Tf
+26.1519 0 TD
+-0.0019 Tc
+0.3339 Tw
+[ (  Oc) -6.2 (t\055) -9.8 (4 tra) -8.9 (n) -2 (s) -6.2 (c) 0.1 (r) -5.5 (i) 0.4 (p) -5.4 (t) -0.3 (i) -6 (o) -2.6 (n f) -4.8 (a) -2.6 (ctor i) -6 (s) -6.2 ( dif) -4.8 (f) -4.8 (e) -1.1 (ren) -8.3 (t) -0.3 (ia) -8.9 (ll) -6 (y) -5 ( ) ] TJ
+-26.1519 -1.2152 TD
+-0.0001 Tc
+0.3511 Tw
+[ (expres) -4.4 (sed in the mouse embryo durin) -6.5 (g) 2.7 ( es) -4.4 (tabl) ] TJ
+25.2215 0 TD
+-0.0004 Tc
+0.3514 Tw
+[ (ishme) -6 (n) -0.5 (t of ) 6.4 (the firs) -4.7 (t tw) -4.8 (o extraemb) -3.9 (ryonic c) -4.7 (e) -6 (l) -4.5 (l) -4.5 ( ) ] TJ
+-25.2215 -1.2215 TD
+-0.0013 Tc
+0.0042 Tw
+[ (linea) -8.3 (ge) -6.9 (s inv) -10.8 (o) -2 (lv) -4.4 (ed i) -5.4 (n) -1.4 ( imp) -4.8 (l) -5.4 (antat) -6 (i) 1 (on\056 De) -6.9 (v) -4.4 ( Biol\056 ) -6.3 (19) -4.8 (9) -4.8 (4) 1.5 ( Nov) -4.4 (\073) -2.9 (16) -4.8 (6\050) -9.2 (1\051\07225) -4.8 (9) 1.5 (\055) -9.2 (6) 1.5 (7) -4.8 (\056) -4.6 ( ) ] TJ
+/TT10 1 Tf
+0 -1.2152 TD
+0.0007 Tc
+0.3474 Tw
+[ (Reim G) -4.7 (\054) 1.3 ( M) -7.2 (i) 0.7 (zoguchi T\054) -5.1 ( Stainier ) -6.3 (DY\054) -5.1 ( Kikuch) -8.4 (i Y\054) -5.1 ( Brand M\056) ] TJ
+/TT12 1 Tf
+33.1709 0 TD
+-0.0006 Tc
+0.2819 Tw
+[ ( Th) -7 (e P) -5.2 (O) 1.7 (U doma) -7.6 (in) -7 ( pro) -7.6 (t) 1 (ei) -4.7 (n s) -4.9 (p) -4.1 (g) -4.1 ( ) ] TJ
+-33.1709 -1.2215 TD
+-0.001 Tc
+0.1811 Tw
+[ (\050pou2\057) -8.9 (Oc) -5.3 (t) -5.7 (4) 1.8 (\051 is e) -6.6 (sse) -6.6 (ntia) -8 (l) -5.1 ( f) -3.9 (o) -1.7 (r endo) -8 (de) -6.6 (rm f) -3.9 (o) -1.7 (rmat) -5.7 (io) -8 (n in coo) -8 (p) 1.8 (e) -6.6 (r) -4.6 (ation ) -6.3 (wi) -5.1 (th t) -5.7 (h) -1.1 (e HMG) -4.1 ( do) -8 (main p) -4.5 (r) 1.7 (ot) -5.7 (ei) -5.1 (n) -7.4 ( ) ] TJ
+0 -1.2152 TD
+0.0025 Tc
+0.0004 Tw
+[ (c) 4.5 (a) 1.8 (s) 4.5 (a) 1.8 (nova\056) 5.5 ( Dev C) 4.5 (e) 3.3 (l) 4.8 (l) -1.6 (\056) 5.5 ( 2004) 5.3 ( Jan\0736) 5.3 (\050) -5.4 (1) 5.3 (\051\07291) 5.3 (\055) 0.9 (101) 5.3 (\056 ) ] TJ
+/TT10 1 Tf
+0 -1.2215 TD
+0.0012 Tc
+0.0874 Tw
+[ (Remenyi A\054 Lins K\054 Ni) 7.6 (ssen LJ\054 Re) 7 (inb) 4.2 (o) 4.2 (l) -5.1 (d) 4.2 ( R\054 Scho) 4.2 (ler HR\054 Wilmanns M\056) ] TJ
+/TT12 1 Tf
+38.6203 0 TD
+0.0026 Tc
+0.0193 Tw
+[ (C) 4.6 (r) 5.3 (y) -6.9 (s) 4.6 (t) 4.2 (a) 1.9 (l) 4.9 ( str) 5.3 (u) 2.5 (ct) 4.2 (ure) 3.4 ( of a ) ] TJ
+-38.6203 -1.2152 TD
+-0.0001 Tc
+0.427 Tw
+[ (POU\057HMG\057D) -8.1 (N) 1.1 (A te) -5.7 (rna) -7.1 (r) 2.6 (y) -9.6 ( complex s) -4.4 (u) -0.2 (gges) -4.4 (ts ) -6.3 (diff) -9.3 (eren) ] TJ
+26.9051 0 TD
+0.0004 Tc
+0.4265 Tw
+[ (tia) -6.6 (l) 2.7 ( assembly of ) -6.3 (Oct4 an) -6 (d So) -6.6 (x2 on two ) ] TJ
+-26.9051 -1.2152 TD
+-0.0013 Tc
+0.0105 Tw
+[ (enhanc) -5.6 (er) -4.9 (s\056 G) -4.4 (e) -0.5 (nes ) 6.3 (Dev) -4.4 (\056) 1.7 ( 20) -4.8 (0) -4.8 (3) 1.5 ( ) 6.3 (Aug 15) -4.8 (\07317\050) -9.2 (16\051\072) -9.2 (2) -4.8 (04) -4.8 (8\0555) -4.8 (9) 1.5 (\056 ) 6.3 (  ) ] TJ
+/TT10 1 Tf
+0 -1.2215 TD
+0.0004 Tc
+0.1198 Tw
+[ (Tremblay ) -6.4 (KD\054 Hoodle) -6.4 (ss PA\054 Bikoff EK\054 Robe) -6.4 (rtson EJ) ] TJ
+/TT12 1 Tf
+29.6076 0 TD
+0.0532 Tw
+[ (\056 Formation of ) 6.3 (the defin) -6.1 (i) 2.6 (tive endoderm) -8.1 ( ) ] TJ
+-29.6076 -1.2152 TD
+0.0026 Tc
+0.0003 Tw
+[ (i) 4.9 (n) 2.5 ( mous) 4.6 (e is) 4.6 ( ) -6.3 (a Smad) 5.4 (2) 5.4 (\055) -5.3 (d) 5.4 (e) -3 (p) 5.4 (e) 3.4 (nd) 5.4 (ent) 4.2 ( pr) 5.3 (oc) 4.6 (ess) 4.6 (\056) 5.6 ( Devel) 4.9 (o) -4.4 (p) 5.4 (m) 0.6 (ent) 4.2 (\056) 5.6 ( 2000) 5.4 ( Jul) 4.9 (\073) 1 (127) 5.4 (\05014\051\0723) 5.4 (07) 5.4 (9) 5.4 (\055) -5.3 (90) 5.4 (\056 ) ] TJ
+0 -1.2215 TD
+0 Tc
+0 Tw
+( ) Tj
+ET
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 BIO\056G2\05606\0561 \055 Biology \055 Second year Graduate \055 Female \055 NNS \050L1\072 Chinese\051 \055 Proposal) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(4) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+21 0 obj
+<<
+/FirstChar 32
+/Widths [ 352 0 0 0 0 0 0 0 454 454 0 0 364 454 364 454 636 636 636 636 636 636 636 636 636 636 454 454 0 0 0 0 0 684 686 698 771 632 575 775 751 0 455 0 0 843 748 787 603 787 0 684 616 732 0 0 0 0 0 0 0 0 0 0 0 601 623 521 623 596 352 623 633 274 0 0 274 973 633 607 623 0 427 521 394 633 592 818 592 592 ]
+/Encoding /WinAnsiEncoding
+/Type /Font
+/BaseFont /Verdana
+/LastChar 121
+/FontDescriptor 22 0 R
+/Subtype /TrueType
+>>
+endobj
+22 0 obj
+<<
+/FontBBox [ -50 -207 1447 1000 ]
+/StemV 92
+/Descent -209
+/XHeight 546
+/Flags 32
+/FontStretch /Normal
+/Ascent 1005
+/FontName /Verdana
+/Type /FontDescriptor
+/FontWeight 400
+/ItalicAngle 0
+/FontFamily (Verdana)
+/CapHeight 734
+>>
+endobj
+23 0 obj
+<<
+/FirstChar 32
+/Widths [ 342 0 0 0 0 0 0 0 0 0 0 0 361 480 361 0 0 0 0 0 0 0 0 0 0 0 402 0 0 0 0 0 0 776 762 724 830 683 0 811 837 0 555 771 637 948 847 0 733 0 782 710 682 0 0 1128 0 737 0 0 0 0 0 0 0 668 699 588 699 664 422 699 712 342 403 671 342 1058 712 687 0 0 497 593 456 712 0 979 0 651 597 ]
+/Encoding /WinAnsiEncoding
+/Type /Font
+/BaseFont /Verdana-Bold
+/LastChar 122
+/FontDescriptor 24 0 R
+/Subtype /TrueType
+>>
+endobj
+24 0 obj
+<<
+/FontBBox [ -73 -208 1707 1000 ]
+/StemV 176
+/Descent -209
+/XHeight 546
+/Flags 32
+/FontStretch /Normal
+/Ascent 1005
+/FontName /Verdana-Bold
+/Type /FontDescriptor
+/FontWeight 700
+/ItalicAngle 0
+/FontFamily (Verdana)
+/CapHeight 734
+>>
+endobj
+xref
+0 25
+0000000000 65535 f 
+0000000009 00000 n 
+0000000086 00000 n 
+0000000187 00000 n 
+0000000236 00000 n 
+0000000609 00000 n 
+0000000959 00000 n 
+0000001333 00000 n 
+0000001721 00000 n 
+0000012092 00000 n 
+0000012176 00000 n 
+0000012589 00000 n 
+0000012866 00000 n 
+0000013360 00000 n 
+0000013624 00000 n 
+0000014049 00000 n 
+0000014319 00000 n 
+0000014740 00000 n 
+0000015022 00000 n 
+0000024932 00000 n 
+0000035042 00000 n 
+0000047376 00000 n 
+0000047834 00000 n 
+0000048079 00000 n 
+0000048520 00000 n 
+trailer
+<<
+/Size 25
+/Root 3 0 R
+/Info 2 0 R
+>>
+startxref
+48771
+%%EOF

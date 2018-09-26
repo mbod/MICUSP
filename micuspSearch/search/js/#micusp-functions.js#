@@ -1,0 +1,1140 @@
+/* 
+-------------------------------------------------------------------
+
+
+  Functions used in the MICUSP Simple online search interface
+
+  Version 0.1 - Aug. 2009
+
+
+
+-------------------------------------------------------------------
+*/
+
+	// THESE ARE GLOBAL VARIABLES 
+
+	var mode = 'browse';
+
+	var plot, plot2,percentdata;
+	var init = 1;
+	var deptselect=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0];
+	var typeselect=[0,0,0,0,0,0,0];
+	var deptExpand=false;
+	var typeExpand=false;
+
+                   
+        var columnNames = {
+                        'Paper ID' : 'pid',
+                        'Title' : 'title',
+                        'Discipline': 'dept',
+                        'Paper Type': 'type'
+        };
+
+	var cIDs = ['pid','title','dept','type'];
+        var columnIDs = {'pid': 0, 'title': 1, 'dept': 2, 'type': 3};
+        var columnStatus = [0,0,1,0];
+
+
+	var typeName=Array();
+	typeName['Report']=0;
+	typeName['Critique']=1;
+	typeName['ResearchPaper']=2;
+	typeName['Essay']=3;
+	typeName['ResponsePaper']=4;
+	typeName['CreativeWriting']=5;
+	typeName['Proposal']=6;
+
+	var depts = [
+                       [0.5, 'BIO'], [1.5, 'CEE'], [2.5, 'ECO'],
+                       [3.5, 'EDU'], [4.5, 'ENG'], [5.5, 'HIS_CLS'],
+                       [6.5, 'IOE'], [7.5, 'LIN'], [8.5, 'MEC'],
+                       [9.5, 'NRE'], [10.5, 'NUR'], [11.5, 'PHI'],
+                       [12.5, 'PHY'], [13.5, 'POL'], [14.5, 'PSY'],
+                       [15.5, 'SOC'] 
+ 		];
+
+
+        var percentdata = [
+
+
+			   $.post("/search/dept/",$("#searchform").serialize(),
+				  function(data) {
+				      eval(data);
+				      updatePieGraph();
+				      updateHistogram();
+				  }
+				  );
+                                        	{ label: 'Report', data: 0},
+                                        	{ label: 'Critique', data: 0},
+                                        	{ label: 'ResearchPaper', data: 0},
+                                        	{ label: 'Essay', data: 0},
+                                        	{ label: 'ResponsePaper', data: 0},
+                                        	{ label: 'CreativeWriting', data: 0},
+                                        	{ label: 'Proposal', data: 0}
+						
+                                ];
+
+
+	var d2=Array(deptselect.length);
+
+
+
+
+
+
+// =====================================================================
+// *** deptSelect ***
+// function to highlight and unhighlight bars
+// in the histogram using flags in the deptselect array
+// =====================================================================
+function deptSelect(series, barpos){
+
+    //alert('In deptSelect: series - ' + series + ' barpos - ' + barpos + ' d2 - ' + d2);
+
+       if (barpos>-1) {
+              if (deptselect[barpos] == 1) {
+                     deptselect[barpos]=0;
+              } else {
+                     deptselect[barpos]=1;
+              }
+        }
+
+        for (var i=0; i<deptselect.length; i++) {
+              if (deptselect[i]==1) {
+                      plot.highlight(series,d2[i]);
+              } else {
+                      plot.unhighlight(series,d2[i]);
+	      }
+
+	}
+    
+    
+                     
+}
+// ######  end of function deptSelect #########
+
+
+
+
+
+// =====================================================================
+// *** typeSelect ***
+// function to highlight and unhighlight slices
+// in the pie graph using flags in the typeselect array
+// =====================================================================
+function typeSelect(series, slicepos){
+
+    //alert('In typeSelect: series - ' + series + ' slicepos - ' + slicepos + ' d2 - ' + d2);
+
+       if (slicepos>-1) {
+              if (typeselect[slicepos] == 1) {
+                     typeselect[slicepos]=0;
+              } else {
+                     typeselect[slicepos]=1;
+              }
+        }
+
+        for (var i=0; i<percentdata.length; i++) {
+    
+xis
+
+
+
+          if (typeselect[i]==1) {
+OA                      plot.highlight(series,d2[i]);
+              } else {
+                      plot.unhighlight(series,d2[i]);
+	      }
+
+	}
+    
+    
+                     
+}
+// ######  end of function typeSelect #########
+
+
+
+
+
+
+// =================================
+// *** updateHistogram ***
+// =================================
+function updateHistogram(){
+
+	var numOfTypes = percentdata.length;
+	var numOfDepts = deptselect.length;
+
+    var data=[];
+
+    
+    for(var i=0; i< numOfDepts;i++){
+         data[i] = 0;
+    }
+
+        for(var i=0; i<numOfTypes;i++){
+                if(typeselect[i]==1 || $("#typeNo").attr('checked')==true) {
+                        for(var j=0; j < numOfDepts; j++){
+                                data[j] = data[j]+deptTypeData[j][i];
+                        }
+
+                }
+        }
+
+        for(var i=0; i < numOfDepts; i++){
+            d2[i] = [i,data[i]];
+        }
+   
+        plot = $.plot(  $("#histogram"), 
+			    [{data: d2 , bars: {show: true, clickable: true  }}],
+                            { xaxis: { ticks: depts}, yaxis: { max: 110 }, grid: { clickable: true, hoverable: false },
+                              selection: { mode: "y", color: "#ff0000"},
+				  series: { color: "#808080",  highlightColor: "#ff3030", highlightOpacity: 0.8,
+								   highlightBorderColor: "#ff3030", highlightBorderOpacity: 0.8 },
+				  legend: { clickable: true }
+			  } 
+			);
+
+	//alert('highlight histogram');
+	highlightHistogram();
+
+     if (init) {
+	     $("#histogram").bind("plotclick", function (event, pos, item) {
+	       if (item) {
+
+	            /*
+				if(deptExpand == false){
+					//$("INPUT[type='checkbox']").attr('checked',false);
+					$("#deptbody").slideToggle(600);
+					deptExpand = true;
+					//$("#deptNo").attr('checked',false);
+				}
+	            */
+
+				//alert('calling deptSelect from histogram callback ' + event + ' ' + pos + ' ' + item);
+				deptSelect(item.series, item.datapoint[0]);
+				var i = 0;
+	            var numberSelected = 0;
+				$(".deptcheck").each(
+					function(){
+						//alert(item.datapoint[0]);
+						if(i == item.datapoint[0]){
+							if($(this).attr('checked') == true){
+								$(this).attr('checked',false);
+							}
+							else{
+								$(this).attr('checked',true);
+        	                    				$("#deptNo").attr('checked',false);
+	                        			}
+						}
+	                    if (deptselect[i]) { numberSelected++; }
+						i++;
+					}
+				);
+            
+            		//alert(deptselect[0]);
+	            // if all departments are unselected then select deptNo
+        	    if (numberSelected == 0) { $("#deptNo").attr('checked',true); }
+				//$(".optionbody").slideToggle(600);
+				showNumSelectedMessage();
+				updatePieGraph();
+				typeCheckEvent();
+        	 }
+		
+	     });
+
+
+	} 
+
+        $(".tickLabelX").click(function(){
+                var id = this.l;
+		  console.log(this);
+		  console.log(id);
+
+		  //toggleLabel(id);
+    
+                typeselect[typeName[id]]=typeselect[typeName[id]] ? 0 : 1;
+
+                /*
+                if(typeExpand == false){
+                        $("#typebody").slideToggle(600);
+                        //$("INPUT[type='checkbox']").attr('checked',false);
+                        //$("#typeNo").attr('checked',false);
+                        typeExpand = true;
+                }
+               */
+                
+                
+                var i=0;
+                var numberSelected=0;
+                $(".typecheck").each(
+                        function(){
+                                if($(this).val() == id){
+                                        if($(this).attr('checked') == true){
+                                                $(this).attr('checked',false);
+                                        }
+                                        else{
+                                                $(this).attr('checked',true);
+                                                $("#typeNo").attr('checked',false);
+                                        }
+                                }
+                                
+                                if (typeselect[i]) { numberSelected++; }
+				i++;
+                        }
+                        
+                );
+                
+                // if all paper types are unselected then select typeNo
+                if (numberSelected == 0) { $("#typeNo").attr('checked',true); }
+                
+                updateHistogram();
+		//highlightHistogram();
+		showNumSelectedMessage();
+		deptCheckEvent();
+        });
+
+
+
+	init = 0;
+	
+
+};
+// ###################### end of function updateHistogram ############################
+
+
+// =================================
+// *** updatePieGraph ***
+// =================================
+function updatePieGraph(){
+	var numOfTypes = percentdata.length;
+	var numOfDepts = deptselect.length;
+	//var data=new Array(numOfTypes);
+	var data=[];
+
+	var sum=0;
+
+	for(var i=0; i< numOfTypes;i++){
+		data[i] = 0;
+	}
+
+	for(var i=0; i<numOfDepts; i++){
+		if(deptselect[i] == 1 || $("#deptNo").attr('checked')==true) {
+			for(var j=0; j < numOfTypes; j++){
+				data[j] = data[j]+deptTypeData[i][j];
+				sum = sum + deptTypeData[i][j];
+			}
+			//alert(i+','+j+','+data[j]+','+deptTypeData[i][j]);
+
+		}
+	}
+	for(var i=0; i<numOfTypes; i++){
+		data[i] = data[i]/sum;
+	}
+
+	for(var i=0; i < numOfTypes; i++){
+		percentdata[i]['data'] = data[i];
+	}
+
+        plot2 = $.plot($("#piegraph"), percentdata,
+        {
+                series:{
+                        pie: {
+                        show: true,
+                        radius:70,
+                        label: {
+                                show: 'border',
+                                radius: 5/6,
+                                formatter: function(label, series){
+                                if (series.percent > 1){
+				    	return '<div id="'+label+'" class="pieClass" style="font-size:8pt;text-align:center;padding:2px;color:black;">'+label+'  '+Math.round(series.percent)+'%</div>';
+                        	    } else {
+					return '<div id="'+label+'" class="pieClass" style="font-size:8pt;text-align:center;padding:2px;color:black;">'+label+'  '+1+'%</div>';
+				    }
+			   },
+                                background: {
+                                        opacity: 0.5,
+                                        color: '#000'
+                                }
+                        }
+                        }
+                },
+		  grid: {
+			   pie: { clickable: true, hoverable: false }
+		  },
+                legend: {
+                        show: false
+                }
+        });
+
+        $(".pieClass").click(function(){
+                //$("#pieTermPaper").effect("highlight");
+                //var cssObj = {'color':'black','background-color':'white'}
+                var id = this.id;
+		  toggleLabel(id);
+    
+                typeselect[typeName[id]]=typeselect[typeName[id]] ? 0 : 1;
+
+                /*
+                if(typeExpand == false){
+                        $("#typebody").slideToggle(600);
+                        //$("INPUT[type='checkbox']").attr('checked',false);
+                        //$("#typeNo").attr('checked',false);
+                        typeExpand = true;
+                }
+               */
+                
+                
+                var i=0;
+                var numberSelected=0;
+                $(".typecheck").each(
+                        function(){
+                                if($(this).val() == id){
+                                        if($(this).attr('checked') == true){
+                                                $(this).attr('checked',false);
+                                        }
+                                        else{
+                                                $(this).attr('checked',true);
+                                                $("#typeNo").attr('checked',false);
+                                        }
+                                }
+                                
+                                if (typeselect[i]) { numberSelected++; }
+				i++;
+                        }
+                        
+                );
+                
+                // if all paper types are unselected then select typeNo
+                if (numberSelected == 0) { $("#typeNo").attr('checked',true); }
+                
+                updateHistogram();
+		//highlightHistogram();
+		showNumSelectedMessage();
+		deptCheckEvent();
+        });
+
+
+	//update highlighing
+	highlightPieChart();
+
+	     
+     if (init) {
+	$("#piegraph").bind("plotclick2", function (event, pos, item) {
+	       if (item) {
+
+	            /*
+				if(typeExpand == false){
+					//$("INPUT[type='checkbox']").attr('checked',false);
+					$("#typebody").slideToggle(600);
+					typeExpand = true;
+					//$("#deptNo").attr('checked',false);
+				}
+	            */
+
+				//alert('calling typeSelect from pie chart callback ' + event + ' ' + pos + ' ' + item);
+				typeSelect(item.series, item.seriesIndex);
+				var i = 0;
+	            var numberSelected = 0;
+				$(".typecheck").each(
+					function(){
+						//console.log(item);
+						if(i == item.seriesIndex){
+							if($(this).attr('checked') == true){
+								$(this).attr('checked',false);
+								//numberSelected--;
+							}
+							else{
+								$(this).attr('checked',true);
+        	                    				$("#typeNo").attr('checked',false);
+								//numberSelected++;
+	                        			}
+						}
+	                   if (typeselect[i]) { numberSelected++; }
+						i++;
+					}
+				);
+            
+            		//alert(typeselect[0]);
+	            // if all types are unselected then select typeNo
+        	    if (numberSelected == 0) { $("#typeNo").attr('checked',true); }
+				
+		   //$(".optionbody").slideToggle(600);
+		   showNumSelectedMessage();
+		   updateHistogram();
+		   deptCheckEvent();	
+		}	
+	});
+     }
+
+}
+// ###################### end of function updatePieGraph ############################
+
+
+
+
+function deptNoCheckEvent(){
+	if($(this).attr('checked') == true){
+	var i = 0;
+	$(".deptcheck").each(
+                function(){
+                        //alert($(this).attr('checked'));
+			$(this).attr('checked',false);
+			deptselect[i] = 0;
+			i++;
+                }
+        );	
+	//		deptCheckEvent();
+        //$(this).attr('checked',true);
+		highlightHistogram();
+		updatePieGraph();
+	}
+	else{
+		$(this).attr('checked',false);
+	}
+	showNumSelectedMessage();
+}
+// ###################### end of function deptNoCheckEvent ############################
+
+
+function typeNoCheckEvent(){
+        if($(this).attr('checked') == true){
+		var i = 0;
+        	$(".typecheck").each(
+                function(){
+                        //alert($(this).attr('checked'));
+                        $(this).attr('checked',false);
+			typeselect[i] = 0;
+			i++;
+                }
+        	);
+        //	typeCheckEvent();
+		highlightPieChart();
+		
+        
+        updateHistogram();
+        }
+	else{
+		$(this).attr('checked',false);
+	}
+	showNumSelectedMessage();
+}
+// ###################### end of function typeNoCheckEvent ############################
+
+
+
+function showNumSelectedMessage(){
+	var modeStr = "searching";
+	if(mode == "browse"){
+		modeStr = "browsing";
+	}
+	var numSelectDept = 0;
+	$(".deptcheck").each(
+			function(){
+                        if($(this).attr('checked') == true){
+                            numSelectDept++;
+                        }
+             }
+        );
+	var numSelectType = 0;
+        $(".typecheck").each(
+                        function(){
+                                        if($(this).attr('checked') == true){
+                                                numSelectType++;
+                                        }
+                        }
+        );	
+        var numOfTypes = percentdata.length;
+        var numOfDepts = deptselect.length;
+	var numSearchDept = 0;
+        for(var j=0; j < numOfDepts; j++){
+	
+		var index = d2[j][0];
+		var value = d2[j][1];
+
+                if(value > 0){
+                        numSearchDept++;
+                }
+        }
+	var numSearchType = 0;
+	for(var i=0; i< numOfTypes; i++){
+		if(percentdata[i]['data'] > 0){
+			numSearchType++;
+		}
+	}
+	var numDept = 0;
+	var data = [];
+        for(var i=0; i< numOfDepts;i++){
+                data[i] = 0;
+        }
+	var totalSelectPaperCounts = 0;
+        for(var i=0; i<numOfTypes;i++){
+                if(typeselect[i]==1 || $("#typeNo").attr('checked')==true) {
+                        for(var j=0; j < numOfDepts; j++){
+                                data[j] = data[j]+deptTypeData[j][i];
+				if(deptselect[j] == 1 || $("#deptNo").attr('checked')==true) {
+				totalSelectPaperCounts = totalSelectPaperCounts+deptTypeData[j][i];
+				}
+                        }
+
+                }
+        }
+        for(var j=0; j < numOfDepts; j++){
+		if(data[j] > 0){
+                	numDept++;
+		}
+        }
+
+	
+	var numType = 0;
+	data = [];
+        for(var i=0; i< numOfTypes;i++){
+                data[i] = 0;
+        }
+        for(var i=0; i<numOfDepts; i++){
+                if(deptselect[i] == 1 || $("#deptNo").attr('checked')==true) {
+                        for(var j=0; j < numOfTypes; j++){
+                                data[j] = data[j]+deptTypeData[i][j];
+                        }
+                }
+        }
+	for(var i=0; i < numOfTypes;i++){
+		if(data[i] > 0){
+			numType++;
+			//alert(percentdata[i]['data']);
+		}
+	}
+	var totalDept = 16;
+	var totalType = 7;
+	var msg = "";
+	if(numSelectDept > 0 || numSelectType > 0){
+		if(numSearchDept == 0 && numSearchType == 0){
+			msg = "Your search term does not appear in the selected disciplines and paper types.";
+		}
+		else{
+			if(numSearchDept == numSelectDept && numSearchType == numSelectType ){
+				msg = "across "+numSelectDept+" selected disciplines and "+numSelectType+" selected paper types.";
+			}
+			else if(numSelectDept < numSearchDept && numSelectType < numSearchType){
+				msg  = "across "+numSelectDept+" of "+numSearchDept+" selected disciplines and "+numSelectType+" of "+numSearchType+" selected paper types.";
+			}
+			else if(numSelectDept < numSearchDept){
+				msg  = "across "+numSelectDept+" of "+numSelectDept+" selected disciplines and "+numSearchType+" selected paper types.";
+			}
+			else if(numSelectType < numSearchType){
+				msg  = "across "+numSelectDept+" selected disciplines and "+numSelectType+" of "+numSearchType+" selected paper types.";
+			}
+			msg = "Your selection appears in "+totalSelectPaperCounts+" papers across "+numDept+" disciplines and "+numType+" paper types in the whole corpus.";
+			//msg = "Your selection appears in "+totalSelectPaperCounts+" papers across "+numDept+" of "+totalDept+" disciplines and "+numType+" of "+totalType+" paper types in the whole corpus.";
+		}
+		
+	}
+	else{
+		
+		if(numDept == totalDept && numType == totalType){
+			msg =  "across "+totalDept+" disciplines and "+totalType+"paper types.";
+		}
+		else if(numDept < totalDept && numType < totalType){
+			msg  =  "across "+numDept+" of "+totalDept+" disciplines and "+numType+" of "+totalType+" paper types.";
+		}
+		else if(numDept < totalDept){
+			msg =  " across " + numDept+" of "+totalDept+" disciplines and "+totalType+" paper types.";
+		}
+		else if(numType < totalType){
+			msg =  " across " +totalDept+" disciplines and "+numType+" of "+totalType+" paper types.";
+		}
+	}
+	var postSearchInfo = " View corpus graphs to see a normalized distribution of the results across disciplines and paper types.";
+	$("#detailInfo").click(
+                                function(){
+                                        $("#info").html(msg+prevSearchInfo+'<div id="hideInfo">Please click here to hide info.</div>'+postSearchInfo);
+                                }
+        );
+        $("#hideInfo").click(
+                                function(){
+                                        $("#info").html(prevSearchInfo+'<div id="detailInfo">Please click here to hide info.</div>'+postSearchInfo);
+                                }
+        );
+	if(prevSearchInfo != ""){
+		//$("#info").html(prevSearchInfo+msg+postSearchInfo);	
+		if(numSelectDept > 0 || numSelectType > 0){
+			$("#info").html(msg+'<div id="detailInfo">Please click here to see more info. </div>'+postSearchInfo);
+			/*
+			$("#detailInfo").click(
+				function(){
+					$("#info").html(msg+prevSearchInfo+'<div id="hideInfo">Please click here to hide info.</div>'+postSearchInfo);
+				}
+			);
+			 $("#hideInfo").click(
+                                function(){
+                                        $("#info").html(prevSearchInfo+'<div id="detailInfo">Please click here to hide info.</div>'+postSearchInfo);
+                                }
+                        );
+	*/
+		}
+		else{
+			$("#info").html(prevSearchInfo+msg+postSearchInfo);
+		}
+	}
+	else{
+		//alert(numSelectDept + ":"+numSelectType);
+		if(numSelectDept > 0 && numSelectType > 0){
+			$("#info").html("You are "+modeStr+" in "+numSelectDept+" disciplines and "+numSelectType+" paper types.");
+		}
+		else if(numSelectDept > 0){
+			$("#info").html("You are "+modeStr+" in "+numSelectDept+" disciplines.");
+		}
+		else if(numSelectType > 0){
+			$("#info").html("You are "+modeStr+" in "+numSelectType+" paper types.");
+		}
+		else{
+			$("#info").html("You are "+modeStr+" in the complete MICUSP corpus.");
+		}
+	}
+        if(numSelectDept > 0 && numSelectType > 0){
+                $("#graphinfo").html("Graph info: you have selected "+numSelectDept+" disciplines and "+numSelectType+" paper types. You can select or deselect disicplines/paper types by clicking on the bars in the histogram(or label in the pie chart) or checkboxes in the right-hand side to narrow down your results.");
+        }
+        else if(numSelectDept > 0){
+                $("#graphinfo").html("Graph info: you have selected "+numSelectDept+" disciplines. You can select or deselect disicplines/paper types by clicking on the bars in the histogram(or label in the pie chart) or checkboxes in the right-hand side to narrow down your results.");
+        }
+        else if(numSelectType > 0){
+		$("#graphinfo").html("Graph info: you have selected "+numSelectType+" paper types. You can select or deselect disicplines/paper types by clicking on the bars in the histogram(or label in the pie chart) or checkboxes in the right-hand side to narrow down your results.");
+	}
+	else{
+		$("#graphinfo").html("Graph info: You can click the bars in the histogram(or labels in the pie chart) or checkboxes in the right-hand side to narrow down your results.");
+	}
+	/*
+	if(numDept > 0){
+		msg = " across "+numSearchDept+" disciplines and "+numSearchType+" paper types"; 
+	}
+	if(numSelectDept >0 || numSelectType > 0){
+		selectionInfo = ". Based on your selection, your search term appears in "+numDept+" disicplines and "+numType+" paper types";
+	}
+
+	if(numSelectDept > 0 && numSelectType > 0){
+		if(prevSearchInfo != ""){
+			$("#info").html(prevSearchInfo+msg+selectionInfo+postSearchInfo);
+		}
+		else{
+
+			$("#info").html("You are "+modeStr+" in "+numSelectDept+" disciplines and "+numSelectType+" paper types.");
+		}
+	$("#graphinfo").html("Graph info: you have selected "+numSelectDept+" disciplines and "+numSelectType+" paper types. You can select or deselect disicplines/paper types by clicking on the bars in the histogram(or label in the pie chart) or checkboxes in the right-hand side to narrow down your results.");
+	}
+	else if(numSelectDept > 0){
+		if(prevSearchInfo != ""){
+                        $("#info").html(prevSearchInfo+msg+selectionInfo+postSearchInfo);
+                }
+                else{
+		$("#info").html("You are "+modeStr+" in "+numSelectDept+" disciplines.");
+		}
+	$("#graphinfo").html("Graph info: you have selected "+numSelectDept+" disciplines. You can select or deselect disicplines/paper types by clicking on the bars in the histogram(or labels in the pie chart) or checkboxes in the right-hand side to narrow down your results.");
+	}
+	else if(numSelectType > 0){
+		if(prevSearchInfo != ""){
+                        $("#info").html(prevSearchInfo+msg+selectionInfo+postSearchInfo);
+                }
+                else{
+		$("#info").html("You are "+modeStr+" in "+numSelectType+" paper types.");
+		}
+	$("#graphinfo").html("Graph info: you have selected "+numSelectType+" paper types. You can select or deselect disicplines/paper types by clicking on the bars in the histogram(or labels in the pie chart) or checkboxes in the right-hand side to narrow down your results.");
+	}
+	else{
+		if(prevSearchInfo != ""){
+                        $("#info").html(prevSearchInfo+msg+selectionInfo+postSearchInfo);
+                }
+                else{
+		$("#info").html("You are "+modeStr+" in the complete MICUSP corpus.");
+		}
+	$("#graphinfo").html("Graph info: You can click the bars in the histogram(or labels in the pie chart) or checkboxes in the right-hand side to narrow down your results.");
+	}
+	*/
+}
+// ###################### end of function showNumSelectedMessage ############################
+
+
+function unhighlightLabel(id){
+        $("#"+id).css('background-color','transparent');
+        $("#"+id).css('color','white');
+}
+// ###################### end of function unhighlightLabel ############################
+
+
+function highlightLabel(id){
+        $("#"+id).css('background-color','gold');
+        $("#"+id).css('color','black');
+}
+// ###################### end of function highlightLabel ############################
+
+
+function toggleLabel(id){
+	var color = $("#"+id).css('color');
+	if(color == 'black'){
+		unhighlightLabel(id);
+	}
+	else{
+		highlightLabel(id);
+	}
+}
+// ###################### end of function toggleLabel ############################
+
+
+function highlightHistogram(){
+ 
+	// is it better to use the deptselect variable
+	// instead of checking the UI? 
+       var i =0;
+	var selectedI = 0;
+        //var selectindex = 0;
+        $(".deptcheck").each(
+                function(){
+                        //alert($(this).attr('checked'));
+                        if($(this).attr('checked') == true){
+				plot.highlight(0,i);
+				deptselect[i] = 1;
+				/*
+                                if(deptselect[i]==0){
+                                      	deptselect[i] = 1;
+                                        deptSelect(0,i);
+                                }
+				*/
+				selectedI++;
+                        }
+                        else{
+			/*	
+                                if(deptselect[i]==1){
+                                 	deptselect[i] = 0;
+                                        deptSelect(0,i);
+                                } */
+				deptselect[i] = 0;
+				plot.unhighlight(0,i);
+                        }
+                        i++;
+                }
+        );
+	if(selectedI == 0){
+		$("#deptNo").attr('checked',true);
+	//	deptNoCheckEvent();
+	}
+	//showNumSelectedMessage();
+}
+// ###################### end of function highlightHistogram ############################
+
+
+function highlightPieChart(){
+	var i =0;
+	var selectedI = 0;
+       $(".typecheck").each(
+                function(){
+                        //type_str=type_str+$(this).val()+", ";
+                        //$type[$type.length++]=$(this).val();
+                        if($(this).attr('checked') == true){
+                                highlightLabel($(this).val());
+				typeselect[i] = 1;
+				selectedI++;
+                        }
+                        else{
+                                unhighlightLabel($(this).val());
+				typeselect[i] = 0;
+                        }
+			i++;
+                }
+        );
+	if(selectedI == 0){
+		$("#typeNo").attr('checked',true);
+		//typeNoCheckEvent();
+	}
+}
+// ###################### end of function highlightPieChart ############################
+
+
+function deptCheckEvent() {
+        //var dept_str = "";
+	//$().trigger('');
+	//var dept=[];
+
+	$("#deptNo").attr('checked',false);
+
+	// if in browse mode update paper list
+	if (mode == 'browse') {
+		browse();
+	}
+
+	highlightHistogram();
+	updatePieGraph();
+	showNumSelectedMessage();
+}
+// ###################### end of function deptCheckEvent ############################
+
+
+function typeCheckEvent(){
+        var numtype;
+	/*
+        $(".typecheck").each(
+                function(){
+                        //type_str=type_str+$(this).val()+", ";
+			//$type[$type.length++]=$(this).val();
+                        if($(this).attr('checked') == true){
+				highlightLabel($(this).val());
+                        }
+                        else{
+				unhighlightLabel($(this).val());
+                        }
+                }
+        );
+	*/
+	$("#typeNo").attr('checked',false);
+
+	// if in browse mode update paper list
+	if (mode == 'browse') {
+		browse();
+	}
+
+	highlightPieChart();
+	
+	updateHistogram();
+	showNumSelectedMessage();
+}
+// ###################### end of function typeCheckEvent ############################
+
+
+
+/* ==========================
+
+	UPDATE -- 
+
+*/
+function update(){
+
+	$("#histogram").html("<p><img src='/img/ajax-loader.gif'/></p>");
+	$("#piegraph").html("<p><img src='/img/ajax-loader.gif'/></p>");
+
+/*
+       $.post("/search/dept/",
+        $("#searchform").serialize(),
+	function(data) {
+		$("#deptscript").html(data);   // *** THIS DOES NOT APPEAR TO WORK IN INTERNET EXPLORER **** 
+	
+		updatePieGraph();
+		updateHistogram();		
+
+		//deptSelect(0,-1);
+	  }	
+	);
+*/
+
+       $.post("/search/dept/",$("#searchform").serialize(),
+		function(data) {
+			eval(data);
+			updatePieGraph();
+			updateHistogram();		
+	  	}	
+	);
+	
+
+	return;	
+
+	/*
+
+	var numdept = 0;
+
+	var numpapers =0;
+	var i = 0;
+	for( i=0; i <d2.length;i++){
+		if(d2[i][1]>0){	
+			numdept++;
+			numpapers += d2[i][1];
+		}
+	}
+	//alert(d2[10][1]);	
+	$("#numdept").html(" over "+numdept+" disciplines");
+        var numtype = 0;    
+        for(x in percentdata){
+                numtype++;
+        }
+	
+	$("#numtype").html(" and "+numtype+" paper types");	
+        }
+        );
+
+	//update query info
+	//$("#info").html($("#queryinfo").html()+"<div id=\"numdept\"></div>"+"<div id=\"numtype\"></div>. Results are displayed in order by discipline. View corpus graphs to see a normalized distribution of the results across disciplines and paper types.");
+	//$("#info").fadeOut(800); //.fadeIn(800);
+	$("#queryinfo").html("");
+	//deptSelect(0,-1);
+
+	*/
+
+}
+// ###################### end of function update ############################
+
+
+function initMenu(){
+	//$(".optionbody").hide();
+	$("#depthead").click(
+                function(){
+		/*
+			if(deptExpand == true){
+				deptExpand = false;
+			}
+			else{
+				deptExpand = true;
+			}
+            	*/
+			$("#deptbody").slideToggle(600);
+                //        $(this).next('.optionbody').slideToggle(600);
+                }
+        );
+        $("#typehead").click(
+                function(){
+		/*
+                        if(typeExpand == true){
+                                typeExpand = false;
+                        }
+                        else{
+                                typeExpand = true;
+                        }
+		*/
+                        $("#typebody").slideToggle(600);
+                //        $(this).next('.optionbody').slideToggle(600);
+                }
+        );
+	/*
+	$('.optionhead').click(
+		function(){
+			
+			$(this).next('.optionbody').slideToggle(600);
+		}
+	);
+	*/
+
+
+
+}
+// ###################### end of function initMenu ############################
+
+
+
+function next(start,dir) {
+                        if (dir=='+') {
+                                dir=10;
+                        } else {
+                                dir=-10;
+                        }
+
+			modeURL='search';
+			if (mode=='browse') {
+				modeURL='browse';
+				dir=dir*2;
+			}
+
+
+			// get sort options
+			var sortOptions = getSortOptions();
+			
+                        params = $('#searchform').serialize();
+			params += "&start="+ (start+dir) + "&sort=" + sortOptions[0] + "&direction=" + sortOptions[1];
+
+
+                        $.post('/search/'+modeURL+'/',
+				params,
+                                function(data) { $("#text").html(data); 
+					$("#queryinfo").html("");
+				}
+                        );
+			$("#queryinfo").html("");
+                }
+// ###################### end of function next ############################
+
+
+
+function doSearch() {
+
+		// change mode value to
+		// fix issue when radio button for search mode not activated
+		mode='search';
+		$('input[name=mode]')[1].checked=true;
+
+
+		$("#text").html("<p><img src='/img/ajax-loader.gif'/></p>");
+	
+
+		// get current discipline and type selections
+		params = $("#searchform").serialize();
+
+		// get current sort options		
+		var sortOptions = getSortOptions();
+		
+		params += "&sort=" + sortOptions[0] + "&direction=" + sortOptions[1];
+
+
+
+                 $.post('/search/search/',
+					params,                                	
+					function(data) {
+                                        	$("#text").html(data);
+
+						// WHAT IS THIS VARIABLE search doing??			
+						//	search=true;	
+						//	showInfo();
+						prevSearchInfo = $("#queryinfo").html();
+						//postSearchInfo = ". Results are displayed in order by discipline. View corpus graphs to see a normalized distribution of the results across disciplines and paper types.";
+						showNumSelectedMessage();
+
+						//$("#info").html($("#queryinfo").html()+". Results are displayed in order by discipline. View corpus graphs to see a normalized distribution of the results across disciplines and paper types.");
+						$("#queryinfo").html("");
+
+                                	}
+ 		);
+
+		//update();
+
+}
+// ###################### end of function search ############################
+
+
+function getSortOptions() {
+		var sortCol='';
+		var direction='asc';
+		for (var i=0; i<columnStatus.length; i++) {
+			if (columnStatus[i]!=0) {
+				sortCol=cIDs[i];
+				if (columnStatus[i]==-1)  {
+					direction='desc';
+				}
+			}	
+		}
+		return [sortCol,direction];
+};
+// ###################### end of function getSortOptions ############################
+
+
+function browse() {
+
+		if (mode=='browse') {
+
+
+		$("#text").html("<p><img src='/img/ajax-loader.gif'/></p>");
+
+		// get current discipline and type selections
+		params = $("#searchform").serialize();
+
+		// get current sort options		
+		var sortOptions = getSortOptions();
+		
+		params += "&sort=" + sortOptions[0] + "&direction=" + sortOptions[1];
+
+                $.post('/search/browse/',
+					params,
+                                	function(data) {
+                                        	$("#text").html(data);
+
+                                	}
+ 		);
+
+		}
+
+}
+// ###################### end of function browse ############################
+

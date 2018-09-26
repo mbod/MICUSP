@@ -1,0 +1,2727 @@
+%PDF-1.3
+1 0 obj
+<<
+/Kids [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R ]
+/Type /Pages
+/Count 7
+>>
+endobj
+2 0 obj
+<<
+/Producer (Python PDF Library \055 http\072\057\057pybrary\056net\057pyPdf\057)
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+>>
+endobj
+4 0 obj
+<<
+/Parent 1 0 R
+/Contents 11 0 R
+/Resources <<
+/ExtGState <<
+/GS1 12 0 R
+>>
+/Font <<
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+/TT2 13 0 R
+/TT4 15 0 R
+/TT6 17 0 R
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Type /Page
+>>
+endobj
+5 0 obj
+<<
+/Parent 1 0 R
+/Contents 19 0 R
+/Resources <<
+/ExtGState <<
+/GS1 12 0 R
+>>
+/Font <<
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+/TT2 13 0 R
+/TT4 15 0 R
+/TT6 17 0 R
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Type /Page
+>>
+endobj
+6 0 obj
+<<
+/Parent 1 0 R
+/Contents 20 0 R
+/Resources <<
+/ExtGState <<
+/GS1 12 0 R
+>>
+/Font <<
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+/TT2 13 0 R
+/TT6 17 0 R
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Type /Page
+>>
+endobj
+7 0 obj
+<<
+/Parent 1 0 R
+/Contents 21 0 R
+/Resources <<
+/ExtGState <<
+/GS1 12 0 R
+>>
+/Font <<
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+/TT2 13 0 R
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Type /Page
+>>
+endobj
+8 0 obj
+<<
+/Parent 1 0 R
+/Contents 22 0 R
+/Resources <<
+/ExtGState <<
+/GS1 12 0 R
+>>
+/Font <<
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+/TT2 13 0 R
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Type /Page
+>>
+endobj
+9 0 obj
+<<
+/Parent 1 0 R
+/Contents 23 0 R
+/Resources <<
+/ExtGState <<
+/GS1 12 0 R
+>>
+/Font <<
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+/TT2 13 0 R
+/TT4 15 0 R
+/TT6 17 0 R
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Type /Page
+>>
+endobj
+10 0 obj
+<<
+/Parent 1 0 R
+/Contents 24 0 R
+/Resources <<
+/ColorSpace <<
+/Cs6 25 0 R
+>>
+/ExtGState <<
+/GS1 12 0 R
+>>
+/Font <<
+/TT8 27 0 R
+/TT2 13 0 R
+/TT6 17 0 R
+/TT11 29 0 R
+/TT10 33 0 R
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Type /Page
+>>
+endobj
+11 0 obj
+<<
+/Length 5402
+>>
+stream
+q
+/GS1 gs
+BT
+/TT2 1 Tf
+12 0 0 12 521.9999 744.96 Tm
+0 g
+0 Tc
+0 Tw
+(  ) Tj
+-0.5 -1.15 TD
+(1 ) Tj
+/TT4 1 Tf
+16.02 0 0 16.02 218.64 705.12 Tm
+-0.0005 Tc
+0.0002 Tw
+[ (Lab 3\072 P) 3.6 (l) 0.2 (ant Competition ) ] TJ
+/TT2 1 Tf
+12 0 0 12 90 690.54 Tm
+0 Tc
+0 Tw
+( ) Tj
+/TT4 1 Tf
+0 -1.16 TD
+0.0006 Tc
+[ (Introductio) 5.6 (n) 1.8 ( ) ] TJ
+/TT2 1 Tf
+3 -2.29 TD
+0.0008 Tc
+-0.0015 Tw
+[ (The ability o) 5.8 (f) 3.8 ( a species to com) 8.6 (p) 0.8 (ete for ) ] TJ
+15.605 0 TD
+0.001 Tc
+-0.0018 Tw
+[ (lim) 8.8 (ited re) 4.8 (sources is of) 4 (ten cen) 6 (tra) 4.8 (l) -1.2 ( to its ) ] TJ
+-18.605 -2.3 TD
+0.0009 Tc
+-0.0013 Tw
+[ (ability to sur) 3.9 (v) 0.9 (ive in a g) 5.9 (i) -1.3 (v) 5.9 (e) -0.3 (n environm) 8.7 (ent\056  Dif) 3.9 (f) 3.9 (e) -0.3 (rent spec) 4.8 (ies p) 5.9 (o) 0.9 (ssess dif) 3.9 (f) 3.9 (e) -0.2 (r) 3.9 (e) -0.3 (ntia) 4.7 (l ) ] TJ
+T*
+0.0005 Tc
+-0.0015 Tw
+[ (com) 8.3 (p) 0.5 (etitive abilities\054 which are often) 5.5 ( depende) ] TJ
+18.44 0 TD
+0.0007 Tc
+-0.0007 Tw
+[ (nt u) 5.7 (pon environ) 5.7 (m) 8.5 (ental conditions\056  Fo) 5.7 (r all ) ] TJ
+-18.44 -2.295 TD
+[ (organism) 8.5 (s\054 the effects of com) 8.5 (p) 0.7 (etition) 5.7 ( beco) ] TJ
+16.995 0 TD
+0.0002 Tw
+[ (m) 8.4 (e) -0.6 ( m) 8.4 (o) -4.4 (re pronounced with an increas) 4.8 (e in ) ] TJ
+-16.995 -2.3 TD
+-0.0006 Tw
+[ (density because m) 8.4 (o) 0.6 (re organism) 8.4 (s are searching ) ] TJ
+18.775 0 TD
+0.0004 Tc
+-0.0012 Tw
+[ (for resou) 5.4 (r) -1.6 (ces in the sam) 8.2 (e) -0.8 ( areas\054 dep) 5.4 (l) -1.8 (eting ) ] TJ
+-18.775 -2.3 TD
+0.0007 Tc
+-0.0014 Tw
+[ (the resou) 5.7 (r) -1.3 (ce) 4.5 (s to continua) 4.5 (lly lowe) 4.5 (r lev) 5.7 (e) -0.5 (ls\056   ) ] TJ
+3 -2.3 TD
+0.0008 Tc
+-0.0004 Tw
+[ (One way that plan) 5.8 (ts gain) 5.8 ( a com) 8.6 (p) 0.8 (etitive edge is b) 5.8 (y) 0.8 ( f) 3.8 (o) 0.8 (rm) 8.6 (ing mutualistic ) ] TJ
+-3 -2.3 TD
+0.0002 Tc
+-0.0002 Tw
+[ (relationships with other organism) 8 (s\054 thereby wo) ] TJ
+18.775 0 TD
+0.0006 Tw
+[ (rking together to prom) 8 (ote mutual survival\056  ) ] TJ
+/TT6 1 Tf
+-18.775 -2.3 TD
+0.0005 Tc
+0 Tw
+(Rhizobium) Tj
+/TT2 1 Tf
+4.28 0 TD
+0.001 Tc
+-0.0026 Tw
+[ ( bacte) 4.8 (r) -1 (ia hav) 6 (e) -0.2 ( a sym) 8.8 (b) 1 (iotic rela) 4.8 (tionsh) 6 (i) -1.2 (p w) ] TJ
+16.38 0 TD
+0.0004 Tc
+-0.0011 Tw
+[ (ith the roots of legum) 8.2 (es) -5.4 ( in which they ) ] TJ
+-20.66 -2.3 TD
+[ (fix atm) 8.1 (o) 0.3 (spheric nitrogen and provide it to the ) ] TJ
+18.39 0 TD
+-0.0004 Tw
+[ (plant in exch) 5.4 (an) 5.4 (ge for resources such as ) ] TJ
+-18.39 -2.3 TD
+0.0001 Tc
+-0.0001 Tw
+(carbon \050Begon\054 et al\056\054 2003\051\056   ) Tj
+3 -2.3 TD
+0.0003 Tc
+-0.0009 Tw
+[ (In this experim) 8.1 (e) -0.9 (nt we exam) 8.1 (ined how the presence of ) ] TJ
+/TT6 1 Tf
+21.35 0 TD
+-0.0001 Tc
+0 Tw
+(Rhizobium) Tj
+/TT2 1 Tf
+4.275 0 TD
+0.0004 Tc
+-0.0004 Tw
+( affected the ) Tj
+-28.625 -2.3 TD
+0.001 Tc
+-0.003 Tw
+[ (com) 8.8 (p) 1 (etitive ability of) 4 ( re) 4.8 (d clover \050) ] TJ
+/TT6 1 Tf
+13.47 0 TD
+-0.0013 Tc
+0.0013 Tw
+[ (Trif) -3.5 (ol) -3.5 (i) -3.5 (u) -1.3 (m pret) -3.5 (ense) ] TJ
+/TT2 1 Tf
+7.415 0 TD
+0.0003 Tc
+-0.0003 Tw
+[ (\051 which is a legum) 8.1 (e\054 when grown ) ] TJ
+-20.885 -2.3 TD
+0.0001 Tc
+-0.0001 Tw
+(with red fescue \050) Tj
+/TT6 1 Tf
+6.695 0 TD
+-0.0003 Tc
+0.0003 Tw
+(Festuca rubra) Tj
+/TT2 1 Tf
+5.69 0 TD
+0.0002 Tc
+-0.0014 Tw
+[ (\051 which is not legum) 8 (i) -2 (nous) ] TJ
+10.385 0 TD
+0.0003 Tc
+-0.0015 Tw
+(\056  We hypothesized that ) Tj
+/TT6 1 Tf
+-22.77 -2.3 TD
+0.0005 Tc
+0 Tw
+(Rhizobium) Tj
+/TT2 1 Tf
+4.28 0 TD
+0.0012 Tc
+-0.0012 Tw
+[ ( f) 4.2 (o) 1.2 (rm) 9 ( a m) 9 (u) 1.2 (tualistic rela) 5 (tio) 6.2 (nship with ) ] TJ
+14.83 0 TD
+0.0001 Tc
+0.0024 Tw
+[ (legum) 7.9 (es and provide ) ] TJ
+8.58 0 TD
+0.0003 Tc
+-0.0019 Tw
+(it with nitrogen\054 and ) Tj
+-27.69 -2.3 TD
+0.0013 Tc
+-0.0013 Tw
+[ (f) 4.3 (r) -0.7 (om) 9.1 ( this we predic) 5.1 (ted th) 6.3 (at ) ] TJ
+11.03 0 TD
+-0.0002 Tc
+-0.0008 Tw
+(red clover would compete better ag) Tj
+14.125 0 TD
+0.0003 Tc
+-0.0015 Tw
+(ainst red fescue \050a grass\051 ) Tj
+-25.155 -2.3 TD
+-0.0003 Tw
+(in environments with ) Tj
+/TT6 1 Tf
+8.755 0 TD
+-0.0001 Tc
+0 Tw
+(Rhizobium) Tj
+/TT2 1 Tf
+4.275 0 TD
+0.0009 Tc
+-0.0034 Tw
+[ ( pres) 5.1 (ent\056  ) ] TJ
+/TT4 1 Tf
+-13.03 -2.31 TD
+-0.0007 Tc
+0 Tw
+(Results ) Tj
+/TT2 1 Tf
+3 -2.29 TD
+0.0003 Tc
+-0.001 Tw
+(Our results did not indicate a difference in ) Tj
+17.165 0 TD
+-0.0003 Tw
+[ (com) 8.1 (p) 0.3 (etitive ability of red fescue in the ) ] TJ
+-20.165 -2.3 TD
+-0.002 Tw
+[ (presence or absence of ) ] TJ
+/TT6 1 Tf
+9.33 0 TD
+0.0005 Tc
+0 Tw
+(Rhizobium) Tj
+/TT2 1 Tf
+4.28 0 TD
+0.0007 Tc
+-0.0017 Tw
+[ (\056  This is illustra) 4.5 (ted by the f) 3.7 (a) 4.5 (ct tha) 4.5 (t) -1.5 ( the c) 4.5 (onf) 3.7 (idence ) ] TJ
+-13.61 -2.3 TD
+0.0009 Tc
+-0.0019 Tw
+[ (inte) 4.7 (rvals in the line) 4.7 (a) -0.3 (r r) 3.9 (e) -0.3 (g) 5.9 (r) -1.1 (ession g) 5.9 (r) -1.1 (ap) 5.9 (hs ) ] TJ
+15.995 0 TD
+0 Tc
+0 Tw
+(are broadly overlapping \050Figure 1\051\056  The R ) Tj
+ET
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 BIO\056G0\05603\0561 \055 Biology \055 Final Year Undergraduate \055 Female \055 Native Speaker \055 Research Paper) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(1) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+12 0 obj
+<<
+/OPM 1
+/Type /ExtGState
+/SM 0.02
+/OP false
+/SA false
+/op false
+>>
+endobj
+13 0 obj
+<<
+/FirstChar 32
+/Widths [ 250 0 0 0 0 0 0 0 333 333 0 0 250 333 250 0 500 500 500 500 500 500 500 500 500 500 278 278 0 0 0 0 0 722 667 667 722 611 556 0 722 333 389 0 611 889 0 722 556 0 667 556 611 722 722 944 0 0 0 0 0 0 0 0 0 444 500 444 500 444 333 500 500 278 278 500 278 778 500 500 500 500 333 389 278 500 500 722 500 500 444 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 333 ]
+/Encoding /WinAnsiEncoding
+/Type /Font
+/BaseFont /TimesNewRomanPSMT
+/LastChar 146
+/FontDescriptor 14 0 R
+/Subtype /TrueType
+>>
+endobj
+14 0 obj
+<<
+/FontBBox [ -568 -307 2000 1007 ]
+/StemV 82
+/Descent -216
+/XHeight -546
+/Flags 34
+/FontStretch /Normal
+/Ascent 891
+/FontName /TimesNewRomanPSMT
+/Type /FontDescriptor
+/FontWeight 400
+/ItalicAngle 0
+/FontFamily (Times New Roman)
+/CapHeight 656
+>>
+endobj
+15 0 obj
+<<
+/FirstChar 32
+/Widths [ 250 0 0 0 0 0 0 0 0 0 0 0 0 0 250 0 0 0 0 500 0 0 0 0 0 0 333 0 0 0 0 0 0 0 0 722 722 0 0 0 0 389 0 0 667 0 0 0 611 0 722 0 0 0 0 0 0 0 0 0 0 0 0 0 0 500 556 444 556 444 333 0 0 278 0 0 278 833 556 500 556 0 444 389 333 556 ]
+/Encoding /WinAnsiEncoding
+/Type /Font
+/BaseFont /TimesNewRomanPS-BoldMT
+/LastChar 117
+/FontDescriptor 16 0 R
+/Subtype /TrueType
+>>
+endobj
+16 0 obj
+<<
+/FontBBox [ -558 -307 2000 1026 ]
+/StemV 136
+/Descent -216
+/XHeight -546
+/Flags 34
+/FontStretch /Normal
+/Ascent 891
+/FontName /TimesNewRomanPS-BoldMT
+/Type /FontDescriptor
+/FontWeight 700
+/ItalicAngle 0
+/FontFamily (Times New Roman)
+/CapHeight 656
+>>
+endobj
+17 0 obj
+<<
+/FirstChar 32
+/Widths [ 250 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 611 611 0 0 611 611 0 0 0 0 0 0 0 0 0 0 0 611 0 556 0 0 0 0 0 0 0 0 0 0 0 0 500 500 444 0 444 278 500 500 278 0 0 278 722 500 500 500 0 389 389 278 500 0 0 0 444 389 ]
+/Encoding /WinAnsiEncoding
+/Type /Font
+/BaseFont /TimesNewRomanPS-ItalicMT
+/LastChar 122
+/FontDescriptor 18 0 R
+/Subtype /TrueType
+>>
+endobj
+18 0 obj
+<<
+/FontBBox [ -498 -307 1120 1023 ]
+/StemV 71.742
+/Descent -216
+/XHeight -546
+/Flags 98
+/FontStretch /Normal
+/Ascent 891
+/FontName /TimesNewRomanPS-ItalicMT
+/Type /FontDescriptor
+/FontWeight 400
+/ItalicAngle -15
+/FontFamily (Times New Roman)
+/CapHeight 656
+>>
+endobj
+19 0 obj
+<<
+/Length 5076
+>>
+stream
+q
+/GS1 gs
+BT
+/TT2 1 Tf
+12 0 0 12 515.9999 744.96 Tm
+0 g
+0 Tc
+0 Tw
+(2 ) Tj
+-35.5 -3 TD
+0.0003 Tc
+-0.0003 Tw
+(squared values for the ) Tj
+/TT6 1 Tf
+9.055 0 TD
+-0.0001 Tc
+0 Tw
+(Rhizobium) Tj
+/TT2 1 Tf
+4.275 0 TD
+0.0002 Tc
+-0.0027 Tw
+( and no ) Tj
+/TT6 1 Tf
+3.19 0 TD
+-0.0006 Tc
+0 Tw
+(Rhizobium) Tj
+/TT2 1 Tf
+4.275 0 TD
+0.0004 Tc
+-0.0004 Tw
+[ ( treatm) 8.2 (e) -0.8 (nts of \056810 and \056778 ) ] TJ
+-20.795 -2.3 TD
+0.001 Tc
+-0.0017 Tw
+[ (respec) 4.8 (tive) 4.8 (l) -1.2 (y indica) 4.8 (te th) 6 (at the bes) 5.2 (t) -1.2 ( f) 4 (it lines in) ] TJ
+17.64 0 TD
+0.0006 Tc
+[ ( the g) 5.6 (r) -1.4 (aph are accurate ) ] TJ
+9.295 0 TD
+0 Tc
+0 Tw
+(representations of our ) Tj
+-26.935 -2.3 TD
+0.0002 Tc
+-0.0002 Tw
+(data\056  The p\055values of \056038 and \056048 for the R s) Tj
+18.835 0 TD
+0 Tc
+0 Tw
+(quare data indicate that) Tj
+9.305 0 TD
+-0.0002 Tc
+0.0002 Tw
+( it is statistically ) Tj
+-28.14 -2.3 TD
+0.0009 Tc
+-0.0025 Tw
+[ (significan) 5.9 (t\054 which m) 8.7 (eans there is a s) 5.1 (i) -1.3 (gnifican) ] TJ
+18.025 0 TD
+0 Tc
+0 Tw
+(t relationship between target weight and ) Tj
+-18.025 -2.3 TD
+0.0001 Tc
+-0.0001 Tw
+(neighbor density and hence that ) Tj
+12.97 0 TD
+-0.0002 Tc
+-0.001 Tw
+(competition is occurring\056   ) Tj
+/TT4 1 Tf
+-12.97 -2.31 TD
+0.0005 Tc
+0 Tw
+[ (Discussion) 6.7 ( ) ] TJ
+/TT2 1 Tf
+3 -2.29 TD
+0.0004 Tc
+-0.0012 Tw
+(Our results did not support our prediction ) Tj
+16.86 0 TD
+0.0005 Tc
+[ (that red clover would com) 8.3 (p) 0.5 (ete better in ) ] TJ
+-19.86 -2.3 TD
+0.0003 Tc
+-0.0003 Tw
+[ (the pres) 4.5 (ence of ) ] TJ
+/TT6 1 Tf
+6.3 0 TD
+0.0005 Tc
+0 Tw
+(Rhizobium) Tj
+/TT2 1 Tf
+4.28 0 TD
+0.0004 Tc
+-0.0018 Tw
+(\056  One explanation for this is th) Tj
+12.39 0 TD
+0.0001 Tc
+0.0009 Tw
+[ (e possibility that we m) 7.9 (a) -1.1 (de som) 7.9 (e) -1.1 ( ) ] TJ
+-22.97 -2.3 TD
+0.0009 Tc
+-0.0042 Tw
+[ (incorrect ass) 5.1 (u) -4.1 (m) 8.7 (p) 0.9 (tions as part ) ] TJ
+11.89 0 TD
+0.0001 Tc
+-0.0017 Tw
+[ (of our experim) 7.9 (e) -1.1 (ntal model\056 ) ] TJ
+11.13 0 TD
+0.0007 Tc
+-0.0007 Tw
+[ ( One im) 8.5 (portant assum) 8.5 (p) 0.7 (tion we ) ] TJ
+-23.02 -2.3 TD
+[ (m) 8.4 (a) -0.6 (de was that nitrogen was a lim) 8.4 (iting resource) ] TJ
+18.86 0 TD
+0.0003 Tc
+-0.0019 Tw
+[ ( which both plant species were com) 8.1 (p) -4.7 (eting ) ] TJ
+-18.86 -2.3 TD
+-0.0004 Tw
+[ (for\054 which in reality m) 8.2 (a) -0.8 (y or m) 8.2 (a) -0.8 (y not have b) ] TJ
+17.385 0 TD
+0.0004 Tw
+[ (een the case\056  Th) 5.3 (e nitrogen concentration) 5.3 ( m) 8.1 (a) -0.8 (y ) ] TJ
+-17.385 -2.3 TD
+0.0002 Tc
+-0.0002 Tw
+(have been high enough in the soil that the ) Tj
+16.915 0 TD
+0.0001 Tc
+-0.0001 Tw
+[ (additional nitrogen provided by the Rhizobium) 7.9 ( ) ] TJ
+-16.915 -2.3 TD
+(did not provide any appreciable ) Tj
+12.915 0 TD
+0.0004 Tc
+-0.0017 Tw
+[ (advantage to the red clov) 5.4 (er\056  If this were the case\054 then ) ] TJ
+-12.915 -2.295 TD
+0.0012 Tc
+-0.0004 Tw
+[ (the Rhizobium) 9 ( m) 9 (a) 0 (y have actua) 5 (lly hu) 6.2 (rt th) 6.2 (e ) ] TJ
+17.03 0 TD
+0.0007 Tc
+-0.0017 Tw
+[ (clove) 4.5 (r) 3.7 (\222) -1.3 (s com) 8.5 (p) 0.7 (etitive ability by) 5.7 ( taking its ) ] TJ
+-17.03 -2.3 TD
+0.0004 Tc
+-0.0004 Tw
+[ (resources without prov) 5.4 (id) 5.4 (ing necessary nutrients ) ] TJ
+19.355 0 TD
+-0.0015 Tw
+[ (in exchange\056  If we were able to do th) 5.4 (e ) ] TJ
+-19.355 -2.3 TD
+0.0006 Tc
+-0.0012 Tw
+[ (experim) 8.4 (e) -0.6 (nt again\054 it would be helpf) 8.6 (u) 0.6 (l to test th) ] TJ
+18.695 0 TD
+0.001 Tc
+-0.0022 Tw
+[ (e) 4.8 ( nitrog) 6 (en co) 6 (ntent of) 4 ( the soil to ensur) 4 (e) -0.2 ( that ) ] TJ
+-18.695 -2.3 TD
+0.0013 Tc
+-0.0021 Tw
+[ (it is in f) 4.3 (act a) 5.1 ( lim) 9.1 (iting res) 5.5 (ource\056) 6.3 ( ) ] TJ
+T*
+0.0004 Tc
+-0.0004 Tw
+[ ( ) -2750 (Another im) 8.2 (portant assum) 8.2 (p) 0.4 (tion we m) 8.2 (a) -5.8 (de wa) ] TJ
+20.465 0 TD
+0.0001 Tc
+-0.0015 Tw
+(s that red clover and red fescue shared ) Tj
+-20.465 -2.3 TD
+0.0004 Tc
+-0.0004 Tw
+[ (the sam) 8.2 (e) -0.8 ( traits apart from clover being a legum) ] TJ
+18.88 0 TD
+-0.0015 Tw
+(e and fescue a grass\056  However\054 there is ) Tj
+-18.88 -2.3 TD
+0.0002 Tc
+-0.0014 Tw
+(one other difference in that ) Tj
+11.08 0 TD
+0.0003 Tc
+-0.0012 Tw
+[ (red clover is a dicot w) 7.5 (h) 0.3 (ile red fescue is a m) 8.1 (onocot\056  ) ] TJ
+-11.08 -2.3 TD
+(Physiological differences\054 particularly in the r) Tj
+18.33 0 TD
+-0.002 Tw
+[ (oot system) 8.2 (\054 suggest that ) ] TJ
+9.805 0 TD
+0 Tc
+0 Tw
+(dicots are better at ) Tj
+-28.135 -2.3 TD
+0.0002 Tc
+-0.001 Tw
+[ (absorbing nutrients from the soil than m) 8 (onoc) ] TJ
+17.99 0 TD
+0.0001 Tc
+-0.0001 Tw
+(ots\056  Although this would imply that clover ) Tj
+ET
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 BIO\056G0\05603\0561 \055 Biology \055 Final Year Undergraduate \055 Female \055 Native Speaker \055 Research Paper) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(2) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+20 0 obj
+<<
+/Length 5340
+>>
+stream
+q
+/GS1 gs
+BT
+/TT2 1 Tf
+12 0 0 12 515.9999 744.96 Tm
+0 g
+0 Tc
+0 Tw
+(3 ) Tj
+-35.5 -3 TD
+0.0009 Tc
+-0.0016 Tw
+[ (is still a better com) 8.7 (p) 0.9 (etito) 5.9 (r\054 it is poss) 5.1 (i) -1.3 (b) 5.9 (l) -1.3 (e ) ] TJ
+15.97 0 TD
+0.0005 Tc
+-0.0013 Tw
+[ (that there are oth) 5.5 (e) -0.7 (r co) 5.5 (nfounding factors which) 5.5 ( ) ] TJ
+-15.97 -2.3 TD
+0.0009 Tc
+-0.0009 Tw
+[ (gave the f) 3.9 (e) -0.3 (s) 5.1 (c) -0.3 (ue a sim) 8.7 (ilar) 3.9 ( com) 8.7 (p) 0.9 (etitive) 4.7 ( ef) 3.9 (f) 3.9 (ect in the) 4.7 ( presenc) 4.7 (e) -0.3 ( an) 5.9 (d absence of) 8.9 ( ) ] TJ
+/TT6 1 Tf
+30.065 0 TD
+0.0005 Tc
+0 Tw
+(Rhizobium) Tj
+/TT2 1 Tf
+4.28 0 TD
+0 Tc
+(\056 ) Tj
+-34.345 -2.3 TD
+-0.0001 Tc
+0.0001 Tw
+[ ( ) -2750 (A m) 7.7 (o) -0.1 (re practical aspect of) ] TJ
+13.545 0 TD
+0.0003 Tc
+-0.0003 Tw
+[ ( our experim) 8.1 (e) -0.9 (ntal design that could be problem) 8.1 (atic is ) ] TJ
+-13.545 -2.3 TD
+[ (that we looked at the biom) 8.1 (ass of the part) ] TJ
+16.225 0 TD
+0 Tc
+0 Tw
+( of the plant above the ground only\054 by clipping ) Tj
+-16.225 -2.3 TD
+0.0004 Tc
+-0.0014 Tw
+(it at ground level and then weighing it\056  If the ) Tj
+18.39 0 TD
+0.0002 Tc
+-0.0002 Tw
+[ (effects of com) 8 (p) 0.2 (e) -6 (tition ) ] TJ
+9.025 0 TD
+0.0005 Tc
+-0.0021 Tw
+(led one plant species ) Tj
+-27.415 -2.3 TD
+0.0006 Tc
+-0.0018 Tw
+[ (or the other to divert m) 8.4 (o) -4.4 (re resources to th) ] TJ
+16.615 0 TD
+-0.0019 Tw
+[ (e roots and away from) 8.5 ( stem) 8.5 (s and leaves\054 ou) 5.7 (r ) ] TJ
+-16.615 -2.3 TD
+0.0001 Tc
+-0.0001 Tw
+[ (data could be m) 7.9 (i) -2.1 (sleading\056  ) ] TJ
+T*
+0.0008 Tc
+-0.0008 Tw
+[ ( ) -2750 (One other p) 5.8 (o) 0.8 (tential p) 5.8 (r) -1.2 (ob) 5.8 (lem) 8.6 ( exists with our) ] TJ
+20.445 0 TD
+0.0002 Tc
+-0.0002 Tw
+[ ( m) 8 (odel in that it does not account for ) ] TJ
+-20.445 -2.3 TD
+0.0005 Tc
+-0.0005 Tw
+[ (the prox) 5.5 (im) 8.3 (ity of plants to each other\056  ) ] TJ
+15.305 0 TD
+0.0011 Tc
+-0.0018 Tw
+[ (W) 9.9 (h) 1.1 (ile it is) 5.3 ( a logical as) 5.3 (sum) 8.9 (p) 1.1 (tion that with ) ] TJ
+-15.305 -2.3 TD
+0.0003 Tc
+-0.0003 Tw
+[ (increasing density\054 proxim) 8.1 (ity of plants increases) ] TJ
+19.335 0 TD
+0.0008 Tc
+-0.0026 Tw
+[ (\054 it is po) 5.8 (ssib) 5.8 (l) -1.4 (e) 4.6 ( that in low density p) 5.8 (l) -1.4 (ots) 5 (\054) 0.8 ( ) ] TJ
+-19.335 -2.3 TD
+0.0005 Tc
+-0.0005 Tw
+[ (seeds of) 3.5 ( competitor) 3.5 (s) -0.3 ( by) 5.5 ( chance hap) 5.5 (p) 0.5 (ened to f) 3.5 (a) -0.7 (ll ) ] TJ
+19.44 0 TD
+0.0008 Tc
+-0.002 Tw
+[ (very clos) 5 (e to the ta) 4.6 (rget seeds\056  The closer ) ] TJ
+-19.44 -2.3 TD
+0.0003 Tc
+-0.0003 Tw
+[ (the plants are physically\054 the m) 8.1 (o) 0.3 (re their ) ] TJ
+16.055 0 TD
+0.0002 Tc
+-0.0022 Tw
+(resource utilization areas overlap\054 and the ) Tj
+-16.055 -2.3 TD
+0.0004 Tc
+-0.0016 Tw
+(stronger the effects of co) Tj
+9.94 0 TD
+0.0006 Tc
+-0.0006 Tw
+[ (mpetition b) 5.6 (e) 4.4 (tween them) 8.4 (\056 ) -900 ( ) ] TJ
+-6.94 -2.295 TD
+0.0004 Tc
+0.0006 Tw
+[ (Aside from) 8.2 ( t) -6.8 (h) 0.4 (e aforem) 8.2 (entioned problem) 8.2 (s w) ] TJ
+17.465 0 TD
+0.0007 Tc
+0.0001 Tw
+[ (ith the assum) 8.5 (p) 0.7 (tions of our m) 8.5 (o) 0.7 (del\054 the ) ] TJ
+-20.465 -2.3 TD
+-0.001 Tw
+[ (additive des) 4.9 (i) 3.5 (gn of) 3.7 ( our experim) 8.5 (e) -0.5 (nt see) 4.5 (m) 8.5 (s to be the best way to exam) 8.5 (ine competition ) ] TJ
+T*
+0.0008 Tc
+-0.0008 Tw
+[ (between spe) 4.6 (c) -0.4 (ies\056  An ad) 5.8 (dition) 5.8 (a) -0.4 (l exp) 5.8 (e) -0.4 (rim) 8.6 (e) -0.4 (nt we could have p) 5.8 (e) -0.4 (rf) 3.8 (orm) 8.6 (e) -0.4 (d is a replacem) 8.6 (ent ) ] TJ
+T*
+0.0002 Tc
+(series in which the proportion of the two speci) Tj
+18.555 0 TD
+0.0003 Tc
+-0.0003 Tw
+(es is varied while keeping the total plant ) Tj
+-18.555 -2.3 TD
+-0.001 Tw
+[ (density the sam) 8.2 (e) -0.8 (\056  The pr) -6.6 (oblem) 8.2 ( with this approa) ] TJ
+19.25 0 TD
+-0.0013 Tw
+[ (ch) 5.3 ( is tha) 4.1 (t) -1.9 ( it is im) ] TJ
+6.63 0 TD
+0.0005 Tc
+-0.0005 Tw
+(possible to distinguish ) Tj
+-25.88 -2.3 TD
+0.0007 Tc
+-0.0007 Tw
+[ (between in) 5.7 (tra\055 and in) 5.7 (ters) 4.9 (pecific com) 8.5 (p) 0.7 (etition \050P) ] TJ
+18.8 0 TD
+0 Tc
+[ (ark et al\056\054 2003\051\056  Since for this experim) 7.8 (e) -1.2 (nt ) ] TJ
+-18.8 -2.3 TD
+0.001 Tc
+-0.0014 Tw
+[ (we are look) 6 (ing specif) 4 (i) -1.2 (ca) 4.8 (lly at the in) 6 (te) 4.8 (rspecif) 4 (i) 3.8 (c co) 6 (mpetitiv) 6 (e ef) 4 (f) 4 (ects\054 the ad) 6 (ditiv) 6 (e desig) 6 (n) 1 ( is ) ] TJ
+T*
+0.0002 Tc
+-0.0035 Tw
+(the better approach\056  ) Tj
+3 -2.3 TD
+0.0007 Tc
+-0.0007 Tw
+[ (Exam) 8.5 (ining the com) 8.5 (p) 0.7 (etitive effects an) 5.7 (d re) ] TJ
+16.465 0 TD
+0.0003 Tc
+-0.0023 Tw
+[ (sponses of various plant species to ) ] TJ
+-19.465 -2.3 TD
+0.0009 Tc
+-0.0025 Tw
+[ (inte) 4.7 (ractions with othe) 4.7 (r s) 5.1 (p) 0.9 (eci) ] TJ
+11.305 0 TD
+0 Tc
+0 Tw
+(es has particular relevance ) Tj
+10.825 0 TD
+(to ecologists or conservation ) Tj
+ET
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 BIO\056G0\05603\0561 \055 Biology \055 Final Year Undergraduate \055 Female \055 Native Speaker \055 Research Paper) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(3) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+21 0 obj
+<<
+/Length 5342
+>>
+stream
+q
+/GS1 gs
+BT
+/TT2 1 Tf
+12 0 0 12 515.9999 744.96 Tm
+0 g
+0 Tc
+0 Tw
+(4 ) Tj
+-35.5 -3 TD
+0.0006 Tc
+-0.0026 Tw
+[ (biologists trying to m) 8.4 (a) -0.6 (nipulate species com) ] TJ
+17.355 0 TD
+0.0002 Tc
+-0.0002 Tw
+(position\056  Over the long ) Tj
+9.725 0 TD
+0 Tc
+0.0016 Tw
+[ (term) 7.8 (\054 it would seem ) ] TJ
+-27.08 -2.3 TD
+0.0006 Tc
+-0.0014 Tw
+[ (that com) 8.4 (p) 0.6 (etitive response is m) 8.4 (o) 0.6 (re important to ) ] TJ
+18.86 0 TD
+0.0002 Tc
+(a plant\222s ability to persist at a site\056  Unless ) Tj
+-18.86 -2.3 TD
+[ (the plant is the top com) 8 (p) -4.8 (etitor in an ecosys) ] TJ
+17.11 0 TD
+0.0011 Tc
+-0.0023 Tw
+[ (tem) 8.9 (\054) 1.1 ( it is lik) 6.1 (ely that with tim) 8.9 (e other spec) 4.9 (ies ) ] TJ
+-17.11 -2.3 TD
+0.0005 Tc
+-0.0005 Tw
+[ (which are g) 5.5 (ood com) 8.3 (p) 0.5 (etitors will beg) 5.5 (i) -1.7 (n to grow ) ] TJ
+19 0 TD
+0.0001 Tc
+-0.0001 Tw
+[ (at the sam) 7.9 (e) -1.1 ( site and deplete the resource ) ] TJ
+-19 -2.3 TD
+0.0007 Tc
+-0.0012 Tw
+[ (base to low levels\056  In o) 5.7 (r) 3.7 (der to pe) 4.5 (rsis) 4.9 (t\054 the ) ] TJ
+16.945 0 TD
+0.0009 Tc
+-0.0027 Tw
+[ (p) 5.9 (l) -1.3 (ant will have to be tole) 4.7 (rant o) 5.9 (f) 3.9 ( low resour) 3.9 (ce ) ] TJ
+-16.945 -2.3 TD
+0.0005 Tc
+-0.0012 Tw
+[ (levels\073 otherwise it will be outcom) 8.3 (p) -4.5 (eted by plan) ] TJ
+19.19 0 TD
+0.0008 Tc
+-0.0015 Tw
+[ (t spec) 4.6 (ies which ar) 3.8 (e bette) 4.6 (r) -1.2 ( able to abs) 5 (o) 0.8 (rb ) ] TJ
+-19.19 -2.3 TD
+-0.0008 Tw
+[ (resources from) 8.6 ( the environm) 8.6 (ent\056 ) ] TJ
+3 -2.3 TD
+0.0005 Tc
+-0.0013 Tw
+[ (Although so) 5.5 (m) 8.3 (e) -0.7 ( plants that have a strong ) ] TJ
+16.36 0 TD
+0.0002 Tc
+-0.0002 Tw
+[ (com) 8 (p) 0.2 (etitive effect also have a strong ) ] TJ
+-19.36 -2.3 TD
+0.0009 Tc
+-0.0034 Tw
+[ (com) 8.7 (p) 0.9 (etitive response\054 th) 5.9 (e two do ) ] TJ
+13.44 0 TD
+0.0001 Tc
+-0.0026 Tw
+[ (not necessarily go together\056  ) ] TJ
+11.49 0 TD
+0.0012 Tc
+-0.0022 Tw
+[ (It is po) 6.2 (ssib) 6.2 (l) 4 (e that a plan) 6.2 (t ) ] TJ
+-24.93 -2.3 TD
+0.0004 Tc
+-0.001 Tw
+[ (which has a strong com) 8.2 (p) 0.4 (etitive effect is good at) ] TJ
+19.11 0 TD
+0 Tc
+0 Tw
+( hoarding resources at a particular site ) Tj
+-19.11 -2.3 TD
+0.0003 Tc
+-0.0003 Tw
+[ (and sim) 8.1 (p) 0.3 (ly survives by preventing other species f) 8.3 (r) -1.7 (om) 8.1 ( establishing there\056 ) ] TJ
+3 -2.3 TD
+0.0007 Tc
+0.0003 Tw
+[ (This experim) 8.5 (e) -0.5 (ntal m) 8.5 (o) 0.7 (del also has rele) ] TJ
+15.195 0 TD
+0.0003 Tc
+-0.0003 Tw
+[ (vance to the Lotka\055Volterra m) 8.1 (odel for ) ] TJ
+-18.195 -2.3 TD
+0.001 Tc
+-0.0031 Tw
+[ (com) 8.8 (p) 1 (etition\056) 6 (  In order to test whe) 4.8 (t) -1.2 (her stab) ] TJ
+16.72 0 TD
+0.0006 Tc
+-0.0014 Tw
+[ (le coexistence can o) 5.6 (c) -0.5 (cur \050) 3.6 (t) -1.6 (he ef) 3.6 (f) 3.6 (e) -0.6 (cts of) 3.6 ( ) ] TJ
+-16.72 -2.295 TD
+0.0008 Tc
+-0.0008 Tw
+[ (intr) 3.8 (aspec) 4.6 (i) -1.4 (f) 3.8 (i) -1.4 (c) 4.6 ( com) 8.6 (p) 0.8 (etition) 5.8 ( are gr) 3.8 (eate) 4.6 (r) -1.2 ( than inte) 4.6 (rspe) 4.6 (cif) 3.8 (i) -1.4 (c\051\054 we w) 8 (ould have to) 5.8 ( do an ) ] TJ
+0 -2.3 TD
+0.0007 Tc
+-0.0007 Tw
+[ (additional experim) 8.5 (e) -0.5 (nt in) 5.7 ( which the target ) ] TJ
+16.72 0 TD
+0.0001 Tc
+-0.0001 Tw
+(and neighbor species were switched\054 because ) Tj
+-16.72 -2.3 TD
+0.0011 Tc
+-0.0018 Tw
+[ (the cur) 4.1 (r) -0.9 (ent s) 5.3 (e) -0.1 (t\055up on) 6.1 (ly d) 6.1 (e) -0.1 (term) 8.9 (ines th) 6.1 (e ef) 4.1 (f) 4.1 (ect of) ] TJ
+18.735 0 TD
+0 Tc
+0 Tw
+[ ( fe) -6.2 (scue on clover and not vice\055versa\056  With ) ] TJ
+-18.735 -2.3 TD
+0.0005 Tc
+-0.0005 Tw
+[ (data from) 8.3 ( both density experim) 8.3 (e) -0.7 (nts there are ) ] TJ
+18.135 0 TD
+0.0004 Tc
+-0.0018 Tw
+[ (equations which m) 8.2 (a) -0.8 (ke it possible to sort out ) ] TJ
+-18.135 -2.3 TD
+0.0006 Tc
+-0.0016 Tw
+[ (the effects o) 5.6 (f) 3.6 ( intra\055 vs\056 interspe) ] TJ
+12.44 0 TD
+0.0008 Tc
+-0.0048 Tw
+[ (cific com) 8.6 (p) 0.8 (etition \050Park et al\056\054 2003\051\056 ) ] TJ
+-12.44 -2.3 TD
+0.0001 Tc
+-0.0017 Tw
+[ ( ) -2751.6 (Establishing the effects of ) ] TJ
+13.66 0 TD
+0.0008 Tc
+-0.0008 Tw
+[ (plant spec) 4.6 (ies in) 5.8 (ter) 3.8 (actions ha) ] TJ
+11.25 0 TD
+0 Tc
+0 Tw
+[ (s a lot of i) -7.2 (m) 7.8 (plications for ) ] TJ
+-24.91 -2.3 TD
+0.0003 Tc
+-0.0015 Tw
+[ (far) -6.7 (m) 8.1 (ing \050weed\055crop competition\051\054 plant cons) ] TJ
+17.915 0 TD
+-0.0013 Tw
+[ (ervation and the m) 8.1 (a) -0.9 (nage) -5.9 (m) 8.1 (e) -0.9 (nt) -6.9 ( of invasive ) ] TJ
+-17.915 -2.3 TD
+0.0002 Tc
+[ (species\056  By understand) 5.2 (ing how diffe) -6 (rent ) ] TJ
+16.64 0 TD
+0.0008 Tc
+-0.0024 Tw
+[ (env) 5.8 (i) -1.4 (ron) 5.8 (m) 8.6 (ental conditions affect these ) ] TJ
+-16.64 -2.3 TD
+0.0006 Tc
+-0.0022 Tw
+[ (interactions\054) 5.6 ( ecologists will be) ] TJ
+12.17 0 TD
+[ ( better able to use this know) ] TJ
+11.22 0 TD
+-0.0032 Tw
+[ (ledge to their advantage in) 5.7 ( ) ] TJ
+ET
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 BIO\056G0\05603\0561 \055 Biology \055 Final Year Undergraduate \055 Female \055 Native Speaker \055 Research Paper) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(4) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+22 0 obj
+<<
+/Length 946
+>>
+stream
+q
+/GS1 gs
+BT
+/TT2 1 Tf
+12 0 0 12 515.9999 744.96 Tm
+0 g
+0 Tc
+0 Tw
+(5 ) Tj
+-35.5 -3 TD
+0.0004 Tc
+-0.0004 Tw
+[ (creating env) 5.4 (i) -1.8 (ronm) 8.2 (ents which allow for a partic) ] TJ
+18.72 0 TD
+0.0011 Tc
+-0.0036 Tw
+[ (u) 6.1 (l) 3.9 (ar ta) 4.9 (rget spe) 4.9 (c) -0.1 (ies to have the gre) 4.9 (a) -0.1 (tes) 5.3 (t) -1.1 ( ) ] TJ
+-18.72 -2.3 TD
+-0.0061 Tw
+[ (com) 8.9 (p) 1.1 (etitive advantage\056) 6.1 ( ) ] TJ
+T*
+0 Tc
+0 Tw
+( ) Tj
+ET
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 BIO\056G0\05603\0561 \055 Biology \055 Final Year Undergraduate \055 Female \055 Native Speaker \055 Research Paper) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(5) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+23 0 obj
+<<
+/Length 1724
+>>
+stream
+q
+/GS1 gs
+BT
+/TT2 1 Tf
+12 0 0 12 515.9999 744.96 Tm
+0 g
+0 Tc
+0 Tw
+(6 ) Tj
+/TT4 1 Tf
+-35.5 -3.01 TD
+0.0007 Tc
+[ (References) 4.9 ( ) ] TJ
+/TT2 1 Tf
+0 -1.14 TD
+0 Tc
+( ) Tj
+0 -1.15 TD
+[ (Begon\054 Michael\054 John L) 5.8 (\056) 0 ( Harper and Colin R\056 Townsend\056 ) ] TJ
+/TT6 1 Tf
+23.16 0 TD
+0.0002 Tc
+-0.0002 Tw
+(Essentials of Ecology) Tj
+/TT2 1 Tf
+8.615 0 TD
+-0.0004 Tc
+0.0004 Tw
+(\056  Malden\054 ) Tj
+-28.775 -1.15 TD
+0.0001 Tc
+-0.0001 Tw
+(MA\072 Blackwell Publishing\054 2003\056 ) Tj
+/TT4 1 Tf
+-3 -1.16 TD
+0 Tc
+0 Tw
+( ) Tj
+/TT2 1 Tf
+0 -1.14 TD
+0.0003 Tc
+-0.0011 Tw
+[ (Park\054 Sarah E\056\054 Benjam) 8.1 (i) -6.9 (n) 0.3 (e R\056 Laurence and ) ] TJ
+17.635 0 TD
+0.0001 Tc
+0.0007 Tw
+[ (Andrew R\056 W) 8.9 (a) -1 (tkinson\056 2003\056 The Theory and ) ] TJ
+-14.635 -1.15 TD
+0.0004 Tc
+-0.0029 Tw
+[ (Application of Plant Competition M) ] TJ
+14.495 0 TD
+0.0006 Tc
+-0.0022 Tw
+[ (odels\072 an Agronom) 8.4 (ic Perspective) ] TJ
+/TT4 1 Tf
+13.25 0 TD
+0 Tc
+0 Tw
+(\056) Tj
+/TT2 1 Tf
+0.25 0 TD
+( ) Tj
+/TT6 1 Tf
+0.25 0 TD
+(Annals of ) Tj
+-28.245 -1.15 TD
+0.0002 Tc
+(Botany) Tj
+/TT2 1 Tf
+2.835 0 TD
+-0.0001 Tc
+0.0001 Tw
+(\056   92\072 741\05548) Tj
+/TT4 1 Tf
+5.36 0 TD
+0 Tc
+0 Tw
+( ) Tj
+/TT2 1 Tf
+-11.195 -1.15 TD
+( ) Tj
+ET
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 BIO\056G0\05603\0561 \055 Biology \055 Final Year Undergraduate \055 Female \055 Native Speaker \055 Research Paper) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(6) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+24 0 obj
+<<
+/Length 16263
+>>
+stream
+q
+/GS1 gs
+BT
+/TT2 1 Tf
+12 0 0 12 515.9999 744.96 Tm
+0 g
+0 Tc
+0 Tw
+(7 ) Tj
+-35.5 -27.725 TD
+( ) Tj
+0 -1.15 TD
+0.0004 Tc
+-0.0004 Tw
+[ (Figure 1\072  T) 6.2 (h) 0.4 (is graph plots the natural log of) ] TJ
+17.75 0 TD
+-0.0014 Tw
+( the weight of the le) Tj
+7.97 0 TD
+-0.0004 Tw
+[ (gum) 8.2 (e \050red clover\051 against ) ] TJ
+-25.72 -1.15 TD
+0.0001 Tc
+-0.0001 Tw
+[ (the density of the com) 7.9 (p) 0.1 (et) -7.1 (ing plants \050red fescue) ] TJ
+18.69 0 TD
+0.0008 Tc
+-0.002 Tw
+[ (\051\056  In the key\054 1) 5.8 ( repres) 5 (ents the treatm) 8.6 (ent ) ] TJ
+-18.69 -1.15 TD
+0.0006 Tc
+0 Tw
+(with ) Tj
+/TT6 1 Tf
+2.03 0 TD
+-0.0001 Tc
+(Rhizobium) Tj
+/TT2 1 Tf
+4.275 0 TD
+0.0002 Tc
+-0.0007 Tw
+(\054 and 2 is without\056  The flatter the li) Tj
+14.14 0 TD
+0.0009 Tc
+-0.0034 Tw
+(ne\054 the less the clov) Tj
+7.86 0 TD
+-0.0002 Tc
+0.0002 Tw
+(er is affected by ) Tj
+-28.305 -1.15 TD
+0.0004 Tc
+0.0004 Tw
+[ (the com) 8.2 (p) 0.4 (etition from) 8.2 ( fes) -5.4 (c) -0.8 (ue\056  The overlappi) ] TJ
+17.58 0 TD
+0.0001 Tc
+-0.0001 Tw
+(ng of the confidence intervals in this graph ) Tj
+-17.58 -1.15 TD
+0.0008 Tc
+-0.0011 Tw
+[ (shows that there was no dif) 3.8 (f) 3.8 (e) -0.4 (rence in) 5.8 ( clover) 3.8 (\222) -1.2 (s co) 5.8 (mpetitiv) 5.8 (e ab) 5.8 (ility in env) 5.8 (i) -1.4 (r) 3.8 (o) 0.8 (nm) 8.6 (ents with or ) ] TJ
+T*
+0.0006 Tc
+0 Tw
+(without ) Tj
+/TT6 1 Tf
+3.31 0 TD
+-0.0001 Tc
+(Rhizobium) Tj
+/TT2 1 Tf
+4.275 0 TD
+0 Tc
+(\056  ) Tj
+-7.585 -1.15 TD
+( ) Tj
+T*
+( ) Tj
+ET
+/Cs6 cs
+1 1 1 scn
+90 423.72 432.78 296.28 re
+f
+/Cs6 CS
+0 0 0 SCN
+1 J
+0 j
+0.75 w
+8 M
+[ ] 0 d
+1 i
+522.72 720 -432.72 -296.28 re
+90 720 m
+s
+q
+0.99758 0 0 -1.0024 0 0 cm
+0.258 G
+1 j
+0.681 w
+10 M
+381.083 -635.358 56.477 -40.162 re
+S
+Q
+0 g
+384.9 651.9 8.16 8.22 re
+f
+q
+0.99758 0 0 -1.0024 0 0 cm
+0 G
+1 j
+0.681 w
+10 M
+385.834 -650.322 8.1798 -8.2001 re
+S
+Q
+BT
+/TT8 1 Tf
+7.4515 0 0 7.5068 395.82 653.28 Tm
+-0.0167 Tc
+[ (1\056) -12.6 (0) -8.1 (0) ] TJ
+ET
+/Cs6 cs
+1 0.60392 0 scn
+384.9 640.98 8.16 8.22 re
+f
+q
+0.99758 0 0 -1.0024 0 0 cm
+0 G
+1 j
+0.681 w
+10 M
+385.834 -639.428 8.1798 -8.2001 re
+S
+Q
+BT
+7.4515 0 0 7.5068 395.82 642.36 Tm
+0 g
+[ (2\056) -12.6 (0) -8.1 (0) ] TJ
+/TT10 1 Tf
+10.1611 0 0 10.2363 384.9 662.8201 Tm
+-0.0084 Tc
+[ (r) -20.8 (h) 0.1 (iz) -39.8 (obium) ] TJ
+/TT8 1 Tf
+7.4515 0 0 7.5068 387.66 619.14 Tm
+0.0042 Tw
+[ (Li) 36.7 (near) -37.6 ( R) 69.7 (e) 8.4 (gr) -45.7 (es) -47.8 (s) -55.8 (i) 28.7 (on w) -196 (i) 28.7 (t) -92.8 (h) ] TJ
+0 -1.2709 TD
+-0.0075 Tc
+0.0034 Tw
+[ (95\0560) 9.2 (0) 1.1 (\045) -36.3 ( I) 93.2 (ndi) 29.5 (v) -55 (i) 37.5 (dual) 29.5 ( P) 120 (r) -44.9 (ed) -87.5 (i) 29.5 (c) -47 (ti) 29.5 (on I) 85.1 (n) 9.2 (ter) -44.9 (v) -55 (a) 9.2 (l) ] TJ
+ET
+0.258 G
+1 j
+0.06 w
+10 M
+q
+1 0 0 1 148.56 480.6 cm
+0 0 m
+195.6 0 l
+S
+1 0 0 1 0 196.56 cm
+0 0 m
+195.6 0 l
+S
+Q
+155.34 476.52 1.32 4.08 re
+f
+211.68 476.52 1.38 4.08 re
+f
+268.08 476.52 1.38 4.08 re
+f
+325.14 476.52 1.32 4.08 re
+f
+BT
+6.0965 0 0 6.1418 149.94 469.68 Tm
+-0.005 Tc
+0 Tw
+[ (0\056) -61.8 (0) -9.8 (0) -7026.9 (20) -9.8 (\056) -61.8 (0) 0 (0) -6692.3 (4) -9.8 (0\056) -61.8 (0) -9.8 (0) -6692.3 (60) -9.8 (\056) -61.8 (0) 0 (0) ] TJ
+/TT10 1 Tf
+10.1611 0 0 10.2363 229.38 451.26 Tm
+-0.0077 Tc
+[ (de) -53.8 (ns) 17 (it) -5.4 (y) ] TJ
+ET
+q
+1 0 0 1 148.56 480.6 cm
+0 0 m
+0 196.56 l
+S
+1 0 0 1 195.6 0 cm
+0 0 m
+0 196.56 l
+S
+Q
+144.48 481.32 4.08 1.38 re
+f
+144.48 538.62 4.08 1.3799 re
+f
+144.48 596.64 4.08 1.38 re
+f
+144.48 653.94 4.08 1.38 re
+f
+BT
+/TT8 1 Tf
+6.0965 0 0 6.1418 131.58 479.22 Tm
+0.0048 Tc
+[ (0\056) -52 (0) 9.8 (0) ] TJ
+0 9.3393 TD
+[ (0\056) -52 (5) 9.8 (0) ] TJ
+0 9.437 TD
+[ (1\056) -52 (0) 9.8 (0) ] TJ
+0 9.3393 TD
+[ (1\056) -52 (5) 9.8 (0) ] TJ
+/TT10 1 Tf
+-0.1772 10.1566 -10.2321 -0.1784 124.8 560.46 Tm
+0 Tc
+(l) Tj
+0.2659 0.0013 TD
+(e) Tj
+0.6085 0.0012 TD
+(g) Tj
+0.6026 0.0013 TD
+(u) Tj
+0.6025 -0.0046 TD
+(m) Tj
+0.8744 0.0025 TD
+(e) Tj
+/TT11 1 Tf
+5.4192 0 0 5.4593 153.36 632.76 Tm
+<0024> Tj
+4.1298 -5.8689 TD
+<0024> Tj
+4.1408 -3.2532 TD
+<0024> Tj
+8.3924 1.6266 TD
+<0024> Tj
+16.674 -7.7483 TD
+<0024> Tj
+/Cs6 cs
+1 0.60392 0 scn
+-33.337 15.7493 TD
+<0024> Tj
+4.1298 -3.0004 TD
+<0024> Tj
+4.1408 -2.0003 TD
+<0024> Tj
+8.3924 -2.253 TD
+<0024> Tj
+16.674 -0.7474 TD
+<0024> Tj
+ET
+0 G
+q
+1 0 0 1 156 617.1 cm
+0 0 m
+1.38 -0.66 l
+2.7 -1.38 l
+4.74 -2.04 l
+6.12 -2.04 l
+7.5 -2.7 l
+8.82 -3.42 l
+10.2 -4.08 l
+12.24 -4.74 l
+13.56 -5.46 l
+14.94 -5.46 l
+16.32 -6.12 l
+18.36 -6.78 l
+19.68 -7.5 l
+21.06 -8.16 l
+22.44 -8.88 l
+24.48 -8.88 l
+25.8 -9.54 l
+27.18 -10.2 l
+28.56 -10.92 l
+30.54 -11.58 l
+31.92 -12.24 l
+33.3 -12.96 l
+34.62 -12.96 l
+36.66 -13.62 l
+38.04 -14.34 l
+39.42 -15 l
+40.74 -15.66 l
+42.78 -16.38 l
+44.16 -16.38 l
+45.54 -17.04 l
+46.86 -17.7 l
+48.9 -18.42 l
+50.28 -19.08 l
+51.6 -19.8 l
+52.98 -20.46 l
+54.36 -20.46 l
+56.4 -21.12 l
+57.72 -21.84 l
+59.1 -22.5 l
+60.48 -23.16 l
+62.52 -23.88 l
+63.84 -23.88 l
+65.22 -24.54 l
+66.54 -25.26 l
+68.58 -25.92 l
+69.96 -26.58 l
+71.34 -27.3 l
+72.66 -27.3 l
+74.7 -27.96 l
+76.08 -28.62 l
+77.46 -29.34 l
+78.78 -30 l
+80.82 -30.72 l
+82.2 -31.38 l
+83.52 -31.38 l
+84.9 -32.04 l
+86.94 -32.76 l
+88.32 -33.42 l
+89.64 -34.08 l
+91.02 -34.8 l
+93.06 -34.8 l
+94.44 -35.46 l
+95.76 -36.18 l
+97.14 -36.84 l
+98.46 -37.5 l
+100.5 -38.22 l
+101.88 -38.22 l
+103.26 -38.88 l
+104.58 -39.54 l
+106.62 -40.26 l
+108 -40.92 l
+109.38 -41.64 l
+110.7 -42.3 l
+112.74 -42.3 l
+114.12 -42.96 l
+115.44 -43.68 l
+116.82 -44.34 l
+118.86 -45 l
+120.24 -45.72 l
+121.56 -45.72 l
+122.94 -46.38 l
+124.98 -47.1 l
+126.36 -47.76 l
+127.68 -48.42 l
+129.06 -49.14 l
+131.1 -49.14 l
+132.42 -49.8 l
+133.8 -50.46 l
+135.18 -51.18 l
+136.5 -51.84 l
+138.54 -52.56 l
+139.92 -53.22 l
+141.3 -53.22 l
+142.62 -53.88 l
+144.66 -54.6 l
+146.04 -55.26 l
+147.42 -55.92 l
+148.74 -56.64 l
+150.78 -56.64 l
+152.16 -57.3 l
+153.48 -58.02 l
+154.86 -58.68 l
+156.9 -59.34 l
+158.28 -60.06 l
+159.6 -60.06 l
+160.98 -60.72 l
+163.02 -61.38 l
+164.4 -62.1 l
+165.72 -62.76 l
+167.1 -63.48 l
+169.14 -64.14 l
+170.46 -64.14 l
+171.84 -64.8 l
+173.22 -65.52 l
+175.26 -66.18 l
+176.58 -66.84 l
+177.96 -67.56 l
+179.34 -67.56 l
+180.66 -68.22 l
+S
+Q
+BT
+/TT10 1 Tf
+7.4515 0 0 7.5068 220.56 535.2 Tm
+0 g
+-0.006 Tc
+0.0019 Tw
+[ (le) -86 (g) -31.3 (u) -39.3 (m) -115.3 (e) -86 ( \075) 30.4 ( 1\05617 \053) 30.4 ( \055) -35.3 (0) 2.6 (\0560) -86 (1 \052) 20.8 ( d) -39.3 (e) -86 (n) -31.3 (s) -86 (it) -43.4 (y) ] TJ
+0 -1.2708 TD
+-0.0068 Tc
+0.0027 Tw
+[ (R) 79.3 (\055) -36.1 (S) 16 (q) -32.1 (u) -32.1 (a) 1.8 (r) -76.6 (e) -86.8 ( \075) 29.6 ( 0\05681) ] TJ
+ET
+q
+1 0 0 1 331.26 542.7 cm
+0 0 m
+5.4 6.18 l
+S
+1 0 0 1 -175.26 131.76 cm
+0 0 m
+1.38 -0.72 l
+2.7 -1.38 l
+4.74 -2.04 l
+6.12 -2.76 l
+7.5 -3.42 l
+8.82 -4.14 l
+10.2 -5.46 l
+12.24 -6.18 l
+13.56 -6.84 l
+14.94 -7.5 l
+16.32 -8.22 l
+18.36 -8.88 l
+19.68 -9.6 l
+21.06 -10.26 l
+22.44 -10.92 l
+24.48 -11.64 l
+25.8 -12.3 l
+27.18 -12.96 l
+28.56 -13.68 l
+30.54 -14.34 l
+31.92 -15.06 l
+33.3 -15.72 l
+34.62 -16.38 l
+36.66 -17.1 l
+38.04 -17.76 l
+39.42 -18.42 l
+40.74 -19.14 l
+42.78 -19.8 l
+44.16 -20.52 l
+45.54 -21.18 l
+46.86 -21.84 l
+48.9 -22.56 l
+50.28 -23.22 l
+51.6 -23.88 l
+52.98 -24.6 l
+54.36 -25.26 l
+56.4 -25.98 l
+57.72 -26.64 l
+59.1 -26.64 l
+60.48 -27.3 l
+62.52 -28.02 l
+63.84 -28.68 l
+65.22 -29.34 l
+66.54 -30.06 l
+68.58 -30.72 l
+69.96 -30.72 l
+71.34 -31.44 l
+72.66 -32.1 l
+74.7 -32.76 l
+76.08 -33.48 l
+77.46 -33.48 l
+78.78 -34.14 l
+80.82 -34.8 l
+82.2 -35.52 l
+83.52 -36.18 l
+84.9 -36.18 l
+86.94 -36.9 l
+88.32 -37.56 l
+89.64 -38.22 l
+91.02 -38.22 l
+93.06 -38.94 l
+94.44 -39.6 l
+95.76 -40.26 l
+97.14 -40.26 l
+98.46 -40.98 l
+100.5 -41.64 l
+101.88 -41.64 l
+103.26 -42.36 l
+104.58 -43.02 l
+106.62 -43.02 l
+108 -43.68 l
+109.38 -44.4 l
+110.7 -44.4 l
+112.74 -45.06 l
+114.12 -45.72 l
+115.44 -45.72 l
+116.82 -46.44 l
+118.86 -46.44 l
+120.24 -47.1 l
+121.56 -47.82 l
+122.94 -47.82 l
+124.98 -48.48 l
+126.36 -48.48 l
+127.68 -49.14 l
+129.06 -49.86 l
+131.1 -49.86 l
+132.42 -50.52 l
+133.8 -50.52 l
+135.18 -51.18 l
+136.5 -51.18 l
+138.54 -51.9 l
+139.92 -51.9 l
+141.3 -52.56 l
+142.62 -52.56 l
+144.66 -53.28 l
+146.04 -53.28 l
+147.42 -53.94 l
+148.74 -53.94 l
+150.78 -54.6 l
+152.16 -54.6 l
+153.48 -55.32 l
+154.86 -55.32 l
+156.9 -55.98 l
+158.28 -55.98 l
+159.6 -56.64 l
+160.98 -56.64 l
+163.02 -57.36 l
+164.4 -57.36 l
+165.72 -58.02 l
+167.1 -58.02 l
+169.14 -58.74 l
+170.46 -58.74 l
+171.84 -58.74 l
+173.22 -59.4 l
+175.26 -59.4 l
+176.58 -60.06 l
+177.96 -60.06 l
+179.34 -60.06 l
+180.66 -60.78 l
+S
+1 0 0 1 0 -114.66 cm
+0 0 m
+1.38 -0.72 l
+2.7 -0.72 l
+4.74 -1.38 l
+6.12 -2.04 l
+7.5 -2.04 l
+8.82 -2.76 l
+10.2 -2.76 l
+12.24 -3.42 l
+13.56 -3.42 l
+14.94 -4.08 l
+16.32 -4.8 l
+18.36 -4.8 l
+19.68 -5.46 l
+21.06 -6.18 l
+22.44 -6.18 l
+24.48 -6.84 l
+25.8 -6.84 l
+27.18 -7.5 l
+28.56 -8.22 l
+30.54 -8.22 l
+31.92 -8.88 l
+33.3 -9.54 l
+34.62 -9.54 l
+36.66 -10.26 l
+38.04 -10.92 l
+39.42 -11.64 l
+40.74 -11.64 l
+42.78 -12.3 l
+44.16 -12.96 l
+45.54 -12.96 l
+46.86 -13.68 l
+48.9 -14.34 l
+50.28 -15 l
+51.6 -15 l
+52.98 -15.72 l
+54.36 -16.38 l
+56.4 -17.1 l
+57.72 -17.76 l
+59.1 -17.76 l
+60.48 -18.42 l
+62.52 -19.14 l
+63.84 -19.8 l
+65.22 -20.46 l
+66.54 -20.46 l
+68.58 -21.18 l
+69.96 -21.84 l
+71.34 -22.56 l
+72.66 -23.22 l
+74.7 -23.88 l
+76.08 -24.6 l
+77.46 -25.26 l
+78.78 -25.26 l
+80.82 -25.92 l
+82.2 -26.64 l
+83.52 -27.3 l
+84.9 -27.96 l
+86.94 -28.68 l
+88.32 -29.34 l
+89.64 -30.06 l
+91.02 -30.72 l
+93.06 -31.38 l
+94.44 -32.1 l
+95.76 -32.76 l
+97.14 -33.42 l
+98.46 -34.14 l
+100.5 -34.8 l
+101.88 -35.52 l
+103.26 -36.18 l
+104.58 -36.84 l
+106.62 -37.56 l
+108 -38.22 l
+109.38 -38.88 l
+110.7 -39.6 l
+112.74 -40.26 l
+114.12 -40.98 l
+115.44 -41.64 l
+116.82 -42.3 l
+118.86 -43.02 l
+120.24 -43.68 l
+121.56 -44.34 l
+S
+Q
+q
+1 0 0 1 277.56 515.46 cm
+0 0 m
+1.38 -0.72 l
+3.42 -1.38 l
+4.8 -2.76 l
+6.12 -3.42 l
+7.5 -4.14 l
+9.54 -4.8 l
+10.86 -5.46 l
+12.24 -6.18 l
+13.62 -6.84 l
+14.94 -7.56 l
+16.98 -8.88 l
+18.36 -9.6 l
+19.74 -10.26 l
+21.06 -10.92 l
+23.1 -11.64 l
+24.48 -12.3 l
+25.86 -13.68 l
+27.18 -14.34 l
+29.22 -15.06 l
+30.6 -15.72 l
+31.92 -16.38 l
+33.3 -17.76 l
+35.34 -18.48 l
+36.72 -19.14 l
+38.04 -19.8 l
+39.42 -20.52 l
+41.46 -21.84 l
+42.84 -22.56 l
+44.16 -23.22 l
+45.54 -23.94 l
+47.58 -25.26 l
+48.9 -25.98 l
+50.28 -26.64 l
+51.66 -27.3 l
+53.7 -28.68 l
+55.02 -29.4 l
+56.4 -30.06 l
+57.78 -30.72 l
+59.1 -32.1 l
+S
+Q
+/Cs6 CS
+1 0.60392 0 SCN
+q
+1 0 0 1 156 625.32 cm
+0 0 m
+1.38 -0.72 l
+2.7 -0.72 l
+4.74 -1.38 l
+6.12 -1.38 l
+7.5 -2.04 l
+8.82 -2.04 l
+10.2 -2.76 l
+12.24 -2.76 l
+13.56 -2.76 l
+14.94 -3.42 l
+16.32 -3.42 l
+18.36 -4.14 l
+19.68 -4.14 l
+21.06 -4.8 l
+22.44 -4.8 l
+24.48 -5.46 l
+25.8 -5.46 l
+27.18 -6.18 l
+28.56 -6.18 l
+30.54 -6.84 l
+31.92 -6.84 l
+33.3 -7.5 l
+34.62 -7.5 l
+36.66 -8.22 l
+38.04 -8.22 l
+39.42 -8.88 l
+40.74 -8.88 l
+42.78 -9.6 l
+44.16 -9.6 l
+45.54 -10.26 l
+46.86 -10.26 l
+48.9 -10.92 l
+50.28 -10.92 l
+51.6 -11.64 l
+52.98 -11.64 l
+54.36 -12.3 l
+56.4 -12.3 l
+57.72 -12.96 l
+59.1 -12.96 l
+60.48 -13.68 l
+62.52 -13.68 l
+63.84 -14.34 l
+65.22 -14.34 l
+66.54 -15 l
+68.58 -15 l
+69.96 -15.72 l
+71.34 -15.72 l
+72.66 -16.38 l
+74.7 -16.38 l
+76.08 -17.1 l
+77.46 -17.1 l
+78.78 -17.76 l
+80.82 -17.76 l
+82.2 -17.76 l
+83.52 -18.42 l
+84.9 -18.42 l
+86.94 -19.14 l
+88.32 -19.14 l
+89.64 -19.8 l
+91.02 -19.8 l
+93.06 -20.46 l
+94.44 -20.46 l
+95.76 -21.18 l
+97.14 -21.18 l
+98.46 -21.84 l
+100.5 -21.84 l
+101.88 -22.56 l
+103.26 -22.56 l
+104.58 -23.22 l
+106.62 -23.22 l
+108 -23.88 l
+109.38 -23.88 l
+110.7 -24.6 l
+112.74 -24.6 l
+114.12 -25.26 l
+115.44 -25.26 l
+116.82 -25.92 l
+118.86 -25.92 l
+120.24 -26.64 l
+121.56 -26.64 l
+122.94 -27.3 l
+124.98 -27.3 l
+126.36 -28.02 l
+127.68 -28.02 l
+129.06 -28.68 l
+131.1 -28.68 l
+132.42 -29.34 l
+133.8 -29.34 l
+135.18 -30.06 l
+136.5 -30.06 l
+138.54 -30.72 l
+139.92 -30.72 l
+141.3 -31.38 l
+142.62 -31.38 l
+144.66 -32.1 l
+146.04 -32.1 l
+147.42 -32.76 l
+148.74 -32.76 l
+150.78 -32.76 l
+152.16 -33.48 l
+153.48 -33.48 l
+154.86 -34.14 l
+156.9 -34.14 l
+158.28 -34.8 l
+159.6 -34.8 l
+160.98 -35.52 l
+163.02 -35.52 l
+164.4 -36.18 l
+165.72 -36.18 l
+167.1 -36.84 l
+169.14 -36.84 l
+170.46 -37.56 l
+171.84 -37.56 l
+173.22 -38.22 l
+175.26 -38.22 l
+176.58 -38.94 l
+177.96 -38.94 l
+179.34 -39.6 l
+180.66 -39.6 l
+S
+Q
+BT
+7.4515 0 0 7.5068 220.56 572.04 Tm
+-0.006 Tc
+0.0019 Tw
+[ (le) -86 (g) -31.3 (u) -39.3 (m) -115.3 (e) -86 ( \075) 30.4 ( 1\05624 \053) 30.4 ( \055) -35.3 (0) 2.6 (\0560) -86 (1 \052) 20.8 ( d) -39.3 (e) -86 (n) -31.3 (s) -86 (it) -43.4 (y) ] TJ
+T*
+-0.0068 Tc
+0.0027 Tw
+[ (R) 79.3 (\055) -36.1 (S) 16 (q) -32.1 (u) -32.1 (a) 1.8 (r) -76.6 (e) -86.8 ( \075) 29.6 ( 0\05678) ] TJ
+ET
+0 G
+q
+1 0 0 1 331.26 579.6 cm
+0 0 m
+5.4 6.12 l
+S
+Q
+/Cs6 CS
+1 0.60392 0 SCN
+q
+1 0 0 1 156 662.16 cm
+0 0 m
+1.38 -0.66 l
+2.7 -1.38 l
+4.74 -1.38 l
+6.12 -2.04 l
+7.5 -2.76 l
+8.82 -2.76 l
+10.2 -3.42 l
+12.24 -3.42 l
+13.56 -4.08 l
+14.94 -4.8 l
+16.32 -4.8 l
+18.36 -5.46 l
+19.68 -6.12 l
+21.06 -6.12 l
+22.44 -6.84 l
+24.48 -7.5 l
+25.8 -7.5 l
+27.18 -8.22 l
+28.56 -8.22 l
+30.54 -8.88 l
+31.92 -9.54 l
+33.3 -9.54 l
+34.62 -10.26 l
+36.66 -10.26 l
+38.04 -10.92 l
+39.42 -11.58 l
+40.74 -11.58 l
+42.78 -12.3 l
+44.16 -12.3 l
+45.54 -12.96 l
+46.86 -12.96 l
+48.9 -13.68 l
+50.28 -13.68 l
+51.6 -14.34 l
+52.98 -15 l
+54.36 -15 l
+56.4 -15.72 l
+57.72 -15.72 l
+59.1 -16.38 l
+60.48 -16.38 l
+62.52 -17.04 l
+63.84 -17.04 l
+65.22 -17.76 l
+66.54 -17.76 l
+68.58 -18.42 l
+69.96 -18.42 l
+71.34 -19.14 l
+72.66 -19.14 l
+74.7 -19.8 l
+76.08 -19.8 l
+77.46 -19.8 l
+78.78 -20.46 l
+80.82 -20.46 l
+82.2 -21.18 l
+83.52 -21.18 l
+84.9 -21.84 l
+86.94 -21.84 l
+88.32 -22.5 l
+89.64 -22.5 l
+91.02 -22.5 l
+93.06 -23.22 l
+94.44 -23.22 l
+95.76 -23.88 l
+97.14 -23.88 l
+98.46 -23.88 l
+100.5 -24.6 l
+101.88 -24.6 l
+103.26 -25.26 l
+104.58 -25.26 l
+106.62 -25.26 l
+108 -25.92 l
+109.38 -25.92 l
+110.7 -25.92 l
+112.74 -26.64 l
+114.12 -26.64 l
+115.44 -27.3 l
+116.82 -27.3 l
+118.86 -27.3 l
+120.24 -27.96 l
+121.56 -27.96 l
+122.94 -27.96 l
+124.98 -28.68 l
+126.36 -28.68 l
+127.68 -28.68 l
+129.06 -29.34 l
+131.1 -29.34 l
+132.42 -29.34 l
+133.8 -29.34 l
+135.18 -30.06 l
+136.5 -30.06 l
+138.54 -30.06 l
+139.92 -30.72 l
+141.3 -30.72 l
+142.62 -30.72 l
+144.66 -30.72 l
+146.04 -31.38 l
+147.42 -31.38 l
+148.74 -31.38 l
+150.78 -32.1 l
+152.16 -32.1 l
+153.48 -32.1 l
+154.86 -32.1 l
+156.9 -32.76 l
+158.28 -32.76 l
+159.6 -32.76 l
+160.98 -32.76 l
+163.02 -33.42 l
+164.4 -33.42 l
+165.72 -33.42 l
+167.1 -33.42 l
+169.14 -34.14 l
+170.46 -34.14 l
+171.84 -34.14 l
+173.22 -34.14 l
+175.26 -34.14 l
+176.58 -34.8 l
+177.96 -34.8 l
+179.34 -34.8 l
+180.66 -34.8 l
+S
+1 0 0 1 0 -73.68 cm
+0 0 m
+1.38 0 l
+2.7 -0.72 l
+4.74 -0.72 l
+6.12 -0.72 l
+7.5 -1.38 l
+8.82 -1.38 l
+10.2 -1.38 l
+12.24 -2.1 l
+13.56 -2.1 l
+14.94 -2.1 l
+16.32 -2.76 l
+18.36 -2.76 l
+19.68 -2.76 l
+21.06 -3.42 l
+22.44 -3.42 l
+24.48 -3.42 l
+25.8 -4.14 l
+27.18 -4.14 l
+28.56 -4.14 l
+30.54 -4.8 l
+31.92 -4.8 l
+33.3 -4.8 l
+34.62 -5.46 l
+36.66 -5.46 l
+38.04 -6.18 l
+39.42 -6.18 l
+40.74 -6.18 l
+42.78 -6.84 l
+44.16 -6.84 l
+45.54 -7.56 l
+46.86 -7.56 l
+48.9 -8.22 l
+50.28 -8.22 l
+51.6 -8.22 l
+52.98 -8.88 l
+54.36 -8.88 l
+56.4 -9.6 l
+57.72 -9.6 l
+59.1 -10.26 l
+60.48 -10.26 l
+62.52 -10.92 l
+63.84 -10.92 l
+65.22 -11.64 l
+66.54 -11.64 l
+68.58 -12.3 l
+69.96 -12.3 l
+71.34 -13.02 l
+72.66 -13.02 l
+74.7 -13.68 l
+76.08 -13.68 l
+77.46 -14.34 l
+78.78 -14.34 l
+80.82 -15.06 l
+82.2 -15.06 l
+83.52 -15.72 l
+84.9 -15.72 l
+86.94 -16.38 l
+88.32 -16.38 l
+89.64 -17.1 l
+91.02 -17.1 l
+93.06 -17.76 l
+94.44 -18.48 l
+95.76 -18.48 l
+97.14 -19.14 l
+98.46 -19.14 l
+100.5 -19.8 l
+101.88 -19.8 l
+103.26 -20.52 l
+104.58 -21.18 l
+106.62 -21.18 l
+108 -21.84 l
+109.38 -21.84 l
+110.7 -22.56 l
+112.74 -23.22 l
+114.12 -23.22 l
+115.44 -23.94 l
+116.82 -24.6 l
+118.86 -24.6 l
+120.24 -25.26 l
+121.56 -25.98 l
+122.94 -25.98 l
+S
+Q
+q
+1 0 0 1 278.94 562.5 cm
+0 0 m
+2.04 -0.66 l
+3.42 -0.66 l
+4.74 -1.32 l
+6.12 -2.04 l
+8.16 -2.04 l
+9.48 -2.7 l
+10.86 -3.42 l
+12.24 -3.42 l
+13.56 -4.08 l
+15.6 -4.74 l
+16.98 -5.46 l
+18.36 -5.46 l
+19.68 -6.12 l
+21.72 -6.78 l
+23.1 -6.78 l
+24.48 -7.5 l
+25.8 -8.16 l
+27.84 -8.16 l
+29.22 -8.88 l
+30.54 -9.54 l
+31.92 -10.2 l
+33.96 -10.2 l
+35.34 -10.92 l
+36.66 -11.58 l
+38.04 -11.58 l
+40.08 -12.24 l
+41.46 -12.96 l
+42.78 -13.62 l
+44.16 -13.62 l
+46.2 -14.34 l
+47.52 -15 l
+48.9 -15.66 l
+50.28 -15.66 l
+52.32 -16.38 l
+53.64 -17.04 l
+55.02 -17.7 l
+56.4 -18.42 l
+57.72 -18.42 l
+S
+Q
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 BIO\056G0\05603\0561 \055 Biology \055 Final Year Undergraduate \055 Female \055 Native Speaker \055 Research Paper) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(7) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+25 0 obj
+[ /ICCBased 26 0 R ]
+endobj
+26 0 obj
+<<
+/Length 2598
+/N 3
+/Filter /FlateDecode
+/Alternate /DeviceRGB
+>>
+stream
+hﬁúñwTT◊áœΩwz°Õ0“zì.0ÄÙ. Qf  √Mlà®@DEê†Ä£°H¨àb!(®`HPb0ä®®dF÷J|yyÔÂÂ˜«Ωﬂ⁄gÔs˜Ÿ{üµ. $O./ñ ô'‡z8”WÖG–±˝ xÄ¶ 0YÈ©æAÓ¡@$/7z∫»	¸ãﬁH¸æeËÈOßÉˇO“¨Tæ  »_ƒÊlN:Kƒ˘"N §äÌ3"¶∆$äFâô/JPƒrbé[‰•ü}ŸQÃÏd[ƒ‚úSŸ…l1˜àx{Üê#bƒGƒ\N¶àoãX3IòÃÒ[ql2áô ä$∂8¨xõàòƒtÒr p§∏/8Êp≤‚Cπ§§fÛπqÒ∫.KènjmÕ†{r2ì8Å°?ìï»‰≥È.)…©L^6 ãg˛,qmÈ¢"[öZ[Zöô~Q®ˇ∫¯7%ÓÌ"Ω
+¯‹3à÷˜áÌØ¸RÍ `Ãäj≥Î[Ã~ :∂ wˇõÊ! $E}køÒ≈yh‚yâRmåç333ç∏ñë∏†øÎ:¸}Ò=#ÒvøóáÓ âe
+ìtq›X)I)B>==ï…‚–ˇ<ƒˇ8ØÛX»âÂ9<QD®h ∏º8QªylÆÄõ¬£syˇ©âˇ0ÏOZúkë(ıü 5 H›†‰Á>Ä¢yP‹ıﬂ˚ÊÉ‚õ¶:±8˜ü˝˚Æpâ¯ëŒç˚ÁLg	˘ãk‚k	–Ä $»†tÅ!0V¿87∞¯Å`÷à…Ä2A.ÿ
+@ÿˆÇJPÍA#h'@8.ÄÀ‡:∏	ÓÄ`åÉÁ`ºÛa!2DÅ‰!UH2ÄÃ dπA>P ECqBπ–®*Ö*°Z®˙:]ÄÆB–=höÇ~Öﬁ√LÇ©∞2¨√ÿ	ˆÜÉ·5púÁ¿˘N∏ÆÉè¡Ì¯:|Åü√≥@àQC‚Ç¯!H,¬G6 ÖH9Rá¥ ]H/rA¶ëw(äÇ¢£Q∂(OTäÖJCm@£*QGQÌ®‘-‘(jı	MF+°–6h/Ù*t:]Ä.G7†€–ó–w–„Ë7ÜÜ—¡Xa<1·òÃ:L1Ê ¶s3Ä√Ãb±Xy¨÷ÎáebÿÏ~Ï1Ï9Ï v˚Gƒ©‚ÃpÓ∏óá+«5·Œ‚q∏yº^oÉ˜√≥ÒŸ¯|=æ?éü'HtvÑ`Ba3°Ç–B∏DxHxE$’â÷ƒ "ó∏âXA<NºB%æ#…êÙI.§Híê¥ìtÑtûtèÙäL&kì…dy'πë|ë¸ò¸VÇ"a$·%¡ñÿ(Q%—.1(ÒB/©%È$πV2G≤\Ú§‰…i)ºî∂îãSjÉTï‘)©a©Yiä¥©¥üt≤t±tìÙUÈI¨å∂åõ[&_Ê∞ÃEô1
+B—†∏PXî-îz % 8C’°zQ®E‘o®˝‘YŸe≤°≤Y≤U≤gdGhMõÊEK¢ï–N–ÜhÔó(/qZ¬Y≤cIÀí¡%srärérπBπVπ;rÔÂÈÚnÚâÚªÂ;‰)†Ù2*\RòV§*⁄*≤O(ﬁWÇïÙïï÷)VÍSöUVQˆPNUﬁØ|QyZÖ¶‚®í†R¶rVeJï¢jØ U-S=ß˙å.Kw¢'—+Ë=Ù5%5O5°Z≠Zø⁄º∫ézàzûz´˙#ÇC#V£L£[cFSU”W3W≥YÛæ^ã°ØµO´WkN[G;L{õváˆ§éúéóNéN≥ŒC]≤ÆÉnönùÓm=åC/QÔÄﬁM}XﬂB?^øJˇÜl`i¿58`0∞Ω‘z)oi›“aCí°ìaÜa≥·®Õ»«(œ®√ËÖ±¶qÑÒn„^„O&&I&ı&LeLWòÊôvô˛j¶o∆2´2ªmN6w7ﬂhﬁi˛rô¡2Œ≤ÉÀÓZP,|-∂Yt[|¥¥≤‰[∂XNYiZE[U[3®F1„ä5⁄⁄Ÿz£ıiÎw6ñ6õ6øÿ⁄&⁄6ŸN.◊YŒY^ø|ÃN›éiWk7bO∑è∂?d?‚†Ê¿t®sx‚®·»vlpúp“sJp:ÊÙ¬ŸƒôÔ‹Ê<Áb„≤ﬁÂº+‚Í·ZË⁄Ô&„‚VÈˆÿ]›=ŒΩŸ}∆√¬cù«yO¥ß∑Ánœa/e/ñW£◊Ã
+´ÎWÙxìºÉº+Ωü¯Ë˚}∫|aﬂæ{|Æ‘Z…[Ÿ·¸º¸ˆ¯=Ú◊ÒOÛˇ> ‡P4–407∞7à‘Ù&ÿ9∏$¯Aànà0§;T242¥1t.Ã5¨4ldïÒ™ı´Æá+Ñs√;#∞°≥´›VÔ]=iY9¥FgM÷ö´k÷&≠=%≈å:çéãnä˛¿Ùc÷1gcºb™cfX.¨}¨ÁlGv{äc«)ÂLƒ⁄≈ñ∆N∆Ÿ≈Ìâõäwà/èüÊ∫p+π/<jÊ˝è$.$Ö%µ&„í£ìOÒdxâºûïî¨îÅTÉ‘Ç‘ë4õ¥Ωi3|o~C:îæ&ΩS@˝Lı	uÖ[Ö£ˆUo3C3OfIgÒ≤˙≤ı≥wdO‰∏Á|ΩµéµÆ;W-wsÓËzßıµ†1∫7jlÃﬂ8æ…c”—ÕÑÕâõ»3…+Õ{Ω%lKWær˛¶¸±≠[õ$
+¯√€l∑’lGmÁnÔﬂaæcˇéOÖÏ¬kE&EÂEäY≈◊æ2˝™‚´Öù±;˚K,KÓ¬Ï‚Ì⁄Ì∞˚h©tiNÈÿﬂ=ÌeÙ≤¬≤◊{£ˆ^-_V^≥è∞O∏o§¬ß¢søÊ˛]˚?T∆Wﬁ©rÆj≠V™ﬁQ=wÄ}`†„¡ñÂö¢ö˜á∏áÓ÷z‘∂◊i◊ï∆Œ8¸¥>¥æ˜k∆◊ç
+Eèéå<⁄”h’ÿÿ§‘T“7õßéEª˘çÎ7ù-Ü-µ≠¥÷¢„‡∏¯≥o£ø:·}¢˚$„dÀwZﬂU∑Q⁄
+€°ˆÏˆôé¯éëŒŒÅS+NuwŸvµ}oÙ˝ë”jß´Œ»û)9K8õv·\ŒπŸÛ©Áß/ƒ]ÎéÍ~pq’≈€==˝óº/]πÏ~˘bØSÔπ+vWN_µπzÍ„Z«uÀÎÌ}}m?X¸–÷oŸﬂ~√ÍFÁMÎõ]ÀŒ:^∏ÂzÎÚmØ€◊Ô¨º302tw8rx‰.˚Ó‰Ω§{/Ôg‹ü∞È!˙a·#©GÂèï◊˝®˜cÎàÂ»ôQ◊—æ'AOå±∆ûˇî˛”áÒ¸ß‰ßÂ™çìfìßß‹ßn>[˝l¸yÍÛ˘ÈÇü•Æ~°˚‚ª_ÈõY53˛íˇr·◊‚WÚØéº^ˆ∫{÷ˆÒõ‰7ÛsÖoÂﬂ}«x◊˚>Ï˝ƒ|ÊÏáäèzª>yz∏êº∞õ  ˜ÑÛ˚
+
+endstream
+endobj
+27 0 obj
+<<
+/FirstChar 32
+/Widths [ 278 0 0 0 0 889 0 0 0 0 0 0 0 0 278 0 556 556 556 0 556 556 556 0 0 556 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 278 0 0 556 0 0 0 667 0 722 0 0 0 0 0 0 0 0 0 0 0 0 0 0 556 0 500 556 556 0 556 556 222 0 0 222 0 556 556 0 0 333 500 278 556 500 722 ]
+/Encoding /WinAnsiEncoding
+/Type /Font
+/BaseFont /ArialMT
+/LastChar 119
+/FontDescriptor 28 0 R
+/Subtype /TrueType
+>>
+endobj
+28 0 obj
+<<
+/FontBBox [ -665 -325 2000 1006 ]
+/StemV 88
+/Descent -211
+/XHeight 515
+/Flags 32
+/FontStretch /Normal
+/Ascent 905
+/FontName /ArialMT
+/Type /FontDescriptor
+/FontWeight 400
+/ItalicAngle 0
+/FontFamily (Arial)
+/CapHeight 718
+>>
+endobj
+29 0 obj
+<<
+/Encoding /Identity-H
+/Type /Font
+/DescendantFonts [ 30 0 R ]
+/BaseFont /BHNIAO+Wingdings-Regular
+/Subtype /Type0
+>>
+endobj
+30 0 obj
+<<
+/CIDSystemInfo <<
+/Ordering (Identity)
+/Registry (Adobe)
+/Supplement 0
+>>
+/DW 1000
+/W [ 36 [ 587 ] ]
+/Type /Font
+/BaseFont /BHNIAO+Wingdings-Regular
+/CIDToGIDMap /Identity
+/FontDescriptor 31 0 R
+/Subtype /CIDFontType2
+>>
+endobj
+31 0 obj
+<<
+/FontBBox [ 0 -211 1359 899 ]
+/StemV 0
+/FontFile2 32 0 R
+/Descent -210
+/Flags 4
+/FontStretch /Normal
+/Ascent 898
+/FontName /BHNIAO+Wingdings-Regular
+/Type /FontDescriptor
+/FontWeight 400
+/ItalicAngle 0
+/FontFamily (Wingdings)
+/CapHeight 0
+>>
+endobj
+32 0 obj
+<<
+/Length 3806
+/Filter /FlateDecode
+/Length1 6828
+>>
+stream
+hﬁÏX{pì◊ï?˜{K~…OÏœ˛bCñçm‰áåC+ ÒXK∂dÀ`êëÖíò Ö»ú‚“iZ^mHÄ‡‰3&©aòñMıªÕ2ìdõ%õ§]w”È∆ùf >&ˆûÔ˚dhì∂3ù›˝cø„ﬂ=ÁûsÓπÁ‹{?È @  ˙ÅÜ¸µMñÎç…jÆ"÷µı≈◊,ÁŒê vY{w«∂ﬂY.pı LKGW_{¬–ùxÄX‘—Â>Ø€Û7⁄õRÇ8æÿáä∏x˝a =⁄·ﬂ∂‡ì5Â°Á±ˇ˙ÏÚ∑πèo=æ ·Œqcõ˚…nz∑«c∑ª∑yﬂ#3u Iò˝ÕÓÄ∑{ÌO≤Z ¢7aøüJÜÄ≈\~ ¸5I≥<¥©æ‰Y”$ä`˚≠¯€.õºVﬁJ‰~¯?˚‹˙Rã©ç8®=‘îæ≠ÿæà æ√0Lçi>PàêQ™ÖOÿ	(ÄÄ™/Ñ›ÿV¬øì≥5U≥Z—ﬁäﬁ◊ëØD[r¢∆&É*ˆaÏœ®1Í-Í-’∫
+„÷*QcÏÍïx{·5¯ê\Cü]pmó·ñ2
+#√‹#ë»/…UèZ¢Ãèq∂¢˜0Ê˚x˛ç$êï$DÆ¢OµGÕEõ≠}Æ#›R£(¥Üt?	êÁ1Ê$ESE’O§NQ2ıÌdV≤\W¬waû˙X¨Pâˆ4·Ã≠∞c.™FO(“@öâè#ß0áÎd
+ÈïK≠¬UWË¥ãâd~≈neøã4¡=Œ8åÕ) B&,¡™Ï8GÊÏÅ-îJªêv„Z>'·úÜs0
+W‡Øï9·6|˜pubêî∫JH)Yè‰D
+êg»>\èÅ˚Ë˘#W0øõ‰]*´÷®´◊≤‹KΩH]¢nRK}DMRø¶>£Å÷—-t+›Cü°œ”o”o3’Ã)Ê4ÛÛKXY]©8.Å€Ã Ú:~+øèÅ?Œø©œ#÷ïÉu’¬z¨™+Ÿ!§Ó⁄(“%xi~≠‘Å4ÆD°RRI™»„HN≤Å∏»6“Cûú´Ë%Ú29K.a-Ô"˝å‹&?'ˇJ~£“=ä£í®Ïπ˙Í©&j=µï:F}ã˙ı*û»1Í*ı3ÍC¨qí∫ã5F–qt"ùJ€È*§fz#˝$Ωó°ﬂ¢o”S∏oëÃ£ÃJÊqf3÷~Éôd~Ö;I±4õ…±Àê|ÏvˆvÄ=Å'zäù‚"’Uâ„‚πÂ‹Ó$7∆Ωœ}Œ'ÚI|RoÂõ¯.æó?œOÚüte∫N]@üÁ!æˇ–€˚ûÓQõ9§ê€xv–1Ë%*Ô…wÈ:©1%;æâ,ƒù˙'∏GÎ†éπÎÈç–≈∂“¸ßpñÙ0{»´t\Ä3|/πJªË)˙õ…-◊÷ìzë>œ˜Ò.˛ÃÙ}îıÒy§å g©U¯FH¸é‹Öø¬ôÉ‘b∏œ√A“Hæk◊©42¿~óæ»ú¢ÌÏ3dÓ†âù†˜C$B$,Ñ<Î,$(∏∂í•%K
+¨˘ñº‹úÏ≈ãfô3ë2“≈¥‘ÛM)ÛíçIâ	Òq±ÜòË®»ΩN‡9ñ°)9v© % fóÃò•ÍÍ\•/πQ·æO·íETU=Ë#ã.’M|–”ÜûÌy⁄4O€ú'1à+`EnéhóD˘Ô*%qúlhp†|®RräÚî*ØQe∆¨v¢∞ìûé#D{≤ØRîâK¥ÀUΩæê›UâÒF#ÙRÖWüõ£˙#Pí´§ÓQRµí®Ue_6JÅÖY…µR•]Æë*ïd:”Óˆ»ı{•)=›ôõ#ìä6©U©\é…V]†BùFÊ*d^ùFÏT Åq4ÁZhp‹ ≠ÆÏHè‰qor»¥€©Ãõ-Øñ*Â’OM&ÁÊåìóõ≤Æbú@≥„2‘ŒÙè÷ÙWV:ïŸ‚*Tw#∫üö4—!{rß®tC°¢|™¡qø5]iùNöõS◊ËH«¨%˚†®î—ËP+¿†$ŸÇI*:•L≠`ØdW4Æ-¢¨ì %_hã7+%$Cc_˙≈îZ€Âôè°÷.ÜöR∫º $9›ïÛG ‘ÿ7Vck¥‰Êåbµïçé	ëQ˜ﬁ9õ*©ÓäÑYœ.5Q2íjà»bõàô8$ô \™4ﬁ•j[än¯8	Æh'Æü+dX¶lõiêƒ–]¿É M}˙†∆÷pôÜª†à qô;rhüïÂÏlyÒbÂ§∏µòŸJµ_îõ”+◊I›QÆ√%Ézr.≥‡íßß+ª<0nÉVÏ»˝≠/B´È"ÿ,ŸNôr)ñk≥ñƒ«Kˇ¨en∏K¬„|	îã`¢,òÁ˛bIÒvﬂ2ô$}ÖŸ´ŸÒı±ã£õ™wò›°ìŸt‚÷T·´
+UIbU»rèœÙ∑J¢A
+ç÷’Ö∫ÌÆŸí∆gÆòd€†”GpQÂBm5‰¯
+m¢úöDôhg.(y÷iºFÃº≠ˇHÕÏ˛ÁÄzô„ÇÇïP´[√˙Nƒ5®ÂÕ0¨ª
+#Ùy∏.\Ä>Ft1a¥hà8ÄÑ·:åË#Ï75(æåqmxÉ·øµ¬)åπÂtÕÆBëW£¡å¡Á¿Ò^¸Ûè≈ü˚!¨õÖœËWç∫õ8«õh7!"P∑u{ê'¬0W√≥s±ˇ∆sÊ6¢>1ú«b-ùcaﬁ<∆.#«˙¯'/`ø˘v≠Va?éy;åÈ≥· Ékß`v.\œ⁄á∞ÙÏBü]≠≈_x°œi5´Û<åì˛ò£¯MﬁÔCa€-îc˛`l§ı!›Å/˜˝” ¥>º€⁄˘µ~ÙûON€suﬂå˚sÚ{aÑ˚\—ÉBÊÏˇı ÊÙª·∫eèUπ˘}†oCùm¬jÿ"°™
+kàãl’‚8U|±∫ Ÿ^ïë{UcÁ4vVcØhÏ{;≠±ì´—Xµ∆Vk¨\c6ç≠‘ÿ
+çïjå”£1Zcƒ∂˘à€àDºá¯‚Mƒà◊#àà≥àW''«ÉàΩà6DãÛu-Ùà∆ŒkÏeçù—ÿK;°±JçïiÏQç-’Ø1Vcî∆¿fC˛>‚]ƒ‚'ààÎàÔ#.!∆Ø!N!æéËCx™t	∫í°q“k´·áNÛCG˘°C¸êüÍ‚á⁄˘!/?¥â⁄¿9˘!ˇàê!àB™0_HíÖ$!AàB¥)ËA‡F†<£r<]G’5ïì:˘Z‘µäÚÔö§q¢oÿ ≥R9ë„Í†Æπ<Y^ö-S’õ«8ô%‰~ìrÈ∏ÑÃÏ?d
+sßí≤ˇI~†WWﬂw“H	ÿéÒi?ÊmjáTÌê¢Rµ…‰b=‘π\ ˚´í˝ß>ƒﬁ©î[Ô†‹Y±I„cTÑÎqô“ùÂIÜÓïjqÀ”ìü1]a bG‡wo$^Ê¢ä)∑,∑L1·7ñbäVÓyaSÚ3À”MW»Ÿ∞…ÄÍX\J¸]âﬂmt?~÷”X§dã·ﬂ!Ã;‰{ Ã∞3ÙeÚK ÀÙîa
+V˝[k~alzlfzlz?ü˜S0Ïƒ.Ìg& ÔÎ#3ü0Wâ7˘xé¿IRh´m]`.Æh`◊7Ã€kà(X≤Æ’À NhÏ{j◊≥B‡iKÂÍçÃ^üqço—NˇÄo€∑}Å∏™Õå¡w¥‘'±‰i_`€Q„"è@ö-Ü˝â%µ÷œnnp∑,∏BñC’¯fq–lniùÌ⁄*ãã=[:o<·7≠àcÖù}t¬± gÉ‰k¡ÑA—li∫◊Y™Ç÷]Avﬁ∆†iK∞˛X0™6òì¿ä¶√-nb’Â\¶  2e,5`Â•ñ)K∏Q[çJc„å•±ÿñ*¿?√øL*ÌÁ*[,XÖQp†aJ	˜E£6^E© -÷¸ÃDN »*2gôãäÃEKäå_∞:,««cãø~x:)—òd‰mñ2∏ƒîìåÒà¢¯‚¢%äéß„ãKäK0^VVÇQqëî»Y o'e&Ni≤îa∆ƒ§¬Ç:+…à=åëıPüNﬁ”Ò\ßî≥<:À-F-…[D»éå•%Î˚wî5dïdxí∆Yßß{≈¬öÂô›Ø rß&ÁßeÏkV∞zûŒﬁqsîäŒè©≤d≈¶H\Nf^FRT"ÕnÚ:õÔ-í2SL…YñyÛ.ßÃ7cvÊ‘ÃƒƒW_(,Ï69ûø8%/W∑ÿXR\</&*ÅúyZ*ZÚ˙t)qﬁ(ŒZ‘?Ω∑™?{]Â E~æ?55652qAÙtû∏zÕ	“ø33)±†}zﬂÁFﬂãQ…Û"_9b‘•'⁄÷<jKåñ\÷‘íí§ºº•è∏´uÜNgFÂlw§•-*my¬îíFVî„
+ólXù2O‘ÓàÊøë”ˇOˇ[§Óc$õªˇwÑeí±ß… √2áÚ©∞ÃC)å£'0:Ï}üÖe"πñ)à&≥zÚ…LXf ü≤ÑeÂñ∞ÃCÄ:R·ÔÓtv¯Ç‚9—ZZZêãMë∏¶≥-‡ÔÒ∑≈
+†;O,ÎÍØ±—€„Ùz=y⁄Ä|eÄUlÓÎˆäM˛Æù¡Nˇˆû±f{€U^˝XMŸ⁄Ïıù€;<àû‹Fo«Œ.w‡œ’7˚º"*=˛'zƒ.á_ÏÏ›b0‡ˆx∑π[E˚CE¯n%∑<® ?.w†:¿A·¬äK\
+êñäP∑}⁄–”=àv’W¿y(óAíçs±z‘ûπΩz±ı®û_Ãê?7ÉuÕòI7zâ–Ñqª`'∆ËDi;F»AmJm÷\ÂPè·∏2XŸ∞Ω∑£ø'Ã{‘8O∏q‘ÛŒ˝ˆo∆ î’–<=∏O®uv°‘ÅQØÙ›à ˙ª—«€‘±[QßÏ“WÔõ_5ª y⁄[¯	8—¯P*EıßLã˙w≈Nı√t„s#-1+Ó
+&A}%œåùV¯ËM˛ÄÈz˝GºU}«√o¯0 Á\◊
+
+endstream
+endobj
+33 0 obj
+<<
+/FirstChar 32
+/Widths [ 278 0 0 0 0 0 0 0 0 0 389 584 0 333 278 0 556 556 556 0 556 0 0 556 556 0 0 0 0 584 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 722 667 0 0 0 0 0 0 0 0 0 0 0 0 0 556 611 0 611 556 0 611 611 278 0 0 278 889 611 611 0 611 389 556 333 611 0 0 0 556 500 ]
+/Encoding /WinAnsiEncoding
+/Type /Font
+/BaseFont /Arial-BoldMT
+/LastChar 122
+/FontDescriptor 34 0 R
+/Subtype /TrueType
+>>
+endobj
+34 0 obj
+<<
+/FontBBox [ -628 -376 2000 1010 ]
+/StemV 138
+/Descent -211
+/XHeight 515
+/Flags 32
+/FontStretch /Normal
+/Ascent 905
+/FontName /Arial-BoldMT
+/Type /FontDescriptor
+/FontWeight 700
+/ItalicAngle 0
+/FontFamily (Arial)
+/CapHeight 718
+>>
+endobj
+xref
+0 35
+0000000000 65535 f 
+0000000009 00000 n 
+0000000105 00000 n 
+0000000206 00000 n 
+0000000255 00000 n 
+0000000618 00000 n 
+0000000981 00000 n 
+0000001332 00000 n 
+0000001671 00000 n 
+0000002010 00000 n 
+0000002373 00000 n 
+0000002793 00000 n 
+0000008248 00000 n 
+0000008333 00000 n 
+0000008863 00000 n 
+0000009127 00000 n 
+0000009528 00000 n 
+0000009798 00000 n 
+0000010211 00000 n 
+0000010488 00000 n 
+0000015617 00000 n 
+0000021010 00000 n 
+0000026405 00000 n 
+0000027403 00000 n 
+0000029180 00000 n 
+0000045497 00000 n 
+0000045534 00000 n 
+0000048233 00000 n 
+0000048631 00000 n 
+0000048874 00000 n 
+0000049010 00000 n 
+0000049250 00000 n 
+0000049511 00000 n 
+0000053405 00000 n 
+0000053818 00000 n 
+trailer
+<<
+/Size 35
+/Root 3 0 R
+/Info 2 0 R
+>>
+startxref
+54067
+%%EOF

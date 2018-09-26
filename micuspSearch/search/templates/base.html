@@ -1,0 +1,682 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+
+<link type="text/css" rel="stylesheet" href="/search/css/main.css" />
+
+
+
+<!-- DEBUG SCRIPT FOR IE -->
+<!-- <script type="text/javascript" src="http://getfirebug.com/releases/lite/1.2/firebug-lite-compressed.js"> </script> -->
+
+<!-- standard compliant IE7 - not sure if we need? -->
+<!--[if lt IE 7]><script src="http://ie7-js.googlecode.com/svn/version/2.0(beta3)/IE7.js" type="text/javascript"></script><![endif]-->
+
+<!--[if IE]><script language="javascript" type="text/javascript" src="/search/js/excanvas.min.js"></script><![endif]-->
+
+
+
+<script type="text/javascript" src="/search/js/jquery-1.4.1.min.js"></script>
+<script type="text/javascript" src="/search/js/flot.pie/jquery.flot.js"></script>
+
+<script type="text/javascript" src="/search/js/flot.pie/jquery.flot.pie.js"></script>
+<script type="text/javascript" src="/search/js/jquery.qtip-1.0.0-rc3.min.js"></script>
+
+
+<!-- include specific functions -->
+<script type="text/javascript" src="/search/js/micusp-functions.js"> </script>
+
+<script type="text/javascript">var ie = 0;</script>
+<!--[if IE]><script type="text/javascript">ie = 1;</script><![endif]-->
+
+<title>MICUSP Simple interface (BETA)</title>
+<script type="text/javascript">
+
+
+	// data for papers per discipline per paper type
+        var deptTypeData = [
+                {% for t1,t2,t3,t4,t5,t6,t7 in deptType %}
+                [{{t1}},{{t2}},{{t3}},{{t4}},{{t5}},{{t6}},{{t7}}],
+                {% endfor %}
+        ];
+
+
+	var normalizationData = [
+		{% for r in deptType %}
+		[0,0,0,0,0,0,0],
+		{% endfor %}
+	];
+	
+	var deptTypeDataCache=deptTypeData;
+	var prevSearchInfo = "";
+
+
+
+	//   ***************************************
+	//     how much of this can be moved into the main micusp-functions.js library???
+	//   ****************************************
+
+	// main jQuery loop called when document has loaded
+	$(document).ready(function() {
+		
+
+		/* cancel submit event on form */
+		$('#searchform').submit(function() {		
+			currentSearchTerm = $("#searchbox").val();
+			needToUpdateGraphs=true;
+			doSearch();
+			modeChange('search');
+			return false;
+		});
+	
+		if(/Safari/.test(navigator.userAgent)) {
+			//console.log("Safari!");
+			safariDisable = true;
+		}
+
+		// workaround for Firefox autocomplete form problem?
+		//if($.browser.mozilla) $("form").attr("autocomplete", "off"); 
+
+		// clear and reset form?
+		$('form')[0].reset();
+
+
+
+		if ({{dept|length}} == 0) {
+		$(".deptNo").attr('checked',true);   
+		} else {
+		$(".deptNo").attr('checked',false);   
+     		}
+		
+		if ({{type|length}} == 0) {
+		$(".typeNo").attr('checked',true);
+		} else {
+		$(".typeNo").attr('checked',false);
+		}
+	
+		if ({{feature|length}} == 0) {
+		$(".featureNo").attr('checked',true);
+		} else {
+		$(".featureNo").attr('checked',false);
+		}
+
+		if ({{level|length}} == 0) {
+		$(".levelNo").attr('checked',true);
+		} else {
+		$(".levelNo").attr('checked',false);
+		}
+
+		if ({{native|length}} == 0) {
+		$(".nativeNo").attr('checked',true);
+		} else {
+		$(".nativeNo").attr('checked',false);
+		}
+		
+		
+		mode = 'initialize';	// set global mode verbal to stop updatePieGraph and updateHistogram calling browse function
+		
+
+
+	 	$(".deptcheck").each(function(i) {
+			if (this.checked) {
+				deptselect[i]=1;
+			}
+		});
+
+	 	$(".typecheck").each(function(i) {
+			if (this.checked) {
+				typeselect[typeName[this.value]]=1;
+			}
+		});
+
+		
+		// initialize data in percentdata from deptTypeData
+		updatePieGraph();
+
+		// initialize data in d2 from deptTypeData
+		updateHistogram();
+
+
+                for (var i in slicesGlobal) {
+                       if (typeselect[i]) {
+                                plot2.highlight(slicesGlobal[i],"plotclick2");
+                       }
+                }
+
+
+		// add even handler to search results normalization/raw freq radios
+		$(".normalize").click(normalizationOption);
+
+
+
+		// add event handlers to department and type checkboxes
+		$(".deptcheck").click(deptCheckEvent);
+        	$(".typecheck").click(typeCheckEvent);
+		$(".featurecheck").click(featureCheckEvent);
+		$(".levelcheck").click(levelCheckEvent);
+		$(".nativecheck").click(nativeCheckEvent);
+
+		$(".nodeptcheck").click(deptCheckEvent);   // look for nodeptcheck class
+		$(".notypecheck").click(typeCheckEvent);   // and notypecheck.... not sure what these events are doing or where they are
+
+		$(".deptNo").click(deptNoCheckEvent);
+		$(".typeNo").click(typeNoCheckEvent);
+		$(".featureNo").click(featureNoCheckEvent);
+		$(".levelNo").click(levelNoCheckEvent);
+		$(".nativeNo").click(nativeNoCheckEvent);
+
+
+
+
+
+		$('div#levelhead>div>img').qtip({
+			content: {
+				text:'This field indicates the level of the student when they wrote the paper.',
+				title: {
+					text: '<br/>',
+					button: '<img class="tooltipClose" onclick="return false;" style="border:0;" src="/search/img/close.png" alt="close" />'
+				}
+			},
+			show: 'mouseenter',
+			hide: 'mouseleave',
+			position: {
+				adjust: {
+					screen: true
+				},
+				corner: {
+					target: 'bottomLeft',
+					tooltip: 'topRight'
+				}
+			},
+			style: {
+				name: 'dark'
+			}
+		});
+
+
+		$('div#nativehead>div>img').qtip({
+			content: {
+				text: 'This field indicates the student\'s self classification of their native English speaker status: NS = Native Speaker (English as first language), NNS = Non-native English Speaker.',
+				title: {
+					text: '<br/>',
+					button: '<img class="tooltipClose" onclick="return false;" style="border:0;" src="/search/img/close.png" alt="close" />'
+				}
+			},
+			show: 'mouseenter',
+			hide: 'mouseleave',
+			position: {
+				adjust: {
+					screen: true
+				},
+				corner: {
+					target: 'bottomLeft',
+					tooltip: 'topRight'
+				}
+			},
+			style: {
+				name: 'dark'
+			}
+		});
+
+
+
+		$('div#depthead>div>img').qtip({
+			content: {
+				text: 'This field indicates for which of altogether 16 disciplines (see list below and bar chart on the right) the paper was submitted.',
+				title: {
+					text: '<br/>',
+					button: '<img class="tooltipClose" onclick="return false;" style="border:0;" src="/search/img/close.png" alt="close" />'
+				}
+			},
+			show: 'mouseenter',
+			hide: 'mouseleave',
+			position: {
+				adjust: {
+					screen: true
+				},
+				corner: {
+					target: 'bottomLeft',
+					tooltip: 'topRight'
+				}
+			},
+			style: {
+				name: 'dark'
+			}
+		});
+
+
+
+		$('div#typehead>div>img').qtip({
+			content: {
+				text: 'This field indicates which of altogether seven paper types we assigned the paper to. Paper types were assigned in a double-blind classification process by MICUSP researchers (for further information on the MICUSP project, click &quot;MICUSP project page&quot; at the top right of this page).',
+				title: {
+					text: '<br/>',
+					button: '<img class="tooltipClose" onclick="return false;" style="border:0;" src="/search/img/close.png" alt="close" />'
+				}
+			},
+			show: 'mouseenter',
+			hide: 'mouseleave',
+			position: {
+				adjust: {
+					screen: true
+				},
+				corner: {
+					target: 'bottomLeft',
+					tooltip: 'topRight'
+				}
+			},
+			style: {
+				name: 'dark'
+			}
+		});
+
+		$('div#featurehead>div>img').qtip({
+			content: {
+				text: 'This list enables you to search in or browse only papers that contain particular textual features. You can, for example, limit your search to papers that have an abstract or contain tables, graphs or figures.',
+				title: {
+					text: '<br/>',
+					button: '<img class="tooltipClose" onclick="return false;" style="border:0;" src="/search/img/close.png" alt="close" />'
+				}
+			},
+			show: 'mouseenter',
+			hide: 'mouseleave',
+			position: {
+				adjust: {
+					screen: true
+				},
+				corner: {
+					target: 'bottomLeft',
+					tooltip: 'topRight'
+				}
+			},
+			style: {
+				name: 'dark'
+			}
+		});
+
+		$('.tickLabelX').each(function(i){
+			$(this).qtip({
+				content: histLabels[i],
+				show: 'mouseenter',
+				hide: 'mouseleave',
+				position: {
+					corner: {
+						target: 'topRight',
+						tooltip: 'bottomLeft'
+					}
+				},
+				style: {
+					name: 'dark'
+				}
+			});
+		});
+
+
+
+		// in browse mode display first list of papers in result window
+		mode='{{mode}}';
+		
+		{% ifequal mode "browse" %}
+		doBrowse();
+		{% else %}
+		needToUpdateGraphs=true;
+		doSearch();
+		{% endifequal %}		
+
+		initMenu();	
+
+
+		/* add event to Browse label beside radio button */
+		$('#browseButton').click(
+			function() {
+				$('#normalizationOptions').hide();
+				// ?? might want to override this bit and have button always produce result even in browse mode
+				//if (mode=='search') {
+					$('#searchbox').val('');
+					//$('input[name=mode]').value='browse';
+					modeChange('browse');
+					//$('input[name=mode]').change();
+				//}
+			}
+		);
+
+
+		// add event to the mode radio buttons that change value of
+		// MODE global variable
+	
+			function modeChange(newmode) {
+				oldmode = mode;
+				mode = newmode;
+			
+
+				if (mode == 'search') {
+
+					// set the frequency radio button to 'raw'
+					$('#norm_raw').attr('checked',true)
+
+					if (oldmode != mode) {
+						deptTypeDataCache = deptTypeData;
+					}
+					plot2.drawClickOverlay();
+					//$('#text').html('Search results will be displayed here.');
+        				prevSearchInfo = "";
+					showNumSelectedMessage(true);
+
+
+				} else {
+					// need to update the data structures
+					// if there has been a switch from a search
+					// back into browse mode...
+					// deptTypeData will need to be repopulated from cache variable
+					if (oldmode != mode) {
+						deptTypeData = deptTypeDataCache;
+					}
+					showNumSelectedMessage();
+					browse();
+		
+					updatePieGraph();
+					plot2.drawClickOverlay();
+
+				updateHistogram();
+
+				}
+			}
+
+		$('.sh_fairuse').click(function() {
+			$('.sh_fairuse').toggle();
+			$('#fair_use_statement').toggle();
+		}); 
+	});
+
+</script>
+
+</head>
+
+<body>
+
+
+	<form id="searchform" name="searchform" method="post">
+
+	<div id="header-middle">
+		<div class="headerwrapper">
+		<div class="headerlink">
+			<a href="http://micusp.elicorpora.info" onclick="window.open(this.href);return false;">MICUSP project page</a>
+			<a href="mailto:micusp-help@umich.edu">Email feedback</a>
+		</div>
+		<div class="logo"> 
+			<a id="logoLink" href=""><img alt="MICUSP Logo" src="/search/img/MICUSP_logo.png"/></a>
+		</div>
+		<div class="searchwrapper">
+			<div class="searchbar">
+				<input id="mode" name="mode" type="hidden" value="browse"/>
+				<input id="searchbox" class="inline_left" type="text" value="{{q}}" name="q"/>
+				<input id="searchbutton" class="inline_left" type="submit" value="Search" />
+				<input id="browseButton" class="inline_left" type="button" value="Clear search"/>
+				<span id="include_option"><input name="include_all" id="include_all" type="checkbox"/> include notes &amp; references <img class="tooltipImg" src="/search/img/button_help.gif"></span>
+
+				<div id="info">You are browsing papers in 16 disciplines at 4 levels of 7 paper types with 8 textual features.</div>
+
+
+
+			</div>
+
+		</div> 
+		</div>
+	</div>
+
+
+	<div id="minMax"> 
+		<div id="wrapper"> 
+			<div id="optionbar">
+				<div id="level">
+					<div class="optionhead" id="levelhead">
+						<div class="header-shad"><span id="levelCollapseTriangle">
+							<img src='/search/img/right.png' alt='Show Student Levels'/>
+						</span><h3>Student Levels <span id="levelCnt"></span></h3><img class="tooltipImg" src="/search/img/button_help.gif"></div>
+					</div>
+					<div class="optionbody" id="levelbody">
+						<input class="levelNo" type="checkbox" value="No"/>
+						<label>No Restriction</label><br/>
+						<fieldset>
+							<input class="levelcheck" type="checkbox" name="level" value="G0" {{ level.G0 }}/>
+                     	       			<label>Senior Undergrad (G0)</label><br/>
+							<input class="levelcheck" type="checkbox" name="level" value="G1" {{ level.G1 }}/>
+              	              			<label>1st Year Graduate (G1)</label><br/>
+							<input class="levelcheck" type="checkbox" name="level" value="G2" {{ level.G2 }}/>
+              	              			<label>2nd Year Graduate (G2)</label><br/>
+							<input class="levelcheck" type="checkbox" name="level" value="G3" {{ level.G3 }}/>
+              	              			<label>3rd Year Graduate (G3)</label><br/>
+						</fieldset>
+					</div>
+				</div>
+
+				<!-- ***** NATIVENESS ****** -->
+				<div id="nativeness">
+					<div class="optionhead" id="nativehead">
+						<div class="header-shad"><span id="nativeCollapseTriangle">
+							<img src='/search/img/right.png' alt='Show Nativeness Values'/>
+						</span><h3>Nativeness <span id="nativeCnt"></span></h3><img class="tooltipImg" src="/search/img/button_help.gif"></div>
+					</div>
+					<div class="optionbody" id="nativebody">
+						<input class="nativeNo" type="checkbox" value="No"/>
+						<label>No Restriction</label><br/>
+						<fieldset>
+							<input class="nativecheck" type="checkbox" name="native" value="NS" {{ native.NS }}/>
+                     	       			<label>Native English Speaker</label><br/>
+							<input class="nativecheck" type="checkbox" name="native" value="NNS" {{ native.NNS }}/>
+              	              			<label>Non-native English Speaker</label>
+						</fieldset>
+					</div>
+				</div>
+
+				<!-- ********** TEXTUAL FEATURES ************ -->
+				<div id="feature">
+					<div class="optionhead" id="featurehead">
+						<div class="header-shad"><span id="featureCollapseTriangle">
+							<img src='/search/img/right.png' alt='Show Features'/>
+						</span><h3>Textual Features <span id="featureCnt"></span></h3><img class="tooltipImg" src="/search/img/button_help.gif"></div>
+					</div>
+
+					<div class="optionbody" id="featurebody">
+						<input class="featureNo" type="checkbox" value="No"/>
+						<label>No Restriction</label><br/>
+						<fieldset>
+							<input class="featurecheck" type="checkbox" name="feature" id="abstract" value="Abstract" {{ feature.Abstract }}/>
+                            				<label>Abstract</label><br/>
+							<input class="featurecheck" type="checkbox" name="feature" id="definitions" value="Definitions" {{ feature.Definitions }}/>
+                            				<label>Definitions</label><br/>
+							<input  class="featurecheck" type="checkbox" name="feature" id="discussion of results" value="ResultsDiscussion" {{ feature.ResultsDiscussion }}/>
+                            				<label>Discussion of results</label><br/>
+							<input class="featurecheck" type="checkbox" name="feature" id="literature review" value="LitReview" {{ feature.LitReview }}/>
+								<label>Literature review</label><br/>
+							<input class="featurecheck" type="checkbox" name="feature" id="methodology section" value="Methodology" {{ feature.Methodology }}/>
+                            				<label>Methodology section</label><br/>
+							<input class="featurecheck" type="checkbox" name="feature" id="problem-solution pattern" value="ProblemSolution" {{ feature.ProblemSolution }}/>
+                            				<label>Problem-solution pattern</label><br/>
+							<input class="featurecheck" type="checkbox" name="feature" id="reference to sources" value="Sources" {{ feature.Sources }}/>
+                            				<label>Reference to sources</label><br/>
+							<input class="featurecheck" type="checkbox" name="feature" id="tables, graphs, or figures" value="Tables" {{ feature.Tables }}/>
+                            				<label>Tables, graphs or figures</label><br/>
+						</fieldset>
+					</div>
+				</div>
+
+
+
+				<div id="type">
+					<div class="optionhead" id="typehead">
+						<div class="header-shad"><span id="typeCollapseTriangle"><img src='/search/img/down.png' alt='Hide Paper Types'/></span><h3>Paper Types <span id="typeCnt"></span></h3><img class="tooltipImg" src="/search/img/button_help.gif"></div>
+					</div>
+					<div class="optionbody" id="typebody">
+						<input class="typeNo" type="checkbox" value="No"/>
+						<label>No Restriction</label><br/>
+						<fieldset>
+							<input class="typecheck" type="checkbox" name="type" value="Essay" {{ type.Essay }}/>
+                     	       			<label>Argumentative Essay</label><br/>
+							<input class="typecheck" type="checkbox" name="type" value="CreativeWriting" {{ type.CreativeWriting }}/>
+              	              			<label>Creative Writing</label><br/>
+							<input  class="typecheck" type="checkbox" name="type" value="Critique" {{ type.Critique }}/>
+              	              			<label>Critique/Evaluation</label><br/>
+							<input class="typecheck" type="checkbox" name="type" value="Proposal" {{ type.Proposal }}/>
+								<label>Proposal</label><br/>
+							<input class="typecheck" type="checkbox" name="type" value="Report" {{ type.Report }}/>
+       	                     			<label>Report</label><br/>
+							<input class="typecheck" type="checkbox" name="type" value="ResearchPaper" {{ type.ResearchPaper }}/>
+                     	       			<label>Research Paper</label><br/>
+							<input class="typecheck" type="checkbox" name="type" value="ResponsePaper" {{ type.ResponsePaper }}/>
+
+       	                     			<label>Response Paper</label><br/>
+						</fieldset>
+					</div>
+				</div>
+				<div id="dept">
+					<div class="optionhead" id="depthead">
+						<div class="header-shad"><span id="deptCollapseTriangle"><img src='/search/img/down.png' alt='Hide Disciplines'/></span><h3>Disciplines <span id="deptCnt"></span></h3><img class="tooltipImg" src="/search/img/button_help.gif"></div>
+					</div>
+					<div class="optionbody" id="deptbody">
+						<input class="deptNo" type="checkbox" value="No"/>
+						<label>No Restriction</label><br/>
+
+						<fieldset>
+							<input class="deptcheck" type="checkbox" name="dept" value="BIO" {{ dept.BIO }}/>
+                            				<label>Biology (BIO)</label><br/>
+							<input class="deptcheck" type="checkbox" name="dept" value="CEE" {{ dept.CEE }}/>
+       	                        			<span class="longLabel"><label>Civil & Environmental Engineering (CEE)</label></span><br/>
+							<input class="deptcheck" type="checkbox" name="dept" value="ECO" {{ dept.ECO }}/>
+                     	       			<label>Economics (ECO)</label><br/>
+							<input class="deptcheck" type="checkbox" name="dept" value="EDU" {{ dept.EDU }}/>
+                            				<label>Education (EDU)</label><br/>
+							<input class="deptcheck" type="checkbox" name="dept" value="ENG" {{ dept.ENG }}/>
+                            				<label>English (ENG)</label><br/>
+							<input class="deptcheck" type="checkbox" name="dept" value="HIS" {{ dept.HIS }}/>
+       	                     			<span class="longLabel"><label>History & Classical Studies (HIS)</label></span><br/><br/>
+							<input class="deptcheck" type="checkbox" name="dept" value="IOE" {{ dept.IOE }}/>
+                     	       			<span class="longLabel"><label>Industrial & Operations Engineering (IOE)</label></span><br/>
+							<input class="deptcheck" type="checkbox" name="dept" value="LIN" {{ dept.LIN }}/>
+								<label>Linguistics (LIN)</label><br/>
+							<input class="deptcheck" type="checkbox" name="dept" value="MEC" {{ dept.MEC }}/>
+       	                     			<span class="longLabel"><label>Mechanical Engineering (MEC)</label></span><br/><br/>
+							<input class="deptcheck" type="checkbox" name="dept" value="NRE" {{ dept.NRE }}/>
+                     	       			<span class="longLabel"><label>Natural Resources & Environment (NRE)</label></span><br/>
+							<input class="deptcheck" type="checkbox" name="dept" value="NUR" {{ dept.NUR }}/>
+                            				<label>Nursing (NUR)</label><br/>
+							<input class="deptcheck" type="checkbox" name="dept" value="PHI" {{ dept.PHI }}/>
+                            				<label>Philosophy (PHI)</label><br/>
+							<input class="deptcheck" type="checkbox" name="dept" value="PHY" {{ dept.PHY }}/>
+       	                     			<label>Physics (PHY)</label><br/>
+							<input class="deptcheck" type="checkbox" name="dept" value="POL" {{ dept.POL }}/>
+                     	       			<label>Political Science (POL)</label><br/>
+							<input class="deptcheck" type="checkbox" name="dept" value="PSY" {{ dept.PSY }}/>
+                            				<label>Psychology (PSY)</label><br/>
+							<input class="deptcheck" type="checkbox" name="dept" value="SOC" {{ dept.SOC }}/>
+								<label>Sociology(SOC)</label>
+						</fieldset>
+
+					</div>
+				</div>
+
+
+			<!-- MCL logo -->
+			<div id="mclLogo"><a href="http://elicorpora.info"><img src="/search/img/mcl_logo.jpg" alt="Michigan Corpus Linguistics"/></a></div>
+
+		</div> <!-- end optionbar -->    
+
+
+		<div id="wrapper_right">
+		<div id="graphsx">
+			<div class="optionheadx">
+				<div class="optionheadxLeft">
+					<div class="optionheader">
+						<h3><!--Normalized -->Distribution across Disciplines</h3>	
+					</div>
+					<div class="interaction">
+						<h4>Click to Select</h4>
+						<span id="normalizationOptions">
+							<span>Result frequencies:</span>
+							<input type="radio" value="raw" id="norm_raw" name="normalize" class="normalize" checked="checked"/><label>raw</label>
+							<input type="radio" value="norm" name="normalize" class="normalize" /><label>per 10,000 words</label>
+						</span>
+						<span class="textBoxNoDeptRestrictions">
+							<button class="clearbutton" onclick="clearSelection('.deptNo'); return false;">Clear selection</button> 
+						</span>
+
+					</div>
+				</div>
+
+				<div class="optionheadxRight" >
+					<div class="optionheader">
+						<h3><!--Normalized -->Distribution across Paper Types</h3>
+					</div>
+					<div class="interaction">
+						<h4>Click to Select</h4>
+						<span class="textBoxNoTypeRestrictions">
+							<button class="clearbutton" onclick="clearSelection('.typeNo'); return false;">Clear selection</button>
+
+						</span>
+					</div>
+				</div>
+
+				
+			</div>
+			<div class="optionbodyx">
+				<div id="histogram">  
+					{% block histogram %}
+					{% endblock %}
+				</div> 
+ 	
+				<div id="piegraph"> 
+					{% block piegraph %}
+					{% endblock %}
+				</div> 
+
+
+			</div>
+		</div>	
+
+		<br /> 
+		<div id="results">
+			<div id="text"> 
+			</div> 
+		</div>
+		<!-- end outer2 --> 
+ 		</div><!-- end #wrapper_right -->
+		</div><!-- end #wrapper --> 
+ 
+
+		</form>
+
+
+		<div id="footer"> 
+			<div class="content">
+				<a id="block-m" href="http://www.umich.edu"><img src="/search/img/blockM.png" alt="University of Michigan"/></a>
+				<a id="lsa-logo" href="http://www.lsa.umich.edu"><img src="/search/img/lsa_logo.png" alt="LS&A"/></a>
+				<a id="eli-logo" href="http://www.lsa.umich.edu/eli"><img src="/search/img/eli_logo.png" alt="English Language Institute"/></a> 
+				<span>Copyright (c) 2009-2010 Regents of the University of Michigan</span>
+
+				<div id="fairuse">
+					<div><a class="sh_fairuse">Show</a><a class="sh_fairuse hide">Hide</a> MICUSP Fair Use Statement</div>
+					<div id="fair_use_statement" class="hide">
+						<p>The Michigan Corpus of Upper-level Student Papers (MICUSP) is owned by the Regents of the University of Michigan (UM), who hold the copyright. The corpus has been developed by researchers at the UM English Language Institute. The corpus files are freely available for study, research and teaching. However, if any portion of this material is to be used for commercial purposes, such as for textbooks or tests, permission must be obtained in advance and a license fee may be required. For further information about copyright permissions, please contact Dr. Ute R&ouml;mer at elicorpora@umich.edu.</p>
+						<p>The recommended citation for MICUSP is: Michigan Corpus of Upper-level Student Papers. (2009). Ann Arbor, MI: The Regents of the University of Michigan.</p>
+					</div>
+				</div> 
+			</div> 
+		</div> <!-- end footer --> 
+ 
+	</div> <!-- end wrapperA --> 
+
+	<!--
+		TRACKING SCRIPT
+	-->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-2657846-5");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>

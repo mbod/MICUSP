@@ -1,0 +1,5842 @@
+%PDF-1.3
+1 0 obj
+<<
+/Kids [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R ]
+/Type /Pages
+/Count 7
+>>
+endobj
+2 0 obj
+<<
+/Producer (Python PDF Library \055 http\072\057\057pybrary\056net\057pyPdf\057)
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+>>
+endobj
+4 0 obj
+<<
+/Parent 1 0 R
+/Contents 11 0 R
+/Type /Page
+/Resources <<
+/ColorSpace <<
+/Cs1 12 0 R
+>>
+/Font <<
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+/F1.0 14 0 R
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/MediaBox [ 0 0 612 792 ]
+>>
+endobj
+5 0 obj
+<<
+/Parent 1 0 R
+/Contents 18 0 R
+/Type /Page
+/Resources <<
+/ColorSpace <<
+/Cs1 12 0 R
+>>
+/Font <<
+/F2.0 19 0 R
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+/F1.0 14 0 R
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/MediaBox [ 0 0 612 792 ]
+>>
+endobj
+6 0 obj
+<<
+/Parent 1 0 R
+/Contents 23 0 R
+/Type /Page
+/Resources <<
+/ColorSpace <<
+/Cs1 12 0 R
+>>
+/Font <<
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+/F1.0 14 0 R
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/MediaBox [ 0 0 612 792 ]
+>>
+endobj
+7 0 obj
+<<
+/Parent 1 0 R
+/Contents 24 0 R
+/Type /Page
+/Resources <<
+/ColorSpace <<
+/Cs1 12 0 R
+>>
+/Font <<
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+/F1.0 14 0 R
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/MediaBox [ 0 0 612 792 ]
+>>
+endobj
+8 0 obj
+<<
+/Parent 1 0 R
+/Contents 25 0 R
+/Type /Page
+/Resources <<
+/ColorSpace <<
+/Cs1 12 0 R
+>>
+/Font <<
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+/F1.0 14 0 R
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/MediaBox [ 0 0 612 792 ]
+>>
+endobj
+9 0 obj
+<<
+/Parent 1 0 R
+/Contents 26 0 R
+/Type /Page
+/Resources <<
+/ColorSpace <<
+/Cs1 12 0 R
+>>
+/Font <<
+/F2.0 19 0 R
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+/F1.0 14 0 R
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/MediaBox [ 0 0 612 792 ]
+>>
+endobj
+10 0 obj
+<<
+/Parent 1 0 R
+/Contents 27 0 R
+/Type /Page
+/Resources <<
+/ColorSpace <<
+/Cs1 12 0 R
+>>
+/Font <<
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+/F3.0 28 0 R
+/F1.0 14 0 R
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/MediaBox [ 0 0 612 792 ]
+>>
+endobj
+11 0 obj
+<<
+/Length 11774
+>>
+stream
+q
+q
+Q
+q
+0 0.00001770258 612 792 re
+W
+n
+/Cs1 cs
+0 0 0 sc
+q
+0.2400000 0 0 0.2400000 72 708.96 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 695.28 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(1\056) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 81 695.28 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 108 695.28 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 681.36 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 108 681.36 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(Spatial performance and maternal behavior in rodents can be influenced by hormones\056 ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 524.8594 681.36 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 667.68 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(I know that\325s a rather dry way to begin\054 but the story gets more interesting when considering how ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 653.76 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(hormones act in ma) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 166.3066 653.76 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(le and female rats to either enable behaviors or shape the brain to be more ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 640.08 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(receptive to future hormonal activation\056 These are the organizational and activational effects of ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 626.16 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(hormones\056 They can create differences in behavior between the sexes\054 especially wh) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 476.168 626.16 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(en ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 612.48 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(considering spatial performance and maternal behavior\056 ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 342.2285 612.48 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 598.56 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 108 598.56 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(First\054 I think it would be helpful to establish an idea of the difference between ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 584.88 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(organizational and activational hormonal effects\056 We can think of the organizational effects like ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 570.96 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(a primer\054 perman) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 154.2949 570.96 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(ently readying neural structures during development to respond to circulating ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 557.28 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(hormones throughout life\056 Many of the differences in hormonal response that we can observe ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 543.36 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(between males and females can be attributed to organizational differences that arose du) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 491.168 543.36 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(ring ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 529.68 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(development\056 Activational effects of hormones do not have to rely on a brain influenced by ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 515.76 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(organizational effects\054 but without the hormones in question\054 the behavior would not be ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 502.08 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(observed\056 Strangely\054 some of the sex differences in behavior can also be) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 418.2305 502.08 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( attributed to activational ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 488.16 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(effects\054 not because the brain of one sex or the other has been primed by hormones\054 but just ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 474.48 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(because there are differences in hormonal levels between the two sexes\073 there is more of a given ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 460.56 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(hormone\054 hence more of a hormonally) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 255.9434 460.56 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(\055) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 259.9395 460.56 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(dr) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 269.9355 460.56 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(iven response\054 no organizational effects necessary\056 If ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 446.88 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(experimental equalization of the hormonal levels causes an equalization of behavior\054 you know ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 432.96 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(that the hormones have activational effects\056 ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 283.5938 432.96 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 419.28 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 108 419.28 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(With regard to maternal behavior\054 we can see that hormones t) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 403.5527 419.28 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(ake a role in shaping rodent ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 405.36 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(behavior\056 The actual behavior in question is a shift in mood in the female rat from being mostly ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 391.68 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(aggressive towards young rodent pups to\054 after pregnancy\054 exhibiting nest building\054 retrieval of ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 377.76 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(the offspring during birth \050which) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 229.9805 377.76 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( involves a licking behavior critical to the survival of the pup\051\054 ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 364.08 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(grouping\054 anogenital licking\054 and nursing\056 The new mother rodents become more aggressive ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 350.16 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(towards intruders and less responsive to stress compared to nulliparous rodents \050those that ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 336.48 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(haven\325t ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 110.9824 336.48 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(yet given birth\051\056) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 187.9629 336.48 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 322.56 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 108 322.56 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(But showing some signs of maternal behavior is neither dependent on pregnancy \050and the ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 308.88 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(fluctuation in estrogen and progesterone levels that accompanies it\051 nor even on being a female\056 ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 294.96 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(Environmental changes can catalyze changes in materna) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 342.5391 294.96 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(l behavior ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 393.8555 294.96 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(\055) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 397.8516 294.96 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( aggressive behavior towards ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 281.28 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(pups can be tempered by repeated exposure to them\056 Over a number of days\054 the aggression can ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 267.36 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(even turn into nurturing behavior in \324sensitized\325 nulliparous rodents ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 400.2598 267.36 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(\055) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 404.2559 267.36 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( male or female\056 Because ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 253.68 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(we can observe maternal be) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 205.2656 253.68 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(havior in absence of maternal hormones\054 the role that hormones take ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 239.76 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(with regard to maternal behavior is one of modulation or supplementation\054 not a role that fits in ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 226.08 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(our definition of activation\056) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 203.9766 226.08 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 212.16 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 108 212.16 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(That being said\054 maternal behavior in virgin rodent can be ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 389.5723 212.16 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(induced by something so ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 198.48 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(simple as an injection of blood \050containing all of the maternal hormones\051 from a pregnant rodent\056 ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 184.56 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(The maternal behavior itself is induced near the end of pregnancy\054 when progesterone falls and ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 170.88 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(estrogen rises\056 This combination of hor) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 259.9688 170.88 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(mones can induce maternal behavior in ovariectomized ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 156.96 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(virgin female rats\056) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 159.6387 156.96 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 143.28 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 108 143.28 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(We can see that a lack of estradiol influx early in life can result in a rodent which is more ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 129.36 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(prone to be aggressive towards pups \050even to the point of infanticide\051\056 Estradiol intera) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 484.5586 129.36 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(cts with ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 115.68 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(estrogen receptors throughout the brain\056 Subtype ER) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 324.2754 115.68 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(\055) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 328.2715 115.68 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(alpha\054 when mutated\054 shows the effects of a ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 101.76 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(lack of estradiol ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 152.3086 101.76 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(\055) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 156.3047 101.76 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( infertility\054 infanticide\054 and an increased latency for learning maternal behavior\056 ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 88.08002 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(Hormones\054 then\054 give the brain a head start towa) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 304.5938 88.08002 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(rds learning maternal behavior\056) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 454.5352 88.08002 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+Q
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 PSY\056G0\05623\0562 \055 Psychology \055 Final Year Undergraduate \055 Male \055 Native Speaker \055 Report) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(1) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+12 0 obj
+[ /ICCBased 13 0 R ]
+endobj
+13 0 obj
+<<
+/Length 792
+/N 3
+/Filter /FlateDecode
+/Alternate /DeviceRGB
+>>
+stream
+x…”MHaÇÿ³±Ñ—ÅĞÁ$T&RÓõ+S¶eÕL	b}wg§™İ-E"„è˜uŒ.VD‡ˆNá¡C§:D™u‰ £E^"¶ÿ;“»cT¾03¿yÿû|½Ã URcE4`ÊÎ»ÉŞ˜vztLÛüU¨F\)Ãs:‰Ÿ©•Ïõkõ-iYj”±Öû6|«v™P4*wd>,y<àã’/ä<5g$©4Ù!7¸CÉNò-òÖlˆÇCœTµS“3—q";È-E#+c> ëvÚ´Éï¥=íSÔ°ßÈ79Ú¸òı@Û`Ó‹ŠmÌÜv×Ulõ5ÀÎ`ñPÅö=éÏGÙõÊËjöÃ)ÑkúP*}¯6ß ~^/•~Ü.•~ŞaÖñÔ2
+nÑ×²0å%Ôìfüäı‹ƒ|U°À9lú¯ 7?ûÛ‰j`¨‘Ël7¸òâ"çtæœi×ÌNäµf]?¢uğh…ÖgMZÊ²4ßåi®ğ„[é&LYÎÙ_Ûx
+{xOö¹$¼îß¬Ì¥S]œ%šØÖ§´èê&7ïgÌ>r=¯÷·g8`å€™ï
+8rÊ¶â<©‰ÔØãñ“dÆWT'“ó<çeLß~.u"A®¥=9™ë—š]ÜÛ>31Ä3’¬X3ñßüÆ-$eŞ}ÔÜu,ÿ›gm‘g…6ï64$Ñ‹áÀEzL*LZ¥_ĞjÂÃä_•å]½XáÏy¸[Æ?…XsåšşNÿ¢/ëú]ıó|m¡¾â™sÏšÆ«k_Wf–ÕÈ¸A2¾¬)ˆo°Úz-diâôä•õáê2ö|mÙ£Éâj|5Ô¥ejÄ8ãÉ®e÷E²Å7áç[Ëö¯éQû|öIM%×²ºxf)ú|6\kÿ³«`Ò²«ğä.<k¡îUª}j‹Ú
+M=¦¶«mjßªåÃœ•‰¬Ûeõ)ö`cšŞÊIWf‹àßÂ/†ÿ¥^a×44ùM¸¹Œi	ßÜ6p‡”ÿÃ_³Ş
+endstream
+endobj
+14 0 obj
+<<
+/FirstChar 32
+/Widths 15 0 R
+/Encoding /MacRomanEncoding
+/Type /Font
+/BaseFont /FVCGYL+TimesNewRomanPSMT
+/LastChar 213
+/FontDescriptor 16 0 R
+/Subtype /TrueType
+>>
+endobj
+15 0 obj
+[ 250 0 0 0 0 0 0 0 333 333 0 0 250 333 250 0 0 500 500 500 500 0 0 0 500 0 278 278 0 0 0 444 0 722 667 667 722 611 556 722 722 333 389 0 611 889 722 722 556 722 667 556 611 722 722 944 0 722 0 0 0 0 0 0 0 444 500 444 500 444 333 500 500 278 278 500 278 778 500 500 500 500 333 389 278 500 500 722 500 500 444 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 444 444 333 333 ]
+endobj
+16 0 obj
+<<
+/FontBBox [ -568 -307 2029 1006 ]
+/FontName /FVCGYL+TimesNewRomanPSMT
+/FontFile2 17 0 R
+/Descent -216
+/XHeight 454
+/Flags 32
+/Type /FontDescriptor
+/StemV 0
+/Ascent 891
+/Leading 42
+/ItalicAngle 0
+/CapHeight 670
+/MaxWidth 2000
+>>
+endobj
+17 0 obj
+<<
+/Length 33569
+/Filter /FlateDecode
+/Length1 45728
+>>
+stream
+xœ¼	|TÕ½8~Î¹wî½³ßÙ÷™;û$“ÌL’™	\aÇDÙ4%‰ˆ RR·H\ Ö¬¬¢¨´†Õ€V£Om]xÒÖZ´µà{¨¸¤¥-µZÈÌï{î—ö½÷ÿ|ş¹™{ÏİÏùîÛ¹#„t¨1H^rÕ¢®—šo€#o"„ÍKÖ¬–şVñŞ÷¡}!şÕe]Ë¯úÓ¸ƒ ¤Ş…êŞå+×-ûà'wúÁ%+.[´ôœMÚ‚Ğø¡ÚpÀR¦{öÂ~dÅU«×º¾2Â³wœgZW®Z²(¸eÚt„~Ï@w^µhm÷}ñqØ¿ö¥«]uÙ?Àş~Ø/ïZuÍjşiõ$Ø?û»»z.ë:Ywï£=r'ôÁÇ0,ôOMNiıŸ«ÒÅ!V7ğ‚Zwh‘N2Š&³Åj³;œÈåöx}ş€…#(:úØX<QV¬¨L¥3UÕ5Ù\í˜º|ıØ†qãÿÏ÷şÿ?)O˜Øô»ÿ×ŸênÀÔL€Ÿ—¹y*~ ¿“ğ;U˜^<§º…WO0z?ı!ßıh;Š Ó¸
+½„†Ğtôš€ZÑ½h
+z=Y‡ß@,
+£IhŠâ "h2r`ÚŠŞE— ô!:hú#6ÃsšQ²£|ñXÏ@·ÁUÔ„~†ã•x6JC{*©ÀIxó¦âr DñHñìı}ˆ#Å=h*´>B&GĞ]^/ƒşFĞbô8¾‚‚¨İÁfÙşâ•h,:€~‹g@kZ§:¦>€VÂ]`*/~Œg1ºtºz¼‘Ó¤Ú$CãĞhœ½½‹-¸Š‘‹ñâÄâV8ú8ú+I’Wú‘DÓĞBtz ñ:‰şµ8‡ŒŸ‚åWøOªcĞ·èZt=ê…?÷îF‡p®"â h9Pšç6¡ğş}è(Ûñ~‘Ù©Ê‹Ö¢­øq±ˆÊQôp;zŞqgàxbV³~vµªzäû0Â¥è!tı
+úñG€ûßÑ—¸–È÷È†âüâ®â‡ĞPº-@«Ğtú	`õ%ô2ú>KÔpå[ì+ªëU§‹÷ lch"ô½®Ï¾°´ÂòŒÒ„%E¾ _„—ãMø~<ˆßÅïI7ù”`Ş`şÀÖªTÅzx’ùá½a4­ | }Œwz½†m8†+aDïÀı_±d,·È™[™Mì9Õm……Ï
+g‹ıˆ*›p¸=	Pø3¶CÊğøüßĞóÍd?c`D&Ìä˜	Ì¦¹¹—ù%óŸlûûjšj‘ê)~QáêÂ¯Š3Š· ,0â _qT²hĞÏ2 ¦+¡]°ô Ñ÷Q?ºèå´=ã~½†~‹ŞGŸBŸ/‡·_Tw+¾–­x7~¿‚_Ãà/èBB°$H-i$Md2YNn…å^r”¼CN1^f	³é…esy—E,ËUÕ°LUİ¡zœ{ƒOğSùÅÂ›ç†GÊGÚGşX@wáâÂı…ç×Aÿ£¨¥ §}ĞË­@ƒ;ay(ñ zd÷ï”¾ş¬Šwâ0PC`­OÁÓ`™…/„e.,óñXáÅx,p/¾	ßŒoÁwáû”eŒm'~„å|–ßâãø#ü)ş+"&Ps”ÄIšäa¤Md
+i!Á²œ¬‚¥‹ô5€¡ÇÉ>rˆ¼ÃX˜(SÉ,bº™­ÌÏ˜—˜·™¯XÂV°i¶Ç.gofßbÅcÏªªfÕ
+Õ6ÕKœ‡Ërs¹+¸-ÜÓÜ)îÏñ­übşFşm¾(DAbıÆ} púÍ_š{_£²²kÉqà'Ó¥êÃsb™Ã¬dîf~­Z†O3~÷3—3Wa&“/™Uxy‡˜€ªY†îDEüù€œ!³6<‡|‚ìğ3dÓD½¢úkcoVİñ;TOÖã!ò
+s3ssñç¨^µWm#¿B{‚XĞqàê>Zı'¹œÜÚØ¬ê,ºàş„j-À{<¹—3o³ÛĞ‡L˜üŸÆ÷ƒÔ8‚§³r)Éã§@â`?Æİ¨ß‡dü,~"Œw1ã™DØ z<´Ù&ˆßf4¨‚Çˆ·’Ód.ów”ÉaRâ×èzÌàĞÎù¿º8à^™ÖÒä7¸9Ñ ïÏ£[uLuĞÙÃLºePyÕo|KºU£Ã@ƒ·£Ù‚n,öâ¥ ÷gü$h_ÒXÒÒ}Û úÂNB Â«¿ùÿ:HıøOè:,g¡KÏÜÉ6ƒdêù{,KQì=„îá¨~ƒZ°4µTØTşt)èœÿ†÷»Qôoz˜­€^K ™»á‡
+S‘ËmèLĞzèóxàóVv*HŞû‹WÀ/5tâkèòâ¨	pwQñæâhañáâ%h9š]ÜòwMq/ªE}ªv2O•d³ c_Ã/ƒ>ú=¾äöTôÈ£(v¢Oaùô¼êYÔÏşdgcñÎâo‘à--z]…şp›Ê¡šÂdOq2Óê8º°øx1€5hEq%HŞçĞN^²§ùU;v‘<qî¹qü¸†±õùº1µ¹lMuU&ª¬H–—%â±h$
+J¿Ïëq»œ»Õb6‰Fƒ^§Õ¨S±Á¨¢9<¹Sˆu°±ğÔ©•t?¼,úÖÎ	Mşî5½oœúÎ•2\¹ì_®”KWÊ__‰E©5TVHÍaiàÈ¤°4ˆ\Øí»&…Û¥a¥=KioVÚzhƒpƒÔì\1IÀRóÀä5+ú›;'UVà=ZMS¸é2MeÚ£ÑBS­G¸kvŒÇJƒ8šë÷$èaˆîğ¤æWn…Ç0ÑæEKZ/lkä	Û++pÓ’ğâ8`L*— &å5\Ó ¯¼Fº| FƒîöTõß9(¢ÅIİÒğÒE—´0‹àÍ¦$¼wÒ€ãú“Îovááæ¦¶¾oŸõ0ıÍÎË%zqŸ4°ãÂ¶oİë	Ò'´·Ã3Htrgÿdxñ€§³%x¹µ½m ß
+/”è8è˜J£»,ÜLt^!¨ÃÃ+ú¯èÄ¸ûĞEë‚{İnùPñr7KısÚÂÁFO¸}Ñ$ï+ê¿hİ>—,¹¾{¦²bh*uÁ8ÚĞé¿İ¸@^:§´”ËikÆE_ÃÓ…§È@OK$èI[ÆTGW—Õ¡ş%u ~økÇp×ÀRÀÇåê¦Î~±‹0D< ŠŠa©ÿïğşü»Gá¢âß=I©äkB …6JtÉä@y9%¾	0
+}¯ìç*+Ö’p—(ÁÀ‡Z¶‹ÚëÓ ü`¢÷A-†ŞÛJûZìÙ‹ät²}€tÒ3CçÏØæÒ3½çÏ|}{gèx¿â“Ø„Ø×ÿFÑni^Q?€íÿÇéËJçgÌÏ¸pA›ÔÜß9J³3æ|g¯tàçF[¸t# |€pÑia ½‹ Eé¿*:9Ü|yçT`5èã€¥©ñx m£<
+è÷’çŸGwÚtôYl”Sèé / +G°4y@ìœZZ·k‚ÁQöúÿºi°xšŞ¥l¾¹mtÌõÉÑQ•Æ80ö;ûßé®Ÿ™1¤™1gA¿æ;ç&ƒÜëïŸ–&÷wö/,ö.Kb¸ÿÓÆ´õw5ƒÄ*¡°xøÏÀä;Ûa(+p=9A)36Íií’\è6™
+Ş,à=óhÖ‚Ÿ%ÏƒmÉ“ö";HßÏ O0r	œê8OƒË_‰/EÎ¤øEÃHÃâ™†Y#¨Úâ9XUe‚¦ )
++ZóœÄ“Uè,XCğJŒæ¦“Á·³ z9|¿éq¹M·ÑD4[Ô&´¼„4ê]†P+‡¹^ëœKék:†GDxÇpãphqÜm±xŒäD4ÆÆqÄfuø	¹ñË6?„«¿¸aÛA÷ôõ…UÑ™Ë~€ûßÆµ¸xuù¤Ï÷¿òÎÓı?}HAæ)}ÈË‘2¶\˜ªbàå&è„Œµ: qNæ®×Ööè¿wwXrv‡İlŸ«­5ç²ñIm¹lÓC…·şqÃöYA×ŒUKËg,»§pİo¯ğÕÑæÏğ•¯üv ÿ±8\]x
+oA¿oj¶o'í—íŒÚÑé:êbÔñ,kÌè YÖiÙz£-`ëµ1¶A\.kÆ…Fbt9‚nô;fthNšóØdvä«2 nt
+ú‡x.Šå²µ5Õv›•»zy·šçµQ³µª~FíÄå›
+OU„6µZôj«º¾¦jò5—ïîŒfã^Òşƒe‰¨z}Kk7¨À#h€aq+È­Íx>Š9p¤²P/;g…ÔHEVzÖ´3IKĞœMT#g‰ƒš’ğìOâU`iQRö"™Ó2²Z®Ï©åÆÜB5Ş®~ZMÔ·ê®¸>­»'™¤ã«ÊD•”FƒQZJM˜ğ’²N¥eúÜÓ@ÎœjønÈVÙÙéÜá<ád‘Sv’5`LÃø?€‚w€]Ã(mÚa¸ùKdÄ—#;œEø¯²à\b•ZĞ\ıÀåÓd³Á`”M¹Œqƒq³q‡‘5º‡IŸn ¨H6Ì‡ORJmhl0Q„äÑß‡Ïá¿'“
+İvwX¢5&«İî°sãIÎ¢(:§-—Hg]ÃGİÑ‰ì/>Û×Sç'Ñ(ñU]Oşpo¹äĞ1VÀŸ‚1úñ
+ù&Ş©Í;œŞqY§+]ıv{ßÀOãŸà9Yº˜] \ìXà¼RXmZm~HûcÃVÓnínÃkª×¿t¾ëx×yBúŠıÊa³aëRyl.»Ëásòj‡Ö©õe]S\›$Şé"Äávé\œq†šÍÊ[Xı tC­–­ºÆ^5V25²NT¹7¹ğv×Ó.â:ÌÔ àîÚ‡‰Î?ˆï’õˆû¯ËBË*ËkÄ¼l‘aPn$ÉR¯ÄtJ;$"¹Å_İé±,[‚3¶l"/€{}œü™Ä8+ù¬“Ãˆİ_tÌ:Ó1,¥4tt74tïá¨ô{f“¿ ~KMPGw{ò$e3æ|ˆ¥Kö¯wİå‚óí††>QµşeÃË@·İ= i’É$Jb&˜C(—Tq|¸¶ÄJàÎ>X][;†yjá¹ ¸¥mW/İ‹ºŞúÑÎ÷3Óûj<^¼rşd7VÎFñD¼å‰ï?vm÷¡WßŞ¼|ùON×‰U•0ôÙÅSÌ<Àg5yiŠ'öêòêÁâÜ ËOP7k&kg„Ø·Ô¸¬¬®LÎvfßÊÈşCÃ£, Ş¾>õdäPäpêµÔñğñèïSŸ†>‰ê¦	eƒøÎ}‰„ˆÉÉ}G383Èd0*ÑíƒxûŸœLg}ƒ¸iŸ¨/K<‹W +R“ÿ–µ­€²YÁ`rß€ëñf8^Ù[I6Wî¨$•püÀB~Œ}|(kä,Ş‘Ê’,xLãŸ‘-/XˆÅUsûñ©¯¤`g¸£ğÓÑ}ôpsr¸§q¸cØœOc7­“kSiLcd¹P0Œ£A–SE±˜FZŒÓlåbì7B+¨/ÆuŠË,Æ½o1J&Å†$ER2Yş}øŒuwô îdÒBÑ¤©R*‚`>{Mµ")ó…)RÌò+ê÷ÜòÈü‰‡×÷vİSølã’tĞå6­uDË—=v’÷_ µlŸúıÎ­`§o¼ïŠ–÷n«:xÃÀ÷wMŠû*U#§İ¶²eF/1Á¯¹ô––å£² 	øõàWƒôèwrÂ®ÇFÔ¬—ŒlÄå:lã1á0£Vq˜ÕiõˆÕéYN§¾òÊf^°ò¼ 0,Ïé 
+¦ÇúgñC ¥µx»¬WaN-pœ bu:öY<8FÀËd­Zmdğvæi†0ƒø²7*fÄ ±N#'ó˜w¾ÅEİ
+€… ù‘Hõyc>-‚‡Å‘SŞDµK¾/•d×‹/Ó¦Ñh™ÖÊ¸»ÛÂ¦°)˜Ã5°ÁÌ¡ƒ;G^"×^½³Ágî.<ˆ—õ27»“<<Bdèç@óı ÄëjğõòávPº5šòøªšëC½Ú^]¯»×sS´7Ö_ó„s§ûñè>İ~÷3±gã¯h^ÑşNoç‘szâVÇíz‡;ªfà;ñÍú[O ÃXTg€w>-±_¿¤æ
+t¾œ,]_Qs¾1¾¦âÆšMì&U/ß+ÜdºÉ¼ÉºÉ¾…½_¸×t¿ùGöÇb?ÿ´f=(|¢ıT÷‰á“ø'Õe¼^¯Gy\W­š$ ;Î*+Ñ.!·—SUÒEï› ìª±¬ü2Ğ#"ÊÉ9"ç:s;r'rl.üœ`ğxT²&ã›ŒÃ•=Œÿ±àQ¥>|f˜âdøäªü‡©ÜÂT»³T'ÓşÉÎ
+¶hP^Œ¼o1®°–/F)3pFˆVñ°JÚ+£´	VÀ)ÉQF¡|\‚à¿Ç¾1x`°Â¡8=¥öx6«İaáèf”kğÆ‡;Ş|âÑ_®|j ?ó½=/®œ·W­•×,[Ö›«ªİz×U+oŠM!Oİ²cŞ-/ìí™¹íÊÛ/XÖ½éu‹®Y°ç•ë[.¿nMKvEºğñäßÿÑõó§æ¯ VØ›™°	hâÆ5ˆ£²O¿¼v³k‡‹p2âu²Yk”m`*d7ÛvØˆí9…hÏ¯ÁbTì3 X	TŠÑ¿e,X¾ÕÆA0¨áP‘0‘n™’‘š0bQ¤R)ßŞöÙ ³úFKdO0ú¢iyí«Æ—CD§÷Xl¢ZwĞ©£ı²2È¿ì+Æ¨€éRëëÁ@°7ÈéqE¨!æ5ÔÀH€N BÓâIÊFyø§Ú&ùí3ÿ‹õ†İ£¿ô_Í8fL“JÉÿüçÿdĞtIñCf,äLB}=u@-3„OÈu™\6iÌ´dfnTß¡Ş©Ûé~Ä£	:=„¦íŒ*`±Ñ`ÑĞPŒÈ&ÈÄ*6X0(ïƒ4“]0]${Âr™4	ŠUğ{û°Ñ‡}}1ñ*ûG™A|Õ31YªÈTŠg‰¥QÙ|¬Åä#‰€º3İİ@ã  :_44w(Ö,%{DÁdò/™·À n‡WĞy¢Z§Ş‡ÔnŞ‡u^X¡S} $Ş‘Äİ´õ˜oQ²Bß%’Wˆç8şÛÄñj_5«!Ò·xşÒ†T°¼ù¥ÇşsÑÔ	ÿ`‚m”Z°ü½?ì^7~Ãıe¢+½‘ªÙÓ»¶¶íÊi®xtã™	iŠƒ4˜‰à_ ¼½(@œ{5Ed3ø‰ß‡¼~/ò°ßK¬Ï3ÿ…ğãá§aşKvÄëgŒ‚×îC.ˆjŒ#Pº Óqäè‘tšÂAşÓç8]ú×÷½ü²¿ªŒGö£Q/jüê@k³-¢Ûäöx¼NÃbo4G7û2mYe›L)Û½e¥ÃR¬tØí/v(‡÷Ú”ü€hÉêZxxŞ8İ8Yœæo	¶ç‹s­mş+ŒËÅş5b/Ûgè7ö‰}æşÛ?2şHÜjú‘ÿñøs÷!ÿÆ×Å_ú^÷ÿŞxLüÌxJ<åÿÊø¥ø•ï+…Ú8ÃC~L„|~¿WmĞxÔv¯Ãcïl&«Ç¶Öo%Ñïõ†L¢ÕÔeÂ4Xh$¯É&â·âøv"6SÀâ²NŒÍnµàÄÿ”ÕF¸‡ì4È¦A’Ù×âÇşAò¹ldC«á´1<.]Ù¯È—øÕéHY–ªB0ê@=öRI(Â¾CÊ™ì›1éDâ0‡ş}İ'®¹o€ÊçT+¸§£yEÀ‚; t:×à’o 8oZÂ<1ò·KBcæÎuÕŒÇï‡ñ±|Çì‘O.Ì'®şèsüê;-ñ@šFÎÌÙKÎn¹ıBU4Ê¦‚±DFş@um¢ÎAÕ1ò:²^Î,@üÑíş5[İ?ïvïâş4şqZW‡®¯«y°zkÍÎÈ“5ÇÜÇâÇ¶~|¼Ï¸¼¶7”¥[ù¿ml¬€•ËŸ­–Ã	Xy|ÙI‘IÑîwñ;‘÷j>ŒòlGõÕ"cã<n«ß±'l™Tusdzv>ns-ˆßOL"ëçâ‘Îú®úŞúõ‚;ã®nE iÜÂ•f9Âøş–šÛ#FŞ­á¥z¹¾µ~	YÂtª:¹N¾3³†»Æ}§Ë¿:rMüúÄ-ÜmÛü›jzë_O¿—ş,òÏˆ«]0<ê`HxìÁpM1lÏ%&TVWQÃ¤B‰\Nm/K8v’JPJÙÃ1Ê+õ9e3‘nz÷5NÈÒİ}M“•­l…ã3z±ÆŸñï\6¨«¨¢à›sf™İÁ«,ÃÒƒ½)‹X,±˜Ä¿’£œÅBæVèÀÑ„µ^ëĞ²Q$sİ5nË×?‡…‚hÄèAV^p&	æ0Px8Éî¦¶C¨Š©üÄ£l†ÛÁ†8É™zI2ÙC©v˜şÁª8>àü”ä(õHA’NHgÃ	§ónËC8.‰’hM,áŒÕà4_UƒÃşX“ÅU5LÜSVƒ3ªTŠúB5È_ÍäjÀ¼^V2Â¡¡Øá`âÔÓıµáÉ\21¸p0WS© êÿ‚CšQ;µ1Jvo*ÙÔ?æxfï]“õÿp¤·fnÔá‹Ïª!Ó]rÿ¶Gnˆ.ÌßóÃ^:¼´uu÷çç½´i|›‡ì÷O¼äÖËÍÖ†{˜•ßVD‘g®[ö°‘çošuİ.ûÙUGÖ¶Ü3‡…FÓ‹¨Œ «#˜ÈÕş4N“4“ÜoÜêÄøˆù ñ³VğCïñzæÛZû]L¿ıÇÌıîİÌ³ŒZÇXâ›
+É[UZM¸BªÄƒña4ÈÌ8(=¨Jx<H€`»ˆÅAfÂMúíz¢dÒrÚª&»!è„«ÅİO›pÀÔh"&·¨nœØè8‰S!ç´èÒ%Š%‘ìè™E½Ş/zºgŸé¦:¼«35~„µ_SĞ+Ù<œ
+1mÌå<êJ¤³ÁJp©*±Æ¡¯¤vá(æJFaOw¶„ CXÍLq0ÆÁ±a‰…æu©(æÆ°¿
+Æôpß{ë×o¹åõue…ÓÏ>Ô7şü‡›ÊÍ«[«º²PóÖÁ…·şº¹{—õÀ®>÷óìT»Å“¡¾ ¡±Õ:OvÄŒÜ®õh}·‰÷‰¿UkÄ5Ö>q‹e«í5Ïk¾·EÁi2[}~†·á>÷í~’¸€C|À£†AW a0è‰+a·#ÁÛĞbÆÈ,š%sÆ,›UæÁâR®2OSnß˜“ÃX
+ã®ğğ‰0:~t(üèP î€à™N~ä”ƒœ›ŞÏm-ÅåÆ yˆú€”üBAË7L—Ï2™×í7ÚÄ¨5æ7zça·V>S`öX\óÎ#€ú®À3İ5ße‰…#¸¯q€;i	j¸f^Äî¥<€|ş¸w¿X¸ö÷æÂÕ…ÿ<½àšè˜à5ÌÊRE´¿ğüo
+>ÿöb/Ùtä£0ÇDì~€y®•åÜrïuŞepîÎ<›9‘æ¹º¸.~ƒ°AİËõò›„Mju$àñCÑ€'2‰4jÀS`é>HH€óğ^ÑCpl_Ú™L¡J‘†Èo@]T$¨vú<§¼^Ÿ Ş-ÜîFK@¼È·ğ<ë#¹UyÖšÔîŠd 2·®tï–Àª9îa<³[s]àD19$*È¼ˆ
+²ÄP4¢ +¢Œ(ÈŠlË8„û"JÁğMÇğ™“#€°ˆR*ÚısĞê *ŠzK"ÙÔ<‡?Gâß“ÀSÊv4¶ir¸»‡…ƒ4¦WCyA°ˆ²È7ÒòÈ9¨´(_ÏrÑ¨Á`¾hná1Q÷Ñ5+2ã'$®=ûY&“”îÈœk3Æm5Õ‰ËTdäT8µºXâ'
+ÄRzüúÂî¨C”—0İß÷'¢…ß]Ùj3–pœÒZ©J\¾'‘Ä~yLti­šUkÒÌ–äáä«Éw™ß$?a?ÑœeÏjÔ]ª.n`¹WÕËm,¼F]-„|b²^ğğ¾€Çq€Vz¤LåáŠõ<±`8Y‘Ğ:VE Ù€ G%
+ÇPBLÅu4ñy»Cˆ'»QFe™2¹¬«Œ-ÛÌq·ğøBP-…
+.
+Ú
+.!¿OÁ¥O9èSpéÛ–ú7ÆƒxEO$ºGNßşşÔx,¡°ÿ‰ ãüœßBàäèPl¢H4¦H8l²:@?ÕÔ€1öµv*é'=ùÇÜ}4ŠãÍ“ş¡×€;S5r83'æÔk L™¿èÃîæË® ´}6cU!×2=Z˜·<è2;£Ñ*ézfe©]xga{‚òàTĞ9O‚ÎÉây†œ"®¸;AD§è"R­\ÛY»Vèrv¹Ö–ovnv8\ÚÊômŸ–qÖ¦Ü­µ]µw²?eOÔ²:æ6íP-3U ¼8ÿ2S¬…³ŠÚ§h!¼ìÀrSÕƒ§3Ä%*C"¤ÆÉ€_GM¿d?G¥ÄL­æÍfb4·˜	•ŸÌE3kf)WšAˆÜ¯ÑAò¥¬Õ4´Æ°1ˆ0‹NË"µdb"=›–[
+V48½I*ÓÒ`¯ ª\L±$×W£’2+%yQˆ&âeñò8ÃéÀ1Mc±M|RS‰ôaX‰ÄxÔq®k£†Jja€£ö95?¨ëV¶’%¢Ug€E‰Ú%}fÊËæ‚6¥œÍÄq%å¬[9%88†ıÌ’9ë/Œôußÿ·ŞwNL¸ˆè]ø¬×œØX¸îÍ­ó–í½ïéëVÕY,İœ^{ä§~©0t_,Šo_ÖŒÅ²Ñ«
+‹Æ×Ÿûù?ö=ú—Ïw–ÙÂ5Šü¥:ïÇÀ«Íøº’gøÌ™‚E‹_ 8‰f‹çd3mfêÏ*HÊZàÙB[pHÁ^Há˜Ğ`ñDŞI!åÂ{‚¥~ğKÃ/…t°VÃ¯~àkjÇ¡H$5¤¼‚ÓŠ‡yËÏ?WV8ğLÜ%“ï'‡ª2IÜİ5eÇ”£SNLa-S¶yåÚVh 9m0
+x¼ÁP6àICÍÏø`ˆ<š`Øğx‚aP•Áp.àcG"ñãÆiµ’ª¬ôz=‚Ù"ra)”	u…v„†N„¸Ğ ‘d·8¥sÊĞFš‚§4GC¹Vˆ„“ì¶É‹şàLÎÏôĞ¤Øİ£ˆ%9ê­M”„	ı+Å†¨ãEmÏw+„ ”ğ¯ìRı£·àdH‚d&C&)DAE&3ò\fvÌ5Ò¯œªyvTHÀÒ@ƒîwø–%Ñà',=wß7rÿ¸°ä›=æÊo]V’ó@Ad-ĞN ½(¯
+*º8¨OPNä\ÁE¦¥µBÀC‚!gÀc†\†Õ)6›@XÊ¡ôã(»ºXJw®ºKèNLQÀ¡Uè˜…ÂpT`–^&(4(¿ÜOï…FAöQjI]ç:d2ÁÖ`g
+Š–€ß)ûƒ èÎ/JŠ.á®£ÿ.jG¹²y²ö_€`U€ıL¥òõÜ½
+ÔJ0*/~À˜ Faô‰<¶ÙŒZZÉRG—ãVİSÆ¡¨ÊìÄ™¨%n¡*Ğt $»Ó+Ú]“ŒU¶’V+†Èæ€+¡Wû¼ƒÅ*#‡Æ™ı"´!)ğ¼!µ:#ÈÂ&a»ğ´ zA8.n
+PŸÊVPvz­ààD$:HªöOü„zu';Ä/0©ÈG)¢¢½Î[‘¢Û£Ñ¹uŞ±X«ñh]c!/J;š©‚Œïy‰f‘F³ßÈ3ÅÑbèovÌÙôèêKWº‚RMÜñ¤ˆªâ
+HG.ßúü]U®@ùÅµç0ÛF¡
+ì‹g ¦=àµc	IXÍ‡‚ÉëH¿´UzB:$éphß-×–ÖÎ%—ø	ĞÙÇxLãBš€G†¥€…x2&>öšDâF@»ñJ2H^–ÓöÿÉW«5ŠdÓ(’M£¢f[pQÇ¨‚¡ö··34VŞ@=Ş“Ôø¦ÜŞ“„t¸cÔ&ûÚá´Å ¢MÙ[±ÚjÙûƒ«Ï~T3/jSÌêe+çK¢®úæ%}o¾/lÖI«™+©I…üºs»glÖÔµŠ,‡ø
+÷W€K¿&Ÿ2:±	ƒKŸ0–ËÙo‡Ç¥Û«ğ
+çUéuÎğƒé7œï9OáÏœz½œ0.39ÃÔ:k3SœŒ=wÆ2çTe&‰Ê`²¼3çÊe«[ªW@}åç:×êL?Úè¼5³=y=–ÙQ=Pı¦ã5çPõ ¥{´zØñ©óS×‰ê/Ğ?ÿÈD§âiÉé¸İ1/}…c­ëUç+™wœïd>t~˜1”¢#RÀã†ROB‘ÛB0\Š—8xW`8 lENÂ.§“ÆÛÆgÒÖŒÓ‘I;Á_†¾CzØå j&Dd2ñ„¹$•+
+IRpGp H%Ã‰ Ü&Wãjø~MÖ‹FÉh¢‘*Ed€¼ ’Ü©/:h8 ] ”*Á7%ü-Î÷	£8âo4ŒDÿ¨|yÓİıÈ´©i\Z‰y§Ó”wŠæ<œyÇ`ñèGŞ‘±æ©LÍøµc`¦ ¦´ñ]KšÍcß9™É#g<ÑÖL!‘ßÌj˜Õøs|÷¦çƒ¯mMeæ‡í#g¯=·f} <ÍJ=Ìš	_<zö÷¬²{®ÿëıgï ±øañS°g¢8~QÑoÆæM"-¹M›}ÇI¥¥Î²Ö²2ãEÂ[B!3àLÎ<A(†¨WØJñ6›M˜9d5›CÀ£?‘ñİJUcâqf5£àCgm2IbF”EF„äÀ~ %‘GŠ-n+S¢\àB—a©ï(;QFÊ,VŠR[0˜	á¡X'Š5¢…`œ†øÀ+±„b‚b œKÑ­xÏ ) ı‘’|¤¶<xfÃp¤ØE`Èçó´¨uô4µÉ	µÙe.ƒôfŞÜ‚¦›¢æUè
+óõæAÙ÷³ø€ùüOlş3ÁÔl‡¤0î’8„Hq×>¿¹²CûìúF0jO¢’½yÚÜ;ºñ({]yĞ˜´yL6šóf»ªlğsåÁ;¶W›‡Ç-m¾<`ÍJ>(!Âßù¥*ÔÁ Q†»Fu\ø_©Lq=¸‹G)£´9w“'Ö„E	iì¸±¾±ª™çxÆpTÎnd'ûùù=æéæ
+‹äQü‹µà_èí‘«0ïâŸĞ<!²×áu|¾g›}1¶§v6˜4C èÊHL†‘3ÍG1ìnÌI>ÙG|¦Q-©I)½5Í;†¢Q¨Yb7äp ¡Øô¥ô$ö£Ú˜;f‰t¦JäÁÎJlå¡eWAKÔè+±‹ÀÊ,Ø*‘ƒ…Õ·Á•„ÔMhvézL-Ã˜Dj™Ci0ø•ÃXÀ7®‡)§
+7ÿá…¼zãİWí{á«Wƒ!¾ªğváÂ
+(iÀMoî™Ö·«ğ\aÿ>(TÇğ%OİNa2›M_P^{¥`¨?¬Ï¥S×:W{V{oLt¥îóòëœÏD'~ïù½÷½çŠ‹©D,ÍÇÇ&2©ñËã]©Ş”öU„İŞ2ïïï\¿÷¨v%ğë‘wïEŞ…ÈùgÎ+‡}	œf!Âƒ¨µÃÈ'U”ûá–0¸¼­"V6"ğPğå!ş-»»Ü*÷´EÄ©P
+Ë©ÙJM1©
+¬8ÌXQ‡X1ÿqÈhPømÔ‹Vt¤a[ej_·/Hİf%xü/ñªY4‚+Ea3Ü^r¢•x1-Î€ä$`FAª7Ræğ:£‰X™BÃ/¬â®òõ€O3JëÃš6g,úA …Ç²!¿4P@`§€¥‚ ±4íÜƒ{(C‚ïıo2V‰+¡`0`â œiFòøQolVväYĞÑV„¾ğ_şzóïYÕ3!w‘oÅSo™SÓJn(\Û ]XÍ¬¤­{¯ì¨aŠFópoÛ3è<1à‹Â*ˆ7^	µí14"—5ã6ş>Ìp˜PÒÆ/Ãkğmx3º_ø…ñC¤f2šˆ™yó TB•Ó‚=!2È‘+jÅt¡^(q¼HôL2Ô°¤-YD‹dÉXd‹Ê2-q‡2„EÜ¢^Ò£> ‘ßiñÿ‰‡ †/=Üœ	PHŠ*€—Õ1)êiuáœP-.`UbŸÚìc„UÌ»A«¿FåÑÁF-¸öJ6ÃJ©‘ø+â¨äQ<t¨h®)‰P?ˆÖRRn³"ü5³©UêÓ˜Û–?Ğ_xµğñ²Ís®ïÃı0-Gƒoî»şàª;ï¾úÀs×ôMÏÿÜ8ğ˜NR]¶ï²ú	‹°çEˆLŞS¸ªpä«Âíì§7=R(<³wãÆŸà†¿=Ö»âúÀ+€(Kˆ¼7â¤VuT¡é¾6ß{%üJ%3-òx%q©e(‹TGcQ˜M…a†Nä|¹&p´&´6Úû¤-•0»,úLì¹ÊbÄÆI·à;#·ÄŒìÄ’Ç"OW¾Py,óçÊb¥fva71'€ÏªêSõ™e‘ËÓšrÈºz±-à1C(šğ ğàP6,“Šh$"Ø
+îSd7‘_^¶S	|:h§!xÙÊwòÌf~”E!Ïnovÿ@6V'|>/ì$dI³’{m+¥Q›[r(øt´€aD‚ÄZ,C<çh-S›Ş8@
+ú!»Mám›rĞ¦ğ¶m[nÑ!ì*U‹ úWbõ“IÊ×é_ÃFáëQxª$Ìùt<æ¤7!—éL‚Åæ¼ä„’ÅL*upU'¤ˆ¼•Uşp ZN×à*?¬R¡Šd¤êH·Rø!;€x5»¡¨RÈ†AïïµæNİJš§ˆùŒh5©P$¢&W2bêµÄÿ/¡ÀÓì(ÔI”ÄHÕ
+˜Z–«‘ô~Ñ›™SÄƒbÂã?;²é‘§°³³Õ¹q¯ú¥W¶ßYÃë	Æ…5ßO\»~0V¸á¶6¹ïºiÃvõ?`U 'êÈ|Ùe¾¯±‘hdd¨L•lÁ-DmªÄ“å£µuµnÆÃ.t.t-t/ôp*½Ê€Ê‡êÙÕÚÕúÕ†5Æ.W +İ•Ù(Ü¦íÓ÷n1ö%w±»jD³¾FŸÕç|5¾¬/GÓN•¬ä—ee•îOÙŒ+ãÏ2ÁqÙq¹©ú©ås´óôóÅyeó’P? š@ÎS;Ç9Ç5Çİ^}IÍ%ÙKr—Ô.c`´Ú2‹ÖSÖJõcË2õ=æËÆÈ~KzkfWz(ñbù«É¡úÓõÖ„:ZE<Oã· c¾f­d}îÁ*¯Ç·*àñûû %g]ZAx4èVÎÔ•Ø˜ZÙpa<^P¢Š	'h6ËşPÒø4‰ŠÃ²˜6½`"Çaú¥éiÓq‰÷¾g»ıI‘VŒÂí)üBêÏ©"(7yJNN½;JI©¨<6õµW“•$(-³íHvƒÁÑs†zöŒôäÓJ0HMšé­¡zõĞ×1F¥ÕÅnÈ)¢µ6’á-‰˜¶B]ƒÊŒT­Y`Åg`WS©«AZ]E2.‚’3ÊÊ£fPtBš£4_
+6*Z­däõíw€Qª^¢]¦_..I²íPŒØ“„	]Š'¢Ó:y6cÌ×À<íX	;Ó
++3ù!3 ÔC‘©©ÆOJdEF‹´J¡Iæ©¨¹c÷%+nOÿäù;füù¹±ÙÀ¸]>(p·X¹şcêã…G8óÄOW®«s¸ƒ°‰’};.İpáøšë—]uï…W«!Éù«{~ĞyË‚êeşÿX}çœ{~“sÒ "öÇƒ}4 ØG‘ëaš%Yà[à¿_I®ô]éÒÁÆ`Kp‹êÏ.Õc`Ÿ¥·o†ygJ^D£$C²âÌHvÍF0·Za¢'U©	Ù-¨I§V„šZ‘têÃHú©Ö4Ğ;_ô/ôïğ³şÃ$ìÅÏe-õ)ìŠ´ÃÓ÷IK!@£'g ö‡RöÚ}À^­1 NB1v)4 àÉÚüÎŸúH1wF lŒÅ×hÆ”ú~¥x1¤¥ÿE¸b¡°…}ØÓZËç¼ vyzäEj¤?²0‘ÎÇDÕÌÂKs"õcÎ9o³:ƒeå%Pë§ÀU[<¡ÚpMá›¡¸åélz»OŠ([yİ›MpõÜLn‘†£ñêpu¼9ÜßçËâù8iÍ¬ÖŞ`|0şBüË×`(…¯+*W‚XluÃà¢ƒ®"Qˆ]•ƒ¯ö—ınĞøH‰])ªZÊ¨Ç&ªÕ‚¬ËP|/	@ÌêŒl²ZAó(fSâWÔù+…iåI91ƒ»2;2™6tJ
+:%RÈl†B±UP+¦è/ä!ní§o¶¸Òg¾ñ©ß§ ‰VrCş@%œ?H=êÒğ>£3.\·gŒ Š)LhL´^˜pÆh<1H0ÅteĞÅh%JhaE±Û@Õ”R› Y¨Dè¦l‹ÿ%b)nHPô|RáÁÑDó+|¢¦5i»pøÍ?~”‘ši	BvNÄå›¹iÅ­¿#Bk
+t¼÷æ?xSûß‰yıÑh.Ò3²§åÍé«#Qˆ!™!÷ó3Ê_Ä¼_cä¤”ØoÇ~ŠşëC€Øy4&ß(=:„Ó´¸KgƒØ.hóOØ±bQ8Ke[5¹RÙVEZÙÊ7KáìßÌg§ƒÌaÇ!ç³îàW¼ê	×n÷sªƒÜ!Â
+sOğOÚ·«~Äo6n6?hßT]n[êXÍ®ÓôUìó­ÁË¸ËyÕÅ|»p±æRC»M%[Ñf¾j6§’‚Y¶Î6M3¨¢\Ÿ¶„]Vd0à£AU©¸&x‚’Æî¶—Û;¯§Cô8Èş	¤!e÷Ê+¯@–üåóÙŠTØƒ eî1¸8àğ{ƒÅ>Ùdç9Iày°ˆ ájSq%`˜ˆC§TŒ`j!Âsê³ìø8c—í›í§í¬ıTÆ&ÛZm¶Ó6•dë´uÁ\Ö6H>;(ïÒj/.Èw §’EZëS•ôlŠ"ùß¼ÚAptw|óGÉÓCPjj¥esj€Nó‚`Éƒéxì %¯IXèÑc{ŒJ ŠŞÖ¶¶q0· ‡1˜å±8#-¾u`L]!0ÕsªŸMæÊ
+ñh‹®iãIù¥u)ø¸‚œ®oVéT3£ú`Õeg¿Çş`5†z0u*R}Å¹ÓêJ_NB¡$‹<Åøõ@ƒyÆ_¢¾ƒj\W³š€şh¨¦Æ{Õ«5-T!:ò
+)~MŒ.5§çu‚FÍk4.Ï›NK^?•i‚:Û^º…`y¯|
+µê\zººmS?®æb\R¨Ğ&t	KÂ]æ)OÄ«j¹¼;›™ÂMâgh§zæpm|›Ğ®iÓµ¹Û2sª.ç–ò+µ+Ü+<WÖ¬a×pkø5šµÚt7¸×zÖ{×J×¦oeïú½·§oÏl¬º‡ßªı¡å‡Î­î-{÷¥ïÍìT?©}Ò½Ëó„÷Ißãé}ü>áÍ {æ™¯„¯´ç|_IÓW¤/Ë¬¨Ú¨fë<+ı«WW²—ñ—	+ÔÌõÌÀÔÄŒ4Ûî™Ÿ¾0Ã´ò­Â-”æCÙ¦Vëµ§Ë½e*>¯UÒ½™ÇÖ{2j/«5• ë1¼k…|R«Õl¤Å@ú”ø³……Úë ä)1¨¬`q[=–DºÌ“0ëLsÜóÄóUuü`±kŸG«‘‹«dkFà%V‚Z;ÇíõúÕ’óxá€7í„ÙfÒUÓ7^“½™*Ø­²˜ã‰8ûˆh5(PİÆí„B¶Ş½rÖ³AœRÖ«Ìd3U½U›«˜–ª…UU]ÊÎ‰ªÓUBÕ)ácõEZÏ·ö0‘*-µ²®UwTÇè¯;H®ØWb5¨½8éO:Å‘3Š«’¡j¸ä(›ïõÖ¿¬ğŞ7aô5ë’ÿ;;~»“,5¤\zGAĞ(Ê¢ÖÌÊhôÓ•”UÀiÖ6*P×¤Û  MaÈQ,)…)-PæPZ¾up”SÃ9~}n¢ßš,Ü–€ˆÔ‘HáªJµy,şÂ™««ÀÚør—ËRFÄH]¶³˜Tøì±qÀÃ±lø–³Ï2KÎı˜]ö=Gò]™Pø{#<éë¹¸:fÑ›¨#É”Õl	ÏnÌ8 Ì4Ê×à¼¨PlŒßîWÁ§m½Bµ™K—ºZ3l…ãÇºØºøqÎ¥rqel¼-!eZ3*•
+Æš°6ÙŸˆGÑT&3Ë™!>²Àß–hÍ\Ã]Ã_“¸¦¼+Ó‹{¹[ø[½å½™íåàGÈÌË¾ßúNd¤[¹>¾/Á`jJæa &y(‘ò ’¡èwú<şHÌép€ÙkHÂTJ•¡xö Ñ‘Nğ!ÁÇcNU@Ä 2K‡ı|:¥Ø4mÈFjYØC² ‘J°4ÔpìzH½[ŠS›Å¬ÏIñL\·Æ»â½ñÍq>>H¶ìKSà¿"é#¤ÁíTLÅ6¤dù5oRåÔÇªvT-€×<Zù[òœKÔWjÎ.«ÕÇéì²ÑÜup¦¤w© ß 4‡”æèÊIcĞ:ª#èú}jNñ¨ÉBÕµNÀı×ğLå€Ÿb»|£/baæ(~×í^zQCá7vQ¤!À^-Ü91=İ#“üé–qØƒ5¾ÚZ ºÔ¼E##…İçW<Ô-­k¢ÑŠŠÈ¥…ø'—¦¼.ª?šVf62OÃ7,Æ1ÓJD–•Lt#T(¹6ŸŠ
+Z-êP,D‘®†æ´f3™[c§—ÀşÓgdEZrmMW¶<D0q’nÂS?[V‘Éêd5<T'û|tm‚SºÁâÛ²Ÿ^S¡68±S9êT®pŠQ?ßPÁÂ„ÔÆac£ªöHz„"ôíä¨s8¢J½ŸL¾,¾}²ôPë°Jëí¯!æÙµØ,ò½»Ô5Œ9i^Ö×Ü†îĞŞ‘ã|f{½ØØÛÈª½3U3¹f©94³^nÜè4^B¡ix†fšvZnÆ˜¦úiãæk—koUß¢¹Ekœc¿ÙNI§Pƒ²©²Êì³ êuHW:¨ÎëÚ<bğõ9ä(¡Â´SÇHÊfÕ5 ¥ƒIùçBç*'“vn€JÑï£ĞgäÃî¢S÷*s ·Af²lbµ©¡J\ÙE5z.›ÀŸpskÅË|Œ¾ÑGÑ@´7º9ÊÊÑÓQÒÅQ‘^}–4Átq¨„@f#/—ıt¾Š—y	b`½<”mãÓ<në®i|ÓÕJ¢|ô$”©'ÁÆ§™ğÈF=TnÁL³3#înî¡eÍ¦<½&™L—¸g/£ƒüM;ISt)~û”ÜXoXeSW[G`œF 0½O
+.§ÍCÓgñ"³ÅĞ{q(<V•÷¢:!+á\VköŠ^lÁªkğR':j`Ô?(/§ÅËÀ›=×üö¶½fª ˆZsû«`¤@‘'öŠÊæ !?F‚±—x6'd­6ï”`R.üÀê9-»µ`çiócà§Ih`«­¶ê¯óD”é$‰Ú£ ~G“÷µcJó9›ƒFÎÏZy+Jµ!­?´•Bfp°<„ÅÈ”»"µãŞà/{ãóù³£1’EÓÛ¯¿`¬×¬qE­¡kYU=~ ¢eÒ¼º™·\erİtESÕ¤µó"—…Bõ©êlå¼Íe‰É[¯İ<ÖÊëêîŸôCÜÑàªèÌOUæï‘âÙâIæên¨Ùà_—x_EyÈ„ÌUYuÈ©¤ûœ@Â)…Ğ8§”)ÊéĞ8`¸^§s:KÔjzš¬²¤…"ÙQµ6ØN­k|?Y
+î(œ
+ÕHâ«À¶àZ[ F€ûè=ô^¿Jƒb H¸¹NBé—vçKèG_ş§gè!.Â‚§ëÑÖ‘Ñ÷¡‚Ÿú\ëÄ~”;Èà?°ªX“¾£VŠ]Ë¬aocúØÇ˜§~
+ëk\?Áâ·Nr:tˆõØ8j_÷¤* Ú¬"ª^ÕÓ*Fõ™ÎsÖ":¨oÕwé7ëÙ^XèaÊ3Md 9¤?ªçõÀÿÏ4äôÑ—f”r¦ÀÔ+¦ì3eşJO{an”2Ë\a„Kb´|Lbüvkœ^ärju^ölPÂ.­æqI™HI_ñŒ!uÓM©4ø µÊÇJŒ+Õr!>×Mç324‚ÇŞúà]¿şÉOµîœg”œŞr¶TÖ\•¿øÇ?^šË%È‡şò«3÷õÖ×3šêÃ]#‰‘?T×üò…Ÿ{ Ë€&MıÄß+°ø¼!îï”\+Z€³Gj¾3ØÁr ‰R „åÛû-¥€Æë©NñU1 äA€';_Vª×ĞQ{ÌJÅ÷5å•Y¦Øsèç«ˆ×2‡~ì¾ÍÓæå—«Ö¨zQop¿çé¨t}¨RoÍsÎõ.w:;½kœ=Ş~óİ–Í¦ÍÎÇ ©ğtx|9íü/\Ÿ'½ŸJg°“#ÓÍóÍwîzÃ§Ã¼IÂÏÁçk$ø@d L˜,g€.:ƒ½A‚‚"øÊ´hª+¸ç+$NõÁe¾ãnş…=ªæaxÇ †N7r9ƒÔßèp‹n“èÒ¢RMÓ	¹¨Íh >Œw©iyAO^ã¾ÙMZİx»»1Ì<ÍÁ×ãD®ôa×j:D~PÊ Ğy=İ#İ'»²J&¡©l¢î“æQÓÌö-ñ]ãc~³ì`.=ğF]]|OÂş@6„6‘HtRÿï48¸*QÌC
+`¤%ÈÆ¡=bIäaêævcZ¥S¯QéÃJè ,E”tc¦GİüĞ)Œ÷÷ı¬ªb¬ß¤‡Ç/wáÃ_0&‹/9ğ˜;~6ÍŠ¥c¶5ÿôÅ?z¶)é%ÿ¤âIˆßßAÇJ2c”ºbi¥^®ŒƒÚ¨äW*àFÉI>»"²ìZè+À(EIJ LR®†£_Ê¥è–“
+-É{Ê(}TYÃ/`¦ÂK´ÈjD·¬ün¾¢‚dIv¥A~•
+*“`d¼,Q9FíŒóì"øZ'B’–aè­Ş.–}zhá1Z»"ÅìP†ËÍ…BI7W‚Ò<X*Ï$)*S®QßãÒ)E®I–Ä-äLRñ~GÇ¨¾oş}*?!QÎú”)Ù4 HÓ;Ó7²7ªúÙŞôÓé¡4/§{Ó¥íå¶ä\Õ\aNò~>ò‡¥ôÍÍ<Íöñòi~(}:I$	IÁÃ@ïè”›¤éRi™f¥t½´m—äñ¯–kc‚%®›`ö[&Ù|qû¯ß7) ·iÙ
+›µ@®¨0Ú Òu0¿z¹l¶uÚ{íOÛ™ Dtˆı³²Vúº/‘ÊÒí3Sr\SªiÃhUÉ¬á‘¨Ş§`ÃÓïP)*jùéç8Aé%Y!	eJ²°JğQ	—«*ÑH­mŠ@â
+…ÃÜ:w¯4tI›a.ÌhršÊF: zŒCÎ™ Vü<“_4õN¿ÿÄ—ÿ±®d¤;©Ç¦JcĞî©ÔN§¸†%é¶æ‹V^¼|ò¸³¯¼‚§ÌzâÇŠ¨<ûşÃS¼¦p÷køØ¤®|ËŠ_¾ş;…¦g‚Ìœs¤­PØ»~”¦‚tNCı‡Íh½-##LÓÔÁdTø¤]qH‘—´!›he|-Ö5ñtö|ÎNÓ»iã •«ğñŸâ;ÊĞxıÊl•V$DE,ÈXZÁ[˜CA	TrúÔŸ§gŸ­í ‘ÄĞ.Ğz?¥¥7–fD(‹¼Äğğ¢N0wğ,ûv/L™ƒWñ04Ê‹1JáVkÀã¤M->-lÀ{‚C0Åÿ]5„©²Ğ×—!]T­ôzJ	²y®NÔi}‡Q¹$/kŞ¼Ê ÆÓôš¦g… Ut¾¢‘UÏ.Oe=œKİf¹Ô¾¾§r±›‡¯6p<|Fe›Æm$wr}º~ñVß#ä)çËÛä]ã{âò7Æbîä;….İFõ‹ü/§yĞv¼şÂ¨)§pÀ)ÓkÕ“ÉuK`™£^_ÜhÙèÚjyTı¨fP8 Ğü‚|LNèÎh¬ÂQ¾t”'İtKaG“ÎXÏZQÆn£#°@ÒBÛÛvÛqˆsÚ<¿¡3¡HÉªÄ ÷–‚òTIŒ/ñ`Jü›PÚàÉíx•}ƒ}DjÏX­½´x³@2PÛz\`D(r…‘P(Ì	Ol,ÚHéŠ©Í?Ë ƒhÌi6Ğ¨–†&Ó¨õÀ¬‘njºtÓïL@+øÉ€#`Qà¶(ö£÷*XÜà$Ğ™Œ ~@Í@Z¦®ÎØhjÛÏ!¨cënW\¸©d—B<¼MÎëäÊ¼~ÃÚ› N4İP)±×SÚó”ÎîiJ{šÒ9µ²'Ôy¤ª]’)¯‡Ÿ	¢¾Â×ííí®”sŒj1vø¸à Â¸÷ğÒ¥}n­Ø^ß²ó³¿|ğÕ‘>¼K%º–ÔÎ¾™Œ}sõê%k­?ÀøİÏ0ÿÆ“õm‘:ùû`µ Ä\¯º%‰0ÊİÑJEcUÊÔb®T¼kä3eX j›ÖŸÊfÊ 3=2ZÄQõş²FˆDığõI(IÄ½fÎ&‡@5@I-R__¥M0ÖQF>ßE¢÷À¬Fì+ã"ğ$¡Œ–qs1G9+¶µÒc²VáFå8të=ÅÆ6*+Î+!°²“Cğú# ƒèG<òø;¤­¶­1f3I7Õu+s«Nõ ‹Ó•‚›¹Íüva»z›¸Í4P©9SË&‰W0ì÷÷„ğ~??Èr ìßî¦Ö›"QN¶‚œ)/3›8˜Ô$â‹öm·w|±—'±(ëeØl4‰÷8B‰u_ggVÙÖ×—¶¥m¤JÙÊvo0»Ù€)‰/4t†GœÁUq˜áà«Ê%O—ú­Iğut·6uœ¤q!ÜÛ Riÿ¤¥¢ÌÑ¸Õ‹ÚbQ{Â‹âÖˆW‰IÒšîÑZ
+0”¾•†¤sÊÂ9HõÔ‚>ú±%êñ ›­Æ†óFÇÏy¿,1ÑµwoÛîËÛê³~GÍô@ –’½Ÿ33GëUD"‰I‹É‚©Ÿ¿vRe?¼Êb©ZşÎÄ©@~h\a2ó{°ËÇ¢i¨y@¾Élo} ¶µ–‰|“5åkfTÎ¥¸‹îØÆ1-¯sm¬ëâMğ=•›·87åúÇßÜ¼iÆm-÷9îsnmd©ö;ö;_Ë¾6cèâ£Ÿ¸øôÅ·d«sÖÚÀÅªÇ…éµdgjƒÓ=ÈÕôÍ·?Õ‹U-@èÁ“bş¸ß	Cû œ—n!Œ¤mÜ}:úB”‰âmÚ’½àpÁ¥²^kŞ6/ê0Ğ{”-Ü„keçæéx:ıfÕtø¦Hãô
+Ê:Ó•‚,È–UŞ @ÃrÜÖ&Ü4ÈTÉ:×tMÚ…[]½ğ]«Ÿ“_ÃwxÔÌ,˜HS%k8Şß%®¨0ÎzÉ€¾óÃ:f1ÿ¯´/¯ª<ó>ï9w=w_r÷åÜÜ=÷æf½Inä¶… A1AÀ½%€¸$mÇmÚJ¦ÚEí4L[íb-! ‚Ö-Ó:m©ÌLë´ıµÕiG[±Œcıl…ğıŸ÷Ü Î¯ó}óı¾›¼ËyÏ{öç}ŞgÕ8´¤Û÷5N5Jš_­4í5–+%ib[CÏfÃØFå‡¸"o¡.¨Ñ,Øšt<Ç`93«ÂÈºu_æÆs³¹“9]ÎN=±K“‚¢ò¦ê&ê4·K¹¼ñrõòıxçúËéĞˆÅÚz¹}ßg—²¥\–³´Iñ1‡oÜ÷"ıÑóo©.:Îg%ÂÀÇïögTÏƒİ¬ŞmC’8$12EX!¼Ò`´•—8+Ê·9O•'é¥ë6\ş»UH0ùà½P¯i]p;Îa|lÜ~º°ã”³°]óz(hîêÛ§¸³0RuR@`rƒp&?P;œt0¦
+Ì‡_L¼œ1OÀ
+d¿˜~9–ó2[`œy@-È
+TÆ·÷¯ëìK•#Q€A8ĞÜÔÒÔÚ$z2ƒ™Rº.³6½&Â"£¿¼Jé_·",ÔwG„¡úUá²Â…õ–FØpv]„­]í£{x0Ğ´Raı+Ëmª¸D_¤ëŠ°K.«ó—*BŸI„³Ûš ‰K›4‘Q™~äºF?xÓd·‹œT¹äŒ–a´^@„í:´—Çôós—5
+peH&«á{¸0ˆ<—¸W=qñä¼Mşmíü(¦™œpó’l| T·°]^³áÄş=_°#–ä(ÜÒqü‘ŞeÅx¢12şã…·]ÿ…÷»³ßâ*G[V³rKoëĞÀU}-sï64vnyæğc-­ı+»$ÿÈ=ÇU½ÁìÉzÃòñ‰#ŞLÅëRŒ:Io¶_¶}ó§×5·éÅæÍñ¦xòJñî›oÿâºÅ;nŸÚ°øìG[Ö§S‹ö.oõùt˜ô=Kşü\›¸¯:7F;0éÁ>]vÉ|"”)ÚpóGßåÆ¨¼¢yÆì$sÀWñw– ÓL¢µœ…á$h‰Ã	~D}€ÎQO
+jEå.¶BEc¨¼¡:èğz~¾z>¬¡[7R)‡”Z1ñ:Ê\–Un²®hªB„ıi I÷¯|V9B.{rÿ^3[Ä‚3‹HÓğ<5½¾ÃÚ0\æ9®˜mÅIé”®¬Ì§_™O¹2Ÿ–åª´‹7Uå_v–à=¼9Á{&ğ4g¸ü•·ğ¾ôÄg¡5A¥¾£½:kóI»ZY u0IHÈxğ"’•7t¨ue¹ct³#íÈLtLvè¦;f;NvHêë§&µƒ)¦@>-3)ÖÖçcÙ•µr>æ\™Läc™£’]-%ËÙROk¬ÜË”l›ÀŸd•Ëå”ƒ”yRfÓ2sÈãò”ü¢¬ƒ†óV‰T)^?T?V?^¯›¨Ÿ¬§ë¹ÏÖŸ¬×Õµ?
+şâf”DY‚¥r^ñûWE“¡ÑËç“³7ÑCÉÎDôÁŒfˆ¦çª´Œ‹‡Éƒ˜d.š1ÚªE5	øc´‘5	QƒFÎ¢µêN§±UÛ>ÖsÉxØc—Õ¹E5j³,Å{›®_YSY:×¹0é8â¡š;sëï;wÕí}k¯P¿1÷íuµ‘Í®óÖûÙ+Zç"W–â©”GîX+-ÔøG’t!3b¼X„Z±ªŸ9&¤0D‰DtÛ8¸Û\–‘àÆ·	O@‚ÎìMËQy…>*/ñ„ÊÜ›mSÆGå7¼²ùáöÒÔ+ @Ä?˜Ø–Ø‹i¸vÆğ‚ºrJ–óí4µ¨Á—€ÔOltşJc%ş|œÀ€­]]	6…Ïé<‡ûû!î JOVQƒíí†a•Ä]û"]T€€¡Öè¡Ç{GĞHBLƒ¤˜dìm|<Ğ“iã•wøx >Tò¢1À«'pï¿:Ñ}àÄáøüådŠ¥ÆS“©ı©3)½’J‰*e)š8››[yÙÑ©•Ğ©óídš—j)jÅ ñ¬¬µåcn‹l°G‰%z­A«gR„Z«Ñã–'a=Y¡9xfI™
+ÕÑ]–n°ZmA[* *¸qèrÚ:['l(ÀÆãID=Ğf’3_æÃn›â´’£æiL;†GÓä$4´)
+ ®‰†/Š–å¹ ×Õ`U¸Î×-XPW×µà`SÏÜ’%¥°ÙErvæÕßG;ºêêÌ%Î)k+ äP×0Ûô™¢t¤ÆIÆq~óÜR¶O¿p›gÇ«˜Ş’óp6È§/øöaBÑ¼B ŒŠz¨üLõhªA·L\“üû?•78´¢òK­¨üL5Ó!qÁÏÄZsh •÷…ì„øîIîœ/ĞP5°ß<h¾îåÈBÌdz×İíe[aP-&_³-º¿`P°1Qœh9YB¦\VéÉÆr½Az$Ã°'d®†•¼ÕˆĞœvèC°WvLñk×¨]uÚ‡†a¬T*øı!|an¹øÆ1 7O*Ì¡0Š zF‘…N™åÁ3¢ƒ2SWøÇ}uîBèï‚É]ßÖŞWW½ïr3Tw·&ï6œæwzÇÅªÆ€tªAm9štFbvG4qÄ#,f‡n›uk&ŠíP}d@Ì«²ˆèĞ¬ëª“+tu  /ì¿|}S"vmJJ¾÷ágß]WèšSÎ^ıûS‹“Éf›q]zİßˆŸü\!Q…!†UG¸¯]z¶
+A…HZ8:ó\3OtaÄƒ{æ9Z|”ƒ>xC	UÔ–I´eKqV%¸GtÂÀ‰†§J>‚HĞg­€ŠF+ ò&fW¾kN‹Pr2W\—‘µÔ:.Í=Š!#”}î6N1´µ™ >4nĞ
+ <ûXôCxİß”øF…Ó…*!qJk¨­`>¤DJf¿ÌIF2p•£	,]Âê1G%^İ'ÃÿıæÏÈ“–IëÃ‡\»ŠOUÉr%X	:G]£ñÛ\Ûâ‹æßÇNÇÅ	óGíß“¾çx]|İqÚõ·©ÛÕèw(İ•¥ò.‡©A¬s*i%ÓPFÀi¬q³Ëœk]Ò¹­s¼êü£S¿Âµ<ş¼ùyù·²Şoö9ãÑx¼O\ì0X\-d:bö¸aµ4­ÌˆskÇtD±lÕjQWU@4´a¶,3§$g0MØ µ”áŸeµâÒU
+‡xû¯rÚ•3—£ògËK¥JG—ã}qµÑ4'0	q²†‡ÑÆ+v:˜ˆu´<Î`<–@®dkeÑ“‰ZÉ&Û²=åX[/BZ€yRJÜ«0Q‰ƒ>ld¢ŞšÀ*qÓeE‡ìtävAğeo¨ëüÀ Ê&È–Fë„U<ce'­¯XÅqë,évüş)Ø2„âğ}y#¤„’`ä¦*±‰Ò$‚uT²[%…ºƒŞàÚ 0/qî /Z’¢AÚ6Oê@ìFc9HOê QÃ¸ÙUÁ¯V3wĞ!P4—ÃËyü¸Ñ8‚‰aÇí¤úÙQ5«‚]‹æ_éÄ°ñ‚g‰çàµ‰Ux9yJÂ.»b¡ÂUqh6mA;{şî¬ó Ë¯\Ä·å#7„4=œ¯¡-@­YˆGÈ‹‰ÓV(."®__i5%2ì¾Ë>Ôóûß_UÛ˜
+.š[’	çæş=XZ5WZš¬±8ìJ¨¦ÎÅœúûÎÿ´×mµz£Ğaˆ¥?Ÿû—$ìr*Åj<şvÍÜÉ‘ K¥\âRiñÔ²°+IóÃš[‚è ®©a£ášc‚D§²¼V3V¥tk05UÄ6‘?¨üó¨h„*/q”Ê¯Ÿàzrı3@&$£àŠ°x.hÈÉ>øW…fb'ªÃŸ¨spNÌM(¦¬‡ÓJ^/Ÿo ,ÀbqUùŸHŸHè¦4ÒB_\I®‘>V«ßW.ùßÍuG„UœôÏúÏ ~->à¡î¥­Tª•­Ì?cÛÒ6ägªÈ?†Ø“şıèh´æcÆ•µ,3d“ó*sÜ’Ñ ,eÃµùi¨TCå­“V6decÖqë¤u¿õŒUoñ]D¼hD|w×…(ëüKÑ¸"ûƒÊ<áı‘`ë²¹îîRÈ„r©¿ï½µQNHêÃËH]Mßóˆ¡²°uÒ?Wçÿç9G¸$Öïâd†kx FvÆGåwüóQ‹ê oÜXà½
+MíKç{¡¢õ¢5A½–ö,ëáız8 ôp@é€»¶8<0*ÚƒŠvTş¬b¦@'™N3Pà‡øá…v|R¸;`êhçay°ı•ûP´GèÄØ+LG·C‹H9£İÅÏáâçp†xM;‡ÒH}°ı¼v¥Îí_¨:i"ùöYÀ(Î£ø‚Í}Ë‰¨R–­V©OÃ0Ş6¼wX^kXÖH-0ÎÒk6fJÚÉÂ	ç9Lj³³óS¸á*[LŒñ|µ
+ê xÀ;i¤
+]¯ ¨¬N]8=În1êk†×MË\â]
+W¤*Î
+x[¡½‡oõğ­<×ïø\¡(ëñŞå3	¯ĞĞ@å-¾·½}=¾Á›|¼ ¢ TŞå{FÖW´¸EÊ¸sğ0˜u8)—ó4pê´Ë <ãˆ×„>¤¤Æó¯=
+À£#@ºHüFÂj¤Õxrä>iÌçñÜĞ,N€µVò1g8{¸¶=kBEµÔäcËVÖºò1?¸ëÃÉB>S0ÛádO>¶uQr8»ªgMl¸×”o_¥Vò9“`L/[»>Lºh•-FƒNo\¶î€~y(‚&6®L+"´eÕÑ/Ríl¼}º]l§6ßªu=©øª¡UâÄªÉU¢°Ê¹J\…q}Äëk]5¶~ä¨¸³ÖŞÀQ¶åNN–V©Rp#Ä#R<gÒ/!úÓıÈhº!0i
+›·Ëœ_ao·Ê¹×"œ-Ì¤¬	˜{9jíé‹9wØu!ÀF2si×÷¿À¾óY‡ûëƒ7úßÇ#|’ÑìŞçë?@Å¶°¡-îúk[Öî®¹æ¾şÛ>›Ü¶p®Ë³ á—uáìÚò¢XÓ¹t®i bÑ'ŠƒmåÕõÁ¦ş¹İÍ!NëfÌ[ßØâÈÔm½µ¿¸s÷ÜÍkØ|¿3éb=^RËË-…¹~Îûc^ºmMj´Ø>W³¡-ŒàJ†Ù•Ÿ+¾Oc]Qé—µˆpY™ã2H‹ÃM<·›¾$!…µ%£©<œ›1¨«Q€8F0ù¸˜­ê…Å-$.6ÃÕ:Ñò¦š¡ï¢Dù‰¢üÑ<—²å9ñœŸ'’Q!2;*ih-Ve:K^ˆˆ)ÀíoTsçÏššm:™‚\Õ"Aî¦šST³1TÔ,Æ¸ÍÉíÆ> iƒ¢š`…ãÂÇyv±ÎK½²ÁG“¥&«oâu~MÚù)rÍ5›8®0q¼aòqCoòÁ´†>˜·DyÏ(oˆòQş t<¯Ğ…PyëI:$Ÿ/·VÆÿUèú´³©›©L ±<„óãåÉ²¾^Ç(Úüxy[ÓeÃtùdYœ.³14Ì–¥¨É—94\>K­¬5åcö•Éh>–ÔpMÙºÆXSoDH6·ğ7šJ&á^#û})ã¤‰M›˜Šà)Ó‹&L¶ŸQ6šª‹ç‡òcåo"?™ŸÎKBŞ‰¸ 4“›1äóc­šŒ@ÿ‡B8w (té ä0,:¢Íd0˜—I¾\ˆğC2¸¶ÿNY©Ğ|ZX¿y¡Ù³±ş¿ûtÿŠÏniZ<·À£¶ÈºU·Ül±ÓPô.m‚ô-¢ÄÓÏ÷¯íÚ=wÛºxËŞƒì–=Û?6İè‹b¬-ÛÂÖ<²<Dh¶‘g!*Z«TC„ (+·ªòuN2¶† š›STQ=Ô¨ãİt~XO;Ó úHSÊçÂªXì}#3í§~!:8L0Òy9Äy­½?rœ” Uuº˜ÕçÆ|2¢a€Ùˆ_„Ô±}î‰öUß5şÜlpÿ»Ì–›û|ëjîdŸ4ßëøyØW›Ë:n$1gß«ù‡¨ÆÙ
+Óüİ¸q¹Yµ ` ¨c')ÒéÆu“ºiA÷óïV­S`s.Ø•0	hıÓ¹ÕıÓC—n8h­8×­ÀÚ_Ï]´ CŠŸŸ¥IpÉúo!©î¤^©ùuçëá‹61? ”×/CéÓÆ¢n¬%""Š‚œ6d\¯"DYHa>3j#j›Saa	YÅ¯A=2Âšğ‹jš »`À vªk—¸Ëp»|»ıv÷­¾]]ü}5O_sÄéª„‘`qæ ESØ D5•-ä|D5!ÍˆÉˆÂÉ;n¸ùÅ½/Ş~Í­.ß°xêc›î¸n™tà‹wøÈÙ‰G>ñøº¥§û‹»_˜ûõşï¾ıÉ1’•ıin¥ô`-+TÄÚ*¬åpëûf¹h0R x‚‚"å={n|çÏ\ÎÊYwQ©Zä*R®àÖÙ!2!@xzÕ¤”¶·à3A¸VàXX`€N`Xè5 Ù Â}_{Øè»ÙxŸ9&4Ÿ?ûb³L0	Û:Ã°,/èÄİq¸õpéÁ½ĞÀeXo"àñı
+zåö,BPÙq3ººúÒİNMA.„¸"çIÎÖº	ªïIOÅ¹Ây¹ó^—î®"[Pì^Ğ_¼¼x½ëúâNÓm®ÛŠezÄøºéOf[ã‚õ-#­7¶êÔ¬Á$åòn«à]µWÙ¤MfcB¯è.ä$]	áèND¸;Ø-Á€½¹).OÊâ˜<!%ù÷Šˆµ®QÃŠ2SOjj2ıÔÌ=õ‰±N2î¥¦sŞ®@ğX;.®
+’¢{#ø Zi(m¦tkÆšiL—Í
+k°!k1·)¬ÉRRHÙX] JŠÛµ‘)İRC´™hjA„[¨bFh¡ªÂÂ¨×&ÔóKˆ‰,”Y¶oğ¯¯Ø~Ïø7V¶åšı•ş9%ØÅBÉX ÍZÍö­Ş²èÒ+Ôõ)©²ã¥Û6İøW?9ığŞGıÜëW¶Ä:ÍgiÚ"]5Ò°ïûÆ¶dçúK®>öOÛ/	¸ËBïÜJ XB€ø“*,‡2 	ˆßjxğ¼0Ó±*7m'®„ÛhÚµX7œAë+—¢ò.gíz‚`0ÏªÓ58bîd:`È¸-F»7€ö~Ÿ}å«Íl¸Ph¸à0\G0r„bk<(ˆèVÙ¡zQ…‹ÅWrûëu¡ÆDw]GaĞ©†ÔÄ`İòÂzÇPh$6”Ø «•mÎ«BW%¶ÕívnímOì-ÜúTáÏ†¾ûlâóu_,|Í÷hè±Èã…c¾ï lQx£ğ^¡N©ß™Ş™ÛçùœçsŞÙzãjÄı„éOÌ˜­òĞá€#—’¡<£ÇJ¦±v—Ñ`‡…xÜN`× Ä±L›8†€d˜ÄLôì÷™&'\bÅgk^¬ù–ã5KŠóV”_Î4MÓxâö+§»Ï<RH „TÎãOù30œô Kû’
+ËzÉ˜’`OScS„Øh’%Ëü,Ìa­jGIö¿~ûV•eÜø·Mº!Ğ²r®ÙÓõ.¿gÅÿÈ¼ß­Œe:ËÏnéßÿå®¼wõúæH:í´T@üŞ8øÖ_giE‰¤Î5°oa¾şÎsÇf,“øxèÅ'[9öD²ruKâ~W–“§Ù@œUÙù‹¹_(4Æ&EåMÍV"Î™ó8'bÑ
+^‹pmÒÉ€/H"İ b+ıFµf·e÷f¥lÎ°ÂT¨ûq¹§ÁãâÕ~PlKú."HßG—j’N—Á±ÛÌ{±´N0àN9ªtq.Ö…k"7£ò;ÎˆR…[^Åãuù÷ÉIxqË+MÆIª[ø8…s4‹ÍUTÓÕ:6ZÇâ„ç8ÏxW2…E&–ídKË«8™.@K½Uœ¾`)@#¸ÂQƒºÍPŠcõvÁeD\aÊ¤"
+Š\â,LêõÊXD”À¨{1ì€µ9‡-ØxœŞàâàU#]3ØAÁ).˜DŞi‹·míûyÁ\À[ûì¼­}yk*¹®Æ]Sßè±-^4WXZ”õÎÏÊ¬F:ğã/)fÛú¼ù+çVdA¾¥|œ§Ú¼a„+¡˜°åü)ñ§€—&]k^²-^Zàß#‹ŒkM×š2èeáw+gjj•·Õf‚G“Ñ”u$tî‚İ¦g7ê™>İÀ«3o‰±ÍX$­„ØB~‰!7¬ka¯
+*¨%Šd¦M¤(¿?9áü‰6—^p4'Y“®Îs—ôb]“Q;MĞİ¯g7è?¢õé:coŒm‰İã¸´ÛÂèßR2ÃGKsÈd§ª)»AÃp6ÛÒÌ¡ÖZyTÔFXúnÜ©ïÆnçqî……›"ĞÉ›‹Á¢èv—TK¥ÿ¦€wÄº!ó°ó”^6ÂÙ)?Ö2Ş2Ñbp´eŠz7æm?´OOÿKò¥ÔÏ‹¯ê^M¾šz½hqw7?\¿§¸í÷I5Xık"roı¾’¢îÈXdÁ‘‹/ÔşCÒ‘|^7VÇ	æÃÅÍÊ+÷'ïOYÜ[®¸²8Ø2ÚrkşÖâ]ö¯%´¼&½±æMM1á1Æâ¬òø£¬0#<ƒÀh!ÕUˆŸ	ÇBñs†| Ú|š¸ZëvCClÑ9²¼ĞÇØ÷…RC]ÜkñRCwƒrçğúèÅŠ?r3æ&£¤?Í™äU-ã´âÚ8Ö‰”`uÙ¦"ºw°‡]Yq*ËÆ¸ª¤ÀUÌ>Å¬ş§Ô¬d18(¶·Q8Gö°ç°‡­4À·bæ<C•,fOa?ˆÒÜº(èèRœZÊfñÚl–ù8#Zêieˆù(8¨jR²Ã%ÅlkE&Õ#¹|\qºÆ¸ÂCŞÁ†A”1§PäÚ‰û¢X7ïßq¾ãz/‡X7p ÁPEcpŠM‰SÒ”å!ÛdÍdh2<y°ösÉ©z+d^¸ŸÈzÕÒlH}¢øpêá¢~ãNuå”`ÅœCÀEU®ˆHE`F®€µ™Uƒr¥„¦"Oğt"€£]¡D$l{y¬¤@ÀÀ"*¬(à†R¬F$˜A€+:‚0d‘ŠŠ›9£tsT$§×±Ñ	ÎÀ]×±¡â†RâLgşR†wC>|˜é’Üğƒö©Úir‘Âú› Èª,84.Ún'™[®XºV‰~ú‡ÏìZsc¢ÆoK$"_¼ªoİ¦¹_××?ü‘¶U-.§Û*˜{áşëWÖwäò¥e›¿´çÁ˜bË>yß¥•¾+';+ë¶Şï°0çyÏÿ‡Ø¥{ÑÏUqX:Š€âpUŞY¶X¹ÆZãaz¯zøDæ™·›BåmÎ rF3 òXLE‡Ï‹åk°d4Œ*ºOœÃrT§Wå´¿š÷É{_ ôC¬AÏ)ŠÙ|ßö5.QÅÑ*ATT/õGŒG˜Õ\çe+„™.§qmK˜é9{ çâ=Ÿõ¸AÒ²B—;åó*šÏã‰FŞŸÿ
+Ü# ûÜÉg0.Ù8oİ€Ï
+?n ÇZe£¢Ø}Ğõ`ğÙšg}Gƒ¯SQvo.Wƒ¶Që¨íÈ"jY½­	C£ÌŞÏ¤šÆêİJX]Ê2İ´ïEâ•µÕş‘`!í_‘’­¥†è4|°ö‹N§Oy‡<lË#€à´gÖsÒóŠÇà‹<ûI9à^X¨+ÈAXŒu¨°êË)DNÀva19Z)è3mu¢úwpë¤¬ÎÈWïkoá4ÂÜ$¡=ÃÌÉV¾ôRK.±È•MNô–Ö×ıMûÎz^÷ÜÜ?/=÷­‘EùÜU›[F7‹×&|×-ÏlÕh)òsÒBZl¬Â•/Ëåˆ@mD¬3‹’«êª‘Â#ş€¡;¥Yg(!Ş1äæ:„VÕõPÑøQTŞæ&DîÔ<ûi¤Å0D‹v¸…`?AF&Y€uÆ	ğJÑh\jë¹ŸÕE”Ô:£æ¾ ™d‹b	Øa*³j§´TébŒ€:æ`Å”A’§h…dš Cn“)£pØS°\±¤Üí[úPÑ,†¨Â¥ÿnw6S…>.ıGFr.ü/Ì’€¢`È­è@‚I«e–%ÎBÉÒ1ÕµZÚãÊòørE2y‰ûLÆÒÙ¤)ËzŒ1S¯bIGMGYŸê‘á=…I‰^‘]¶ÈK‚;OÙ…i†Øuãl
+ŞtX†ærî`2Ü!Ï¤Gœ@6í‘ì”*àì2ÏkîT(5ÌÀ|CzdßÉÈ–¯+5o5§ƒ„#WÄŠ SØ…‡5ÙË‘|K	/ yIÍC"LäŒåD>ÁdËÒfxHÅ³ö¹7ëoŞİ·j{1Ò¾œõŒt>Ô_Ù =pî§SÜ7êù‰Å#Ÿœ`ö4‡YúÜÃCm¢ñ’v„·Ş0z0ªˆÏi0zÄlBn_mÏÊ\AaLnø9¾ñF7tá<ÀRUqÔ±¶Ù\›Àq/ {=ç]nƒÈ[0Â^Qè<'
+ïÿãlôáuR	ú¬f÷jy}àò –µ¤ ÁeDU7Õ”½Ao(i®•.Å
+(A%Ôi®ÈP½—ƒ¡•¦æ^¹/Ğ\ºÎôÓƒæ¿=ªıºğ5Ó#æ/¿„P6ßƒĞùHàÉàS¡§Ã³µ?¼#¿x/T?eF,v²7kåe¡I+cy­„ÇoÏfµ2™ÔJ—‹—ªŒ´:jwcĞâ¸~·òQı®}µæNS«Ü
+Ïïf?ï‘ïÜ”ÚİË¢'ày„°Ü²+†Qp‚Ù„‚J l4Ë^Ä´	‡B)³	5“«IêL Ê<nN‚!´@„	jTF€àl;È?‘õò3œ7®Qª¡a¿é˜éÇ¬¿ÇÜ¢P	Š`Æó9Ü­fzN¤S9Ó\¦âIkY0Ï‚a:Ê=â¬eH]íEå‡§5A¨5›rZ7‚ĞFè\àU
+x;tšÊZZ jÀ:áWD£æFÿ§˜P˜SÈà‚NH?úZ,¨'d‘>€¼^{¥9ŠìèÂ^QeOÅ¤ tè²‚ rF<ŞH	‡‹cxŒxüóQğ7ÊºØH6_óÓ—ü&Â.Z½ÉÈÜÓù¹c¾\ÜÕ,=Î(ÉÆ9ƒhëˆÚÍtÅ–}SÒ·58Í&?>Jã¥(¨—L"æ²‹EõÙs&`ÒåÒqƒÃ@€Ş¥BàP‰ dó‘ ´QƒPÂ˜A{	/"”›x^	rÊ³NÈñ“ß?OaBKXvÁ»Á¢½X¬O$Jõ4x€-éZİ ìWùÅ4|z;à€Ü%|H5Ò]öeÁdºÒY¥4ZºÎ<^z=ızîİô»9+u˜ñ”y¿ÂñÖD©”ßÒbMŒ¤³¤“3ÑL1SÉû¿êÿjà«“%İjÏ
+l•q…iYjivUnUşã„sÂõ©ô=¹{ò¥‡œPçôÓÎcéc¹gK/¤_Èı<ıóÜÉR\Ğcæßœ6fÍ9C¾ì_â\âÒ_f\¸,¯eŸóÀ½Á{“÷¤ïÉL”üw›ïòß‘læv‹ó—£Î<é´Œ91æô»bN%™ˆ)B¾²=æˆc1°öw"#Â£ç÷¨*â#šÉlLåsŞ|>xHgMf/1…¬IÉi¯,§±ÚJc è‚ù‚úeŒ@ßáiö†QŒ½q(Î.Úr
+vĞ'˜N0ñŠ R#VGÓÀÓìz!u¦U97_"‹rÖ±U_uğğ¬°5Ÿ<
+×™Ş
+²ıAöLğÅàËÀ{ŸN5`€‡ŸTiÄ'aÜ•¾#é§™¦o5ãVUnÍ053Aë	±7›÷dLOa ›@ Ê3±‰ÜRÆW}‡æöcı(ˆU‡òl‚V˜ræ¬15ŸÍŸÌócõ(§ÓğÙ>‡µ”7n¯n4…Ğ€	.p*rŠwšØhÍOÌqDfi'²hÂÓx­±á(r®‰¬¦!ğÊ|Ëÿ8>E§â(zM™…+È‘ş‰-Z@Ì	¹/¢}e&Jk\(¼´ufÆ_Á»<3SÃ·ÖhÈƒFˆ†;¸w‡Ç<¡™PB«¨¤ºÍ’ÅµÊdmlññ¿od}]ìğò¼MŸóf+,±.?÷ãü¿Íı1=÷‹hG0Š.‰Ïı{üî.¿şê´ÒŞšso±÷ÚOLL§m×ı½¸âÜ“’¸¢Â7’Á…¡şwà˜é­*İhÍÈÖŒ®^ÀÉ€i×{œb*G„ú˜KC5P*PğCiºšNïv÷ÉlŸmŸ}ŸëîÌİ­/Y^òÿ"û‹³£%e…I¢åÕfc¤³äØĞ¦+uë»İ®Lw®ÒÚØ¹Â2èt-­Èäú[ÕÎµÁµé¡Î]Æ½–½Î½®½¾½şÏ§œS®¯ÎÄìz‡ÓárãÎ¸+^ÌËyC§ŒKÍÚ†:çíS¸ïÛ`÷Hr3¢ø–2­Y'”èb¥h´R*u’+Gi°÷è¦'á8mVËé™¾”Áè„2ÛÚZ–aOÓÄhfZË­-å´{Ÿ¯†Je¦>ktOpr£†ô¶ä^Dß—dÉ`&-õoåóÙ–!¼í=eVÖëé Ñ˜*§½årÚêËf[¬Ş–+ØÏ€ÙêoÉ¦ƒ–†L@–¬­Æ²¾Lq|‰†}Lâ.ÍÌ%'ëc±¨Œ…áúØæc¾îì‡” 53Ö°¬§ƒ¯ÏuÔ@3rği±Mh™Ù53åRáÖlyZ|^qâªC‰Ü-ËğAŠXŸÉ;¿ÈîÆù—\ø¡Áäq!9{ƒ÷FR†U,îi¼E_èŸâ/Ú/ËhqòMçî7P3šœ]v˜::»ö?NÅqÓq#
+Z!ü€Û€2oÆhÁ¨’ÉZñİ'Íp‡¬õ×håèõ^SÍW·Š)°ë60™¿¦z·VOºM#‘k£Z'Ş	ÖíÎÃg8sÄQI+šô6ã ÇãWP4£8bÃo!E²‰üÓH8Öš BR^¸4²!l«8ñ\H~4œ¬‘!(©¡*/Àƒ
+Ğc³(ÀoŸQ=5•6SM%‡¥OòH.“¯¢é5ì«äURM¥™®ì§«#Ñáóš„]>øû¯rNÁP¾ƒ1Õ8Ç~R*] a`Îé«ZoBÕ”%äÄ·‰9m'_ê0;O$-¾şåµÖÖ”jŞsjÍòÊÜP=èïº¿·¾~î§©pfÃì·V^º¨)â4;k¯½vs¨&
+Ä¨İñÕ¹£·5I©”×î÷o<~ürW +¦Rzoô–ógo„9.F‹>¯o75_Ğ¢‚F-ÔIÂ­Y–‚o ƒD„š\¼JA2ˆ¼*Rµ™W›QÕX
+Øg¿¿î†$Á½˜³ˆ™BÔëoÇ"8¼ªÉÛé¯ºŠÖ–y,~ğ8¸C¢{¸š ©qÚ	Ë°g„ğùw…àù3BªeÙ	E8™ƒ=f&A{á3yÑÓZòmiû¸şNƒh6ëİ¦ )d.xCsÊBÄ‹Öæ.‡—¹¯5_+_¼:´9|mñVÓmòmÁ[B7…o-Ş+ßü¼ğyóçBŸ-<-œlı7CtI¡P¬«“§×ƒDä›«D~Æ¤C¡Æ:Ù‹ÅB“÷…:R2ëdSeÔ†)Y%ô³€#Õ»Í6$+QG+ÌÉ‚D1„÷Éìeù©MÇå?@mº§Û<h5Kæ=`oíj´ğ¼ÊôûF‹¬¡ØÕäƒ-­_'22Ã"$§6n?uá‚ş>W5[uîTA›ÕéCâ¥¥ƒ8O“7qjÕ~‡ÔêX°:A³íDËcVıË9§È«*-(+ü\¬×N1\ñgeÕÔ×'^>á2šj¬.˜ƒsŸh;pé‚öÆD%'Ç–¥zæt$‚N 8ÍöÍ5³?çsn³kNê	{÷ÙßyOo±®ÅçX42%Š—’V'¬º ¿yÌ­7~kØ×Õ·IĞMé¦lSö¯ëêŒS~fóï²5µ	PGÖ P½ßîq\©»Ìñ²î¤ÃXåxsLòû$‡h×[¡<øˆéÇ ?h´zì&ulsˆFQ†Ô	ˆ’gxqøç:°¸Â;NgOMŒ\)µY¯?,Ç,:„|NI:¯$é$‹¨s0«İo£«è† i´Á,f~ØÊË§ÅE‚aÀ©E‰•¦ğX¥!k´©‘%ÙBşnÿ ìŒ­%ÄğFlë ÏÿwÚ4›÷UoŸ¢åˆâ‘8­JŞö”Íß#n•ªàáîŞs<P]ÑµZŒú‡¸r
+^Çûù“ª˜^jDÆYl¨8TÚJùÈvı—G|]ÎKÕŸamİ8¢ü=?yQ55T}íHª^½(Â/Ç›ÀŠ#k’1,¯
+N.Ù¨a	rl—®°œı™86÷“M]°.g„s±K®ë÷;-,8÷ï)©.˜l^9—>û“dQ¹†ôæK¤k¤ÕX§À'ÔSsˆO øÓáx®Öä²äÔÚ#~—j9#A‚CAÈÁ#û‘Ë|êwî—ù]‡=nŸ°KP×©f]ç]ƒ%,!{Ó¡ÄšÚØ‚:˜VÍ=·±:¬ºáW@óE @ï¯QWLàAeAwú/7³¥ëd³ÍVtç®l_rãâå[¡b³ZŠ¾üÂU‹¯¿KC¾´eAÒfw,,6öİ4¼åñL¦óŠE»İ¹ Ğ´|Çğucœ??ÿ˜$ôÂûçËšÂÓŠë¤<¸éè :&me¿Ãû
+	ëÔì»"dtN½É«ÚR„^“3îœ E°XİúN0ù64›	áŸØBÄz ¶¡2bŞ>­aA‹!Ï8k>ÕíÚK cî‚Í¾}u:lµ8dwØ•[/Tz¯_¿@CaQ9[V£¹«¾%’Ù±ææM*İës¸×·ø½ªQsä˜Şiö
+Glª—ß¥¾Óáû'ÈúÕrş…»<·ñôü]Ãê2|¬»áûÌëêÍñïe4¼yM:d±Ú-îİb]ç’FH[–3e„Ø¦[ld¶k·Hğ7w\Z-¼ øáó	uáÂ_(}½áhÃ¯7n·ïòÿµıN¿.ŒÀjGçH˜ê¬#ujÊ"q«VKSw¤s¨9êã°¡ê9PîÇ|ø]]§£&8İ¢LÖr›.ÇUx¬w6R<ZJöş	øøÃU¡p;=á°
+úÿ¦}çÖnÙb“}>_]×ªöÅ7ÜÍ6¯[%Ã¡Úçw8Ûzo¼sîx]eãB€ÉÔUh\¾cİußJÕÕo]´ÛL¦E…Æ¥» ôİ€­'œ?|îû£®?b
+&È¾/mİ=_’—#¢oïÃ¶™÷§8Î˜˜ëÖ9…÷nš»ÌÙyaí¥_Ÿ¡Â""*â7„5H%Ô?Œ!9„¿Ñ	Â$D:V#)H»ÅŠ0tŸô)á
+ı÷§~­P‹´õ¤î·Bn§@}9mã<-Rm¿òÆ(ú}ÿü¿Ñ>ôA}Öâ˜Âö/Â¶Émü”FéÁùWè„óï¡\Šëö¢ÀùQ_ˆdÃ=t‰•ó›Qw¡¾^¬.Ô­H}8îO({Ñß†ëoÁ~/¶E$ÎmCF²âœy¤%”Ğ÷ÒsTÇëèÂßÂ,s²EìzöKñ¸tX·H¿1ß5Lß6ß%÷Ês–×¬³¶ïØéø0ÖXşŠëŸÜg<wxw× J|Àx*ø°y#¦ÀÕV­Oş"ıƒ¬5¿¾îLq şÃ_iütó»­ß,ÿ¦}yÇÍ•ûœYYôaÕ°¸£÷®¾W—Zví²İËşiyjù·øëŞ$a› Çè€©°*ã8<h£O‡èÿÕïj€ˆ°tí’e#…5×}hëÎK¶ŞrÙ¶múğĞêUkè##áw>!lÑjÿ%ïÃ¶?Y+lM‚Kğbõ'Æa6T1¬q†h®­d±ÂR^¨
+B3D‚“4!f/BÎ
+e¡Mh:ˆ%Ãûëú„¥Â2a9â¾¬ú…a•p	"	—
+—	«…5Â0d°^6—W ˆöaá	áˆğ¤ğ÷O	kÎÏJÿz¨¯¯Y=Š²PâåL.ß|ŒvÌ„"ÍÏHÿ*~·ûMéå_˜ïùõÌâÅÕJ[‡V9TWßü2*üZø’(ıZzÀBÈ·æ3=640éÄ%bˆî·_ú•0$
+ªô‹C©LóÔ³Ò°ÿÒ?à½Ñaÿ0cs5ã„ß—Ä»KG¤'ª{8dw5=;FL˜E~é¤3H:a›ôUa/Ò>¤H:Á<Ô€4H-ÒcÒc¸ÏGp¼yÒ6¤}H:,”ğ´ß@¹ô5éz|’¸ôI"ÓP~BºŸ—_AÂö—ĞCùwØ¦rªºı0JÚÿPµıAlû°ıùjù9´ÃÖKú,¶©üLuûfi?î¦j¹_Ú9‹;{bØ¯ 5"I¨=€Úxu`K@Î¤K7ò;8ˆ²güVâEî™I$ù7ÚsÈlŞWº¯~ŞÜ¼¹=d+íï³[ëS/íFŸİè³}vã­4J;q½ŞÈH
+’„÷¾ïÚ§‘Ï"D’„¿B>‰´Ÿ¶¤[ğó¸«{¥ëgrq Û5‡*js÷ÓÒÕxÕªt5ô ÍûŞß2ËˆW2Û«¥ƒúnå}·2[©uë¡PT+Ñë†»´Yø’ÃâÍB
+©©I'mI5ÄŸ’.>dT{|¯¸WÚ«Û«×5ö2÷³0Fª#H½Ğ…ùøhk3›'Ì- ØhVÍCfı6i¯´O’hÑÅniP•ôÄ›;[ˆ7Zfèl™´ì·L[f-'-úiÃ¬á¤áÃ,¸ah4¨†!Ã˜aÜ0a˜Dl3EÈÇ,ã–	‹ä„V³Ñ¢Z†,ú¸‘íï¹Sº
+) w"#M"éğGÑ®HW"âkŒâµ]‰v¹€-'ÒIÔ_A©Ç–ıèç@«­´
+ÈiÏÒÒ8íE ä´GAjDzé’)‹½v´b•´ÛÑÒJlÙ°eÃ–½NŠgq‡Nä
+Ò’ÄÛ^APƒ|~_cuÿJƒ@ûÏ Áê9íS‘$xAmÊÎæÙ4­TÊ&óLíêîiVk‘!hÚhr4=š}D·-¹-½-·íİ`r0=˜|D×ìNwçºÑÁV%İkxDÇBhñ\üİ¾Ï¼8 Ø6°w@‚?Øì¡™B#ä8(kÓT>15·;zˆğ8£È§^F’°òË¡©i’N<€<.>ÖÇÑú¸0ˆ4Š¤ÇãxrÚOû¨}
+IÏk/£&~`¿„ÿæLgË`ÏJ ÜQ¤)$#EŞD½µÚŞ>üŞ>ˆœúïG¢»üæ…c°ò™´îy©iiI/¼(­^FÂ™‘Ç‘Æ‘ é¤ø['­Çß7Åo"\ ­©&.ø|˜¿Ü.“³Ç)Z6ö5ç÷ò¼›ç)Õ¾ÒöÎJÛwVÚîZiË¢‚å zpÀ<O¨–ÛáÛ`-ßcÃÙü Ôm"A#7PÎ~ÏóKx^T½	ÛŸ¶ÿLØş#aûÛ„m{Â¶0AÇE0vm¢—çÊÙgy¾’çÕ·}/n[·µÇm=6öE†{@(Êc<SÎG§×!˜ŸfoaRµ‰l¦+?*
+¼`çgºzâGÙÜL×2çfº¾ˆâÏ3]÷Ç¿Íş==¦4öÎLêT¼§†½ÍVèhû?«å°ÂcØ>ƒò”
+],ò+3]¥ş_ÆñaûKB-š8û;aˆ?ÅVğö¿­÷…™âU¸êÃ3ÅÛpÕ‡ Ü¡ŞŸ›)Bëı3Å{Q|z¦x#Š}3iºÁëgºêâ=.†ñ`—âl3Ì?èNªWÄúÒÂØ^¦Ü7S¤£zéGÙ’™dŠ,İå·YRâ—‹Ï$ùCF…$¿9øñ›i^Ú™ƒß¼M¨å¥i&ùQœÅp8}*ş¿º¦şÈ3_ŒÿöÛx¾µØü[1óXüÑëš‰¿X<ÊÒGâ?N>ÿûÔQ¶v&>[<jÂg‹GEöDü ^ò4úŠìHü@ñšøãI¾÷‘$öâSOuÕÇNnˆ?ˆ¥ÚqĞG‹ß¦Û>„'^‹İ#ÅEñ®ÇâKÁIc·Ú…‹©r¼3¹#^AsÇQ¶âĞcñ¦ÔQº•Fœã±#ñ:\1ıne¸ı)±ùø.µh¼Éx•q­ñRãc‹±!=£ÆˆÑkr›œ&»	«ë˜Lˆ¶	]¹I0yIH[ Òk@ Hç¶‰u¥Ü	ÔÈ0 )‡€Ä$bìÀ²£_ì_½˜M»û…ş5‹§ÛıGç/›î€“ièòõ»o[Óâ=G™°fıQvšîO»iA5ÆîüL£Û}ç§`ÀÑ?=»Yè¿J™~g5C¾tÃ´>¹8 ønF8÷"Weiï_ÈÆxãXïE"c°ĞıÑéÏö¯^?ıèÈt3UÎGGú§—­V Š·‹Ûúz‰ãTŒ¬?Æn·÷]FíìöŞ‘İähİÀe  n‡„Zê&Ô²C¼Û ?À´¶¯÷`-2êô<[A >ÏóN×ğN€ñít®!*ĞMŒ	)~®”£n€íd‹Of˜ƒŸÌaøÉ"Ôé`:ë‘¬?ØF‡ƒév¾û±÷w'ùîclD X<“ğë0~í9­  ÚG4¡ÏE/ñÿ¿ºuñÿÃ9Ø¡M¿Ü²¹ok²o,Ù·ilú7_˜¸JQnù%íP¦¥ÌØU›¯¥rÓÖé_&·öNoIö*7ñãşËîÍ´{S²÷ °¹oÍúƒ›Õ­½3›ÔM}ÉM½#‡İ»¤ÿ×º÷Âµ–ìı×ÚK'[B×z”÷_®ÕO»¥kõÓµúéZªòkõ_¶˜õ­?h“Y*/aa$Œ‡±pbd±Ï9¾ˆ‰Àá§t¦-KadÚš\<mC¢qSßSßC»0:i—Íê®Àá§Ø×ª»œhv%ƒ;ô]×{áçÎ7QÚµ«€ü¦]´Ú<ã–^ºaıt×tWß´:Ö;Âu-»ª¿%ëUç³]/v‰Ûºövíëšê:Ğ¥ßµÎrªûÙÚkÅÑÚmµ{k÷ÕNÕ¨5Ğ+ÖQ»¦jÿP+í4±›ğë£KáÒ(ñO›7íÂÍìÜ)à";‘
+ºZa¢.öÔ
+›Aí2PæõÔI¤¤ÕHzá»Èÿé·Hÿ‰¤>ü~¤/#¢	rŸ¾Àu½tÅ¾pm@j>ÔXn†&¸ùĞ¦«µrõ­ì»D+»zša~İ<Óİ"÷8@x3á)ä?@úÒïşŒ¤—š¥f~rÜ3ıFv
+;!ñÜµ‹ôR7Q¶³p#-£×}ÓNh¬(aÃ şz±]ı	lç.¯:ñöt®cçÂÿªŸÙÉ
+endstream
+endobj
+18 0 obj
+<<
+/Length 12141
+>>
+stream
+q
+q
+Q
+q
+0 0.00001770258 612 792 re
+W
+n
+/Cs1 cs
+0 0 0 sc
+q
+0.2400000 0 0 0.2400000 72 708.96 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 108 708.96 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(So\054 clearly we have something very odd going on\056 Androgens don\325t strictly organize the ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 695.28 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(brain for maternal behavior to the point of no return because the behavior can be learned and ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 681.36 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(exhibited by males and non) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 203.9707 681.36 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(\055) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 207.9668 681.36 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(pregnant female) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 285.5977 681.36 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(s\056 Nor do hormones serve a completely activational ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 667.68 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(role\054 as they are not necessary for this behavior\056 So what do they do\077 They shorten the time span ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 653.76 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(of learning maternal behavior\054 increasing exhibition\056 If anything\054 they sensitize the brain for ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 640.08 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(maternal be) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 128.3027 640.08 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(havior through the ER) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 235.2832 640.08 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(\055) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 239.2793 640.08 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(alpha receptor\056 ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 313.5703 640.08 cm
+BT
+50 0 0 50 0 0 Tm
+/F2.0 1 Tf
+(If anything\054 the effect of hormones on maternal ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 626.16 cm
+BT
+50 0 0 50 0 0 Tm
+/F2.0 1 Tf
+(behavior is organizational\056) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 202.3359 626.16 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 612.48 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 108 612.48 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(With regard to spatial ability\054 it appears as if androgenic hormones take an organizational ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 598.56 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(role in brain development\056 Observation of rats so) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 307.2773 598.56 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(lving spatial tasks shows that there is indeed a ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 584.88 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(sexual difference in performance\056 This isn\325t due to memory storage or capacity\054 but is instead ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 570.96 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(due to spatial task strategies\056 ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 212.6309 570.96 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 557.28 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 108 557.28 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(In a test of spatial performance called the radial arm test\054 the rodent is put) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 461.543 557.28 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( in the middle ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 543.36 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(of a many) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 119.9883 543.36 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(\055) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 123.9844 543.36 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(armed maze that looks a bit like the rim of a tire\056 Food is placed at the ends of some of ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 529.68 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(these arms\056 Spatial task performance is measured by the rodent\325s ability to memorize which arms ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 515.76 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(hold the food\056 ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 141.9961 515.76 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 502.08 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 108 502.08 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(To \324solve\325 this task\054 male r) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 236.6367 502.08 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(odents use cues outside of the maze \050room cues and angles\051 ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 488.16 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(and landmarks\056 Females process all available cues and as a result aren\325t as fast as males at ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 474.48 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(acquiring the spatial locations of the food\056) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 274.2891 474.48 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 460.56 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 108 460.56 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(Treatment of female rats in early development with estroge) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 392.5664 460.56 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(n or androgen will speed ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 446.88 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(acquisition of spatial layouts\056 The female rats will use room shape and angles to complete the ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 432.96 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(task ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 94.33008 432.96 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(\055) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 98.32617 432.96 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( the estrogen has masculinized the female brain\056 The reverse is also true ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 446.1973 432.96 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(\055) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 450.1934 432.96 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( males in early ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 419.28 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(development show feminine navigation\056 I) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 271.623 419.28 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(t\325s clear that hormones have organizational effects on ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 405.36 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(spatial task learning\056) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 170.9707 405.36 cm
+BT
+50 0 0 50 0 0 Tm
+/F2.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 391.68 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 108 391.68 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(Also\054 it\325s worth briefly mentioning that while it isn\325t known exactly what mechanism that ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 377.76 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(androgens use to cause morphological effects in the brain\054 every sexual dimorphism in t) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 493.8926 377.76 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(he brain ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 364.08 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(stands as evidence of these organizational effects\056 ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 313.916 364.08 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 350.16 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 108 350.16 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(Finally\054 it\325s important to note that neither organizational nor activational effects are set in ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 336.48 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(stone\056 In the case of spatial task learning\054 exposure to hormones early in life that leads to ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 322.56 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(dif) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 85.33594 322.56 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(ferences in brain organization can be overcome by experience and training\054 which boost ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 308.88 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(performance on spatial tasks and change regions in the brain either directly or indirectly\056 ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 294.96 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(Likewise\054 maternal behavior doesn\325t require the expression of activational ho) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 443.209 294.96 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(rmones\056 That being ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 281.28 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(said\054 the simple manipulation of estrogens and androgens can modify performance on adult ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 267.36 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(learning and memory tasks of all kinds ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 261.6328 267.36 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(\055) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 265.6289 267.36 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( including maternal behavior and spatial tasks\056 Though ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 253.68 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(activational hormones definitely can alter the morpho) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 329.25 253.68 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(logy of the brain\054 it hasn\325t been proven that ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 239.76 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(this change in morphology leads to effects in learning or memory\056 Both activational and ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 226.08 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(organizational effects can change behavior\054 that much is clear\054 but the difference between them ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 212.16 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(lies in their effectivenes) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 186.9609 212.16 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(s over a period of time\056 If one thing is certain\054 it is that the relationship ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 198.48 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(between the activational and organizational effects of hormones and behavior is a complex one\056) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 531.1758 198.48 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 184.56 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 170.88 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(2\056  ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 87 170.88 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 156.96 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 108 156.96 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(The environmental effect of a variation in season appears to have an effect ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 468.8613 156.96 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(on ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 143.28 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(testosterone production in males and a corresponding variation in spatial ability\056 Levels of ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 129.36 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(testosterone rise in autumn\054 when the days are shorter and weather becomes colder\056 When spring ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 115.68 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(comes\054 the corresponding drop in testosterone levels brings with ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 383.9355 115.68 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(it increased performance on ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 101.76 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(spatial ability tests\056 This fluctuation has to be due to changes in the environment ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 460.2539 101.76 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(\055) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 464.25 101.76 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( there is no ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 88.08002 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(strictly biological reason \050as in the menstrual cycle\051 why testosterone should fluctuate ) Tj
+ET
+Q
+Q
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 PSY\056G0\05623\0562 \055 Psychology \055 Final Year Undergraduate \055 Male \055 Native Speaker \055 Report) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(2) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+19 0 obj
+<<
+/FirstChar 32
+/Widths 20 0 R
+/Encoding /MacRomanEncoding
+/Type /Font
+/BaseFont /RLQQFW+TimesNewRomanPS-ItalicMT
+/LastChar 122
+/FontDescriptor 21 0 R
+/Subtype /TrueType
+>>
+endobj
+20 0 obj
+[ 250 0 0 0 0 0 0 214 0 0 0 0 250 0 250 0 0 0 0 0 0 0 0 0 0 0 0 333 0 0 0 0 0 0 611 0 0 0 0 0 0 333 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 500 500 444 500 444 278 500 500 278 0 444 278 722 500 500 500 0 389 389 278 500 444 667 0 444 389 ]
+endobj
+21 0 obj
+<<
+/FontBBox [ -498 -307 1352 1023 ]
+/FontName /RLQQFW+TimesNewRomanPS-ItalicMT
+/FontFile2 22 0 R
+/Descent -216
+/XHeight 442
+/Flags 96
+/Type /FontDescriptor
+/StemV 0
+/Ascent 891
+/Leading 42
+/ItalicAngle -16.33299
+/CapHeight 670
+/MaxWidth 1312
+>>
+endobj
+22 0 obj
+<<
+/Length 14605
+/Filter /FlateDecode
+/Length1 19672
+>>
+stream
+x¥¼y|TÕÙ8~Î¹wæÎ¾ï“Ì}&™If2K’IBr³ABˆ,	 ‘ ;²
+¨¨¸B\«â®h](C8 
+m©-Z_í®­µoÑj5Å¶hm53¿çÜIŞ÷ı¾ï¿¹9ç¹g½÷g=Ï9'#„Th;b°xÍ¢õx~r~NÃâ+7¹%òçç"„Dˆ»ÙúåkŒ^~!y!É¢å«·,«ßé@HsBU;W,]´ä_“¯#$”@ûê¡ég¦BºÒşk6]}y±AújH_·zİâEÏ}~hÒç -¬YtõzI˜) Ôœ‚´{í¢5KŸúÒ´}Õúu7‘ü ¤wBzpıK×¬¾ŞéORŒB†‹şTHŠNt£ùã94—şH@Ì@€¾ÿ?ÉEùÒ‹RÜE©ÿ;!Cr¤@Jx+5Ò -ÒA=2 #2!3‚÷GVdCvä@NDG®¹$wÂOC<„f”¢Â!Àw>ÉO-|+¹ùò+
+ÿÉ4Bıİã üèyt'V¢­èÔèiô:º­G3ÑÔ€¾À¿CSà»è*T†4†,xšŒk u'²^‡’ù…OÉÇ0R¡èïh3ú-ZŒ^ƒ}'‘ÕuL*,GFÉ;¨İ‚vş€86…AïŞ+äQú>z7àf»¤ÍE× ëĞíØŠËq-¾á®F¯ “D'?#Ò.A½¨-G‡XÏ” è şÓ
+OêC·á4>YØx@Ë
+ÔŒ«I¤p¹P9J¡zÔ„nF÷¡Ñïp%ÄT±Ga$´ÅlÁ^|¢ğ(âáêFàMoG÷£½èôæq/‰1ƒ’ä?Œ¬ƒ7ÜŠnC¿AÃ
+<_MrÌù¦ÂªÂHá´®ç´¡©ğŞ[ÑğuÏ¡#@]?„1y—Ç<€ÿÊn’$Ævä‘ÿ°`)üp\f£h-Ú†v~G?B¿GgĞ×˜Å2¬Ç?"qò{FÃ>.±PáVÀšÅP3ŒÖÕèV´®£Ğâ'ØÃ8‰7áßÑ’Õäz²|Îìb2bÿ\h-<_ø1Œù§ˆC>¸‚h`u+`í.Àİ~ô":Œrègè/ètFr¾Ä‡ñ?‰‰¼@~Ã~+yGòEá±Â·@›~á(ŠÃ•„œ‚:á]Ö¢‡S§Ñ›è=ôoôoìÄ|=¾á;ñn|?ş En!o‘÷™û™0Yæg,fì*Ém’¥3¹EùûóºàëŒĞw
+è¦Æp)ĞâF ‰Ga‡ÑKè¼Û?Ñ70.FøZ?®Ç³ğÕø:¼ß…ŸÀï’²Š¬#ëÌ”2>&Äìdyvûö÷’k$·åƒùşB%p8şª‡k
+ĞLZˆ–ÁS®ë6‡è8`ë§@µŸ5‰¾§À³›±‡p;\³ë}øR¼¯À[ñSxş=ş+Ññ’»È}ä)òKògfs/ó3ÂüŠÉ³‰R’€«KÒß»Oòwélé.®…»Œ{Nöó±ò±Ÿ½ŸWåÍùP¾'SşåB_áÊÂU…'Ï^((œ¤Œ
+è>àupïF!T	œÓ…¦¡Káı/G€&‡Ğİè{p=ß0‚¡S@q¿@¿Dï£àú}˜ıLü¦/Ñ·ğM6ìÃU@/5x¾/Ãëñ5âu~?„ÁY|ŸÄ¯ã_áßáwğ‡p}…ÿ‰¿&b$1RCÚÈ2Ì"‹ÉR²l#’GÈ³ä%rŒü°ü[ò;òÉ3%€‰v¦ƒ`.…ÙÂì`d^b~Íü†y‡ù#ó5Œ8ò°>6ÀÖ±ËÙÙ%a§%’U’=pıHª”®’Hß~ÂI¹0×ÁÍàå†¹pÊtpé? ¸çq™oÉà“Cø^ü&fG‰÷ãkD*Ø(Ğx7ú˜ìb¸‘¹;ï@„1ÔÇÈ nú›\œ:ì•üŠ5ãç@Ü‚W€¼yè§êìDÇP ğÈæï.G‡±8jiá!à…í¸ŸZN6¿°ß2: Ğ?2ïİ|¼ŸÂ÷Kß@H¨mÚ=ø|mÁnR‰æ¡‡˜€iHørvµd8ş;3Œö’ûÉ.r¨pTÒç ÷æ±S0b?¹_xüzŞíuò+²f¥øI<Ş¡„‘}üùÉch)³³d;ùûz—dÈ<&ŠÿÎV1šxºõãÏ°íÇ÷“¯±íÆÛáë?ÂŸ‘Ğ&ô\ cÌ]dşş)¶naâ(Oşˆ/ƒ·ñ£¿J¬XFj€¤@W“½Ì2üú•äGÌ{l7s±øU\C¾eÜ¤w3µ…Q~Í¨ó¿)´¢6R(ÜÃ*ÇÎÂèl@ïN1ì"vê7‡¿y‹Xñ=ÌI_áïù­’I#Z&ù”›„¶Vo.:€ÊñYâ€qç!§FÊÊŞıÍ7d&*%_à/ÑÕø.à?|I/Hh9~êJ@75ø7ÙR³›Ùræ:Ô~Èv#Yzf…h	zæA®!ô7v%Ú–Ïô
+hÓ}pç’<“Ğ€Ü›¼ø|p]É°}¨téÈ‹ĞÜ+45Nj¨¯ËÔÖ¤SÉDU<VY”—…CÁ€ßçõ¸yWi‰Óa·Y-f“Ñ ×i5j•R!—qR	ËŒ¢í¾Éƒîlp0Ë}4í[‹.ÈÌº!kòÅu²nÚn]TS€šËşKM¡XS8_ëÜ¨¡"ên÷¹³o¶ùÜ9<ofÜßÑæëwgGÅûnñşnñ^÷4p·ÛV´¹³xĞİ|åŠ¡öÁ¶Š(>¨T´úZ—**¢è B	·J¸ËZ}ëbk#oˆµ½î A25|bÖákkÏÚ}Ğºaí‹–dgÌìkosz<ıÑ,n]ì»,‹|-YmD¬‚ZÅÇd¥­YN|Œ{e¾İæ>=9t{N‡.Œ¨–ø–,ZĞ—eAíY}Û–µ^sÆö]:7´öİza©“j·­tÓÊCC·º³OÌì» ­ÓC{èï‡> -	Lš¾0…m1x9úúôSŠµÔ×NsW¹³r_‹oÅĞªAÀ‡c(‹fmñ;ÂÑÂ‡ÈÑîêíóy²MN_ÿ¢¶’ƒ&44kËˆ]pÛ/.©ˆÔé‹£yP£¿Q©/¼Y
+#],ïÄêô®kÖùáÄô|YÈh±Ş¤ÏRK£¥µhhq-Œ:üú1´Ê.4¬ÌÊ[‡tu4†g%Ï=ô%´ûF?¿8gÑx4 ûÑBJçé+JtœÖ²‘H¶¼œÒ×
+ˆ„wlÓéŠè•9òWßz šÑÍúëb0æÅêm9]‰ìö™}Å´]æFB,ÒŸ%ƒ´ääD‰y6-Ù>Qr¾ù È÷X™³²àù?­Îbl_Q—Å–ÿ¥xi±¼«Ç×5s^Ÿ»}hpœT»z/JËé€Â¸AÙø]ÖØÚÇ8	%m¸#NF,J\0ï|Hô©²l ş¤"%/Éq2 E1»'guƒÅ¸_áñŒ3ÊÿÕ(Wø‚¶ÁwÍÆ?#[Ñâkgë/J_ôzª!¦«äéê74¤¸¨l2H°¡¡É>÷ä¡Á¡E¹ÂöË|noè(Ø€Ù¡õí {ŠÍİæÌN¾½>e®º%¨å ïœyPÀ;{æõ…©{goß0Á¤u°¥¿¿rfA’˜‚1`Ù6"øk)—#Ë#’°_3HÁ±_cd—I%_&‡§È¿ÿ-¢ûªa¬áİ¹†î±Ô÷ºo!ªŠ{ô} "\Â¢oİÌÉo	Ø€nö$ÂXÍøˆ¤¿Õ
+¥Æ©q#F#G9|Ó)£³ZòÎFvíñolè»{ì’ö¥m£¦îQ¬ÏTÅñ 6V×TW' ìÁ–a°šW«í¹B=iˆñáğõÑ¦š0o-	îÈ¿ß†ŸåXÖœ	Å2™Î6iğ6ÖèáMˆ%‡_BJ»yÍ—Å~~fÅ6ŒêNWÅ9xT:
+CÁtªøL)gîŠù¥lœáêÃeM·ßüGo*0heq¹ŞilIôI ´>…g€ï:
+£ú½a©nÓa¹]5ñ QÔ4V¯¡"õyéöFêÊËëëGêiAÄòç¤,%X4mÃ*4Ç|O#Îsv›Ûi·Ãò%ôc´ä° V5j-¼…XìŞµ3ÄOèşüÌØWô«F›ÄÏÂ<Wÿ÷/”røHy¼JC}ş¡•	ì	YC¨¼±«Å¶†ÙY¡e‘úonhu›´ò¤Ro*olI·îHjá[¿€işQ˜G{`~Sƒ®äXKÑxS )>=>?µ*ymr}æöønÅcá=ñ§/–í‹°‡Ç'âÆ9ÑS,ñÖTTDS©lËR­¨p9œ&‡Ã)Oûc•ÆòJ\Séõ'Ó•1ï]^âõ11Ê¼5Ñ
+GmØéĞÉå¡ŠDÙ6Ò¤Âªc¸…˜m‡¥‚Ş’æ
+'Gt6€Øz8}¥âOÎÓ.hÁîLe'o;T:¬OÇØ‘ÃÔÊVG­âŞˆÍÈ‰è"”4"(G‘º,Ñ7ÑV#A+…ÛGÂ61}¤Ò‚>¡¿~Ü}fìÌ%º¯"‘îOÏmøÔ®7db´7İI·dkj‚œ±QxAŞ­’ÊÈVİ)ÒbİÉbÌé€Éğ@W6ÜÓ•İÂr8eä
+®­íG]Ùd6BæaØö†k!À{
+ª¸×œIx=™ñup'a¡ôÇ‰±”“ú<5@óp,‚>¯Ñ’Lï8|ÁmLƒÏ\sbáN\»iÅSg½˜×ª/)	ëmáğ5İúãÍ¥o¿qİNmşû«'=ú·İÏº+%¡À´Ó6¿RQùàü¥¹e6}€¨õ%ÁLzEy 2öäğÎåUßÌ×òÚ!†Ò=¦s6¦èÈ…ï=„½ÚŒ%Wx_´ÆFÄkİd¶õ!ãˆ“ÙîÆDÎ”¹lÆR¶½èºR½ÍnwÉ&¹\aĞ‚er>¬ëlÇ‰ÙŒÄ¡•óò˜|›ü.¹D¾İ–‘‡#i
+^J¦åB0”¢÷‚5œŞ.?)[ş¡ü¨	•Z}#«Gx¹Ü*çEò0^@ úÛ@ÇŞ,Ê&¹`RAdQCdÕ4‰=Ërä‚Ë ¦FÜF
+·S2!­5¢u‰p8$¾¡ 7ûšäÛµöb¡r¼±Ò /•}bz» â“a“Xë ©H„â;Š$Y¤AáM·j*#šÿJqEº(Jz"‘ w©}5.ÈIA$KÍ&‹ÿK9öKM¯3jöø>w9Òİ*¢R
+|E,ğ™Û^ˆJïŠmaËR¿1ÀZÓÔmßşÇŞî3Âì0^ø„ù!³æiü®`“»e4¾	ßT¾?è¼·üÁÊıÉ#eœR„UejzÚòt©.Ÿê&*¯=­ÒxÃ)-ËÀM“uºu¡•™Ç*’*Á>jy7øIÁ„e‘Åbƒf•ÚŠ%‚[e&Kƒ9f7h¿ßëE\ÁÛ4™ÍÁX®ğŞ`+–c*µÃ¡Sš«ÃA³N=¤z·‚6aÀÁˆóRğ3Åª™RÆH!³Î73w›1dmîI›_!»Q”ÙnÉR@Ze*U*R\éöôÒ³¥¤4Qm¶š«‰Å(u"E©CÍ7ÑF#	{ÚÆÓ@b>PˆáEDh,¦ZÏÓB?H¢Eç¹Qèˆó” LBÄÖ„@""IŸ?7XwúVJ*2 İ©S”.ı¨k Q9¢:D'Pºğk”‚wj¨ğ	ˆ$TĞåÄbÁÇ*-ªÁš*‡¨B4ÔPk­á¼œ” QÑj •˜şØÂ(d*µ9Ôìm¿§1±˜o\;}Zçª÷n\6i¦Ùÿ¡cÙ¶èšíûZ˜]cóæ«å:•\W:ß¶bM¤¬jF×¾¶ª-«öàE«z…©W”4ÌÎßÚ6ıÉßşqö4Àª¦´ş`+òc‰ ›ïÄ2æä3Ñ\ÉË%lx‰+E¡ Ø)½cŸßfCÖvÍ_Â–¸µÛ¦ÆÖ ?²ÕÆ«5&µZãñ»2Ë©Ï8üJ¥:Ö¨u®³CĞr€ï»¸·8Âs˜»$ƒ¬ØÔğ òxJ§E}<M
+JxüIõÛê/ÔŒ:‡ëÔVu@‘#üÁq‚Ñ}UBgFÇ"ŸN w¿2ÀàDŒ2_F¾Å_>¶RŒa @)3nqÖçaÑbğy¹4CU‚ATRLÿÉà]—¬½=—ÿË­ìÁqŸÎZa”-™Ö÷Êmó†ƒ’;Çº—L½gë“ùo`­[Ìµşûëš8ñè‚»o»©Æ~5ğ}«…ÉˆJÉ0*QGB•áFÔˆë$¡Æğíä6Ï®Ğ>ò´ÿ0?â×ñÈA¬]âñaéÍA|Mh(ô¬‡±Hp9>}Z ?¦÷„„I0¤¶ës˜=TêWp Cßqêš ¾'x]™@ˆQ¢Ó¦õöS7©§«ªY-XœDí(÷RÜ¹¤PÔ$.](]'e·KŸf¥'¥oK%R{YdNÑüÚ êş]¸¬{tô‚¡4‚9*_wz F™j	Ê1à˜Jà˜—œâ¢œÒ6à€ÃÀ8süã–¯È „Z§>/0ŒÈÕ5ŒsÅ¯¯¼sÏ>ì¹mÍê`I_¦)Œ¥éËN¶ÍÚ´¤ûK¿uó·>„ÃGç·4F½a—Ñ]aRš5¦¡m?¼ìªî¥@ÿÀ¢l/ĞÕã	s.lòÚµMJœ
+J¡º!¥ ‘Ò–J§”B"	ÉD:åT8”++•(ŞWJ›ÌÓÍÍ³“ìwÍ¼u©êt§«³~vå­éûñ#¦‡ÍÏ¢#8§8\z(5’Öô"Äøi¬²AU… ‘’F“„@z’àóÃMIÚd2ûüÁ qµ+”±|0‡ÿ!Ã•ñX·Ï”ÌÄƒÎºjŸ‰1RŞcPŒáA“ÑLúİ\&Wøı°+“¡’[i³i”Æ†pĞ¨C9†	0*)C)ªáó§”C
+H¾TÜúxJ‘Ã­‚‚9ÛŒ:#1¸ñğj hÀ	/éJı)'¥·pšARı¬;íF«±A‘x®(Æ'¸Dï°Ì# İ¹‹„oÓ(¿ìII$o‘KÇ™HGäS™È¨E¾a`€ÊàÈøŠbF$‚0.Çÿ&béœªHJÀÔÔîC"=!¶7ÿ|‰^®6xgx;î¼QWè{WÍêš¶áÕG¯]^}Iğ2%§Òš=Ö´sjæúüÙ–J˜tJîüfÉ KaPÛÍK®‹G3ƒ×}8§şÖM»ñ¬U³£I¼ `	;Ì=Û(\’|µk:ş•»ğşà}x"óBµV§Øt¶ ‹d:1ôÈfÊIX^¨•×»:¸NY§¼C1_6W7;p/û}öã0{$ ÑaŸLË½`WÉ¼`tÉä2¹Ä‰dr³9™¢Qí,uÆœŒÓ©ôùœ$¤Tºë´fŞLÌ8±)[[5€RÍöğŒ& íÙ¢=¡:®»ÿEíøn˜Ã(¥F{¤ÈĞE”­‹\²Sœ!ÈA°Pû
+½¢I69
+åªFš(â4#0Nğ³u\N°='ªŠ¹ôwı¼›o4şîûrØrïªe-s°şÔ}×^›®ZöŞ’ğôo­_ZúYnİn\ûÂœúi‹'•9ôe5µ—§`rŒó{ò“™ÓÀë­xÙQ˜º½?2¯¢‰¡chœi’
+ÖfkK±†v!\–òÑ|‡İ—BDíÀòí‚‚‚F—j‡âƒêôA)ií…Ù†‡eÛÛ°O€~|9|¹ óû‘4¹{’¿év;ır-LÏĞ¿İX¤JÃØ›N!âñ†B<CZ[XŸŸåIk¨l/>d‚ ÍŠí/èÕH{¥½ñmá¯«®Aä‡­Uêa]Ü( Ã¾ĞÆ[ù6EâãüwæXc£çn´øğ2º3V;”á2·:¥9u«DwJÓĞ_Dªˆ%­,Œ|ô	N¸a½®&"4˜š¼ŞŠyMµÆ	cæa‘æ|Çàõ;§Â„T-Î¼|5	ñf\ç)`‚=¡%GîYÛ9uå–ÊùdÀ0ë8¹1²pªG3éÅ5=-5Ñúê©OuL[PéçC¹ÚŞ”hM;;˜-ù®ü0»Ùo»c^‹Å¨áä®úò¥åŸ‘gZ¬ÍıWƒS¨»Â÷Ûu1™†S„Óêÿó1¦p:?™ Æ`ÍeV™{ZŸ4ì5î³<ÕúÂ”¬á„ëe~¤UaX¥[ÕµE·¥ëá®ı]R½VË7N556N…éÒT¶Ñcf†d9&9EÀi÷
+|ìµ¤?ÊµûmZƒŞÔAb¬,¯nô¨|x7ÛQez…IÀ}ìd–©äeª:ßê²æº’ã` ğEe mËÓe”4µÁpJW†ß.ÃeG»ß˜FTÔ²ıL[jİ~ªƒ‰õŠS1È¿çFGAÂf¬™	üWÅEŞ=ÜåU[š´”Q' V×¨£’`pZôFõ°Õj¡K¢Æ¦n¼"Ò˜´•°Eo$X
+wÔ¦L
+²‘ÒçŒë7üdUÚäïüÑ“©ä–Oï¸îç}™ˆóúÊ™7®İñ¯·º+ºû;6Ü{ikzq[8ï™ÙÓ0çÙ»ŞèZ]Ït­¨İ´|¹ÒÕéM}E0•nŸµ³»~I:2à2NñGÂóªÍwÎ½óC—û±ştm÷euËÛØTÛi\ÔšlQVrx?È„j<]Xcèåæ”=UÆ¬”®”_îZÚ"ßâº6xmHÖƒ.’4µÒF“òH4ŠŒ¦êöÊyát¼ºû*p%ldQ©x§ÛätºÁ!Tå+*M•¾*–«ˆ*lJgMØí¬¬Ğ™†Œ gGT\ –JüÃª€“*Ø(a†«Uøc—ÂakF%i1ì–§D(êÒg+p…½Æi­°:k‰[.tÙˆÌÛ}fô\:q¾#ú_PL~G©·…ª\ u»€CfÜ2.ÚÅ0áÑi¶‚(	@Ùve`³UƒÍvĞíp´È±M•©„ 6ÄûGŒ¦F“·(ú16P Ï¥8I.N{4D´å&<.T6ÀÅùp%K“şüŸü| .”\cÕ+ÕúL-ïİ2×ˆù6Zì¦Ò@[¿mg¹S¸wú"¼!`–ÜùmµÔ´\š˜&ÓÔÑKŒémU±@ôj|wWÄd³”_ÁÿarÏ›ìÕ×9ÂR&Dı-õ>!•øË°_Y×Ö¥-WÖ¥ÁP÷X¿
+Û}Øb-k÷Ì‡ãeİ*´œ‘
+ViUeZŞå1¹\§ÒUö¸tÖ! ôV¾Qåğ”afP›Ã¾—ÊV\‚3í¢H­«O‰ĞG¡ |ºŞ]L–TÜu—‹¸ìå.««\qÕ86Çõ0 “ºW”.ª¥]‚"Ú)xX(ŸçöS·ÛÇ0ƒın~{q…¾ÕM ĞJmèò°U ·‚ZD`Æ
+ø£·‡µ« -Šó~°Ú/ô£/À(àïb”¦ñëåuõeeõu5¯™Œj­9Sçk[ĞÖX–²ßàæ–v‰¥®¼¬¾¾¬¼.¿q¬uŠFgÒUôXWLIWsğÉµ%–%`	#ğæŸ7“ø°WyM™´ Ö¦Ò‚9ti…R¡²)íªYèfı3:®ÆÚ”lce{ĞQÁŒ«f‡À:ó09 ›MlX•ˆ'»a—4¬ğ*šš¾Õ¬q’û<I%¦S1à0ÁF“É‚ÊÒcÌ†Â!}¹xµ^W«Xe\•ÌGr¸D0‡Å.M6ïšüş l8A,5úI¯á<XÂ0	ƒ·IÂëDLeeµJZV¸v;B^e¤L§v¤]C|=b;ãÏ™Î_eb@«w 0L’#øåáÄ¯¨ìê¤p¸DT#`­ˆÙ@U¢jPÔ¥Ëì©2«híŒ‹3c‚`lôİÇ07†Uj€l\ ˜tE½p^6Œ{ÈŠds¡oVwš“éÀ#Bã­Ôr ®j8€iNŠ1h*éƒ>ê0w°:¨‹} ¡ ÃÁB†XÎ²ÉÔü™+^®5¨|QŸVt­I.uÏ±¸«F“Şšª÷­Ù/·†v-O+‘|Öˆ€²EO³ƒãC²¡`Wé´¿‡õÁû®¹z|ÿUùÇØÍ‹ìF›[á£üÑtàÿE@[¥¸L˜*GØ »"xÁ‘îE½%gùYY…[W
+ÊJVYÚn.‰—ÑÀ<«”áf“Á`Ö*®°Ù û®âjpŒ¾]ú0 >ixÛ@à­.¹Ájp)®UM=¢¾+`fıÀ¨ ç–z1ij$`)æ}fÈõ@.u³X¯b+rAeÓÔa[Æ X&Ì0÷ ¶GÏœû|`Â#2! ãX F<x©D®RIŸ£ IpĞG{£ªÿÂÉÕÛS	İi²(¿×nÔ€Ë¸Î¨O“n¬õÃÖL’æõ›´&}Ùş–t0åõ¯gönÔÛx. âÂWøD²l­Ò.Üd½Q[ûåóUÕsMjêê/m˜=k…q¥eUt‹j‹åšèÕ»˜Û¢·5ìj}ŒyDóHõc­Ïá}ê'k~P{ s î@ı‹{Ûj?\{¤îHGàòê5«Ú˜Y¨¿mÖ,fWõÎ¶Û™¥™kª7×]ÛveÇSi2¡)±Ùëz%oO¾‹òtoxV¼§©ë8ÜÙ¬VÔaÔ•ªÒë›«8®ç5Ä™ìv¾,LWÔÕñõ¦úúFØÖÑÓÁwv™:;»‚ÊÎúú:EY/(Æú®NwÈCu¾İˆƒÎTö@™ I–}PFÊr$ud]>P‡ë¨)o®|ézÁY’ZWëgÀô?ĞøBı1Ø%ÔA˜C]/Ì:İI€5#_Z¼F ‘˜´“åQ1)Xc©ÔºÎ³¤ÓŞ[f­·vZËz¿³&æz”^ºÏ€Épnt@öäèÀXû¹À~· tp5Mˆ€6Ñ“~1qÜ¨ğG…*üQ*ü]¨|À¢€_‘âôj°   ¯*3`5ı<m†Ú¢ Ø"@ÅÌ"°B&58`AìBj§SJ†š¡ãÆWt¬›!¢ç;;ä¼/€J'ßøJ¸`9)ã3Nˆ¥>~ÃÜIç¥ë-Ö)Oİ3sze½a­_.U(ì™„Ç¾m^Ğ+›ÏF©Ò–Ç†®ŞşÀ¾‹Îhx%e¿ô¾£6.Ì«ëåÌ®ü¤=3®«u‰ªéy\um[SK]sşÚm‚3F;ÌáÛq_ü{¸yÊh°k4‘m=ğ9¸ÌãtØB´¹&ÿ[²³×(·øTEŞÿóğN5¾Km±Šq[LxtÜ“Å,ÈIœ1v&7K>Ë5Ó½_[±Ëõlèéğ1r,¨\€„O`f|k[4}W¹Š†¯tNùÌôê pÎÅ†oD´{+Šv/Â¾(F{|Œ\qÀTá£¦(lu‰L¿ÑÿÁø¥] n$²{8}º‚Nw" ò¢"‰G‹…"¨KS0šN„`>‰Ù%b¶`£ùlG©9ı˜Ãà–<sæÜ…+’Ô">OËßÙÃ@¾WPú¥Ä{rE«ø1Š©G´ó?Ø¿ÿÍZ**ÅótÇ…ğ©›_şé‚Dsé5f\¥O7ñ=u•¨w“Åa,	M}¢?Æ'î?âö9T® *ƒ­Ù–tÃ’üüNÆ¨.Ÿc¼9ªÆ7ã{ºÊMv[Å[OÎ^ú¹bƒÕâa¥~°}©ßyhF{_še°¦(U0O_´=á6[^µIçÛúí7o·í6>f{ÆÀUëìSŒö¹²9†^#§P©ô~%ÇH$V?«4Q'’ÛŞÕ“â¶·‚sG8»CC³C¢[	P†„Ö4?
+\i{RãH@OÀîº;‹¾¦qï=uƒÈ72LW©¡UNàíÀ&ê”§«%ÔG$N-‹k%fdOşÌ-»^øvŞtÓ¾gçwÜûÏÁÎ;şIfÜŸÿış·İ‹Ãû_œ<°8?ÿí…ËñSÔ W~*ó3Jà¡k6¾Cõ˜êÕqµ$cîB“5“Íå³¥K5›5[ûÃGeÇË–ŸvhZ½3ĞìhLy{2üU	YÖ¸|Ëq³¯İ™ÃÏ	š°7îë†e•X#'¬¡İ!x)ƒ„a?ˆOÃ—øƒ~…Ziaõ=Ió£Ç`šÏİW¦Áavr¸¬B"Ìî4'ğéé`Sëzî	î$'á1°w‚‰rú|9º.ÿR"í Ëqô^0”@ÂYš:ë ÏlÖö“ŠSw¼õ¢5@G:¹æ[L«&"İN¬œl k¤zféÂØ;LğÃ…ö è¡_K)b‹÷ê ÀY¨¸Tš¤+©ÕççiºæŞÈŒ¯ªàŸ´¯Ù×ß}şá¿&ºãkª[/S4ûÇ¬¼»4µ¶qejõòYÍU«UÅìúxû²;6¼—ÏXJòùiV¯ØÚmÌê“ÓÅ…ÆŒSë®Øıúâ³¿~–âÃ®~ÄL|—¡	Íä¤ÂL<›¹T~©bVÙ^f¿v¯í‡üfÇnGœ?ìC,qñ<lpñü%\Gİ˜˜Ü„'ØScXƒÚ#xM°V¹0lùG<ïö˜ÜnØ¢©{Üº¸\Ï3òcD@ †ËN»)>*­·š”rÑ´[ğCğB€) [()M!7Fî=îî·İgİ·œ;GÜÖ„h5GP$s<ÑšûNl.![T¸Š,qİ’zx€…"c€9¯éÄ-XoTùÑ«¨Å¬Ëqÿİîš™ô½¶
+«‡%œL©×:Ò=‹Ê]åR÷CGİZ“Ç\ËÌ¬Í;päª¶P ¥¡ÂÅ¥2™F¸ìÑ–+¬×“5«+*\ÿÂ(ØÜ†ñ£—c« dJVkSšµu!IXéÓ>Ä01ÜÛ‘Â
+«Eåk(ÎIüeœ=óÀ”ù5›UYê×+ÉzÓ30Æ§5uo»?táf¶¹ï‚<éfİOÈê‚»Cö×ltà©´MˆCğxSOØNÚˆíºªc¸/mº/)P7É¹1à	Ø¾î†3àï¦1]·‚Á£–…&3¢;Ë*î"¡M>Ÿ1i)zµB•°L¦ƒÇƒüyR@²¢»±³´ê†i/ÜÔq©ÇPaL
+H¯X<­_W2’¼cÛ¡Y®”‚ ó–kÚâ†ê;ïV<éUUâ¶¯Ÿİö6üzUzÑ-&î…1\Ìî€}"Ò£H¾Ø`%Á<ıiÉYò†™íB_aÆ_Z‡æk­»ÔM¶)Òh1+á8TZârbGI©Ë&±Ãq[v;Ë2÷¢'À;gT‚çÁÑb±Ø-|ØnÑ‘N-.ê‘XíF8íæÆˆ#Ue°Õ™ÔIËÛ°Kœãğr˜ÛñÍqD—…ÖBç4ê·°PÉƒİa^wDı†3Åy	•HŠ(sØ`³µh;‚sšND%°/.9Ğ ªf“àe¾`ÕgbbbôQACL—<¦t‰Ni/³õxÌªÍDkİÏ= X{Ï<vGş‹¦±á…%zƒÏ´Ü~KM°&R½Üğ®«î¥ò‚êÉS@¯øá&Y½ÒUSªzVY¶˜¯±ì7ÿıÛ,Ÿ]Ù[¿JÎt™{Ñ<3SÌÄ.Ë}rœ	6…§‡†¿4eù2Ã™êŒrE0T›©³X%Isƒ1rNªL&Ç]†®6›3°× y°lç4N‡aƒQ§’2tjàlxÁšÔ(Øì)#¸BxãtãBã]Æ=F‰f‚
+\äB%®¸wÄå¹:qynªÓäˆÉ\„Ñ”au#œŠ;ç°HdŸ$wZVx¨âªâ¢:LT¿›PW‘S€7bGÀyçš°·†Î€ õ8NÅ©ØVâ>›qÌÂœa|Ó•StJ ¦¥ÊáÅ(ZÄM\6³M™1ƒŒ¦³‚zq.ğøÑé8â«aCÅŞçT°¥SJFÊÑe¤‹\‘¤¦†9õbH­Ô—õ¸¦÷Ô$CQµ®kïG—U
+Ñ¹n½Â\>•ïêª±ğ¥!»Ù³êàÆf³alÿÍ>ƒ_mİZŒú¼µS¿Îúk¡ªëœ^ç„=>ƒ–M5‘X ú¶ü+7ùŒÖ–?ıô]ØeAi)
+´4´DßÍ/aVXPAĞ¤ûIs„}×Ã–•Ô—ÀÁ’Z/làR`•ZÃÙ8»ı éÌ˜ãİJŞ34ğ(ìyI²Ñ:n°( Ê8g0}ÖV°·M°m·İm{Ë&±9ÂüuŠ;8T¦tSpzpağDg|”‘ˆ"Z™¢Ú	ú•ÌLAAç3ÜÛİw»Ÿ aê»7;ªKFB‰÷ÅåŠêÈ(˜mgtàSúJôù€Oi@Ü[unÔÈa@ïy‡0@@ÀøwW	èöVª~|D§QìáN½L³Õv“É£V$}å‚Îqçã¦×¶iö:{%ÓÕ8µ{Ã#—|;äáÓa—ÓÑVîN´'“±iÈYA¶<–¤J#ê[è‚qàu°n¶;‰Ì,wØ!ñ¾R©ç:zÊ—:Ë?tHÊÍ1gƒ¥Ã¹Ğ¹ |­s5¿2òLèPDi=îñº¢?¾RtÄÃ@ÑÜa¾è–w…¸µ$å(?±y‡¯E‚A0¹§Ón·)	ÃJ¤½İq”ğÊ˜²IÉ(‡%7hõXŸcjşÈ>d»ÁB9räNAá*	L÷/ô‰—TQJ!lİ£@ĞVV§JO:^"”Ì(aJ^£LíÁ"’Æq¦Û¬A yD+,ÂUŒÇQvÆ÷*U¸GqĞ-— ïVArÒø°>¤÷şa}Æ»éÓúÁN‡íNÅ½ËàsWˆã‹F„5¦hXŒ+L>Û_\1IÁÖX*ıe­kîª?Öšó‹£œ_ë³'K+0ß`²øØàdøùÈÊ˜E/÷Ì|dR2U1gçSùOkÉ¡±ixß?—»­Rësùgoô°úpaÖ|oü×b£0ÿ‘*\e«KËí{™}’ıYrˆs
+ç¯1¯±¯Û_w¨;ıÎ•N†…ƒ71IiÄå¨rèYz'.qÊ<U)¬©TÉ¬lz¨ö5âü§#!—<;'…š*½ 4¤´z^OôaÕf+e¡»­OXÉëvkÖÊ¸­qÈc¬uµ'jpSÍôš…5LMñ	jö£*ª«¨~¬¢xµŞ]õDÕÙ*fFÕö*â®ŠW	ULeÁÌR ŠP4a×ÍØçMç¨±nKC‰şQ‡²§Šó©¾Ã†@º¢ÈŒßaJŠ€E!Z4eÆİ&°å†š?0Iíò:ÔÑ†+jfV)¥šúPÜm\ÿù¸'ÅÇšƒ&µÌ(“pRmMç`e­¦¶Å\®º¥÷åMN»q†[§WjŒIOY¢S˜şF~Á×û`Rä’˜L¢ğN½¬‘\óX›¸ğS°ÙCpFÙ„ï<h€u‰ÿ°KFEí>Æwj©'køŸåt5y¿EŞ`~Ïü›‘F™z¦Sİ§êS¯$Ë˜«É•ÌcªÇÔÏ'õ8y«å&‹Yå–[S*F	ëÚ
+V¸'jÄ(t£y[?CTrÓ›®hzÆ1Bƒ¨»œ‚E§?‡Íğ¦væscÜ¤6hxXéÅvpÅ`$eKAöXª€é‚OĞÈswZL»ñıi–
+6Š:İ©&%VŞkÎaÓÁÃ [Ç"£ VÏí	,úñ˜è(f€÷AùÒ#°·V„t ıÈFĞ›ÆwUP†şXG[	fUØºWCª¡–l…mbçkãÊÑÏ‘îËqPtàSNm7Ö%#”úÁ-I£âŞÚ~£¸Òµû$»U=0… ñ½Ÿ\lXQ+ÌÛLå?œo,©)2ìcq]ª-ÿE)y["MÂŒ•œ‘ t3~ïÇµ_Êì2ª)ÑO™¥×M@ºcC²¼ôÎ¸ÓúôóäÛÑ\ÅõßJş=CñKØwÈ‹Æc^šÁ%„V=‚Õ>ƒûv²ùÙ?~AöNÂÁü8„jæT0P ™ü#,*œ†tÉ >È3œ.ù)òÑ: ÜÅ”¢r¦´0
+e½4êE%s¹£° ò^á4r
+Nù=şÉT¦ƒ½EÒƒÓÂ}+7(¤J¢ü5l©û™v™n»Õk8n¼öyÕ‰ø•õ·¶Sâwòpî–3ørìA˜§ }ˆ…4ÃøhHá´!š5mæÌÉs#½+×,İxÉÒ«f­[³híŒŠÎM‹V¯\ÜMÿ¹mU8»÷‡ZB“ÿí½Àóp²\\°#)
+g ÛÑd8ñÜ:á¼#=9|	š§gÂ9×xŸ9p‚»õÃùÓhà`/jV1ÇaçÂq$@xB‚¤p’yy¤½=!ä F*E8.KÁÄöf#ó2Úá „· À˜BÌC ÌËä uå¡òÑa‹Sl•ni¿©®-ŞŒ”W$>hV09tœÙaÂ"›Øj$\™ø¢Y@5ÌKC€C®Ğı«Ì	+ö—'2G˜Ãu¼¶ÙÊŒ  uC˜a=„!HáíFĞÎB(@`‘y~ø?wñ¯2{ğåøaèõAt¯*~»MGœ·1dáË$K·÷cë°}Y‚²îRÇ2xïíx#Íx…¹	[éN’ÃUI! R°®ãEŒCEè	a‰[„Ã¾bm{ò‰ã0NY’‡¹š+ü}¤.8)qœ¹^¨N†óB`A’nÂ^°*üu$P™¤¾;Š˜•¯‚ß	£!1ÖĞ¼XBGËfÎO¨(¼df‚î™Ò ½áÉÔ´C§$Ö>±Òp"IÛ—'´jÍ¤„áeèpJÎ	æÀ¤¤-ŸĞ‚©„4PTÁós…¼àT$Uu±dâ¡ÀŞÀ±Àé +	TCi¢6a¯+««­cl+tx(¨°Ç™ôBt¼–§/Ï_Í%OÂWım„?{;â¡’™¯YÈàÈB8N¼û¡¾|ü ØÏ{^_dı¤mÃeIxé lv¹¡·?¿äŠ$.J±ÛL›H£ÉfEá¯Ì68‡,|0ğ/Ğ¤.éÏáLNÀ(o‰Õ%`¶:Å$P©Ø0ÉÒÒÎ©)
+a EàIÚ %¨J“Ş`<‘ğ“µğü¯E.:=‰¡WáQ˜ÙF/„«äkxiLÚ$eöä¢g÷0˜Ì[»jİI&Æ41Ó™…ŒDÛœ&£€â…ïğØ4
+q„ubê Ğ,B=‚ĞˆAÜ$Ş5Q*Kş—Ê˜f†É(\Y¸ ÁQƒQp¼#9†cºÈjcĞË„f%¹–ø@Dªñ$1®c§àH©ïJ©oJ©W¤Ôı)uoJİ‘RGSêpJİ¬#iäFjâ¤1şVŒ,Æ3Ä8*8Üê/ÜêWİêûÜê-nõ*·z‘[½Ğ­ns«›Õ¸×‚»{’ÇÅ¸”Æxì¶[‹ä'ğœñWÃ¾ØGxb¦ø1› È†a·W³H‘K~>"°œö!ƒxXï¿ ª¢R ƒ|xÀ‡ƒå°œÿBì£}6›é™rÚ
+?>œ À§Ñ>1ı}T%Â'ÇácÃ¾ÕĞúQ
+šåp@ŞGHŠ¹r8X	Å«‡«®à›õşc‹˜½´­Ö$BaÓx3ß°ëqş8ö ¼&x+·ğcĞ>0Ìÿ;™“áaş_şÙ7Ì»Œ!õ”=<ÌŸ©‚” äÿTu†ÿÏª]ü/ƒ`Ááß¾É¿È±Pñ%¨_ŠìwA&Ô¼êRşàãü½Å¾‡üb¥a0÷	Fşø¤Í¾3üzèf‰ï
+şÒbW>ñf,vÜïıOOŠ™—iÇF~JÕr~rpßZõ&ßè»”¯ã!ÿŸñŸák|â+TúÄæå.ø8x“2ß>>TµŸ]sÃº-‚*¹mÜn%·Œëâ®–«æ*àà…‡3É°W#SÉ2™L*ceD†d&jF¨â5IáL)5íhÌŠ÷:P®ô„Ğ—ÊèË¬‘é"]=-ÙšHW+ÌÊÖFº²òóûb|g?îÊ\Œº.sg¿êí¢Š™ó²_ÎºPWo‹*gÉÎøúúr¸@[Üì¤§ÌA‰aáæ;œöß|G?²\Ùdk24ê3“Ûş‡hPÌlM¹b^ÿ‹~¶Òìı]=}Ù½¥ıÙ½)”öwe§ô¸á¨ÙJ®mo;J®£ ¿ï(L¶¶Ï¢ùxr[ÿùj@P×A5 j ´Ú6ä¢Õ€º·‰Õ.{öØJ«( ÕG¼XÇÏÓj@f´ŞÁ}|{ÛA"¨Ã®GûÄ:ûØõÅ:±ÎÇÔ‘èĞÇb%:ñqV±ŠßİTAÔßwĞë‡
+ı^±xæwÅ¾bñÖbñV±xíwÅÉbñŞbñ^(¾hèş$–¶ü_ÛWö´à®}e¨¥ÌxZtëE:Ğ´İyş]Ç»H	Öğ”¾XÄ„©CHUY)äq(ÙÔ{l×;±†œVWA¶z¼¨¢¹¢™9Ó"dkÇ‹l××{à!Ïé [:®ìº¼¼=[>À×Ölí+Ûàol„ßæÍ›7nÜñæÍĞ Û'ÑmƒÁ ükƒÁ¶şüƒ„¶MÿË ŒŸ¨j¢8®şÕ@[ÿÆ±]$²¹x}ÓÛÿúÛTÌ£ˆ 4ÿÁ¶‚w€aHÁi1â*µîáHÒŒ$¾`v4$iı~¼‘¾´‡ŞŠ}Ğ;zŒşÿ²‹Ö
+endstream
+endobj
+23 0 obj
+<<
+/Length 12529
+>>
+stream
+q
+q
+Q
+q
+0 0.00001770258 612 792 re
+W
+n
+/Cs1 cs
+0 0 0 sc
+q
+0.2400000 0 0 0.2400000 72 708.96 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(seasonally\056 As far as how this hormonal c) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 271.9629 708.96 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(hange can cause behavior\054 we learned earlier that the ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 695.28 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(increase in testosterone that we see in the autumn can increase self) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 391.541 695.28 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(\055) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 395.5371 695.28 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(reports of spontaneous sexual ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 681.36 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(thoughts\054 sexual desire and interest\056 And this goes along with studies on human reproduction and ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 667.68 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(temper) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 105.3164 667.68 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(ature ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 132.2988 667.68 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(\055) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 136.2949 667.68 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( in the colder months\054 conception rates rise above normal\054 a fact which may have as ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 653.76 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(much to do with a decrease in sperm levels in the warmer months as with fluctuations in ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 640.08 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(testosterone\056 At any rate\054 testosterone can modulate the behavior of sexual m) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 440.8828 640.08 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(otivation\056 And it is ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 626.16 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(the seasonal environment that modulates testosterone\056) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 330.5977 626.16 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 612.48 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 598.56 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 108 598.56 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(One of the most interesting environmental effects of the environment on hormonal ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 584.88 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(secretion is the steady march of the onset of puberty\056 Every year\054 the average age of menstruation) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 539.8359 584.88 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 570.96 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(gets younger and younger ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 199.3008 570.96 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(\055) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 203.2969 570.96 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( it now stands at 13 years old\054 which could well be the youngest age ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 557.28 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(biologically possible\056 The interesting part of this environmental change is its exceptionally ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 543.36 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(complex nature\056 Just what has changed in the past fifty years that) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 384.5859 543.36 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( could cause this decrease in ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 529.68 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(age\077) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 93.97266 529.68 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 515.76 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 108 515.76 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(Over the past half) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 193.6406 515.76 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(\055) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 197.6367 515.76 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(century\054 the entire pace of life has accelerated\056 Improvements in health ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 502.08 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(care have helped us develop faster and live longer\056 Living standards in general have improved ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 526.5059 502.08 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(\055) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 530.502 502.08 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 488.16 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(and both of these have been foun) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 230.625 488.16 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(d to contribute to the decrease in the onset of puberty\056 Adding ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 474.48 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(more complexity to the problem\054 studies have shown that girls in rural areas experience the onset ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 460.56 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(of puberty significantly later than girls living in cities\056 The tangible differences in these ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 494.2324 460.56 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(two ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 446.88 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(environments are vast ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 180.2988 446.88 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(\055) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 184.2949 446.88 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( from social interactions to climate to cuisine\056 Even the greater amount of ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 432.96 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(visual stimulation in cities has shown to have an effect on the acceleration of puberty ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 483.5566 432.96 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(\055) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 487.5527 432.96 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( in this ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 419.28 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(case\054 slowing the onset of puberty\056 ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 241.3008 419.28 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 405.36 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 108 405.36 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(In this situation) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 182.666 405.36 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(\054 I think that the environmental factors are sufficiently complex that we ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 391.68 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(won\325t ever get a clear picture of their summation on a mechanism to decrease the onset of ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 377.76 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(puberty and its ultimate cause ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 218.291 377.76 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(\055) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 222.2871 377.76 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( the increase in hormonal secretion\056 But we can measure its ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 364.08 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(response to environmental cues\056) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 225.9551 364.08 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 350.16 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 336.48 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 108 336.48 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(The most well) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 176.6543 336.48 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(\055) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 180.6504 336.48 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(known hormonal response to the environment are the fluctuations that ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 322.56 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(encompass the 24) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 157.3125 322.56 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(\055) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 161.3086 322.56 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(hour clock and the sleep cycle\056 The Suprachiasmatic Nucleus cells that ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 308.88 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(respond to changes in environmental light and adjus) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 322.2832 308.88 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(ts the secretion of hormones like melatonin ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 294.96 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(accordingly\056 The SCN can moderate all types of daily rhythms ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 375.5918 294.96 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(\055) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 379.5879 294.96 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( eating\054 drinking\054 activity levels\054 ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 281.28 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(and\054 of interest here\054 sleep cycles\056 ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 236.9355 281.28 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 267.36 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 108 267.36 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(The SCN causes the release of melatonin from the pineal gland less than two) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 476.9062 267.36 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( hours ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 253.68 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(before sleep in lab rats\056 The mechanism of SCN activation is as follows\072 SCN activates the ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 239.76 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(paraventricular nuclei of the hypothalamus\054 which sends a signal to the ganglion\054 causing ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 226.08 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(synaptic release of the neurotransmitter norepinephrine onto the pin) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 397.2305 226.08 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(eal gland\056 This secretion ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 212.16 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(causes melatonin enzyme production and\054 as a result\054 production of melatonin itself\056 Levels of ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 198.48 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(melatonin are high throughout the night and drop with the return of the light\056) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 440.5957 198.48 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 184.56 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 108 184.56 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(The environmental stimuli ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 238.3066 184.56 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(\055) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 242.3027 184.56 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( light\054 in this case ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 329.625 184.56 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(\055) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 333.6211 184.56 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( can d) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 362.2734 184.56 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(irectly cause the fluctuation of a ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 170.88 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(hormone that regulates behavior\056 ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 232.9453 170.88 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 156.96 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 143.28 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(3\056 ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 84 143.28 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 129.36 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 108 129.36 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(Regarding sensorimotor function\054 there are several interesting behaviors that are sexually ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 115.68 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(dimorphic in rats\056 For instance\054 both sexes perform evasive maneuvers when playfighting wi) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 516.5684 115.68 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(th ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 101.76 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(other rats\054 but the muscular action of these maneuvers is different\056 Male rats will \322pivot around a ) Tj
+ET
+Q
+Q
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 PSY\056G0\05623\0562 \055 Psychology \055 Final Year Undergraduate \055 Male \055 Native Speaker \055 Report) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(3) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+24 0 obj
+<<
+/Length 11813
+>>
+stream
+q
+q
+Q
+q
+0 0.00001770258 612 792 re
+W
+n
+/Cs1 cs
+0 0 0 sc
+q
+0.2400000 0 0 0.2400000 72 708.96 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(point about their midbody\323 while female rats will keep their pelvis still and rotate their snout\056 ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 695.28 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(Females are better at odor detection and identification) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 330.9023 695.28 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( than males ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 388.5527 695.28 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 681.36 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 108 681.36 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(Some sensorimotor behavior can be attributed to hormonal fluctuations\056 Estrogen levels ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 667.68 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(can affect taste preferences\054 organizing the young brain in order to make sweeter tastes more ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 653.76 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(preferable in adults\056 In fact\054 the organizational effects of ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 344.9004 653.76 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(estrogen on the brain serves to create ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 640.08 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(taste preferences and aversions in rats ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 256.5938 640.08 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(\055) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 260.5898 640.08 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( a fact that can explain the differences in body mass ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 626.16 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(between different species of rodent\056 The organizational effects on body mass go even further ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 612.48 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(when there is a measurable di) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 214.2773 612.48 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(fference between the effects of testosterone and estrogen on body ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 598.56 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(weight exhibited by males \050greater and less response\054 respectively\051 than in females\056 This points ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 584.88 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(directly to a difference in organization of the brain early in life\056) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 375.8906 584.88 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 396 584.88 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 570.96 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 108 570.96 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(The play) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 150.3164 570.96 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(\055) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 154.3125 570.96 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(fighting in m) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 216.9844 570.96 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(ale rats can also be attributed to the organizational effects of ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 557.28 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(reproductive hormones\056 Androgen delivery in the critical period to the female amygdala ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 543.36 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(produces masculine sensorimotor play behavior ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 304.2715 543.36 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(\055) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 308.2676 543.36 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( more \322nape attacks\323\054 less defensive behavior ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 529.68 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(early in th) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 120.6504 529.68 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(e fight\054 and more use of the body to block attacks\056 ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 363.5977 529.68 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 515.76 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 108 515.76 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(In contrast\054 the activational effects of hormones serve to increase running wheel activity ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 502.08 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(of female and male rats showing increased levels of estrogen\056 Conversely\054 progesterone has the ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 488.16 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(opposite effect ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 145.9805 488.16 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(on running wheel activity\056) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 271.9512 488.16 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 474.48 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 108 474.48 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(Hormone levels can also affect activity\056 When given an injection of estradiol in the ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 460.56 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(striatum\054 rodents temporarily walk more accurately and carefully along a balance beam\056 In an ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 446.88 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(open field\054 locomotor activity and degree of explo) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 312.5977 446.88 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(ration \050measured by the number of arbitrary ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 432.96 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(quadrants entered\051 can be increased with increased estrogen levels\056 As with all of these studies\054 ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 419.28 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(it\325s difficult to draw the line where sensory function ends and motor function begins\056 What\325s ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 405.36 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(clear is that this b) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 156.6445 405.36 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(ehavior can be modulated by reproductive hormones\056) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 412.2246 405.36 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 391.68 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 108 391.68 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(Regarding cognitive function in rats\054 the first problem already extensively explored one ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 377.76 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(of its most significant contributors ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 240.3281 377.76 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(\055) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 244.3242 377.76 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( the learning of spatial tasks\056 But perhaps the most significant ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 364.08 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(effect of re) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 124.6406 364.08 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(productive hormones on learning and memory has to do with the direct effects of ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 350.16 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(estrogen on the growth and strengthening of synaptic connections\054 a concept at the heart of ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 336.48 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(cognitive ability\056 In the hippocampus\054 the area of the brain that oversees learning ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 463.541 336.48 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(and memory\054 ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 322.56 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(injections of estrogen can actually cause the growth of dendritic spines within 48 hours\054 ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 308.88 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(indicating a cyclical buildup and breakdown of synaptic connections based on estrogen and ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 294.96 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(progesterone levels\056 What\325s more is that estradiol injections st) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 370.2598 294.96 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(rengthen synaptic connections on ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 281.28 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(the other half of the synapse\056 The same NMDA glutamate receptors that have been implicated in ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 267.36 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(synaptic learning can actually be strengthened by estradiol injections\056 Now\054 estrogen is obviously ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 253.68 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(not the sole requirement for t) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 211.6289 253.68 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(he growth of dendritic spines\054 nor is estradiol the sole activator of ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 239.76 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(LTP\054 but the increased level of synaptic connection seen with the influx of these two ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 226.08 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(reproductive hormones\056 Their effects on cognitive function are activational\056) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 435.2109 226.08 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 212.16 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 108 212.16 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 198.48 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 108 198.48 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(Scientific ethics ma) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 202.6406 198.48 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(ke impossible the kind of extensive experimentation necessary to ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 184.56 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(uncover the exact organizational effects of hormones on the human brain\056 We just don\325t know if ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 170.88 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(hormones are the true cause of the sexual dimorphism that we seen in the brain\056 Questionable ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 156.96 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(cla) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 85.98633 156.96 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(ims of organizational effects of hormones on IQ scores between the sexes haven\325t been ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 143.28 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(proven\056 The cognitive effects seen in spatial task learning are likely organized by early ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 129.36 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(androgens\054 but for the rest of cognitive functioning\054 little is known\056) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 394.2891 129.36 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 115.68 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 108 115.68 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(What we ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 153.9785 115.68 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(do know about organizational effects in humans mostly comes from females ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 101.76 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(with Congenital Adrenal Hyperplasia\054 a condition where females show overexpression of ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 88.08002 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(masculine hormones during the critical period\056 The spatial abilities and perceptual speed of ) Tj
+ET
+Q
+Q
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 PSY\056G0\05623\0562 \055 Psychology \055 Final Year Undergraduate \055 Male \055 Native Speaker \055 Report) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(4) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+25 0 obj
+<<
+/Length 11204
+>>
+stream
+q
+q
+Q
+q
+0 0.00001770258 612 792 re
+W
+n
+/Cs1 cs
+0 0 0 sc
+q
+0.2400000 0 0 0.2400000 72 708.96 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(fema) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 95.98828 708.96 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(les with this condition mirror those of men\054 showing that at least in these areas of cognitive ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 695.28 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(functioning\054 the effects of hormones on the brain are organizational\056 If the studies of other forms ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 681.36 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(of behavior are any evidence\054 further studies of the organiza) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 360.5566 681.36 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(tional effects on cognitive function ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 667.68 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(could likely be fruitful\056) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 183.3164 667.68 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 653.76 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 108 653.76 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(Given the natural fluctuation of hormones during the menstrual cycle\054 the activational ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 640.08 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(effects of ovarian hormones are much easier to study\056 But studies of the oft) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 432.5918 640.08 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(\055) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 436.5879 640.08 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(reported fluctuations ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 626.16 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(in moo) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 105.668 626.16 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(d in the days before or during the early days of the menstrual cycle have not provided ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 612.48 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(consistent results\056 During this time\054 levels of estrogen and progesterone fall sharply and remain ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 598.56 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(low over the course of the menstrual phase\056 But despite the consistency) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 414.5801 598.56 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( of the hormonal ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 584.88 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(response\054 universal activation of the changes in cognition \050measured through mood\051 isn\325t ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 570.96 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(observed\056 ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 121.3184 570.96 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 557.28 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 108 557.28 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(Further studies of spatial ability and the activational effects of hormones shows that ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 543.36 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(performance on spatial tests decreases during the p) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 316.248 543.36 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(reovulatory phase in women\054 giving the ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 529.68 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(conclusion that high levels of estrogen can actually decrease spatial ability\056 These same high ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 515.76 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(levels of estrogen actually serve to improve simple verbal output tasks for articulatory accuracy\056 ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 502.08 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(Less evidence exists fo) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 182.9707 502.08 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(r the relationship between perceptual speed and estrogen and progesterone ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 488.16 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(levels\056 Visual sensitivity increases with the increase in estrogen levels and drops during ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 474.48 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(menstruation when estrogen levels also drop\056 There is some evidence that on some tests of m) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 518.5605 474.48 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(otor ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 460.56 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(ability\054 ovarian hormones can increase performance\056) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 323.5605 460.56 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 446.88 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 108 446.88 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(Ovarian hormones can be said to improve the skills in which females are known to excel ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 432.96 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(and dampen performance in tasks where males typically show an advantage\056) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 438.873 432.96 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 419.28 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 108 419.28 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(As far as non) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 171.6562 419.28 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(\055) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 175.6523 419.28 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(ovarian hormones are co) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 293.9355 419.28 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(ncerned\054 in men\054 testosterone serves to aid spatial ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 405.36 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(ability\054 but only up to a point\056 High levels of testosterone can actually serve to decrease ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 391.68 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(performance\056  ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 141.6328 391.68 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 377.76 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 108 377.76 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(With regard to sensorimotor function in humans\054 many of the sexual dimorphisms that ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 364.08 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(exist in rat) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 122.6543 364.08 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(s are exhibited also in human behavior\056 Taste preferences differ between the sexes\054 ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 350.16 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(with females preferring sweeter foods\054 though not after a meal\056 Evasive movement behaviors\054 as ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 336.48 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(we saw in class\054 differ between the sexes in the same way \050with alternating p) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 440.8887 336.48 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(ivot points\051 as in ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 322.56 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(male and female rats\056 ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 177.6211 322.56 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 308.88 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 108 308.88 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(That being said\054 the same kinds of sensorimotor tests done on rodents can\325t be replicated ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 294.96 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(on humans\056 Humans don\325t run on running wheels\054 nor even can a similar open field test be ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 281.28 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(administered\056 Our social play \050usu) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 236.959 281.28 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(ally\051 doesn\325t involve stereotyped behaviors and and the way ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 267.36 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(we report data from our senses is colored by perception and cognition\056 As one would expect ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 253.68 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(from Man the Thinker \050as the great poet described us\051\054 our cognition outweighs our sensorimotor ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 239.76 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(function\056) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 114.9961 239.76 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 226.08 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 108 226.08 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(Surely the picture of hormone activation and organization is much more clear for rats ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 212.16 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(than it is for humans due to the differences in available experimental methods\056 In humans\054 this ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 198.48 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(picture is made even more complicated because the majority of activation) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 425.8711 198.48 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(al studies use the ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 184.56 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(menstrual cycle as the distributor of hormones\054 giving a clear picture for only a handful of ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 170.88 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(hormones\056 Further studies into activational effects of other reproductive hormones on cognitive ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 156.96 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(behavior show that circulating hormones can modi) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 315.2695 156.96 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(fy cognitive functions\054 but\054 as with most ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 143.28 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(human studies\054 more experimentation needs to be done\056) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 338.9297 143.28 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 129.36 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 108 129.36 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(That being said\054 in areas where the organizational effects of hormones is known in both ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 115.68 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(men and rodents\054 remarkable similarities can be seen\056 The same is true ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 413.877 115.68 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(for activational effects\056 ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 101.76 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(When the brain is organized by hormones early in life\054 the effects are permanent and can be seen ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 88.08002 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(in adults\056 No amount of learning nor hormones administered can match a brain that has been ) Tj
+ET
+Q
+Q
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 PSY\056G0\05623\0562 \055 Psychology \055 Final Year Undergraduate \055 Male \055 Native Speaker \055 Report) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(5) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+26 0 obj
+<<
+/Length 12547
+>>
+stream
+q
+q
+Q
+q
+0 0.00001770258 612 792 re
+W
+n
+/Cs1 cs
+0 0 0 sc
+q
+0.2400000 0 0 0.2400000 72 708.96 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(organized with one that hasn\325t\056 Likewise\054 ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 273.2754 708.96 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(the specific types of behavioral and cognitive ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 695.28 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(performance can\325t be seen without certain activating hormones\056 Certainly the great framework of ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 681.36 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(both of organizational and activational hormones has equal validity among humans and rodents\056) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 532.8867 681.36 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 667.68 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 108 667.68 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 653.76 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(4\056 ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 84 653.76 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+0.5019608 0.5019608 0.5019608 sc
+q
+0.2400000 0 0 0.2400000 222.3398 640.08 cm
+BT
+50 0 0 50 0 0 Tm
+/F2.0 1 Tf
+(Bear would sw) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 293.6777 640.08 cm
+BT
+50 0 0 50 0 0 Tm
+/F2.0 1 Tf
+(ay on her hind legs\073 ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 392.6602 640.08 cm
+BT
+50 0 0 50 0 0 Tm
+/F2.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 177.334 626.16 cm
+BT
+50 0 0 50 0 0 Tm
+/F2.0 1 Tf
+(the organ would grind dregs of song\054 for the pleasure ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 437.666 626.16 cm
+BT
+50 0 0 50 0 0 Tm
+/F2.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 237.5596 612.48 cm
+BT
+50 0 0 50 0 0 Tm
+/F2.0 1 Tf
+(of the children\054 who\047d shriek) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 374.4404 612.48 cm
+BT
+50 0 0 50 0 0 Tm
+/F2.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 244.3389 598.56 cm
+BT
+50 0 0 50 0 0 Tm
+/F2.0 1 Tf
+(throwing coins at her feet ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 370.6611 598.56 cm
+BT
+50 0 0 50 0 0 Tm
+/F2.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 250.5059 584.88 cm
+BT
+50 0 0 50 0 0 Tm
+/F2.0 1 Tf
+(then recoiling in terror) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 361.4941 584.88 cm
+BT
+50 0 0 50 0 0 Tm
+/F2.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 263.0098 570.96 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(\055) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 267.0059 570.96 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( Joanna Newsom) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 348.9902 570.96 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 306 557.28 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+0 0 0 sc
+q
+0.2400000 0 0 0.2400000 72 543.36 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 108 543.36 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(A fight with a bear is no ordinary matter\056 Aside from the physical stress that) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 473.5898 543.36 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( accompanies ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 529.68 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(an attack\054 the psychological stressors that arise help to explain just why it is that this scenario is ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 515.76 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(far above even an elevated stress level for humans ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 316.2422 515.76 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(\055) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 320.2383 515.76 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( say\054 for instance\054 the stress levels seen ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 502.08 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(during the week of final examinations\056 That b) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 291.2812 502.08 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(eing said\054 the course of the event is six hours\054 ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 488.16 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(making it an acute stressor\054 so many of the long) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 301.2891 488.16 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(\055) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 305.2852 488.16 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(term effects of stress on the body thankfully ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 474.48 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(won\325t come into play\056 I\325ll first explain the psychological stressors of this event\054 then move on to ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 460.56 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(the physical) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 129.6504 460.56 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( stressors\054 and finally describe the biological response over the course of the six ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 446.88 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(hours\056 ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 104.666 446.88 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 432.96 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 108 432.96 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(Direct physical arousal is not the only contributor to stress levels\056 The two examples ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 419.28 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(given in the text are sufficiently convincing to show that psychological inp) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 430.9277 419.28 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(uts can modulate the ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 405.36 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(stress response\072 anesthetized patients still show the signs of stress even though they don\325t feel the ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 391.68 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(physical effects of surgery and stressful ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 265.2949 391.68 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(\055) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 269.291 391.68 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( even harmful ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 338.9355 391.68 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(\055) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 342.9316 391.68 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( physical stressors can lose their ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 377.76 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(stressful effects when psychological per) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 263.9531 377.76 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(ceptions of them changes in a process called habituation\056 ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 364.08 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(The following conditions\054 which are purely psychological\054 can influence stress physiology\056 ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 511.9102 364.08 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 350.16 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 108 350.16 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(The first is a lack of control\056 As I understand it\054 camping in the woods is an activity that ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 336.48 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(people enjoy) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 133.6523 336.48 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( precisely because are in control ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 290.9121 336.48 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(\055) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 294.9082 336.48 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( you\325re supposed to marvel at the grandeur of ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 322.56 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(nature and how man can tame it for a time with a tent and a propane stove\056 You\325re supposed to ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 308.88 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(feel like a pioneer ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 161.291 308.88 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(\055) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 165.2871 308.88 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( \322climb every mountain\054 ford every stream\323 and all that\056 So ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 452.8711 308.88 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(imagine the ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 294.96 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(shock that one must feel stumbling upon a mother bear and her cubs\056 Suddenly\054 you have lost all ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 281.28 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(control over the situation\056 Certainly you cannot fight the bear\054 nor do much to make it stop if it ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 267.36 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(chases you \050despite the old wives tale\054 they can ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 301.9277 267.36 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(climb trees\051\056 This lack of control is extremely ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 253.68 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(stressful\056) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 115.002 253.68 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 239.76 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 108 239.76 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(The second is a lack of predictability\056 There\325s no telling how the bear will react to your ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 226.08 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(presence\056 You don\325t know if there are more of them to contend with waiting around the bend\056 ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 212.16 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(During the fi) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 133.9922 212.16 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(ght\054 there\325s no way of knowing how the bear will strike or bite you\056 Most ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 198.48 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(importantly\054 there\325s no way of knowing when the fight will end ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 379.9512 198.48 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(\055) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 383.9473 198.48 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( of knowing when you are truly ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 184.56 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(safe\056 Until you are rescued\054 you can\325t predict when the stress will end\056 ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 411.8965 184.56 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 170.88 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 108 170.88 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(The third is) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 163.3242 170.88 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( a bit more abstract\056 In species with well) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 356.9297 170.88 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(\055) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 360.9258 170.88 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(defined social ranks\054 those near the ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 156.96 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(top usually are saved from the level of everyday stress experienced by those in lower social ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 143.28 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(ranks\056 This isn\325t just conjecture ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 225.9785 143.28 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(\055) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 229.9746 143.28 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( it has been proven at the molecular level\056 And ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 456.8965 143.28 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(I wouldn\325t think ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 129.36 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(it to be too much of a leap to extrapolate this observation to intraspecies rankings\056 Are we not the ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 115.68 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(king of all beasts\077 Certainly we are not used to being attacked by members of any other species\054 ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 101.76 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(a fact which explains the popularity of s) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 264.2871 101.76 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(ensationalist television programs \050Discovery Channel\325s ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 88.08002 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(\322Shark Week\323 is a prime example\051\056 Certainly there is a baseline level of surprise and shock and ) Tj
+ET
+Q
+Q
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 PSY\056G0\05623\0562 \055 Psychology \055 Final Year Undergraduate \055 Male \055 Native Speaker \055 Report) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(6) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+27 0 obj
+<<
+/Length 10311
+>>
+stream
+q
+q
+Q
+q
+0 0.00001770258 612 792 re
+W
+n
+/Cs1 cs
+0 0 0 sc
+q
+0.2400000 0 0 0.2400000 72 708.96 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(stress that comes from being attacked by any animal\054 without even taking into account the shear ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 695.28 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(terror th) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 110.9824 695.28 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(at must come when that animal turns out to be a bear\056) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 367.5762 695.28 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 681.36 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 108 681.36 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(Though\054 like any psychological conditions\054 it is difficult to quantify exactly how these ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 667.68 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(axes will influence the psychological stress response of any one human\056 Though it may seem like ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 653.76 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(nothing more tha) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 153.9844 653.76 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(n one long digression when compared to the science of the biological response\054 ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 640.08 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(we still needed to explore these psychological variables\056) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 341.9121 640.08 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 626.16 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 108 626.16 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 612.48 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 108 612.48 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(Immediately upon encountering the bear\054 the body would respond in the same way as it ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 598.56 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(does to any stressor ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 169.3184 598.56 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(\055) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 173.3145 598.56 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( corticot) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 212.9648 598.56 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(ropin) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 238.2949 598.56 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(\055) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 242.291 598.56 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(releasing hormone is excreted from the hypothalamus ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 584.88 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(stimulating the pituitary gland which responds seconds later by adrenocorticotropic hormone\056 A ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 570.96 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(matter of minutes into the bear attack\054 this pathway causes a glucocortocoid steroid hormone ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 557.28 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(\050which tak) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 122.9824 557.28 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(es the form of cortisol in humans\051 to be released from the adrenal gland\056 ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 472.5527 557.28 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 543.36 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 108 543.36 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(While this is happening\054 my sympathetic nervous system would trigger a release of ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 529.68 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(epinephrine \050also from the adreneal gland\051 and norepinephrine in all of my organs\054 priming my ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 515.76 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(body) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 96 515.76 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( for action\056 The parasympathetic nervous system\054 on the other hand\054 is inhibited\056) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 481.2422 515.76 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 502.08 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 108 502.08 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(Endorphins\054 prolactin\054 vasopressin\054 and glucagon are released in response to stress\054 ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 488.16 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(together acting to halt costly biological functions like pain reception\054 reproductive ph) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 481.2188 488.16 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(ysiology\054 ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 474.48 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(renal function\054 and carbohydrate trafficking\056 Because of parasympathetic nervous system ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 460.56 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(inhibition\054 GnRH\054 LH\054 FSH\054 and the gonadal steroids are also inhibited\054 further inhibiting ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 446.88 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(reproductive physiology\056 They act to ensure the body has the energy) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 400.2363 446.88 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( needed to survive a stressful ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 432.96 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(situation\056 Existing energy stores are broken down and storage is inhibited ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 427.2598 432.96 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(\055) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 431.2559 432.96 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( survival is king\056) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 511.2539 432.96 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 419.28 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 108 419.28 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(The second component of the biological response to an acute stressor is the raiding of ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 405.36 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(existing energy stores and the conversion ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 273.2812 405.36 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(of this energy into a usable form\056 Amino acids are ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 391.68 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(recovered from proteins\054 glucose from glycogen\054 and fatty acids and glycerol from triglycerides\056 ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 377.76 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(Inhibition of insulin effectively halts the storage of these biological building blocks\054 setting them ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 364.08 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(free s) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 98.32031 364.08 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(o that they can be turned into glucose by way of gluconeogenesis and transported to active ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 350.16 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(muscles\054 providing me the energy necessary to run\054 dodge\054 fight back\054 scream\054 etc\056) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 467.877 350.16 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 336.48 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 108 336.48 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(The increase in glucose levels in the blood from all of this biological stress pr) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 480.5859 336.48 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(eparation ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 322.56 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(results in the stress response which we\325re all familiar with\072 an increase in breathing rate to ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 308.88 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(transport glucose and oxygen to the muscles\056 Cardiovascular tone\054 blood pressure\054 and heart rate ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 294.96 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(all rise\056 Blood volume also rises due to an increase i) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 321.6035 294.96 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(n water retention\056 Digestion halts\056 ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 281.28 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(Interestingly\054 depending on the length of the attack\054 release of growth hormone could actually be ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 267.36 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(stimulated slightly by stress\056 Something I mentioned before\054 the perception of pain and ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 253.68 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(inflammation of injuries\054 also dec) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 233.6426 253.68 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(reases\054 a fact for which I can be very thankful when the bear ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 239.76 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(lands his first paw on me\056) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 195.3223 239.76 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 226.08 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 108 226.08 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(Thankfully\054 I escape without suffering too many injuries\056 The initial stress response has ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 212.16 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(done its intended job\054 aiding in my flight from bear) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 317.9707 212.16 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(\055) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 321.9668 212.16 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(induced pain\054 and I can) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 433.5879 212.16 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( rest easy and wait for ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 198.48 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+(rescue\056 ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 108.6445 198.48 cm
+BT
+50 0 0 50 0 0 Tm
+/F1.0 1 Tf
+( ) Tj
+ET
+Q
+q
+0.2400000 0 0 0.2400000 72 186 cm
+BT
+41 0 0 41 0 0 Tm
+/F3.0 1 Tf
+( ) Tj
+ET
+Q
+Q
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 PSY\056G0\05623\0562 \055 Psychology \055 Final Year Undergraduate \055 Male \055 Native Speaker \055 Report) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(7) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+28 0 obj
+<<
+/FirstChar 32
+/Widths 29 0 R
+/Encoding /MacRomanEncoding
+/Type /Font
+/BaseFont /NRSGMA+Helvetica
+/LastChar 32
+/FontDescriptor 30 0 R
+/Subtype /TrueType
+>>
+endobj
+29 0 obj
+[ 278 ]
+endobj
+30 0 obj
+<<
+/FontBBox [ -951 -481 1445 1122 ]
+/FontName /NRSGMA+Helvetica
+/FontFile2 31 0 R
+/Descent -230
+/XHeight 531
+/Flags 32
+/Type /FontDescriptor
+/StemH 85
+/StemV 98
+/Ascent 770
+/ItalicAngle 0
+/CapHeight 727
+/MaxWidth 1500
+>>
+endobj
+31 0 obj
+<<
+/Length 2692
+/Filter /FlateDecode
+/Length1 4972
+>>
+stream
+x½W{pTÕÿÎ½wy 	‚l6÷®—Í;BP(J–e7$$`H€îbĞİ$“˜@Š!,4£`eyŒ–B”>¬"7›½J#ÅQ[¨£­Ö¥¾ÚŒ­-ÍíïÜ$+a”É÷ÌwÏ÷8ç;¿ó;ß&÷#¢dê"‘<õmáv²Ó\x^€8ê;;”ÿ˜ úûDbkcûím©ïşáDRQbòí­wöÔŞDtM-Æ45EÂŸOê…}ö,îH¼Ş–ûKØS›Ú:î²U—h¼ÛŞº¶>L7¡ÑøØÖ¶ğ]íöHâç°§ÃVÖ„Û"5ë7ÂÆzt}ûÚ;;ŒVŠÀî€Õ¾.Òş»{×Á~ø^†¡ñ'™¬äàË ¥X¢K¥KÓH&2Ş„¼ÅûÁÆ‡–g)e°Íø·XŒı\„Á’y4@;i?E¦' çĞ­ô=ÏZ¨ŸÕR½Á2éğ&‘N•ô3ŒW¨‘~‰ñtŠöPÖÏ¡6š„è.æ66Âö@¯£-ÆÏi*Í¦ûè)šƒ¬»èœqÈèE´šVĞaêÆü?1Uè‘®54ŞÇ‰,CÎ-ˆ¼bTGi€Ã*x·ĞIæß2šÈAÅ@÷=Jéiú˜İÃúŒ&£Ó8cœ%Ñ)Tƒ¶‰õ±³âQé>ããŸÆ ˜È¡<¬¢İôä?Š6 ÂüìÖÁv³=‚G¸Gè“¶Z&~riZ­¥ûÁ@?¦Oésö‰àSÄñc¦ñJ¢
+ì’ï$Bh?FÛ…=`V6-dUlû)ÛÃ^ò„B@øp—ğ¡¸T¬7ˆ¯IwJ1ËËCÖ¤ÁóÆ	ãYãušLNº…ÖÑfìî¡ÿÒLD®)ÌÍŠ™—İŠÖÅöıì ëªØ ;#fï°÷Ø'ì‚`’…IB¾Ğ!ìº…SÂKb³¸G|X|G</Í·–ƒ–¬nÛ_ë·¾dgÏğK°“'ã¥¥t…±ÛvÔè°‹#hGqj§ézŞlï±)t>Ä&°t6ƒ-A[Ênf¬™`ÇÑNšXş'à „!U˜,Lj„:¡Mè^ºÄ1O\,®¢='¾!^/HéZi’´H*§R›´íqé	)&½l™c™oYjYié²l³ìë-¯XŞ°n¶î²Æ¬ŸXÿeË±UÚÖÚvàtGÍ>Zşú‘ØT ŸAk¨ùXíÅidaŠ¢ºØıà«rŒÕâfq‘0Õp’îFµî£M´M¬¥ƒÆ_ÄÃôgTJ+RvÑ¯%/9-?ÃéÜCÓQEÃÍ“›—›“åª^ïRäLç”Œô4Çäë&M¼vBjÊ¸ä¤Ä»Íj‘DQ_-)ZVH“²Ô²²Bn«a8Â9BšWéè1šÂç…5Òƒ‘—ŒôôÄG²eÍ+,Püª¢½èS­Z€¾Ó§íœ©/1õL}t—¿£É§h,¤øµÒÎ¦¨?ä+,`ıĞ‘XXÀÿpx(‰'ÖhaxS“á×ÒUŸ_KS¡#&ºıá­jYÀïËp¹‚ğÁUÀ…ÍpÒöäµa»î¡º×ÂµM5!Äs¥æk“UŸ6yã¯ÍÍ¿ã¢ &¸KÃ‘h©æ	m¹Üq+¼VE‚´ÂÖ`@c[‡ApŒ-@ÊáFT?ÇjQ´Õ«6E[B —ª±tOº_û‚Ubi4Ó(,èwl.va÷ı…
+ğ¾ØåØ<ÔtïÿÕŞ;6Ÿ~}Euœ ÆWRËSSêÍET€Í_‘Ù­Ÿğ¶Ù<55#º5‹»<¬uÕŒÀhòµøb	ié|!oãCÑ”¹8)ŒOQ•èyÂªç>í	{¬î”óÄƒü ãµ¢±ğˆŞiƒ]79Ô&~¾æ™ÂVş‹°95³6Q›QQpiJò*tJ¨
+ô0¶+¨3c«N>g?%xÛ­ğRköa}…pä¹ İP ”b×¥¼V”¨-oˆ*¥JŠIr›=‘hp¬	€'Z=ÁŒ¸	ç"Ï4S0<D†–áèM×´¯0hzAN%«*°, uù24/ˆS@ùT´Tn0ˆQEq¤@¼©Ù1Œy0å!~ãP–ä@Š`4ÊsÖT—6fDùïmÈÖ]êğ;tâC°q¿Îºª0êÊàÕ¥º +È9½	%=RQ:Í¼<Ã³â¸1ó;@;ËdxöbxÎX;&†‹ãHG1<˜‹9Ãß½zÏÅpÉåöÄqä õ˜{¯ÃÇÂ°oLûãHG1\
+Ì~Îğ¢«ÇpÙ(†Ë/Ïğâ8n€¬ ÚÅ&Ã•Wˆá%caxé˜¾9tÃUÀ|3gxÙÕc¸zÃ5—gxy7@® Úå&Ã+¯ÃßÃ11Œ#Åğ*`r†o¹z×^Ä0>x½¸+ÁİK$•èT“¯“}şùAì):Ñ·¡‹oë$Aºím:D+ó#‹ıô¢S]©Ù¯´Kÿòo–§¾X¨KK.à¶9|ç£ÌŠ©ß¿mü¼ó”j‡“èY1òÃx?‚„ğvèhÎ³ææâºÈ>‹|y.éÁxÄœ—`™@^aiš7Us„€;@w ¡@)h«‰lOLÆ]gf¸¡­`EŒ–V×,Z² ¿,ÒÚéh®ó¬f>2"ü.û‹„‹%ç«R™	ÉÏ_à .ö8= y"R3ÛN Û C¤¸vV?Û“ìãl¥³Å$I^>1Mv$&É¯êÌÚw@~ÓñŞ	–Fãè,K‹£„‰ì1ö(5Ì~En¶·½¶¯7·U!tˆÚ!]Ñ|3v(–9C>É
+È-1ÌÉ¢L‰“?**”?(Ò“Oeëº§3ayÆËÎòï·Ë'!İC¡Ã¹qL>äl•wgêl_Lş‰Sg˜óàP·Ş‰©Çä¶Ü½rC‘¯Ü«İ1yâ+=Iò¬Ù.y¦ó}yZ¶ng°•r^Ñ‹òTLÄ0IİTyŠs·<¡L§?{.ä;ÌöSÛs/–CÅv{ËsgïÕÙİ½e9EnmôÌ*ËÙ›[–íÎ­”İ¹¥ÙÙĞW>gÛb»Å¶À6Ã–W–ÍeË°M´O°§Ø¯±'Ûív»Mg¿‰•ÈÖ¬›J@Kw¯İj·èìI8¥ìˆé<ò[»dìdŸ¨ïöñº™¨³î>”#(Ç¬¦fÕÙÔ8wñÈ×$3‚*af)¡Øfh1¾lwêVÚz]g‰£dÂüÔ9¥¾o{…ÌÈÈ;ÿÛsj{ñm¥vñÅpG†;F”oí;Ö#ñæçWToèíloi4?ËU$„¯sm{'®I]uŠÒÓÒ>|çÈ
+ÕÕ7ñïÂpDkW#>­Eõ)=æ<î¾(ÜÈÃª¯‡ıË=ˆ/ÖééôóëIowİêQkm‹¯µÎûkyy²u|­:sŞ%k­æá:¾Öj¾Öj¾V§Î\‹oŞß\ã½³Õ‰Ow|:çÔhåËVpCútö8ÿ_OÿVúTì
+endstream
+endobj
+xref
+0 32
+0000000000 65535 f 
+0000000009 00000 n 
+0000000105 00000 n 
+0000000206 00000 n 
+0000000255 00000 n 
+0000000561 00000 n 
+0000000880 00000 n 
+0000001186 00000 n 
+0000001492 00000 n 
+0000001798 00000 n 
+0000002117 00000 n 
+0000002437 00000 n 
+0000014265 00000 n 
+0000014302 00000 n 
+0000015194 00000 n 
+0000015377 00000 n 
+0000015895 00000 n 
+0000016142 00000 n 
+0000049801 00000 n 
+0000061996 00000 n 
+0000062186 00000 n 
+0000062448 00000 n 
+0000062710 00000 n 
+0000077405 00000 n 
+0000089988 00000 n 
+0000101855 00000 n 
+0000113113 00000 n 
+0000125714 00000 n 
+0000136079 00000 n 
+0000136253 00000 n 
+0000136277 00000 n 
+0000136515 00000 n 
+trailer
+<<
+/Size 32
+/Root 3 0 R
+/Info 2 0 R
+>>
+startxref
+139295
+%%EOF

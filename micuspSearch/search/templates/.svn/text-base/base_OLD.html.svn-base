@@ -1,0 +1,711 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+
+<link type="text/css" rel="stylesheet" href="/interface/main.css" />
+
+<!-- DEBUG SCRIPT FOR IE -->
+<!--[if IE]><script type="text/javascript" src="http://getfirebug.com/releases/lite/1.2/firebug-lite-compressed.js"> </script><![endif]-->
+
+
+<!--[if IE]><script language="javascript" type="text/javascript" src="/js/excanvas.min.js"></script><![endif]-->
+
+<!--
+<script type="text/javascript" src="/js/jquery-1.3.2.min.js"></script>
+-->
+
+<script type="text/javascript" src="/js/flot.pie/jquery.js"></script>
+<script type="text/javascript" src="/js/flot.pie/jquery.flot.js"></script>
+<script type="text/javascript" src="/js/flot.pie/jquery.flot.pie.js"></script>
+
+
+<title>MICUSP Simple interface (BETA)</title>
+<script type="text/javascript">
+	var plot, plot2,percentdata;
+
+	var deptselect=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0];
+	var typeselect=[0,0,0,0,0,0,0,0];
+	var deptExpand=false;
+	var typeExpand=false;
+
+	var typeName=Array();
+	typeName['CaseStudy']=0;
+	typeName['Critique']=1;
+	typeName['LiteratureReview']=2;
+	typeName['ResearchProposal']=3;
+	typeName['ResponsePaper']=4;
+	typeName['TechnicalOrLabReport']=5;
+	typeName['TermPaper']=6;
+	typeName['OtherTextType']=7;
+
+	var depts = [
+                                        [0.5, 'BIO'], [1.5, 'CEE'], [2.5, 'ECO'],
+                                        [3.5, 'EDU'], [4.5, 'ENG'], [5.5, 'HIS_CLS'],
+                                        [6.5, 'IOE'], [7.5, 'LIN'], [8.5, 'MEC'],
+                                        [9.5, 'NRE'], [10.5, 'NUR'], [11.5, 'PHI'],
+                                        [12.5, 'PHY'], [13.5, 'POL'], [14.5, 'PSY'],
+                                        [15.5, 'SOC'] 
+
+			];
+
+
+
+        var percentdata = [
+                                        	{ label: 'CaseStudy', data: 0},
+                                        	{ label: 'Critique', data: 0},
+                                        	{ label: 'LiteratureReview', data: 0},
+                                        	{ label: 'ResearchProposal', data: 0},
+                                        	{ label: 'ResponsePaper', data: 0},
+                                        	{ label: 'TechnicalOrLabReport', data: 0},
+                                        	{ label: 'TermPaper', data: 0}, 
+                                        	{ label: 'OtherTextType', data: 0}
+						
+                                ];
+
+	//var d2=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0];
+
+	var d2=Array(deptselect.length);
+        var deptTypeData = [
+                {% for t1,t2,t3,t4,t5,t6,t7,t8 in deptType %}
+                [{{t1}},{{t2}},{{t3}},{{t4}},{{t5}},{{t6}},{{t7}},{{t8}}],
+                {% endfor %}
+                ];
+
+	// function to highlight and unhighlight bars
+        // in the histogram using flags in the deptselect array
+        function deptSelect(series, barpos){
+                        if (barpos>-1) {
+                                if (deptselect[barpos] == 1) {
+                                        deptselect[barpos]=0;
+                                } else {
+                                        deptselect[barpos]=1;
+                                }
+                        }
+
+                        for (i=0; i<d2.length; i++) {
+                                if (deptselect[i]==1) {
+                                        plot.highlight(series,d2[i]);
+                                } else {
+                                        plot.unhighlight(series,d2[i]);
+                                }
+
+
+                        }
+        }
+
+
+	$(document).ready(function() {
+
+	initMenu();
+	$("#deptNo").attr('checked',true);
+	$("#typeNo").attr('checked',true);
+			
+	// initialize data in percentdata from deptTypeData
+	updatePieGraph();
+
+	// initialize data in d2 from deptTypeData
+	updateHistogram();
+
+
+
+	
+	$(".deptcheck").change(deptCheckEvent);
+	$(".typecheck").change(typeCheckEvent);	
+	
+
+	$(".pieClass").click(function(){
+		//$("#pieTermPaper").effect("highlight");
+		//var cssObj = {'color':'black','background-color':'white'}
+		var id = this.id;
+		toggleLabel(id);
+		if(typeExpand == false){
+			$("#typebody").slideToggle(600);
+			//$("INPUT[type='checkbox']").attr('checked',false);
+			//$("#typeNo").attr('checked',false);
+			typeExpand = true;
+		}
+		$("#typeNo").attr('checked',false);
+		$(".typecheck").each(
+			function(){
+                        	if($(this).val() == id){
+                                	if($(this).attr('checked') == true){
+                                        	$(this).attr('checked',false);
+                                        }
+                                        else{
+                                                $(this).attr('checked',true);
+                                        }
+                                }
+                        }
+               	);
+		showNumSelectedMessage();	
+	});
+	$("#deptNo").attr('checked',true);
+	$("#typeNo").attr('checked',true);
+	$("#deptNo").change(deptNoCheckEvent);
+	$("#typeNo").change(typeNoCheckEvent);
+});
+
+function updateHistogram(){
+
+	var numOfTypes = percentdata.length;
+	var numOfDepts = deptselect.length;
+
+        var data=new Array(numOfDepts);
+
+        var i,j;
+        for(i=0; i< numOfDepts;i++){
+                data[i] = 0;
+        }
+
+        for(i=0; i<numOfTypes;i++){
+                if(typeselect[i]==1 || $("#typeNo").attr('checked')==true) {
+                        for(j=0; j < numOfDepts; j++){
+                                data[j] = data[j]+deptTypeData[j][i];
+                        }
+
+                }
+        }
+
+        for(i=0; i < numOfDepts; i++){
+		d2[i] = [i,data[i]];
+        }
+        plot = $.plot(  $("#histogram"), 
+			    [{data: d2 , bars: {show: true, clickable: true }}],
+                            { xaxis: { ticks: depts}, grid: { clickable: true, hoverable: false }} 
+			);
+
+	$("#histogram").bind("plotclick", function (event, pos, item) {
+      		  if (item) {
+
+			if(deptExpand == false){
+				//$("INPUT[type='checkbox']").attr('checked',false);
+				$("#deptbody").slideToggle(600);
+				deptExpand = true;
+				$("#deptNo").attr('checked',false);
+			}
+
+			$("#deptNo").attr('checked',false);
+
+			deptSelect(item.series, item.datapoint[0]);
+			var i = 0;
+			$(".deptcheck").each(
+				function(){
+					if(i == item.datapoint[0]){
+						if($(this).attr('checked') == true){
+							$(this).attr('checked',false);
+						}
+						else{
+							$(this).attr('checked',true);
+						}
+					}
+					i++;
+				}
+			);
+			//$(".optionbody").slideToggle(600);
+			//showNumSelectedMessage();
+			updatePieGraph();
+        	  }
+		});
+};
+
+
+function updatePieGraph(){
+	var numOfTypes = percentdata.length;
+	var numOfDepts = deptselect.length;
+	var data=new Array(numOfTypes);
+	
+	var i,j,sum;
+	for(i=0; i< numOfTypes;i++){
+		data[i] = 0;
+	}
+	sum = 0;
+	for(i=0; i<numOfDepts; i++){
+		if(deptselect[i] == 1 || $("#deptNo").attr('checked')==true) {
+			for(j=0; j < numOfTypes; j++){
+				data[j] = data[j]+deptTypeData[i][j];
+				sum = sum + deptTypeData[i][j];
+			}
+			//alert(i+','+j+','+data[j]+','+deptTypeData[i][j]);
+
+		}
+	}
+	for(i=0; i<numOfTypes; i++){
+		data[i] = data[i]/sum;
+	}
+
+	for(i=0; i < numOfTypes; i++){
+		percentdata[i]['data'] = data[i];
+	}
+
+        plot2 = $.plot($("#piegraph"),percentdata,
+        {
+                series:{
+                        pie: {
+                        show: true,
+                        radius:3/4,
+                        label: {
+                                show: true,
+                                radius: 3/4,
+                                formatter: function(label, series){
+                                return '<div id="'+label+'" class="pieClass" style="font-size:8pt;text-align:center;padding:2px;color:white;">'+label+'<br/>'+Math.round(series.percent)+'%</div>';
+                        },
+                                background: {
+                                        opacity: 0.5,
+                                        color: '#000'
+                                }
+                        }
+                        }
+                },
+                legend: {
+                        show: false
+                }
+        });
+        $(".pieClass").click(function(){
+                //$("#pieTermPaper").effect("highlight");
+                //var cssObj = {'color':'black','background-color':'white'}
+                var id = this.id;
+                toggleLabel(id);
+		alert(typeName[id]);
+		typeselect[typeName[id]]=typeselect[typeName[id]] ? 0 : 1;
+
+                if(typeExpand == false){
+                        $("#typebody").slideToggle(600);
+                        //$("INPUT[type='checkbox']").attr('checked',false);
+                        $("#typeNo").attr('checked',false);
+                        typeExpand = true;
+                }
+                $("#typeNo").attr('checked',false);
+                $(".typecheck").each(
+                        function(){
+                                if($(this).val() == id){
+                                        if($(this).attr('checked') == true){
+                                                $(this).attr('checked',false);
+                                        }
+                                        else{
+                                                $(this).attr('checked',true);
+                                        }
+                                }
+                        }
+                );
+                showNumSelectedMessage();
+		updateHistogram();
+        });
+	//update highlighing
+	//highlightPieChart();
+}
+
+
+function deptNoCheckEvent(){
+	if($(this).attr('checked') == true){
+	$(".deptcheck").each(
+                function(){
+                        //alert($(this).attr('checked'));
+			$(this).attr('checked',false);
+                }
+        );	
+		//deptCheckEvent();
+	//	$(this).attr('checked',true);
+		highlightHistogram();
+		updatePieGraph();
+	}
+	else{
+	//	$(this).attr('checked',false);
+	}
+}
+function typeNoCheckEvent(){
+        if($(this).attr('checked') == true){
+        	$(".typecheck").each(
+                function(){
+                        //alert($(this).attr('checked'));
+                        $(this).attr('checked',false);
+                }
+        	);
+        	typeCheckEvent();
+		$(this).attr('checked',true);
+		highlightPieChart();
+		updateHistogram();
+        }
+	else{
+		$(this).attr('checked',false);
+	}
+}
+
+
+function showNumSelectedMessage(){
+	var numSelectDept = 0;
+	$(".deptcheck").each(
+			function(){
+                                        if($(this).attr('checked') == true){
+						numSelectDept++;
+                                        }
+                        }
+        );
+	var numSelectType = 0;
+        $(".typecheck").each(
+                        function(){
+                                        if($(this).attr('checked') == true){
+                                                numSelectType++;
+                                        }
+                        }
+        );	
+	$("#info").html("You have selected "+numSelectDept+" disciplines and "+numSelectType+" paper types. Please select disciplines and paper types before you click search button.");
+}
+
+
+function unhighlightLabel(id){
+        $("#"+id).css('background-color','transparent');
+        $("#"+id).css('color','white');
+}
+function highlightLabel(id){
+        $("#"+id).css('background-color','gold');
+        $("#"+id).css('color','black');
+}
+function toggleLabel(id){
+	var color = $("#"+id).css('color');
+	if(color == 'black'){
+		unhighlightLabel(id);
+	}
+	else{
+		highlightLabel(id);
+	}
+}
+function highlightHistogram(){
+        var i =0;
+        //var selectindex = 0;
+        $(".deptcheck").each(
+                function(){
+                        //alert($(this).attr('checked'));
+                        if($(this).attr('checked') == true){
+                                if(deptselect[i]==0){
+                                        deptSelect(0,i);
+                                }
+                        }
+                        else{
+                                if(deptselect[i]==1){
+                                        deptSelect(0,i);
+                                }
+                        }
+                        i++;
+                }
+        );
+}
+function highlightPieChart(){
+       $(".typecheck").each(
+                function(){
+                        //type_str=type_str+$(this).val()+", ";
+                        //$type[$type.length++]=$(this).val();
+                        if($(this).attr('checked') == true){
+                                highlightLabel($(this).val());
+                        }
+                        else{
+                                unhighlightLabel($(this).val());
+                        }
+                }
+        );
+
+}
+function deptCheckEvent() {
+        //var dept_str = "";
+	//$().trigger('');
+	//var dept=[];
+	highlightHistogram();
+	$("#deptNo").attr('checked',false);
+	//update();
+	updatePieGraph();
+}
+
+
+function typeCheckEvent(){
+        var numtype;
+	/*
+        $(".typecheck").each(
+                function(){
+                        //type_str=type_str+$(this).val()+", ";
+			//$type[$type.length++]=$(this).val();
+                        if($(this).attr('checked') == true){
+				highlightLabel($(this).val());
+                        }
+                        else{
+				unhighlightLabel($(this).val());
+                        }
+                }
+        );
+	*/
+	highlightPieChart();
+	$("#typeNo").attr('checked',false);
+}
+
+
+/* ==========================
+
+	UPDATE -- 
+
+*/
+function update(){
+
+	//$("#histogram").html("<p><img src='/img/ajax-loader.gif'/></p>");
+
+        $.post("/search/dept/",
+        $("#searchform").serialize(),
+	function(data) {
+		$("#deptscript").html(data);   // *** THIS DOES NOT APPEAR TO WORK IN INTERNET EXPLORER **** 
+	
+		updatePieGraph();
+		updateHistogram();		
+
+		//deptSelect(0,-1);
+	  }	
+	);
+	
+
+	return;	
+
+	/*
+
+	var numdept = 0;
+
+	var numpapers =0;
+	var i = 0;
+	for( i=0; i <d2.length;i++){
+		if(d2[i][1]>0){	
+			numdept++;
+			numpapers += d2[i][1];
+		}
+	}
+	//alert(d2[10][1]);	
+	$("#numdept").html(" over "+numdept+" disciplines");
+        var numtype = 0;    
+        for(x in percentdata){
+                numtype++;
+        }
+	
+	$("#numtype").html(" and "+numtype+" paper types");	
+        }
+        );
+
+	//update query info
+	//$("#info").html($("#queryinfo").html()+"<div id=\"numdept\"></div>"+"<div id=\"numtype\"></div>. Results are displayed in order by discipline. View corpus graphs to see a normalized distribution of the results across disciplines and paper types.");
+	//$("#info").fadeOut(800); //.fadeIn(800);
+	$("#queryinfo").html("");
+	//deptSelect(0,-1);
+
+	*/
+
+}
+function initMenu(){
+	$(".optionbody").hide();
+	$("#depthead").click(
+                function(){
+			if(deptExpand == true){
+				deptExpand = false;
+			}
+			else{
+				deptExpand = true;
+			}
+			$("#deptbody").slideToggle(600);
+                //        $(this).next('.optionbody').slideToggle(600);
+                }
+        );
+        $("#typehead").click(
+                function(){
+                        if(typeExpand == true){
+                                typeExpand = false;
+                        }
+                        else{
+                                typeExpand = true;
+                        }
+                        $("#typebody").slideToggle(600);
+                //        $(this).next('.optionbody').slideToggle(600);
+                }
+        );
+	/*
+	$('.optionhead').click(
+		function(){
+			
+			$(this).next('.optionbody').slideToggle(600);
+		}
+	);
+	*/
+	$('.graphshead').click(
+		function(){
+			$(this).next('.graphsbody').slideToggle(600);
+		}
+	);
+
+
+}
+function next(start,dir) {
+                        if (dir=='+') {
+                                dir=10;
+                        } else {
+                                dir=-10;
+                        }
+
+                        $.post('/search/tmp/',
+                                $('#searchform').serialize()+"&start="+ (start+dir),
+                                function(data) { $("#text").html(data); 
+					$("#queryinfo").html("");
+				}
+                        );
+			$("#queryinfo").html("");
+                }
+
+
+
+	function search() {
+
+		$("#text").html("<p><img src='/img/ajax-loader.gif'/></p>");
+
+
+                 $.post('/search/tmp/',
+                              		$("#searchform").serialize(),
+                                	function(data) {
+                                        	$("#text").html(data);
+
+	$("#info").html($("#queryinfo").html()+"<div id=\"numdept\"></div>"+"<div id=\"numtype\"></div>. Results are displayed in order by discipline. View corpus graphs to see a normalized distribution of the results across disciplines and paper types.");
+	$("#queryinfo").html("");
+
+                                	}
+ 		);
+	//	$("#queryinfo").html("");
+
+		update();
+
+	}
+
+</script>
+</head>
+
+<body>
+	<div id="minMax"> 
+		<div id="header"> 
+			<div class="content"> 
+				<h1>MICUSP Simple <span class="beta">BETA</span></h1>
+			</div> 
+		</div> <!-- end header --> 
+ 
+		<div id="wrapper"> 
+		
+		<form id="searchform" name="searchform" method="post" action="" onsubmit="search(); return false;">
+        	<div id="searchbar">
+			<span>
+			<input class="inline_left" type="radio" name="mode" checked="1"/>
+                    	<input class="inline_left" value="{{q}}" id="searchbox" name="q" id="q" type="text"/> 
+			<input class="inline_left" id="searchbutton"  type="submit" value="Search"/> 
+			</span>
+			<br class="clear"/>
+			<span>
+			<input class="inline_left" type="radio" name="mode"/> <label class="inline_left">Browse</label>
+			</span>
+			<br class="clear"/>
+
+			<div id = "info">
+			You are searching the complete MICUSP corpus. You can click on the corpus graphs to narrow your search results.
+			</div>		
+	        </div>
+			<div id="optionbar">
+				<div id="optionbarinfo">Narrow results</div>
+				<br/> 
+				<div class="optionhead" id="depthead"><p>Disciplines</p></div>
+				<div class="optionbody" id="deptbody">
+				<input type="checkbox" id="deptNo" value="No"/>
+				<label>No restriction</label><br/>
+				<input class="deptcheck" type="checkbox" name="dept" value="BIO"/>
+                                <label>Biology(BIO)</label><br/>
+				<input class="deptcheck" type="checkbox" name="dept" value="CEE"/>
+                                <label>Civ.&Env.Eng(CEE)</label><br/>
+				<input class="deptcheck" type="checkbox" name="dept" value="ECO"/>
+                                <label>Economics(ECO)</label><br/>
+				<input class="deptcheck" type="checkbox" name="dept" value="EDU"/>
+                                <label>Education(EDU)</label><br/>
+				<input class="deptcheck" type="checkbox" name="dept" value="ENG"/>
+                                <label>English(ENG)</label><br/>
+				<input class="deptcheck" type="checkbox" name="dept" value="HIS_CLS"/>
+                                <label>History&Classical(HIS_CLS)</label><br/>
+				<input class="deptcheck" type="checkbox" name="dept" value="IOE"/>
+                                <label>Indus.&Op.Eng.(IOE)</label><br/>
+				<input class="deptcheck" type="checkbox" name="dept" value="LIN"/>
+				<label>Linguistics(LIN)</label><br/>
+				<input class="deptcheck" type="checkbox" name="dept" value="MEC"/>
+                                <label>Mech.Eng.(MEC)</label><br/>
+				<input class="deptcheck" type="checkbox" name="dept" value="NRE"/>
+                                <label>Natural Resource(NRE)</label><br/>
+				<input class="deptcheck" type="checkbox" name="dept" value="NUR"/>
+                                <label>Nursing(NUR)</label><br/>
+				<input class="deptcheck" type="checkbox" name="dept" value="PHI"/>
+                                <label>Philosophy(PHI)</label><br/>
+				<input class="deptcheck" type="checkbox" name="dept" value="PHY"/>
+                                <label>Physics(PHY)</label><br/>
+				<input class="deptcheck" type="checkbox" name="dept" value="POL"/>
+                                <label>Politics(POL)</label><br/>
+				<input class="deptcheck" type="checkbox" name="dept" value="PSY"/>
+                                <label>Psychology(PSY)</label><br/>
+				<input class="deptcheck" type="checkbox" name="dept" value="SOC"/>
+				<label>Sociology(SOC)</label>
+				</div>
+				<div class="optionhead" id="typehead"><p>Paper types</p></div>
+				<div class="optionbody" id="typebody">
+				<input id="typeNo" type="checkbox" value="No"/>
+				<label>No Restriction</label><br/>
+				<input class="typecheck" type="checkbox" name="type" value="CaseStudy"/>
+                                <label>Case study</label><br/>
+				<input  class="typecheck" type="checkbox" name="type" value="Critique"/>
+                                <label>Critique</label><br/>
+				<input class="typecheck" type="checkbox" name="type" value="LiteratureReview"/>
+                                <label>Literature Review</label><br/>
+				<input class="typecheck" type="checkbox" name="type" value="ResearchProposal"/>
+                                <label>Research Proposal</label><br/>
+				<input class="typecheck" type="checkbox" name="type" value="ResponsePaper"/>
+                                <label>Response Paper</label><br/>
+				<input class="typecheck" type="checkbox" name="type" value="TechnicalOrLabReport"/>
+				<label>Technical or Lab Report</label><br/>
+				<input class="typecheck" type="checkbox" name="type" value="TermPaper"/>
+				<label>Term Paper</label><br/>
+				<input class="typecheck" type="checkbox" name="type" value="OtherTextType"/>
+				<label>Other Text Type</label></div>
+			</div> <!-- end outer3 -->    
+		</form>         
+
+	<div id="graphsx">
+		<div class="optionheadx">
+			<p>Corpus graphs</p>
+		</div>
+		<div class="optionbodyx">
+			<div id="histogram"> 
+				{% block histogram %}
+				{% endblock %}
+			</div> 
+ 
+			<div id="piegraph"> 
+				{% block piegraph %}
+				{% endblock %}
+			</div> 
+		</div>
+	</div>
+
+		<br /> 
+		<div id="results">
+			<div id="text"> 
+			</div> 
+		</div>
+		<!-- end outer2 --> 
+ 
+		</div><!-- end #wrapper --> 
+ 
+		<div id="footer"> 
+			<div class="content"> 
+				<center>
+				  <p>Copyright by University of Michigan</p>
+				</center>
+			</div> 
+		</div> <!-- end footer --> 
+ 
+	</div> <!-- end wrapperA --> 
+        <script id="deptscript">
+
+	</script>
+
+</body>
+</html>

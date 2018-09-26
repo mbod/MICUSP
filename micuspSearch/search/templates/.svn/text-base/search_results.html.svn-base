@@ -1,0 +1,345 @@
+
+
+	<script>
+	
+	$(document).ready(function() {
+
+                var paperInfo = [
+                        {% for paper in results %}
+                                "{{ paper.paper_info|safe|escapejs }}" {% if not forloop.last %} , {% endif %}
+                        {% endfor %}
+
+                ];
+
+		// ???? not sure if we want this here anymore?
+		//totalHitCount = {{ count }};
+		totalPaperCount = {{ papers }};
+		totalHitCount = 0;
+		{% for paper in results %}
+			totalHitCount += {{ paper.paper_hits }};
+		{% endfor %}
+
+		$('#browse_table th').click(function(event) {
+			var clickedColumn=columnIDs[columnNames[$(this).find("span").text()]];
+			
+			var currentStatus = columnStatus[clickedColumn];
+			columnStatus=[0,0,0,0];
+			if (currentStatus != 0) {
+				columnStatus[clickedColumn] = -1 * currentStatus;
+			} else {
+				columnStatus[clickedColumn] = 1;
+			}
+
+			doSearch();
+		});
+
+		$('#browse_table .hits_showhide').click(function () {
+			$(this).closest('td').find("span.show_hits").toggle();
+			$(this).closest('tbody').find('.hide').toggle();
+		});
+
+		$('.tickLabelX').each(function(i){
+			$(this).qtip({
+				content: histLabels[i],
+				show: 'mouseenter',
+				hide: 'mouseleave',
+				position: {
+					corner: {
+						target: 'topRight',
+						tooltip: 'bottomLeft'
+					}
+				},
+				style: {
+					name: 'dark'
+				}
+			});
+		});
+
+		$('#bt_dept>img.tooltipImg').qtip({
+			content: {
+				text: 'This field indicates for which of altogether 16 disciplines (see list below and bar chart above left) the paper was submitted.',
+				title: {
+					text: '<br/>',
+					button: '<img class="tooltipClose" onclick="return false;" style="border:0;" src="../img/close.png" alt="close" />'
+				}
+			},
+			show: 'mouseenter',
+			hide: 'mouseleave click',
+			position: {
+				adjust: {
+					screen: true
+				},
+				corner: {
+					target: 'bottomLeft',
+					tooltip: 'topRight'
+				}
+			},
+			style: {
+				name: 'dark'
+			}
+		});
+
+		$('#bt_type>img.tooltipImg').qtip({
+			content: {
+				text: 'This field indicates which of altogether seven paper types we assigned the paper to. Paper types were assigned in a double-blind classification process by MICUSP researchers (for further information on the MICUSP project website, click &quot;MICUSP project page&quot; at the top right of this page).',
+				title: {
+					text: '<br/>',
+					button: '<img class="tooltipClose" onclick="return false;" style="border:0;" src="../img/close.png" alt="close" />'
+				}
+			},
+			show: 'mouseenter',
+			hide: 'mouseleave click',
+			position: {
+				adjust: {
+					screen: true
+				},
+				corner: {
+					target: 'bottomLeft',
+					tooltip: 'topRight'
+				}
+			},
+			style: {
+				name: 'dark'
+			}
+		});
+
+		$('#bt_pid>img.tooltipImg').qtip({
+			content: {
+				text: 'The paper ID consists of a discipline code (e.g. BIO), a student level code (G0: final year undergraduate; G1: first year graduate; G2: second year graduate; G3: third year graduate), followed by a student and paper number (&quot;02.3&quot; means third paper submitted by the second student of the particular discipline/level).',
+				title: {
+					text: '<br/>',
+					button: '<img class="tooltipClose" onclick="return false;" style="border:0;" src="../img/close.png" alt="close" />'
+				}
+			},
+			show: 'mouseenter',
+			hide: 'mouseleave click',
+			position: {
+				adjust: {
+					screen: true
+				},
+				corner: {
+					target: 'bottomLeft',
+					tooltip: 'topRight'
+				}
+			},
+			style: {
+				name: 'dark'
+			}
+		});
+
+		$('#bt_title>img.tooltipImg').qtip({
+			content: {
+				text: 'This is the title of the paper as entered by the student in the paper submission. If no title or a non-descriptive one (e.g. &quot;first paper&quot;) was given, we supplied a title.',
+				title: {
+					text: '<br/>',
+					button: '<img class="tooltipClose" onclick="return false;" style="border:0;" src="../img/close.png" alt="close" />'
+				}
+			},
+			show: 'mouseenter',
+			hide: 'mouseleave click',
+			position: {
+				adjust: {
+					screen: true
+				},
+				corner: {
+					target: 'bottomLeft',
+					tooltip: 'topRight'
+				}
+			},
+			style: {
+				name: 'dark'
+			}
+		});
+
+		$('#browse_table>tbody>tr>td>a').each(function(i) {
+			$(this).qtip({
+			content: {
+				text: paperInfo[i],
+				title: {
+					text: '<br/>',
+					button: '<img class="tooltipClose" onclick="return false;" style="border:0;" src="../img/close.png" alt="close" />'
+				}
+			},
+			show: 'mouseenter',
+			hide: 'mouseleave click unload',
+			position: {
+				adjust: {
+					screen: true
+				},
+				corner: {
+					target: 'bottomLeft',
+					tooltip: 'topRight'
+				}
+			},
+			style: {
+				name: 'dark'
+			}
+			})
+		});
+		//console.log(document.location.href);
+		$('.saveLink').qtip({
+			content: {
+				text: document.location.href.replace(/\/(main|savedSearch|savedBrowse)\/\?.*$/,'') + $(".saveLink").attr("name"),
+				title: {
+					text: 'Copy this link and paste elsewhere:',
+					button: '<img class="tooltipClose" onclick="return false;" style="border:0;" src="../img/close.png" alt="close" />'
+				}
+			},
+			show: 'click',
+			hide: 'click',
+
+			position: {
+				adjust: {
+					screen: true
+				},
+				corner: {
+					target: 'bottomLeft',
+					tooltip: 'topRight'
+				}
+			},
+			style: {
+				name: 'dark',
+				width: 700
+			}
+		});
+
+	});
+
+	</script>
+
+
+<div>
+
+          <div id = "navBar">
+
+
+  	  <span class="results_message">Showing results in {{ start }} to {{ num }} of {{ papers }} papers </span>
+
+	  <span class="navigation navSearch">
+
+<!-- # REMOVE DOWNLOAD LINKS FOR NOW
+	<a href="javascript:printResults('{{ save.print }}')"><img class="printImg" src="/search/img/printer_small.png"/>Print</a> | <a href="javascript:downloadResults('{{ save.download }}')"><img class="downloadImg" src="/search/img/disk_small.png"/>Download</a> | <a class="saveLink" href="javascript:linkResults('{{ save.link }}')" name={{ save.link }}><img class="linkImg" src="/search/img/link_go_small.png"/>Link to all results</a>
+
+-->
+
+   {% ifnotequal start "1" %}
+
+<button onclick="next({{start}},'-')">&lt;previous</button>
+
+   {% endifnotequal %}
+   {% if not last %}
+
+<button onclick="next({{start}},'+')">next&gt;</button>
+
+   {% endif %}
+  </span>
+
+	</div>
+
+<table id="browse_table">
+	<thead id="table_headings">
+		<tr>
+			<th id="bt_pid" 
+			    {% ifequal sort "pid" %} class="sortCol_highlight"  {% endifequal %} title="Click to re-sort">
+				<span>Paper ID</span>
+				{% ifequal sort "pid" %} 
+					<img src="{{ direction.img }}" alt="{{ direction.alt }}"/>
+				{% endifequal %}
+				<img class="tooltipImg" src="/search/img/button_help.gif">
+			</th>
+			<th id="bt_title" 
+			    {% ifequal sort "title" %} class="sortCol_highlight"  {% endifequal %} title="Click to re-sort">
+			        <span>Title</span>
+				{% ifequal sort "title" %} 
+					<img src="{{ direction.img }}" alt="{{ direction.alt }}"/>
+				{% endifequal %}
+				<img class="tooltipImg" src="/search/img/button_help.gif">
+			</th>
+			<th id="bt_dept" 
+			    {% ifequal sort "dept" %} class="sortCol_highlight"  {% endifequal %} title="Click to re-sort">
+				<span>Discipline</span>
+				{% ifequal sort "dept" %} 
+					<img src="{{ direction.img }}" alt="{{ direction.alt }}"/>
+				{% endifequal %}
+				<img class="tooltipImg" src="/search/img/button_help.gif">
+			</th>
+			<th id="bt_type" 
+			    {% ifequal sort "type" %} class="sortCol_highlight"  {% endifequal %} title="Click to re-sort">
+				<span>Paper Type</span>
+				{% ifequal sort "type" %} 
+					<img src="{{ direction.img }}" alt="{{ direction.alt }}"/>
+				{% endifequal %}
+				<img class="tooltipImg" src="/search/img/button_help.gif">
+			</th>
+		</tr>
+	</thead>
+
+
+
+{% for paper in results %}
+	<tbody>
+
+	<tr  class="{% cycle 'odd' 'odd' %}">
+		<td><a target="_{{paper.doc}}" href="/search/view/?pid={{ paper.doc }}&q={{ q }}&include_all={{ include_all }}">{{ paper.doc }}</a></td>
+		<td>{{ paper.title }}</td>
+		<td>{{ paper.dept }}</td>
+		<td>{{ paper.type }}</td>
+	</tr>
+
+	
+
+	<tr >	
+		<td class="show_hits_td">
+			{% if not paper.data|length_is:"1" %}
+				<span class="show_hits">{{ paper.data|first|first }} of {{ paper.paper_hits }} hits <br/><span class="hits_showhide">Show all</span></span>
+
+				<span class="show_hits" style="display: none">All {{ paper.paper_hits }} hits <br/><span class="hits_showhide">Show less</span></span>
+			{% endif %}
+		</td>
+		<td colspan="3"> 1.  {{ paper.data|first|last|safe }} </td>
+		
+	</tr>
+	
+	{% ifnotequal paper.data.length 1 %}
+
+	{% for h in paper.data %}
+
+		{% if not forloop.first %}
+		<tr class="hide">	
+			<td/>
+			<td colspan="3"> {{ forloop.counter }}. {{ h|last|safe }} </td>
+			<td/>
+		</tr>
+		{% endif %}
+
+
+	{% endfor %}
+	{% endifnotequal %}
+	
+	</tbody>
+
+{% endfor %}
+
+
+
+</table>
+
+<br/>
+
+<div>
+
+	  <span class="navigation bottomNav">
+	   
+   {% ifnotequal start "1" %}
+
+<button onclick="next({{start}},'-')">&lt;previous</button>
+
+   {% endifnotequal %}
+   {% if not last %}
+
+<button onclick="next({{start}},'+')">next&gt;</button>
+   {% endif %}
+  </span>
+</div>
+
+</div>

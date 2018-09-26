@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/403/micusp-search/micusp/search/templates
+END
+browse_download2.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/304/micusp-search/micusp/search/templates/browse_download2.xsl
+END
+browse_print.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/304/micusp-search/micusp/search/templates/browse_print.xsl
+END
+search_print.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/371/micusp-search/micusp/search/templates/search_print.xsl
+END
+search_results.html.save
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/403/micusp-search/micusp/search/templates/search_results.html.save
+END
+psearch.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/73/micusp-search/micusp/search/templates/psearch.html
+END
+main.css.old
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/73/micusp-search/micusp/search/templates/main.css.old
+END
+search_results.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/401/micusp-search/micusp/search/templates/search_results.html
+END
+base_optionbar.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/73/micusp-search/micusp/search/templates/base_optionbar.html
+END
+base_histogram.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/254/micusp-search/micusp/search/templates/base_histogram.html
+END
+base_dept_type.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/73/micusp-search/micusp/search/templates/base_dept_type.html
+END
+simple.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/73/micusp-search/micusp/search/templates/simple.html
+END
+browse_download.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/304/micusp-search/micusp/search/templates/browse_download.xsl
+END
+view_paper.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/362/micusp-search/micusp/search/templates/view_paper.html
+END
+browse.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/367/micusp-search/micusp/search/templates/browse.html
+END
+print_frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/371/micusp-search/micusp/search/templates/print_frame.html
+END
+base.html.save
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/285/micusp-search/micusp/search/templates/base.html.save
+END
+main.css
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/234/micusp-search/micusp/search/templates/main.css
+END
+base_OLD.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/73/micusp-search/micusp/search/templates/base_OLD.html
+END
+browse_download2.xsl.save
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/403/micusp-search/micusp/search/templates/browse_download2.xsl.save
+END
+base.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/367/micusp-search/micusp/search/templates/base.html
+END
+base_type.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/73/micusp-search/micusp/search/templates/base_type.html
+END

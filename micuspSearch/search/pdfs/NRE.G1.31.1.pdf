@@ -1,0 +1,5435 @@
+%PDF-1.3
+1 0 obj
+<<
+/Kids [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R ]
+/Type /Pages
+/Count 12
+>>
+endobj
+2 0 obj
+<<
+/Producer (Python PDF Library \055 http\072\057\057pybrary\056net\057pyPdf\057)
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+>>
+endobj
+4 0 obj
+<<
+/Parent 1 0 R
+/Contents 16 0 R
+/Resources <<
+/ColorSpace <<
+/CS0 17 0 R
+>>
+/Font <<
+/TT1 19 0 R
+/TT0 21 0 R
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0.0 0.0 612.12 792.12 ]
+/MediaBox [ 0.0 0.0 612.12 792.12 ]
+/Type /Page
+/StructParents 2
+>>
+endobj
+5 0 obj
+<<
+/Parent 1 0 R
+/Contents 23 0 R
+/Resources <<
+/ExtGState <<
+/GS0 24 0 R
+>>
+/Font <<
+/TT1 25 0 R
+/TT0 27 0 R
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Type /Page
+>>
+endobj
+6 0 obj
+<<
+/Parent 1 0 R
+/Contents 28 0 R
+/Resources <<
+/ExtGState <<
+/GS0 24 0 R
+>>
+/Font <<
+/TT1 25 0 R
+/TT0 27 0 R
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+/TT2 29 0 R
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Type /Page
+>>
+endobj
+7 0 obj
+<<
+/Parent 1 0 R
+/Contents 31 0 R
+/Resources <<
+/ExtGState <<
+/GS0 24 0 R
+>>
+/Font <<
+/TT1 25 0 R
+/TT0 27 0 R
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+/TT2 29 0 R
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Type /Page
+>>
+endobj
+8 0 obj
+<<
+/Parent 1 0 R
+/Contents 32 0 R
+/Resources <<
+/ExtGState <<
+/GS0 24 0 R
+>>
+/Font <<
+/TT1 25 0 R
+/TT0 27 0 R
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+/TT2 29 0 R
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Type /Page
+>>
+endobj
+9 0 obj
+<<
+/Parent 1 0 R
+/Contents 33 0 R
+/Resources <<
+/ExtGState <<
+/GS0 24 0 R
+>>
+/Font <<
+/TT1 25 0 R
+/TT0 27 0 R
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+/TT2 29 0 R
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Type /Page
+>>
+endobj
+10 0 obj
+<<
+/Parent 1 0 R
+/Contents 34 0 R
+/Resources <<
+/ExtGState <<
+/GS0 24 0 R
+>>
+/Font <<
+/TT1 25 0 R
+/TT0 27 0 R
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+/TT2 29 0 R
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Type /Page
+>>
+endobj
+11 0 obj
+<<
+/Parent 1 0 R
+/Contents 35 0 R
+/Resources <<
+/ExtGState <<
+/GS0 24 0 R
+>>
+/Font <<
+/TT1 25 0 R
+/TT0 27 0 R
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+/TT2 29 0 R
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Type /Page
+>>
+endobj
+12 0 obj
+<<
+/Parent 1 0 R
+/Contents 36 0 R
+/Resources <<
+/ExtGState <<
+/GS0 24 0 R
+>>
+/Font <<
+/TT1 25 0 R
+/TT0 27 0 R
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+/TT2 29 0 R
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Type /Page
+>>
+endobj
+13 0 obj
+<<
+/Parent 1 0 R
+/Contents 37 0 R
+/Resources <<
+/ExtGState <<
+/GS0 24 0 R
+>>
+/Font <<
+/TT1 25 0 R
+/TT0 27 0 R
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Type /Page
+>>
+endobj
+14 0 obj
+<<
+/Parent 1 0 R
+/Contents 38 0 R
+/Resources <<
+/ColorSpace <<
+/CS0 17 0 R
+>>
+/Font <<
+/TT1 39 0 R
+/TT0 40 0 R
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0.0 0.0 612.12 792.12 ]
+/MediaBox [ 0.0 0.0 612.12 792.12 ]
+/Type /Page
+/StructParents 0
+>>
+endobj
+15 0 obj
+<<
+/Parent 1 0 R
+/Contents 42 0 R
+/Resources <<
+/ColorSpace <<
+/CS0 17 0 R
+>>
+/Font <<
+/TT1 43 0 R
+/TT0 44 0 R
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0.0 0.0 612.12 792.12 ]
+/MediaBox [ 0.0 0.0 612.12 792.12 ]
+/Type /Page
+/StructParents 1
+>>
+endobj
+16 0 obj
+<<
+/Length 23829
+>>
+stream
+q
+BT
+/Artifact <<
+/Type /Pagination
+/BBox [ 70.92 700.5359 544.2 757.704 ]
+/Attached [ /Top ]
+/Subtype /Header
+>> BDC
+/CS0 cs
+0.6 scn
+/TT0 1 Tf
+0.001 Tc
+-0.001 Tw
+12 0 0 12 73.2 745.62 Tm
+[ (P) 2 (oli) -1 (cy D) 4 (eci) 4 (s) 5 (i) -1 (on M) 2 (em) 9 (o) ] TJ
+0 Tc
+0 Tw
+9.22 0 Td
+(\227) Tj
+0.005 Tc
+-0.005 Tw
+[ (S) 6 (um) 8 (m) 13 (a) 4 (r) 3 (y ) ] TJ
+0 Tc
+0 Tw
+[ ( ) -11 ( ) ] TJ
+/TT1 1 Tf
+0.001 Tc
+-0.001 Tw
+-9.22 -1.15 Td
+[ (G) -1 (MO) -1 (s an) 3 (d) 2 ( ) 5 (t) -1 (h) 2 (e P) 2 (oli) 4 (t) -1 (i) -1 (cs ) 5 (of In) 2 (t) -1 (ern) 2 (at) 5 (i) 4 (on) 3 (al T) 3 (rad) 3 (e) ] TJ
+/TT0 1 Tf
+0 Tc
+0 Tw
+( ) Tj
+0.002 Tc
+-0.002 Tw
+24.475 0 Td
+[ (R) 4 (e) 1 (s) 1 (our) 4 (c) 1 (e) 1 ( P) 3 (o) 7 (lic) 1 (y a) 3 (nd A) 8 (d) 7 (m) 10 (ini) 2 (s) 1 (tra) 1 (tion) ] TJ
+0 Tc
+0 Tw
+14.525 0 Td
+( ) Tj
+-39.19 -1.15 Td
+( ) Tj
+0.19 -1.15 Td
+( ) Tj
+39 0 Td
+( ) Tj
+EMC
+/Artifact <<
+/Type /Pagination
+/BBox [ 70.92 34.5359 541.92 50.3041 ]
+/Attached [ /Bottom ]
+/Subtype /Footer
+>> BDC
+-39.19 -55.5 Td
+( ) Tj
+37.72 0 Td
+[ (1\057) -2 (1 ) ] TJ
+EMC
+/P <<
+/MCID 0
+>> BDC
+0 scn
+-37.72 54.35 Td
+[ (C) 2 (onc) -1 (e) -1 (r) -2 (ns) -1 ( ) ] TJ
+-0.005 Tc
+0.005 Tw
+4.07 0 Td
+[ (on) -5 ( ) ] TJ
+-0.002 Tc
+0.002 Tw
+1.285 0 Td
+[ (GM) -3 (O) ] TJ
+0 Tc
+0 Tw
+[ (s) -1 ( ) ] TJ
+0.04 Tw
+3.01 0 Td
+[ (i) -2 (n T) 1 (ha) -1 (i) -2 (l) -2 (a) -1 (nd ) ] TJ
+0.001 Tc
+-0.001 Tw
+4.915 0 Td
+[ (ar) -1 (e) ] TJ
+0 Tc
+0 Tw
+( ) Tj
+0.002 Tc
+-0.002 Tw
+1.51 0 Td
+[ (i) 5 (nt) 2 (ri) 5 (c) 1 (a) 1 (te) 6 (ly) ] TJ
+0 Tc
+0 Tw
+4.055 0 Td
+( ) Tj
+0.002 Tc
+0.038 Tw
+0.29 0 Td
+[ (t) 5 (ie) 6 (d ) 2 (to) ] TJ
+0 Tc
+0 Tw
+2.565 0 Td
+( ) Tj
+0.002 Tc
+0.038 Tw
+0.29 0 Td
+[ (int) 2 (e) 6 (rna) 3 (t) 5 (iona) 5 (l t) 5 (ra) 1 (de) ] TJ
+0 Tc
+0.04 Tw
+7.35 0 Td
+[ (\056 ) 5 ( O) 2 (n one) -1 ( s) -1 (i) -2 (de) -1 (\054 ) ] TJ
+-0.002 Tc
+0.042 Tw
+[ (i) -4 (f) 1 ( GM) -3 (Os) -8 ( ) ] TJ
+0.001 Tc
+0.249 Tw
+-29.34 -1.15 Td
+[ (ar) -1 (e a) 5 (l) -1 (l) -1 (ow) 4 (ed) 6 ( f) 4 (r) -1 (eel) -1 (y\054 ) ] TJ
+0 Tc
+0.25 Tw
+8.47 0 Td
+[ (T) 1 (h) 5 (a) -1 (i) -2 (l) -2 (a) -1 (nd) 5 ( c) -1 (oul) 3 (d g) ] TJ
+0 Tw
+[ (a) -1 (i) -2 (n ) ] TJ
+0.001 Tc
+-0.001 Tw
+8.995 0 Td
+[ (sub) 7 (s) 5 (t) -1 (ant) 5 (i) -1 (al) ] TJ
+0 Tc
+0 Tw
+4.275 0 Td
+( ) Tj
+0.002 Tc
+-0.002 Tw
+0.5 0 Td
+[ (b) 7 (e) 1 (ne) 8 (f) 5 (its) ] TJ
+0 Tc
+0.25 Tw
+3.16 0 Td
+[ (\054 f) 3 (r) -2 (om) ] TJ
+0 Tw
+2.685 0 Td
+( ) Tj
+0.001 Tc
+0.249 Tw
+0.5 0 Td
+[ (g) -4 (r) -1 (eat) 4 (er) -1 ( a) 5 (cces) 5 (s t) -1 (o ) 6 (t) -1 (he) 1 ( U) 8 (S) 2 ( ) ] TJ
+0.002 Tc
+0.093 Tw
+-28.585 -1.15 Td
+[ (a) 1 (gr) 2 (ic) 1 (u) 7 (ltu) 7 (ra) 1 (l m) 10 (a) 1 (rke) 3 (t) ] TJ
+0 Tc
+0 Tw
+( ) Tj
+0.001 Tc
+0.099 Tw
+8.085 0 Td
+[ (and ) 2 (spe) 1 (ci) -1 (a) 5 (l) -1 ( t) -1 (r) 4 (eat) 4 (m) 9 (ent o) -4 (f) 4 ( ) ] TJ
+0 Tc
+0.095 Tw
+10.235 0 Td
+[ (m) 8 (a) -6 (nuf) 3 (a) -1 (c) -1 (t) -2 (ur) -2 (i) -2 (ng i) -2 (ndus) -1 (t) -2 (r) 3 (i) -2 (e) ] TJ
+0 Tw
+9.685 0 Td
+(s) Tj
+0.095 Tw
+0.39 0 Td
+[ (\054 t) 3 (hr) -2 (ough ) -5 (t) -2 (he) -1 ( U) 2 (S) ] TJ
+0 Tw
+6.9 0 Td
+(\055) Tj
+0.001 Tc
+-0.001 Tw
+0.335 0 Td
+[ (T) 2 (ha) 1 (i) -1 (l) -1 (an) 6 (d) -4 ( ) ] TJ
+-0.001 Tc
+0.001 Tw
+-35.63 -1.15 Td
+(FTA) Tj
+0 Tc
+0.325 Tw
+1.885 0 Td
+[ (\056  ) -5 (O) 2 (n ) -5 (t) -2 (he) -1 ( ot) -2 (he) 4 (r) -2 ( s) -1 (i) 3 (de) -1 (\054 s) -1 (uc) -1 (h be) -1 (ne) -1 (f) 3 (i) -2 (t) -2 (s) -1 ( c) -1 (oul) 3 (d po) ] TJ
+0.001 Tc
+-0.001 Tw
+[ (ssi) -1 (bly) ] TJ
+0 Tc
+0 Tw
+22.36 0 Td
+( ) Tj
+0.325 Tw
+0.57 0 Td
+[ (be) -1 ( of) 3 (f) 3 (s) -1 (e) -1 (t) -2 ( b) -5 (y huge) -1 ( e) -1 (c) -1 (ono) -5 (m) 8 (i) -2 (c) -1 ( a) -1 (nd) 5 ( ) ] TJ
+0.035 Tw
+-24.815 -1.15 Td
+[ (e) -1 (nvi) -2 (r) -2 (onm) 8 (e) -1 (nt) -2 (a) -1 (l) -2 ( c) -1 (o) 5 (s) -1 (t) ] TJ
+-0.004 Tc
+0.004 Tw
+7.675 0 Td
+(s ) Tj
+0.001 Tc
+0.034 Tw
+0.67 0 Td
+[ (asso) 6 (ci) -1 (at) 4 (ed ) 1 (w) 3 (i) 4 (t) -1 (h ) 1 (t) 4 (he) 1 ( com) 5 (m) 9 (er) -1 (ci) -1 (al) 4 (i) -1 (zat) 4 (i) -1 (on ) ] TJ
+-0.002 Tc
+0.037 Tw
+15.685 0 Td
+[ (of) 4 ( GM) -3 (Os) ] TJ
+0 Tc
+0.035 Tw
+3.83 0 Td
+[ (\056  T) 1 (h) 5 (e) -1 ( a) -1 (dopt) 3 (i) -2 (on o) 5 (f) 3 ( G) 2 (M) -1 (O) 2 (s) -1 ( ) 5 (i) -2 (n ) ] TJ
+0 Tw
+-27.86 -1.15 Td
+[ (T) 1 (ha) -1 (i) -2 (l) -2 (a) -1 (nd ) ] TJ
+0.18 Tw
+3.99 0 Td
+[ (w) 7 (oul) -2 (d not) -2 ( on) 5 (l) -2 (y a) -1 (f) 3 (f) 3 (e) -1 (c) -1 (t) -2 ( i) -2 (nt) 3 (e) -1 (r) -2 (na) -1 (t) 3 (i) -2 (ona) -1 (l) -2 ( ) ] TJ
+0.001 Tc
+-0.001 Tw
+15.03 0 Td
+[ (m) 9 (ar) -1 (ke) 1 (t) -1 (a) ] TJ
+0 Tc
+0.18 Tw
+[ (bi) -2 (l) -2 (i) 3 (t) 3 (y of) 3 ( or) -2 (ga) -1 (ni) -2 (c) -1 ( pr) -2 (oduc) -1 (e) -1 ( i) 3 (n t) -2 (he) -1 ( E) 1 (U) 2 ( a) -1 (nd) 5 ( ) ] TJ
+0.001 Tc
+-0.001 Tw
+-19.02 -1.15 Td
+[ (Japa) 1 (n\054 but) 3 ( p) 6 (os) 1 (e r) -1 (i) -1 (sk) 6 (s ) ] TJ
+0 Tc
+-0.005 Tw
+[ (t) -2 (o publ) -2 (i) -2 (c) -1 ( he) -1 (a) -1 (l) -2 (t) 3 (h ) ] TJ
+0 Tw
+15 0 Td
+[ (a) -1 (nd ) ] TJ
+0.001 Tc
+-0.001 Tw
+[ (ser) -1 (i) -1 (ou) 7 (s t) -1 (hrea) 5 (t) -1 (s ) 5 (t) -1 (o d) 7 (o) -4 (m) 9 (est) -1 (i) -1 (c ) ] TJ
+0.002 Tc
+-0.002 Tw
+[ (bi) 2 (o) 7 (di) 2 (ve) 3 (rs) 6 (ity) ] TJ
+0 Tc
+0 Tw
+17.365 0 Td
+[ (\056) 5 ( ) ] TJ
+-32.365 -1.15 Td
+( ) Tj
+0.13 Tw
+0 -1.15 TD
+[ (E) 1 (ve) -1 (n t) -2 (houg) 5 (h t) -2 (he) -1 ( a) -1 (dop) 5 (t) -2 (i) 3 (on of) 3 ( G) 2 (M) -1 (O) -3 (s) -1 ( ) ] TJ
+0.001 Tc
+-0.001 Tw
+(seem) Tj
+0.124 Tw
+17.435 0 Td
+[ (s ) -5 (t) -1 (ec) 5 (hni) 1 (cal) 4 (l) -1 (y ) 1 (j) -1 (us) 1 (t) 4 (i) -1 (f) 4 (i) -1 (ed) ] TJ
+0 Tc
+0 Tw
+8.815 0 Td
+( ) Tj
+0.002 Tc
+0.128 Tw
+0.38 0 Td
+[ (in) 7 ( te) 6 (r) 5 (m) 10 (s) 1 ( o) -3 (f) 5 ( ove) 5 (ra) 1 (ll) ] TJ
+0 Tc
+0.125 Tw
+[ (\054 l) -2 (ong) ] TJ
+0 Tw
+(\055) Tj
+-0.003 Tc
+0.003 Tw
+10.485 0 Td
+[ (te) -4 (rm\054) ] TJ
+0 Tc
+0 Tw
+2.075 0 Td
+( ) Tj
+0.32 Tw
+-39.19 -1.15 Td
+[ (e) -1 (c) -1 (onom) 8 (i) -2 (c) -1 ( g) -5 (r) -2 (ow) 2 (t) -2 (h) ] TJ
+0 Tw
+(\054 ) Tj
+0.002 Tc
+-0.002 Tw
+8.115 0 Td
+[ (it ) -320 (is) ] TJ
+0 Tc
+0 Tw
+1.795 0 Td
+( ) Tj
+0.001 Tc
+0.319 Tw
+0.57 0 Td
+[ (not) 1 ( f) 4 (easi) -1 (bl) 5 (e o) ] TJ
+0 Tc
+0 Tw
+6.03 0 Td
+[ (w) 2 (i) -2 (ng ) ] TJ
+0.32 Tw
+2.57 0 Td
+[ (t) -2 (o huge) -1 (\054 i) -7 (m) 3 (m) 8 (e) -1 (di) -2 (a) -1 (t) -2 (e) -1 (\054 ) ] TJ
+0.001 Tc
+0.319 Tw
+[ (pol) 1 (i) -1 (t) 4 (i) -1 (ca) 5 (l) -1 ( cos) 1 (t) -1 (s) 5 ( as w) 3 (el) -1 (l) -1 ( as) 5 ( ) ] TJ
+0.002 Tc
+-0.002 Tw
+-19.08 -1.15 Td
+[ (pr) 2 (obl) 4 (e) 1 (m) 10 (a) 1 (tic) ] TJ
+0 Tc
+0 Tw
+4.775 0 Td
+( ) Tj
+0.001 Tc
+0.299 Tw
+0.55 0 Td
+[ (ad) -4 (m) 9 (i) -1 (nist) -1 (r) 4 (at) 4 (i) -1 (ve) 1 ( st) -1 (r) -1 (u) 6 (ct) -1 (u) 6 (r) 4 (es) ] TJ
+0 Tc
+0 Tw
+( ) Tj
+0.001 Tc
+0.299 Tw
+10.71 0 Td
+[ (t) -1 (o ) 1 (sei) -1 (z) 5 (e) 5 ( suc) 1 (h ) 1 (be) 1 (ne) 1 (f) 4 (i) -1 (t) -1 (s) ] TJ
+0 Tc
+0.3 Tw
+[ (\056  B) 2 (a) -1 (s) -1 (e) -1 (d on ) ] TJ
+0 Tw
+[ (t) -2 (he) -1 ( ) -300 (c) -1 (om) 3 (pr) -2 (e) -1 (he) -1 (ns) -1 (i) -2 (ve) 4 ( ) ] TJ
+0.001 Tc
+-0.001 Tw
+-16.035 -1.15 Td
+[ (ana) 1 (l) -1 (ys) 6 (i) -1 (s\054) ] TJ
+0 Tc
+0 Tw
+3.475 0 Td
+( ) Tj
+0.001 Tc
+-0.001 Tw
+[ (t) -1 (he) 6 ( com) 5 (m) 4 (er) -1 (ci) -1 (al) 4 (i) -1 (zat) 4 (i) -1 (on of) 7 ( G) 3 (MO) 3 (s shoul) 2 (d) 6 ( ) ] TJ
+/TT1 1 Tf
+-0.002 Tc
+0.002 Tw
+[ (NO) -4 (T) ] TJ
+/TT0 1 Tf
+0 Tc
+0 Tw
+[ ( be) -1 ( ) ] TJ
+0.002 Tc
+-0.002 Tw
+[ (pe) 3 (rm) 10 (itte) 1 (d) ] TJ
+0 Tc
+0 Tw
+23.825 0 Td
+( ) Tj
+0.002 Tc
+-0.002 Tw
+[ (in T) 10 (ha) 3 (ila) 1 (nd ) 9 (a) 1 (t th) 7 (is) 1 ( poi) 4 (nt) 2 (\056) ] TJ
+0 Tc
+0 Tw
+10.055 0 Td
+( ) Tj
+-37.355 -1.15 Td
+( ) Tj
+/TT1 1 Tf
+T*
+(T) Tj
+-0.001 Tc
+0.001 Tw
+9.48 0 0 9.48 78.9 511.02 Tm
+[ (E) 1 (CH) -8 (NI) -4 (C) -1 (A) -7 (L) -5 (L) 1 (Y) ] TJ
+/TT0 1 Tf
+0 Tc
+0 Tw
+12 0 0 12 143.28 511.02 Tm
+(\054 ) Tj
+0.002 Tc
+0.143 Tw
+0.645 0 Td
+[ (it is) 1 ( un) 9 (c) 1 (e) 1 (rt) 5 (a) 1 (in ) 2 (th) 7 (a) 1 (t ) ] TJ
+0 Tc
+0.145 Tw
+8.025 0 Td
+[ (t) -2 (he) -1 ( a) -1 (dopt) 3 (i) -2 (on) 5 ( of) 3 ( G) 2 (M) -1 (O) 2 (s) -1 ( ) ] TJ
+0.001 Tc
+0.144 Tw
+9.855 0 Td
+[ (via t) -1 (he) 1 ( b) 6 (i) -1 (l) 4 (at) 4 (er) -1 (al) -1 ( p) 6 (act) -1 ( ) ] TJ
+0 Tc
+0.145 Tw
+[ (w) 7 (oul) -2 (d be) -1 (ne) -1 (f) 3 (i) -2 (t) 3 ( ) ] TJ
+0 Tw
+-24.555 -1.145 Td
+[ (ove) -1 (r) -2 (a) -1 (l) 3 (l) -2 ( ) ] TJ
+0.405 Tw
+3.435 0 Td
+[ (T) 1 (ha) 4 (i) -2 ( e) -1 (c) -1 (onom) 8 (y) -5 ( ) ] TJ
+-0.008 Tc
+0.008 Tw
+[ (f) -5 (r) -10 (o) -13 (m ) ] TJ
+0 Tc
+0 Tw
+9.4 0 Td
+[ (e) -1 (xp) -5 (or) -2 (t) -2 (\056) ] TJ
+0.405 Tw
+(  ) Tj
+0.002 Tc
+-0.002 Tw
+[ (S) 3 (til) 5 (l) ] TJ
+-0.005 Tc
+0.005 Tw
+(\054 ) Tj
+0 Tc
+0 Tw
+6.695 0 Td
+[ (hi) -2 (dde) -1 (n ) ] TJ
+0.001 Tc
+0.404 Tw
+3.38 0 Td
+[ (cos) 1 (t) -1 (s assoc) 6 (i) -1 (at) 4 (ed ) 1 (w) 3 (i) -1 (t) -1 (h ) 1 (t) -1 (h) 6 (e ) ] TJ
+0 Tc
+0.405 Tw
+[ (he) -1 (a) -1 (l) -2 (t) -2 (h a) 4 (nd ) ] TJ
+0 Tw
+-22.91 -1.15 Td
+[ (e) -1 (nvi) -2 (r) -2 (onm) 8 (e) -1 (nt) -2 ( ) ] TJ
+0.001 Tc
+-0.001 Tw
+5.335 0 Td
+[ (r) -1 (i) -1 (sk) 6 (s ) ] TJ
+-0.003 Tc
+0.003 Tw
+2.17 0 Td
+[ (a) -4 (re) ] TJ
+0 Tc
+0 Tw
+1.22 0 Td
+( ) Tj
+0.03 Tw
+0.28 0 Td
+[ (ha) 4 (r) -2 (d t) -2 (o ) ] TJ
+0 Tw
+3.11 0 Td
+[ (qua) -1 (nt) 3 (i) -2 (f) 3 (y ) ] TJ
+0.03 Tw
+3.61 0 Td
+[ (a) -1 (nd obs) -1 (e) 4 (r) 3 (ve) -1 (\056  A) 2 (ddi) -2 (t) 3 (i) -2 (o) 5 (na) -1 (l) -2 (l) -2 (y\054 f) 3 (or) ] TJ
+0 Tw
+12.385 0 Td
+[ ( ) -30 (a) -1 ( ) ] TJ
+0.001 Tc
+0.029 Tw
+1 0 Td
+[ (j) 4 (us) 1 (t) -1 (i) -1 (c) 5 (e pe) 1 (r) 4 (sp) 6 (ect) -1 (i) -1 (v) 6 (e\054) ] TJ
+0 Tc
+0 Tw
+7.69 0 Td
+( ) Tj
+0.001 Tc
+-0.001 Tw
+0.28 0 Td
+[ (t) -1 (ho) 7 (se ) ] TJ
+0 Tc
+0 Tw
+-37.08 -1.15 Td
+[ (e) -1 (c) -1 (onom) 8 (i) -2 (c) -1 ( ) -140 (b) ] TJ
+0.001 Tc
+0.139 Tw
+[ (ene) 1 (f) 4 (i) -1 (t) -1 (s a) 5 (r) -1 (e r) 4 (est) -1 (r) 4 (i) -1 (ct) 4 (ed ) 1 (t) -1 (o ) 6 (t) -1 (he) 1 ( \047) 6 (be) 1 (t) -1 (t) -1 (er) ] TJ
+0 Tc
+0 Tw
+18.79 0 Td
+(\055) Tj
+-0.005 Tc
+0.145 Tw
+0.335 0 Td
+[ (of) -2 (f) -2 (s) -11 (\047 i) -7 (n ) ] TJ
+-0.001 Tc
+0.001 Tw
+3.285 0 Td
+[ (Tha) -3 (i) ] TJ
+0 Tc
+0 Tw
+1.835 0 Td
+( ) Tj
+0.135 Tw
+0.39 0 Td
+[ (s) -1 (oc) -1 (i) -2 (e) 4 (t) -2 (y\054 ) -5 (i) -2 (\056e) -1 (\056 l) -2 (a) -1 (r) -2 (ge) -1 ( ) ] TJ
+0.001 Tc
+-0.001 Tw
+7.48 0 Td
+[ (bu) 7 (si) -1 (ne) 6 (sse) ] TJ
+0 Tc
+0 Tw
+(s) Tj
+-0.002 Tc
+0.142 Tw
+4.22 0 Td
+[ (\054 ) -2 (wh) ] TJ
+-0.003 Tc
+0.003 Tw
+1.86 0 Td
+[ (i) -5 (le) ] TJ
+0 Tc
+0 Tw
+0.995 0 Td
+( ) Tj
+-0.005 Tw
+-39.19 -1.15 Td
+[ (he) -1 (a) -1 (l) -2 (t) -2 (h a) -1 (nd e) -1 (nvi) -2 (r) -2 (onm) 8 (e) -1 (nt) -2 (a) -1 (l) -2 ( ) ] TJ
+0.001 Tc
+-0.001 Tw
+10.415 0 Td
+[ (cos) 1 (t) -1 (s ) 5 (ar) -1 (e d) 6 (i) 4 (st) -1 (r) -1 (i) -1 (bu) 7 (t) -1 (ed a) 1 (m) 9 (ong ) ] TJ
+0 Tc
+-0.005 Tw
+11.215 0 Td
+[ (ot) -2 (he) -1 (r) -2 (s) -1 (\054 t) 3 (he) -1 ( m) 3 (a) -1 (j) -2 (or) -2 (i) -2 (t) -2 (y of) 3 ( pe) -6 (opl) -2 (e) ] TJ
+0 Tw
+11.8 0 Td
+(\056 ) Tj
+/TT1 1 Tf
+-33.43 -1.16 Td
+( ) Tj
+0 -1.14 TD
+(P) Tj
+-0.003 Tc
+0.003 Tw
+9.48 0 0 9.48 78.24 428.28 Tm
+[ (O) -3 (L) -7 (IT) -7 (IC) -3 (A) -9 (L) ] TJ
+0.004 Tc
+-0.004 Tw
+5.013 0 Td
+(LY) Tj
+/TT0 1 Tf
+0 Tc
+0 Tw
+12 0 0 12 138.96 428.28 Tm
+(\054) Tj
+/TT1 1 Tf
+9.48 0 0 9.48 141.96 428.28 Tm
+( ) Tj
+/TT0 1 Tf
+12 0 0 12 144.84 428.28 Tm
+[ (t) -2 (he) -1 ( ) -40 (pol) -2 (i) 3 (c) -1 (y) 5 ( ) ] TJ
+0.001 Tc
+-0.001 Tw
+4.3 0 Td
+[ (appe) 2 (ar) -1 (s) ] TJ
+0 Tc
+0 Tw
+( ) Tj
+0.001 Tc
+0.039 Tw
+3.35 0 Td
+[ (unf) 6 (easi) -1 (b) 6 (l) -1 (e t) ] TJ
+0 Tc
+0 Tw
+4.68 0 Td
+[ (hr) -2 (o) 5 (ugh ) ] TJ
+0.001 Tc
+0.039 Tw
+3.125 0 Td
+[ (m) 9 (acr) -1 (o\054 ) 2 (el) -1 (ec) 5 (t) -1 (ora) 5 (l) -1 ( an) ] TJ
+0 Tc
+0.04 Tw
+7.71 0 Td
+[ (d a) -1 (c) -1 (t) -2 (i) -2 (on c) -1 (h) 5 (a) 4 (nne) -1 (l) ] TJ
+0 Tw
+6.635 0 Td
+( ) Tj
+-0.003 Tc
+0.003 Tw
+0.29 0 Td
+[ (pol) -11 (it) -5 (ic) -4 (s) ] TJ
+0 Tc
+0 Tw
+2.94 0 Td
+( ) Tj
+-39.19 -1.15 Td
+[ (l) -2 (e) -1 (ns) ] TJ
+0.01 Tw
+1.615 0 Td
+(\056  ) Tj
+0 Tw
+0.765 0 Td
+(M) Tj
+0.001 Tc
+-0.001 Tw
+0.89 0 Td
+[ (acr) -1 (o) ] TJ
+0 Tc
+0 Tw
+1.72 0 Td
+(\055) Tj
+0.002 Tc
+-0.002 Tw
+0.335 0 Td
+[ (pol) 4 (i) 5 (tic) 6 (s) ] TJ
+0 Tc
+0 Tw
+2.945 0 Td
+( ) Tj
+0.01 Tw
+0.26 0 Td
+[ (of) 3 ( t) 3 (he) -1 ( de) -1 (c) -1 (i) 3 (s) -1 (i) -2 (on ) 5 (c) -1 (a) -1 (n be) -1 ( s) 4 (i) -2 (m) 8 (pl) -2 (i) -2 (f) 3 (i) -2 (e) -1 (d i) -2 (n) 5 (t) -2 (o ) ] TJ
+0.002 Tc
+0.008 Tw
+[ (a) 1 ( p) 7 (ol) 2 (it) 5 (ic) 1 (a) 6 (l a) 6 (re) 1 (n) 7 (a) 1 ( ) ] TJ
+0 Tc
+0.01 Tw
+[ (i) -2 (n w) 2 (hi) -2 (c) -1 (h) ] TJ
+0 Tw
+25.28 0 Td
+( ) Tj
+-0.003 Tc
+0.013 Tw
+0.26 0 Td
+[ (the) -7 ( U) -1 (S) ] TJ
+0 Tc
+0 Tw
+2.755 0 Td
+( ) Tj
+-0.005 Tc
+0.005 Tw
+0.26 0 Td
+[ (pl) -12 (a) -6 (ys) -1 ( ) ] TJ
+0.001 Tc
+0.169 Tw
+-37.085 -1.15 Td
+[ (a m) 9 (aj) -1 (or r) -1 (ole aga) 1 (i) -1 (ns) 6 (t) ] TJ
+0 Tc
+0 Tw
+8.43 0 Td
+( ) Tj
+0.001 Tc
+0.169 Tw
+0.42 0 Td
+[ (do) 7 (m) 9 (est) -1 (i) -1 (c N) 3 (G) -2 (O) 3 (s) ] TJ
+0 Tc
+0 Tw
+(\056) Tj
+0.17 Tw
+(  ) Tj
+0.001 Tc
+0.169 Tw
+[ (A) 3 (t) -1 ( a f) 4 (i) -6 (r) -1 (st) -1 ( gl) 5 (anc) 1 (e\054 ) ] TJ
+-0.003 Tc
+0.173 Tw
+15.275 0 Td
+[ (the) -7 ( U) -1 (S) ] TJ
+0 Tc
+0.17 Tw
+2.915 0 Td
+[ (\054 a) -1 ( ) ] TJ
+0.002 Tc
+0.168 Tw
+[ (p) -3 (ol) 2 (it) 5 (ic) 1 (a) 6 (lly ) 2 (a) 1 (n) 7 (d ) 2 (f) 5 (ina) 3 (nc) 3 (ia) 1 (l) 5 (l) 5 (y) 7 ( ) ] TJ
+0 Tc
+0.005 Tw
+-27.04 -1.15 Td
+[ (pow) 2 (e) -1 (r) -2 (f) 3 (ul) -2 ( s) -1 (t) -2 (a) 4 (ke) -1 (hol) -2 (de) -1 (r) -2 ( ) ] TJ
+0.002 Tc
+0.003 Tw
+[ (in ) 2 (t) 5 (he) 3 ( int) 2 (e) 1 (rn) 7 (a) 1 (tio) 7 (na) 3 (l re) 1 (a) 6 (lm) 10 (\054 ) ] TJ
+0.001 Tc
+-0.001 Tw
+19.335 0 Td
+[ (se) -5 (em) 9 (s) -5 ( ) ] TJ
+0 Tc
+0 Tw
+2.705 0 Td
+[ (do) -5 (m) 8 (i) -2 (na) -1 (nt) -2 ( ) ] TJ
+0.005 Tw
+4.035 0 Td
+[ (t) -2 (o T) 1 (ha) -1 (i) -2 (l) -2 (a) 4 (nd i) -2 (n de) -1 (c) -1 (i) -2 (di) 3 (ng i) -2 (t) -2 (s) -1 ( ) ] TJ
+-0.002 Tc
+0.002 Tw
+[ (GM) -3 (O) ] TJ
+0 Tc
+0 Tw
+( ) Tj
+-26.075 -1.15 Td
+[ (pol) -2 (i) -2 (c) -1 (y) ] TJ
+-0.005 Tc
+0.18 Tw
+(\056  ) Tj
+-0.002 Tc
+0.002 Tw
+[ (Ho) 3 (we) -3 (ve) -5 (r) -4 (\054 ) ] TJ
+-0.004 Tc
+0.004 Tw
+7.935 0 Td
+[ (si) -6 (nc) -4 (e) ] TJ
+0 Tc
+0 Tw
+2.05 0 Td
+( ) Tj
+0.001 Tc
+0.174 Tw
+0.425 0 Td
+[ (t) -1 (he) 6 ( ne) 1 (a) 5 (r) -1 (n) 6 (ess of) 5 ( ) ] TJ
+-0.005 Tc
+0.005 Tw
+[ (t) -7 (he) -6 ( ) ] TJ
+0.001 Tc
+-0.001 Tw
+8.41 0 Td
+[ (e) 5 (l) -1 (ect) 4 (i) -1 (on) ] TJ
+0 Tc
+0 Tw
+3.165 0 Td
+( ) Tj
+0.175 Tw
+0.425 0 Td
+[ (a) -1 (nd) 5 ( ) 5 (t) -2 (he) -1 ( pub) 5 (l) -2 (i) -2 (c) 4 ( s) 4 (e) -1 (ns) -1 (i) -2 (t) 3 (i) -2 (vi) 3 (t) -2 (y ) ] TJ
+-0.002 Tc
+0.177 Tw
+10.96 0 Td
+[ (t) -4 (o) 3 ( GM) -3 (Os) ] TJ
+0 Tc
+0 Tw
+3.92 0 Td
+[ (\054 ) -175 (t) -2 (he) -1 ( ) ] TJ
+-37.29 -1.15 Td
+[ (i) -2 (nf) 3 (l) -2 (ue) -1 (nc) -1 (e) -1 ( ) ] TJ
+-0.003 Tc
+0.003 Tw
+4.12 0 Td
+[ (of) -3 ( ) ] TJ
+0 Tc
+0 Tw
+1.225 0 Td
+[ (t) -2 (he) -1 ( ) ] TJ
+0.001 Tc
+0.144 Tw
+1.62 0 Td
+[ (dom) 11 (est) -1 (i) -1 (c ac) 5 (t) -1 (ors) ] TJ
+0 Tc
+0 Tw
+( ) Tj
+0.145 Tw
+6.79 0 Td
+[ (s) -1 (h) 5 (oul) -2 (d not) -2 ( be) 4 ( ove) -1 (r) -2 (l) -2 (ooke) -1 (d) ] TJ
+0 Tw
+10.57 0 Td
+[ ( ) -145 (a) -1 (nd ) ] TJ
+0.145 Tw
+2.235 0 Td
+[ (c) -1 (oul) -2 (d ) 5 (unbe) -1 (l) -2 (i) -2 (e) -1 (v) 5 (a) -1 (bl) 3 (y ha) -1 (r) -2 (m) 8 ( P) 1 (M) -6 (\047) 5 (s) 4 ( ) ] TJ
+0.002 Tc
+0.183 Tw
+-26.56 -1.15 Td
+[ (pol) 4 (it) 5 (ic) 1 (a) 6 (l c) ] TJ
+0.001 Tc
+0.179 Tw
+4.16 0 Td
+[ (a) 5 (r) 4 (eer) -1 (\056 ) 1 ( ) ] TJ
+0.184 Tw
+3.11 0 Td
+[ (I) -1 (n ) 6 (t) -1 (his) 5 ( case\054) 6 ( t) -1 (he) 6 ( c) 5 (o) -4 (m) 9 (i) -1 (ng ) 2 (el) -1 (ec) 5 (t) 4 (i) -1 (on ) 2 (se) 5 (r) -1 (ve) 1 (s ) 5 (a) 5 (s a co) 6 (l) -1 (l) -1 (e) 5 (ct) 4 (i) 4 (ve) 1 ( ac) 5 (t) -1 (i) -1 (on ) 7 (ar) 4 (ena) 1 ( f) 4 (or t) -1 (h) 6 (e ) ] TJ
+0 Tc
+0.07 Tw
+-7.27 -1.15 Td
+[ (f) 3 (r) -2 (a) -1 (g) -5 (m) 8 (e) -1 (nt) -2 (e) -1 (d ) 5 (but) -2 ( l) -2 (a) 4 (r) -2 (ge) -1 ( ge) 4 (ne) -1 (r) -2 (a) -1 (l) -2 ( ) 5 (publ) -2 (i) 3 (c) 4 ( t) -2 (o be) -1 (c) -1 (om) 8 (e) -1 ( vi) -2 (s) -1 (i) -2 (bl) 3 (e) -1 ( a) -1 (nd ) 5 (i) 3 (nf) 3 (l) -2 (ue) -1 (nt) -2 (i) -2 (a) 4 (l) -2 ( i) -2 (n) 5 ( t) -2 (he) -1 ( i) 3 (s) -1 (s) -1 (ue) -1 (\056  ) 5 (N) 2 (G) 2 (O) 2 (s) ] TJ
+0 Tw
+36.645 0 Td
+[ ( ) -70 (c) -1 (oul) -2 (d ) ] TJ
+0.001 Tc
+-0.001 Tw
+-36.645 -1.15 Td
+[ (m) 9 (ake) 1 ( ) -60 (us) 1 (e ) ] TJ
+0.002 Tc
+-0.002 Tw
+4.115 0 Td
+[ (o) -3 (f ) ] TJ
+0 Tc
+0.06 Tw
+1.15 0 Td
+[ (t) -2 (he) -1 ( m) 8 (e) -1 (di) -2 (a) -1 ( t) -2 (o ) ] TJ
+0.001 Tc
+-0.001 Tw
+[ (easi) -1 (l) -1 (y ) ] TJ
+0 Tc
+0.06 Tw
+8.025 0 Td
+[ (m) 8 (o) -5 (bi) -2 (l) -2 (i) 3 (z) -1 (e) -1 ( t) -2 (he) -1 ( ge) 4 (ne) -1 (r) -2 (a) -1 (l) -2 ( publ) 3 (i) -2 (c) 4 ( t) -2 (o boyc) -1 (ot) -2 (t) -2 ( ) ] TJ
+-0.003 Tc
+0.003 Tw
+(the) Tj
+0 Tc
+0 Tw
+17.03 0 Td
+( ) Tj
+0.001 Tc
+0.059 Tw
+0.31 0 Td
+[ (pol) 1 (i) -1 (cy ) 1 (an) 6 (d ) 1 (espe) 1 (ci) -1 (a) 5 (l) -1 (l) 4 (y) 6 ( ) ] TJ
+0 Tc
+0.145 Tw
+-30.63 -1.15 Td
+[ (j) -2 (oi) -2 (ni) -2 (ng t) -2 (he) -1 ( oppos) -1 (i) -2 (t) -2 (i) -2 (o) 5 (n ) -5 (pa) -1 (r) -2 (t) -2 (y t) -2 (o ) -5 (m) 8 (a) -6 (ke) -1 ( ) ] TJ
+0.15 Tw
+15.68 0 Td
+[ (t) -2 (he) -1 ( e) -1 (s) 4 (t) -2 (a) -1 (b) 5 (l) -2 (i) -2 (s) -1 (hm) 8 (e) -1 (nt) -2 ( of) 3 ( one) ] TJ
+0 Tw
+10.195 0 Td
+(\055) Tj
+0.15 Tw
+0.335 0 Td
+[ (pa) -1 (r) 3 (t) -2 (y g) 5 (ove) -1 (r) -2 (nm) 8 (e) -1 (nt) -2 ( a) -1 (nd e) -1 (ve) -1 (n t) -2 (h) 5 (e) -1 ( ) ] TJ
+0.19 Tw
+-26.21 -1.15 Td
+[ (c) -1 (ha) -1 (nc) -1 (e) -1 ( of) 3 ( r) -2 (e) -1 (e) -1 (l) -2 (e) -1 (c) 4 (t) -2 (i) -2 (on un) 5 (l) -2 (i) -2 (ke) 4 (l) -2 (y\056  T) 1 (he) -1 ( r) -2 (ol) -2 (e) -1 ( of) 3 ( pr) -2 (o) ] TJ
+0 Tw
+(\055) Tj
+0.001 Tc
+0.189 Tw
+20.22 0 Td
+[ (G) 3 (MO) 3 ( act) -1 (or) 5 (s\054 ) 1 (us) 1 (ua) 1 (l) -1 (l) -1 (y ) 1 (l) 4 (ar) -1 (ge) 1 ( bus) 2 (i) -1 (n) 6 (e) 5 (sses\054 ) 1 (i) -1 (n ) ] TJ
+-0.005 Tc
+0.005 Tw
+17.755 0 Td
+[ (t) -7 (he) -1 ( ) ] TJ
+0.002 Tc
+0.063 Tw
+-37.975 -1.15 Td
+[ (na) 3 (tiona) 10 (l pol) 9 (i) 5 (tic) 1 (a) 6 (l ) ] TJ
+0 Tc
+0.065 Tw
+[ (a) -1 (r) 3 (e) -1 (na) -1 (\054 ) 5 (on t) -2 (he) -1 ( ot) -2 (he) 4 (r) 3 ( ha) -1 (nd\054 ) ] TJ
+0 Tw
+[ (c) -1 (ou) ] TJ
+0.002 Tc
+0.063 Tw
+[ (ld) 7 ( not) 4 ( be) 3 ( vi) 2 (s) 6 (ib) 7 (le) ] TJ
+0 Tc
+0.065 Tw
+25.64 0 Td
+[ (\054 i) -2 (n a) -1 (f) 3 (r) -2 (a) 4 (i) -2 (d ) 5 (of) 3 ( ) ] TJ
+0.002 Tc
+0.063 Tw
+[ (the) 3 (ir im) 10 (a) 1 (ge) ] TJ
+0.001 Tc
+0.064 Tw
+10.04 0 Td
+[ (s r) -1 (uin) 6 (ed) ] TJ
+0 Tc
+0 Tw
+3.26 0 Td
+(\056  ) Tj
+0.36 Tw
+-38.94 -1.15 Td
+[ (M) -1 (or) -2 (e) -1 (ove) -1 (r) -2 (\054) 5 ( p) ] TJ
+0.002 Tc
+0.363 Tw
+[ (ut) 2 (ting) 9 ( f) 5 (or) 2 (w) 4 (a) 1 (rd ) ] TJ
+0 Tc
+0.36 Tw
+12.035 0 Td
+[ (t) -2 (he) -1 ( a) 4 (dopt) -2 (i) -2 (on ) -5 (of) 3 ( G) 2 (M) -1 (O) 2 (s) -1 ( ) ] TJ
+0.002 Tc
+-0.002 Tw
+10.725 0 Td
+(th) Tj
+0 Tc
+0 Tw
+0.78 0 Td
+[ (r) -2 (o) 5 (ugh ) ] TJ
+-0.001 Tc
+0.001 Tw
+2.945 0 Td
+[ (FTA) 1 ( ) ] TJ
+0 Tc
+0.365 Tw
+2.5 0 Td
+[ (i) -2 (s) -1 ( qui) -2 (t) 3 (e) -1 ( di) -2 (f) 3 (f) 3 (i) -2 (c) -1 (ul) 3 (t) -2 (\054 gi) -2 (ve) -1 (n) 5 ( ) ] TJ
+0 Tw
+-28.985 -1.15 Td
+[ (i) -2 (ns) -1 (uf) 3 (f) 3 (i) -2 (c) -1 (i) -2 (e) -1 (nt) -2 ( ) ] TJ
+-0.005 Tw
+4.805 0 Td
+[ (s) -1 (uppor) -2 (t) -2 ( i) -7 (n t) -2 (h) 5 (e) -1 ( ) ] TJ
+0.001 Tc
+-0.001 Tw
+5.75 0 Td
+[ (N) 3 (at) -1 (i) -1 (ona) 7 (l) -1 ( A) 3 (ssem) 9 (bly) ] TJ
+0 Tc
+0 Tw
+7.69 0 Td
+[ (\054 i) -2 (n pa) -1 (r) -2 (t) 3 (i) -2 (c) -1 (ul) -2 (a) 4 (r) -2 (\054 i) -2 (n) 5 ( t) -2 (he) -1 ( uppe) -1 (r) -2 ( h) 5 (ous) -1 (e) -1 (\056 ) ] TJ
+-18.245 -1.15 Td
+( ) Tj
+/TT1 1 Tf
+0 -1.15 TD
+(A) Tj
+-0.003 Tc
+0.003 Tw
+9.48 0 0 9.48 79.56 221.28 Tm
+[ (D) -2 (M) -8 (IN) -9 (IS) -4 (T) -7 (R) -9 (A) -2 (T) -7 (IV) -3 (E) -7 (LY) ] TJ
+/TT0 1 Tf
+0 Tc
+0 Tw
+12 0 0 12 171.36 221.28 Tm
+(\054) Tj
+/TT1 1 Tf
+9.48 0 0 9.48 174.36 221.28 Tm
+( ) Tj
+/TT0 1 Tf
+0.001 Tc
+-0.001 Tw
+12 0 0 12 179.28 221.28 Tm
+[ (t) -1 (h) -4 (e ) ] TJ
+0 Tc
+0.21 Tw
+1.69 0 Td
+[ (a) -1 (dopt) -2 (i) -2 (ons) 4 ( of) ] TJ
+0 Tw
+5.18 0 Td
+( ) Tj
+-0.002 Tc
+0.002 Tw
+0.465 0 Td
+[ (GM) -3 (Os) -3 ( ) ] TJ
+0 Tc
+0.21 Tw
+3.185 0 Td
+[ (c) -1 (oul) -2 (d pot) -2 (e) -1 (n) 5 (t) -2 (i) -2 (a) 4 (l) -2 (l) -2 (y ) ] TJ
+0 Tw
+[ (m) 8 (a) -1 (gni) -2 (f) 3 (y ) ] TJ
+0.001 Tc
+0.209 Tw
+11.21 0 Td
+[ (t) -1 (he) 1 ( r) -1 (i) -1 (sks) 1 ( ) ] TJ
+0.002 Tc
+-0.002 Tw
+[ (te) 1 (c) 1 (hni) 4 (c) 1 (a) 6 (lly) 7 ( ) ] TJ
+0.001 Tc
+0.429 Tw
+-30.76 -1.15 Td
+[ (assoc) 1 (i) -1 (a) 5 (t) -1 (ed ) 1 (w) 3 (i) -1 (t) -1 (h ) ] TJ
+-0.002 Tc
+0.002 Tw
+7.26 0 Td
+[ (GM) -3 (O) -5 (s) ] TJ
+0 Tc
+0.435 Tw
+2.725 0 Td
+[ (\054 gi) -2 (ve) -1 (n c) -1 (onf) 3 (l) -2 (i) -2 (c) -1 (t) -2 (s) -1 ( be) -1 (t) 3 (w) 2 (e) -1 (e) -1 (n pol) -2 (i) -2 (c) 4 (y a) -1 (nd or) -2 (ga) -1 (ni) -2 (z) -1 (a) -1 (t) 3 (i) -2 (ona) -1 (l) -2 ( c) 4 (ul) -2 (t) -2 (ur) 3 (e) -1 (\054 hi) -2 (g) 5 (h) 5 ( ) ] TJ
+0.13 Tw
+-9.985 -1.15 Td
+[ (ope) -1 (r) -2 (a) -1 (t) 3 (i) -2 (ona) -1 (l) 3 ( ) 5 (de) -1 (m) 8 (a) -1 (nd\054 l) -2 (i) -2 (m) 8 (i) -2 (t) -2 (e) -1 (d r) -2 (e) -1 (s) -1 (ou) 5 (r) -2 (c) -1 (e) -1 (s) -1 (\054 ) 5 (a) -1 (nd s) -1 (h) 5 (a) -1 (r) -2 (e) -1 (d ) 5 (r) -2 (e) -1 (s) -1 (pon) 5 (s) -1 (i) -2 (bi) -2 (l) 3 (i) -2 (t) -2 (y) 5 ( pr) -2 (ob) 5 (l) -2 (e) -1 (m) 8 (s) ] TJ
+0 Tw
+30.635 0 Td
+(\056) Tj
+0.13 Tw
+(  ) Tj
+0.001 Tc
+0.129 Tw
+[ (T) 2 (he) 1 (se probl) 6 (em) 9 (at) -1 (i) -1 (c ) ] TJ
+0 Tc
+0.08 Tw
+-30.635 -1.15 Td
+[ (s) -1 (t) -2 (r) -2 (uc) 4 (t) -2 (ur) -2 (e) -1 (s) -1 ( p) 5 (r) 3 (ovi) -2 (de) -1 ( l) -2 (ooph) 5 (ol) -2 (e) -1 ( f) 3 (or) -2 ( pol) -2 (i) -2 (t) 3 (i) -2 (c) -1 (s) -1 ( t) -2 (o i) -2 (nvo) 5 (l) -2 (v) 5 (e) -1 ( a) -1 (nd c) -1 (oul) -2 (d ) ] TJ
+0 Tw
+[ (pot) -2 (e) -1 (nt) 3 (i) -2 (a) -1 (l) 3 (l) -2 (y ) ] TJ
+0.08 Tw
+29.585 0 Td
+[ (ha) -1 (r) -2 (ne) -1 (s) -1 (s) -1 ( i) -2 (m) 8 (pl) -2 (e) 4 (m) 8 (e) -1 (nt) -2 (a) -1 (t) -2 (i) -2 (on ) ] TJ
+0 Tw
+-29.585 -1.15 Td
+[ (out) -2 ( of) 3 ( ) ] TJ
+0.002 Tc
+-0.002 Tw
+[ (its) 1 ( pol) 9 (ic) 1 (y i) 2 (n) 7 (te) 1 (nt) 7 (ion) 9 (s) ] TJ
+0 Tc
+0 Tw
+10.5 0 Td
+(\056 ) Tj
+-10.5 -1.15 Td
+( ) Tj
+0.001 Tc
+-0.001 Tw
+T*
+[ (N) 3 (eve) 1 (r) -1 (t) -1 (he) 6 (l) -1 (es) 5 (s) ] TJ
+0 Tc
+0.12 Tw
+(\054 t) Tj
+0 Tw
+6.065 0 Td
+[ (he) -1 ( ) ] TJ
+0.12 Tw
+1.315 0 Td
+[ (de) 4 (c) -1 (i) -2 (s) 4 (i) 3 (on not) ] TJ
+0 Tw
+4.975 0 Td
+[ ( ) -120 (t) -2 (o ) -120 (a) -1 (d) 5 (opt) -2 ( ) ] TJ
+-0.002 Tc
+0.002 Tw
+4.11 0 Td
+[ (GM) -3 (Os) -3 ( ) ] TJ
+0.001 Tc
+-0.001 Tw
+3.09 0 Td
+(sh) Tj
+0 Tc
+0 Tw
+0.89 0 Td
+[ (oul) -2 (d ) -120 (not) -2 ( ) ] TJ
+0.12 Tw
+3.795 0 Td
+[ (be) -1 ( t) -2 (a) -1 (ke) -1 (n ) ] TJ
+0.002 Tc
+0.118 Tw
+3.85 0 Td
+[ (a) 1 (s) 1 ( ) 5 (re) 1 (je) 6 (c) 1 (ting) 9 ( the) 8 ( te) 1 (c) 1 (hnol) 6 (og) 9 (y) 7 ( ) ] TJ
+0.198 Tw
+-28.09 -1.15 Td
+[ (its) 1 (e) 6 (lf) 5 (\056 ) 2 ( T) 3 (he) 8 ( jus) 3 (t) 5 (if) 5 (ic) 1 (a) 6 (tio) 7 (n ) 2 (of) ] TJ
+0 Tc
+0 Tw
+11.205 0 Td
+( ) Tj
+0.001 Tc
+0.199 Tw
+0.45 0 Td
+[ (be) 1 (i) -1 (ng ) 7 (aw) 3 (ar) -1 (e of) 5 ( i) 4 (t) -1 (s) 5 ( adve) 2 (r) -1 (s) 5 (e ) ] TJ
+-0.001 Tw
+[ (i) -1 (m) 9 (pa) 1 (ct) -1 (s) ] TJ
+0 Tc
+0 Tw
+( ) Tj
+0.2 Tw
+15.24 0 Td
+[ (s) -1 (houl) 3 (d be) -1 ( m) 8 (a) -1 (de) -1 ( e) -1 (xpl) -2 (i) -2 (c) 4 (i) -2 (t) 3 ( a) -1 (s) -1 ( ) 5 (a) -1 ( ) ] TJ
+0.03 Tw
+-26.895 -1.15 Td
+[ (s) -1 (t) -2 (r) -2 (a) 4 (t) -2 (e) -1 (gy t) -2 (o r) 3 (e) -1 (c) -1 (l) -2 (a) 4 (i) -2 (m) 8 ( t) -2 (he) -1 ( c) -6 (onf) 3 (i) -2 (de) -1 (nc) -1 (e) -1 ( of) -2 ( T) 1 (ha) -1 (i) -2 ( non) ] TJ
+0 Tw
+(\055) Tj
+-0.002 Tc
+0.002 Tw
+19.025 0 Td
+[ (GM) -3 ( ) ] TJ
+0 Tc
+0 Tw
+1.89 0 Td
+[ (f) 3 (ood ) ] TJ
+0.03 Tw
+2.11 0 Td
+[ (e) -1 (xp) -5 (or) -2 (t) -2 (\054 w) 2 (he) -1 (r) -2 (e) -1 (a) -1 (s) 4 ( t) -2 (ha) -1 (t) -2 ( ) ] TJ
+0 Tw
+[ (of) 3 ( ) ] TJ
+0.002 Tc
+0.028 Tw
+9.545 0 Td
+[ (unava) 3 (ila) 1 (b) 7 (il) 5 (ity ) 2 (o) 7 (f ) ] TJ
+-0.002 Tw
+-32.57 -1.15 Td
+[ (ne) 3 (c) 1 (e) 1 (s) 1 (s) 1 (a) 6 (ry i) 2 (n) 7 (s) 1 (titu) 7 (tion) 9 (s) 1 ( c) 1 (o) 7 (ul) 2 (d s) 3 (tr) 5 (a) 1 (te) 1 (g) 7 (ic) 6 (a) 1 (lly be) 5 ( ) 5 (ta) 1 (ke) 3 (n) 7 ( to m) 12 (itiga) 3 (te) 1 ( ) 5 (t) 5 (he) 3 ( pol) 4 (i) 5 (tic) 1 (a) 6 (l i) 5 (m) 5 (pa) 3 (c) 1 (ts) 1 (\056) ] TJ
+0 Tc
+0 Tw
+32.96 0 Td
+( ) Tj
+EMC
+ET
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 NRE\056G1\05631\0561 \055 Natural Resources \055 First year Graduate \055 Female \055 NNS \050L1\072 Thai\051 \055 Argumentative Essay) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(1) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+17 0 obj
+[ /ICCBased 18 0 R ]
+endobj
+18 0 obj
+<<
+/Length 216
+/N 1
+/Filter /FlateDecode
+>>
+stream
+Hâb``ú·Ë‚‰ $¿¿êõWR‰‰•¿~ûÅçÅôìã|@Ïº¸ºTÌ#àæ¨2S/`M.(*“Äÿ(%µ8H‚ÃÚí†8cê-íîfÉ‘âdá9Ÿ@6_IjHå¡9ø†≤(3=£D¡–““R¡1%?)U!∏≤∏$5∑X¡3/9ø® ø(±$5®jª%V*∏'ÊÊ&*ÈëËr" (,!¨œ!‡0b;èCÄ‰“¢2(ìë…òÅ ¿ I∆8/
+endstream
+endobj
+19 0 obj
+<<
+/FirstChar 0
+/Widths [ 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 250 333 555 500 500 1000 833 278 333 333 500 570 250 333 250 278 500 500 500 500 500 500 500 500 500 500 333 333 570 570 570 500 930 722 667 722 722 667 611 778 778 389 500 778 667 944 722 778 611 778 722 556 667 722 722 1000 722 722 667 333 278 333 581 500 333 500 556 444 556 444 333 500 556 278 333 556 278 833 556 500 556 556 444 389 333 556 500 722 500 500 444 394 220 394 520 350 500 350 333 500 500 1000 500 500 333 1000 556 333 1000 350 667 350 350 333 333 500 500 350 500 1000 333 1000 389 333 722 350 444 722 250 333 500 500 500 500 220 500 333 747 300 500 570 333 747 500 400 549 300 300 333 576 540 333 333 300 330 500 750 750 750 500 722 722 722 722 722 722 1000 722 667 667 667 667 389 389 389 389 722 722 778 778 778 778 778 570 778 722 722 722 722 722 611 556 500 500 500 500 500 500 722 444 444 444 444 444 278 278 278 278 500 556 500 500 500 500 500 549 500 556 556 556 556 500 556 500 ]
+/Encoding /WinAnsiEncoding
+/Type /Font
+/BaseFont /TimesNewRoman,Bold
+/LastChar 255
+/FontDescriptor 20 0 R
+/Subtype /TrueType
+>>
+endobj
+20 0 obj
+<<
+/FontBBox [ -558 -307 2000 1026 ]
+/StemV 136
+/Descent -307
+/XHeight 457
+/Flags 34
+/FontStretch /Normal
+/Ascent 1026
+/FontName /TimesNewRoman,Bold
+/Type /FontDescriptor
+/FontWeight 700
+/ItalicAngle 0
+/FontFamily (Times New Roman)
+/CapHeight 662
+>>
+endobj
+21 0 obj
+<<
+/FirstChar 0
+/Widths [ 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 250 333 408 500 500 833 778 180 333 333 500 564 250 333 250 278 500 500 500 500 500 500 500 500 500 500 278 278 564 564 564 444 921 722 667 667 722 611 556 722 722 333 389 722 611 889 722 722 556 722 667 556 611 722 722 944 722 722 611 333 278 333 469 500 333 444 500 444 500 444 333 500 500 278 278 500 278 778 500 500 500 500 333 389 278 500 500 722 500 500 444 480 200 480 541 350 500 350 333 500 444 1000 500 500 333 1000 556 333 889 350 611 350 350 333 333 444 444 350 500 1000 333 980 389 333 722 350 444 722 250 333 500 500 500 500 200 500 333 760 276 500 564 333 760 500 400 549 300 300 333 576 453 333 333 300 310 500 750 750 750 444 722 722 722 722 722 722 889 667 611 611 611 611 333 333 333 333 722 722 722 722 722 722 722 564 722 722 722 722 722 722 556 500 444 444 444 444 444 444 667 444 444 444 444 444 278 278 278 278 500 500 500 500 500 500 500 549 500 500 500 500 500 500 500 500 ]
+/Encoding /WinAnsiEncoding
+/Type /Font
+/BaseFont /TimesNewRomanPSMT
+/LastChar 255
+/FontDescriptor 22 0 R
+/Subtype /TrueType
+>>
+endobj
+22 0 obj
+<<
+/FontBBox [ -568 -307 2000 1007 ]
+/StemV 82
+/Descent -216
+/XHeight 1000
+/Flags 34
+/FontStretch /Normal
+/Ascent 891
+/FontName /TimesNewRomanPSMT
+/Type /FontDescriptor
+/FontWeight 400
+/ItalicAngle 0
+/FontFamily (Times New Roman)
+/CapHeight 1000
+>>
+endobj
+23 0 obj
+<<
+/Length 5768
+>>
+stream
+q
+BT
+0.602 g
+/GS0 gs
+/TT0 1 Tf
+12 0 0 12 73.2 745.5 Tm
+[ (Policy Decision Mem) 8 (o) -5 (  ) ] TJ
+/TT1 1 Tf
+0.0001 Tc
+-0.0017 Tw
+0 -1.15 TD
+(GMOs and the Politics of International Trade) Tj
+/TT0 1 Tf
+-0.0001 Tw
+19.555 0 Td
+[ ( ) -4670 (Resource Policy and Adm) 8 (i) -2 (nistration ) ] TJ
+0 Tc
+0 Tw
+-19.745 -1.15 Td
+( ) Tj
+0.19 -1.15 Td
+( ) Tj
+39 0 Td
+( ) Tj
+-39.19 -55.5 Td
+( ) Tj
+0.0006 Tc
+37.72 0 Td
+(1\0579 ) Tj
+0 g
+0.0008 Tc
+0.0545 Tw
+-37.72 54.35 Td
+[ (As a basis f) 9 (o) 1 (r the decis) 5 (i) 4 (on on Thailand\047) 6 (s positio) 6 (n in the co) 6 (m) 9 (i) -1 (ng IUCN Congress\054 th) 6 (is m) 9 (e) -5 (m) 9 (o) 1 ( has ) ] TJ
+0.2552 Tw
+0 -2.3 TD
+[ (been prep) 6 (ared from) 9 ( a com) 9 (p) 1 (rehensive exam) 9 (inati) ] TJ
+-0.0002 Tc
+20.295 0 Td
+(on of technical\054 political) Tj
+-0.0008 Tc
+0.2558 Tw
+10.485 0 Td
+[ (\054 and adm) 7 (i) -3 (nistrative ) ] TJ
+0.0004 Tc
+0.0496 Tw
+-30.78 -2.3 Td
+[ (feasibility of the policy on the comm) 8 (ercializati) ] TJ
+0.0001 Tc
+0.0509 Tw
+19.025 0 Td
+(on of GMOs through the Th) Tj
+0.0005 Tc
+0.0511 Tw
+11.505 0 Td
+(ailand\055US FTA\056  The ) Tj
+-0.0001 Tc
+0.0542 Tw
+-30.53 -2.3 Td
+(issue of GMOs is not only take) Tj
+0.0001 Tc
+0.0527 Tw
+12.765 0 Td
+[ (n as a m) 8 (a) -1 (tter of new technology but) ] TJ
+0.0003 Tc
+0.0497 Tw
+14.67 0 Td
+( intricately i) Tj
+-0.0009 Tc
+0.0559 Tw
+4.935 0 Td
+(nvolved with the ) Tj
+0.0008 Tc
+0.2592 Tw
+-32.37 -2.3 Td
+(issue of international trade\056  Since the intr) Tj
+0.0002 Tc
+0.2598 Tw
+18.565 0 Td
+(oduction of GMOs as a ) Tj
+0.2623 Tw
+[ (technological m) 8 (eans to ) ] TJ
+0.0008 Tc
+0.1058 Tw
+-18.565 -2.3 Td
+[ (agricultural developm) 9 (ent\054 the incen) ] TJ
+0 Tc
+0.11 Tw
+14.49 0 Td
+(tive to adopt GMOs has never been as strong as is now for ) Tj
+0.0004 Tc
+0.2433 Tw
+-14.49 -2.3 Td
+[ (Thailand\056  Through th) 5 (e free trade pact\054 th) 5 (e US) ] TJ
+0.0001 Tc
+0.2449 Tw
+20.39 0 Td
+( would allow Thailand greater access to its ) Tj
+0.0009 Tc
+0.0041 Tw
+-20.39 -2.295 Td
+[ (agricultural m) 9 (arket and other kinds) ] TJ
+0.001 Tc
+14.085 0 Td
+[ ( of special treatm) 9 (ent of m) 9 (anuf) ] TJ
+0.0003 Tc
+0.0047 Tw
+12.045 0 Td
+(acturing goods\054 if Thailand is\054 in ) Tj
+0.0006 Tc
+0.0294 Tw
+-26.13 -2.3 Td
+[ (return\054 agreed to adopt the policy on comm) 8 (erciali) ] TJ
+0.0003 Tc
+0.0289 Tw
+20 0 Td
+[ (zation of GMOs\056  Neve) -6 (rtheless\054 the adoption of ) ] TJ
+0.0002 Tc
+0.0756 Tw
+-20 -2.3 Td
+[ (GMOs m) 8 (a) -1 (y harm) 8 ( its already established m) 8 (a) -1 (rket ) ] TJ
+-0.0001 Tc
+0.0726 Tw
+19.87 0 Td
+(of organic produce in th) Tj
+-0.0003 Tc
+0.0753 Tw
+9.9 0 Td
+(e EU and Japan\054 not to ) Tj
+0.0006 Tc
+-0.0016 Tw
+-29.77 -2.3 Td
+[ (m) 8 (e) -1 (ntion other potential risks or thre) ] TJ
+-0.0001 Tc
+0.0001 Tw
+14.365 0 Td
+[ (ats to hum) 8 (an heath and biodiversity\056 ) ] TJ
+0.0002 Tc
+0.0681 Tw
+-14.365 -2.3 Td
+(The feasibility analyses suggest ) Tj
+-0.0002 Tc
+0.0689 Tw
+13.215 0 Td
+(that\054 even though technically ju) Tj
+0.0002 Tc
+0.0685 Tw
+12.85 0 Td
+[ (stified f) 8 (or econom) 8 (ic growth\054 the ) ] TJ
+-0.0002 Tc
+0.0643 Tw
+-26.065 -2.3 Td
+(policy on the adoption of GMOs ap) Tj
+0.0004 Tc
+0.0646 Tw
+14.605 0 Td
+(pears not feasible considering ) Tj
+-0.0003 Tc
+0.0653 Tw
+12.43 0 Td
+(huge political costs especially ) Tj
+0.0009 Tc
+0.1791 Tw
+-27.035 -2.3 Td
+[ (at tim) 9 (e close to the election\056  Such political ) ] TJ
+0.0002 Tc
+0.1798 Tw
+19.14 0 Td
+(costs of the policy are immediate and could be ) Tj
+0.0012 Tc
+0.0875 Tw
+-19.14 -2.3 Td
+[ (aggravated by m) 9 (i) -1 (sm) 9 (atched adm) 9 (i) -1 (nistrative cu) 6 (ltu) 6 (re ) ] TJ
+0 Tc
+0.09 Tw
+20.42 0 Td
+[ (and institutions\054 whereas) 1 ( its econ) 5 (o) -5 (m) 8 (i) -2 (c growth) 5 ( ) ] TJ
+0.0003 Tc
+0.1797 Tw
+-20.42 -2.3 Td
+[ (benefits could potentially be dela) 5 (yed due to lack of necessary in) ] TJ
+0.0001 Tc
+0.1799 Tw
+27.41 0 Td
+[ (tellectual prop) 5 (erty \050IP\051 righ) 5 (t ) ] TJ
+0.0003 Tc
+0.134 Tw
+-27.41 -2.3 Td
+(institutions and even not be assured due to t) Tj
+0.1346 Tw
+18.59 0 Td
+(echnical uncertainties\054 pol) Tj
+0 Tc
+0.135 Tw
+10.75 0 Td
+[ (itics\054 and adm) 8 (i) -2 (nistrative ) ] TJ
+0.0002 Tc
+0.1198 Tw
+-29.34 -2.3 Td
+[ (barriers\056  T) 6 (herefore\054 the comm) ] TJ
+0.0004 Tc
+0.1179 Tw
+12.69 0 Td
+(ercialization of GMOs should ) Tj
+/TT1 1 Tf
+0 Tc
+0 Tw
+12.65 0 Td
+(NOT) Tj
+/TT0 1 Tf
+0.0011 Tc
+0.1189 Tw
+2.165 0 Td
+[ ( be perm) 9 (itted in) 6 ( Thailand a) 5 (t) -1 ( ) ] TJ
+0.0006 Tc
+0.0236 Tw
+-27.505 -2.3 Td
+[ (this poin) 6 (t) -2 (\056  Furtherm) 8 (ore\054 supporting GMOs with no ) ] TJ
+0.0009 Tc
+0.0216 Tw
+20.985 0 Td
+[ (account of its attach) 6 (ed environm) 9 (ental risks is ) ] TJ
+0.0003 Tc
+0.5577 Tw
+-20.985 -2.3 Td
+[ (seem) 8 (ingly inappropriate in the World Cons) ] TJ
+-0.0001 Tc
+0.5591 Tw
+20.095 0 Td
+(ervation Congress in which thousands of ) Tj
+0.0501 Tw
+-20.095 -2.3 Td
+[ (representatives of states\054 governm) 8 (e) -1 (nt agencies\054 ) ] TJ
+0 Tc
+0.0491 Tw
+19.26 0 Td
+(NGOs\054 global business leaders and politicians all ) Tj
+0.0004 Tc
+0.0771 Tw
+-19.26 -2.3 Td
+[ (over the world with environm) 8 (ental ) ] TJ
+-0.0005 Tc
+0.0805 Tw
+14.52 0 Td
+(interests will convene and especi) Tj
+-0.0002 Tc
+0.0802 Tw
+13.475 0 Td
+[ (ally of which T) 6 (hailand will ) ] TJ
+-0.0001 Tc
+0.0001 Tw
+-27.995 -2.3 Td
+(be the host\056 ) Tj
+ET
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 NRE\056G1\05631\0561 \055 Natural Resources \055 First year Graduate \055 Female \055 NNS \050L1\072 Thai\051 \055 Argumentative Essay) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(2) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+24 0 obj
+<<
+/OPM 1
+/Type /ExtGState
+/SM 0.02
+/OP false
+/SA false
+/op false
+>>
+endobj
+25 0 obj
+<<
+/FirstChar 32
+/Widths [ 250 0 0 0 0 0 0 0 0 0 0 0 0 333 250 0 0 500 500 500 500 0 0 0 0 0 0 0 0 0 0 0 0 722 0 722 722 667 611 778 778 389 0 0 667 944 722 778 611 0 722 556 667 0 0 0 0 0 0 0 0 0 0 0 0 500 556 444 556 444 333 500 556 278 0 0 278 833 556 500 556 0 444 389 333 556 500 0 0 500 ]
+/Encoding /WinAnsiEncoding
+/Type /Font
+/BaseFont /TimesNewRomanPS-BoldMT
+/LastChar 121
+/FontDescriptor 26 0 R
+/Subtype /TrueType
+>>
+endobj
+26 0 obj
+<<
+/FontBBox [ -558 -307 2000 1026 ]
+/StemV 136
+/Descent -216
+/XHeight 1000
+/Flags 34
+/FontStretch /Normal
+/Ascent 891
+/FontName /TimesNewRomanPS-BoldMT
+/Type /FontDescriptor
+/FontWeight 700
+/ItalicAngle 0
+/FontFamily (Times New Roman)
+/CapHeight 1000
+>>
+endobj
+27 0 obj
+<<
+/FirstChar 32
+/Widths [ 250 0 0 0 0 0 778 180 333 333 0 0 250 333 250 278 500 500 500 500 500 500 500 500 500 500 278 278 0 0 0 0 0 722 667 667 722 611 556 722 722 333 389 0 611 889 722 722 556 0 667 556 611 722 0 944 0 0 0 0 0 0 0 0 0 444 500 444 500 444 333 500 500 278 278 500 278 778 500 500 500 500 333 389 278 500 500 722 500 500 444 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1000 ]
+/Encoding /WinAnsiEncoding
+/Type /Font
+/BaseFont /TimesNewRomanPSMT
+/LastChar 151
+/FontDescriptor 22 0 R
+/Subtype /TrueType
+>>
+endobj
+28 0 obj
+<<
+/Length 5817
+>>
+stream
+q
+BT
+0.602 g
+/GS0 gs
+/TT0 1 Tf
+12 0 0 12 73.2 745.5 Tm
+[ (Policy Decision Mem) 8 (o) -5 ( ) ] TJ
+/TT1 1 Tf
+0.0001 Tc
+-0.0017 Tw
+0 -1.15 TD
+(GMOs and the Politics of International Trade) Tj
+/TT0 1 Tf
+-0.0001 Tw
+19.555 0 Td
+[ ( ) -4670 (Resource Policy and Adm) 8 (i) -2 (nistration ) ] TJ
+0 Tc
+0 Tw
+-19.745 -1.15 Td
+( ) Tj
+0.19 -1.15 Td
+( ) Tj
+39 0 Td
+( ) Tj
+-39.19 -55.5 Td
+( ) Tj
+0.0006 Tc
+37.72 0 Td
+(2\0579 ) Tj
+0 g
+0.0009 Tc
+0.2333 Tw
+-37.72 54.35 Td
+[ (This m) 9 (e) -5 (m) 9 (o) -4 ( presen) 6 (ts in) 6 ( detail th) 6 (e result of) 4 ( ) ] TJ
+-0.0001 Tc
+0.2334 Tw
+18.705 0 Td
+(technical\054 political\054 and ad) Tj
+0.001 Tc
+0.234 Tw
+11.23 0 Td
+[ (m) 9 (i) -1 (nistr) 4 (ativ) 6 (e f) 4 (easibility) 6 ( ) ] TJ
+0 Tc
+0.075 Tw
+-29.935 -2.3 Td
+(studies for the justification of) Tj
+0.0002 Tc
+0.0748 Tw
+12.07 0 Td
+( the recommendation for Thailand not) Tj
+-0.0006 Tc
+0.0756 Tw
+15.57 0 Td
+( to adopt GMOs\056  Finally\054 it ) Tj
+0.0007 Tc
+-0.0017 Tw
+-27.64 -2.3 Td
+[ (suggests so) 6 (m) 9 (e possible strategies in m) ] TJ
+0.0008 Tc
+-0.0008 Tw
+15.355 0 Td
+[ (itigating the im) 9 (pacts of the decis) 5 (i) -1 (o) 6 (n\056 ) ] TJ
+/TT1 1 Tf
+0 Tc
+0 Tw
+-15.355 -2.31 Td
+(1) Tj
+/TT2 1 Tf
+( ) Tj
+/TT1 1 Tf
+0.0006 Tc
+-0.0006 Tw
+1.8 0 Td
+[ (Technical F) 6 (e) -1 (asibility) 6 ( ) ] TJ
+/TT0 1 Tf
+0.1394 Tw
+-1.8 -2.29 Td
+[ (The comm) 8 (ercialization of GMOs is claim) 8 (e) -1 (d to ) ] TJ
+0.1403 Tw
+[ (prom) 9 (ote overall econom) 9 (i) -1 (c growth directly and ) ] TJ
+0.0005 Tc
+0.2295 Tw
+0 -2.3 TD
+[ (indirectly from) 8 ( trade\056  The genetic engin) ] TJ
+0.0002 Tc
+0.2298 Tw
+17.575 0 Td
+[ (eering technology could promote econom) 8 (ic growth ) ] TJ
+0.0005 Tc
+0.1687 Tw
+-17.575 -2.3 Td
+[ (directly by im) 8 (proving the productivity in terms of) ] TJ
+0.0002 Tc
+0.1698 Tw
+21.105 0 Td
+[ ( quantity and quality for Thai food export\056 ) 175 ( ) ] TJ
+0.0007 Tc
+0.0339 Tw
+-21.105 -2.295 Td
+[ (Thailand co) 6 (uld also) 6 ( ben) 6 (efit ind) 6 (i) -1 (rectly by gain) 6 (ing) 6 ( m) 9 (o) 1 (re acces) 5 (s to th) 6 (e US m) 9 (arket of agricu) 6 (ltural as ) ] TJ
+0.0005 Tc
+0.0845 Tw
+T*
+[ (well as m) 8 (a) -1 (nufacturing goods thr) ] TJ
+-0.0002 Tc
+0.0852 Tw
+13.23 0 Td
+(ough the Thailand\055US FTA\056  It ) Tj
+0 Tc
+0.0825 Tw
+13.14 0 Td
+[ (is asserted by Thai governm) 8 (e) -1 (nt ) ] TJ
+0.0004 Tc
+-0.0024 Tw
+-26.37 -2.3 Td
+(that the free trade pact coul) Tj
+0.0001 Tc
+-0.0001 Tw
+10.915 0 Td
+(d boost Thai GDP growth and cr) Tj
+0.0005 Tc
+-0.0005 Tw
+13.055 0 Td
+[ (eate significant em) 8 (ploym) 8 (e) -6 (nt\056 ) ] TJ
+0.028 Tw
+-23.97 -2.3 Td
+[ (These benef) 9 (its from) 8 ( the adoption of GMOs are ) ] TJ
+0 Tc
+0.03 Tw
+19.225 0 Td
+(however dubious\056  The polic) Tj
+-0.0003 Tc
+0.0269 Tw
+11.53 0 Td
+(y could also increase ) Tj
+-0.0001 Tc
+0.0601 Tw
+-30.755 -2.3 Td
+[ (level of econom) 8 (i) -2 (c dependency\054 yet ) ] TJ
+0.0005 Tc
+0.0578 Tw
+14.45 0 Td
+[ (som) 8 (e) -1 ( particular industries coul) ] TJ
+-0.0001 Tc
+0.0581 Tw
+[ (d be adversely af) 8 (fected by the) -6 ( ) ] TJ
+0.0007 Tc
+0.005 Tw
+-14.45 -2.3 Td
+[ (US i) -6 (m) 9 (port\056  In addition\054 commercializing GMOs is ) ] TJ
+0.0005 Tc
+0.0045 Tw
+20.72 0 Td
+(expectedly associated ) Tj
+0.0014 Tc
+0.0036 Tw
+8.95 0 Td
+[ (with environm) 9 (ental and ) ] TJ
+0.0006 Tc
+0.0624 Tw
+-29.67 -2.3 Td
+(health risks of which the costs ) Tj
+0.0634 Tw
+12.72 0 Td
+(are difficult to observe and quantif) Tj
+0.0001 Tc
+0.0629 Tw
+14.185 0 Td
+(y\056  Furthermore\054 there are still ) Tj
+-0.0003 Tc
+0.0743 Tw
+-26.905 -2.3 Td
+(questions of the distribution of t) Tj
+-0.0001 Tc
+0.0721 Tw
+13.17 0 Td
+(hose costs and benefits in regard ) Tj
+0.0002 Tc
+0.0735 Tw
+13.705 0 Td
+[ (to justice p) 5 (e) -1 (rspectives\056  Thos) 4 (e ) ] TJ
+0.0003 Tc
+0.3032 Tw
+-26.875 -2.3 Td
+[ (econom) 8 (ic benefits are likely to be restricted to) ] TJ
+0.0001 Tc
+0.3049 Tw
+20.65 0 Td
+[ ( the \047) 5 (better\055offs\047) 5 ( in Thai society\054 i\056e\056 large ) ] TJ
+0.0005 Tc
+0.0395 Tw
+-20.65 -2.3 Td
+[ (businesses\054 whereas health and environm) 8 (ental cost) ] TJ
+0.0004 Tc
+20.485 0 Td
+[ (s tends to be distributed a) -6 (m) 8 (ong ot) -7 (her m) 8 (a) -1 (jority ) ] TJ
+0.0001 Tc
+0.244 Tw
+-20.485 -2.3 Td
+[ (of Thais\056  Given uncertainties as) 4 (s) 4 (ociated with ) ] TJ
+0.0004 Tc
+0.2396 Tw
+20.2 0 Td
+[ (techn) 5 (i) -2 (cal consideratio) 5 (ns\054 ) ] TJ
+0.0011 Tc
+0.2426 Tw
+10.62 0 Td
+[ (it is ha) 5 (rd to de) 5 (cid) 6 (e) -5 ( ) ] TJ
+0.0002 Tc
+-0.0002 Tw
+-30.82 -2.3 Td
+(whether Thailand should adopt GMOs in order to) Tj
+-0.0001 Tc
+-0.0006 Tw
+19.805 0 Td
+( benefit from the Thailand\055US free trade pact\056 ) Tj
+/TT1 1 Tf
+0 Tc
+0 Tw
+-19.805 -2.31 Td
+(2) Tj
+/TT2 1 Tf
+( ) Tj
+/TT1 1 Tf
+0.0008 Tc
+-0.0008 Tw
+1.8 0 Td
+[ (Polit) 4 (ical Fe) 5 (asibility) 6 ( ) ] TJ
+/TT0 1 Tf
+0.0003 Tc
+0.0647 Tw
+-1.8 -2.29 Td
+(In addition to the technical perspective\054 the ) Tj
+0.0002 Tc
+0.0648 Tw
+17.96 0 Td
+[ (policy to comm) 8 (e) -6 (r) -2 (cialize GMOs in Thailand through ) ] TJ
+0.0006 Tc
+0.2689 Tw
+-17.96 -2.3 Td
+[ (the Tha) 4 (ilan) 6 (d) 1 (\055US FTA seem) 8 (s not f) 4 (easib) 6 (le\054 con) 6 (sider) 4 (ing the) 4 ( interplay o) 6 (f) 4 ( actors\047) 6 ( in) 6 (terests and) 6 ( ) ] TJ
+-0.0018 Tw
+T*
+[ (influences in the m) 8 (acro\055politics\054 elec) ] TJ
+-0.0014 Tw
+14.745 0 Td
+[ (tora) 4 (l\054 and ac) 4 (tion chann) 6 (e) -1 (l politics\056   ) ] TJ
+ET
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 NRE\056G1\05631\0561 \055 Natural Resources \055 First year Graduate \055 Female \055 NNS \050L1\072 Thai\051 \055 Argumentative Essay) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(3) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+29 0 obj
+<<
+/FirstChar 32
+/Widths [ 278 ]
+/Encoding /WinAnsiEncoding
+/Type /Font
+/BaseFont /Arial-BoldMT
+/LastChar 32
+/FontDescriptor 30 0 R
+/Subtype /TrueType
+>>
+endobj
+30 0 obj
+<<
+/FontBBox [ -628 -376 2000 1010 ]
+/StemV 138
+/Descent -211
+/XHeight 1000
+/Flags 32
+/FontStretch /Normal
+/Ascent 905
+/FontName /Arial-BoldMT
+/Type /FontDescriptor
+/FontWeight 700
+/ItalicAngle 0
+/FontFamily (Arial)
+/CapHeight 1000
+>>
+endobj
+31 0 obj
+<<
+/Length 5848
+>>
+stream
+q
+BT
+0.602 g
+/GS0 gs
+/TT0 1 Tf
+12 0 0 12 73.2 745.5 Tm
+[ (Policy Decision Mem) 8 (o) -5 ( ) ] TJ
+/TT1 1 Tf
+0.0001 Tc
+-0.0017 Tw
+0 -1.15 TD
+(GMOs and the Politics of International Trade) Tj
+/TT0 1 Tf
+-0.0001 Tw
+19.555 0 Td
+[ ( ) -4670 (Resource Policy and Adm) 8 (i) -2 (nistration ) ] TJ
+0 Tc
+0 Tw
+-19.745 -1.15 Td
+( ) Tj
+0.19 -1.15 Td
+( ) Tj
+39 0 Td
+( ) Tj
+-39.19 -55.5 Td
+( ) Tj
+0.0006 Tc
+37.72 0 Td
+(3\0579 ) Tj
+0 g
+/TT1 1 Tf
+0 Tc
+-37.72 54.34 Td
+(2\0561) Tj
+/TT2 1 Tf
+( ) Tj
+/TT1 1 Tf
+0.0004 Tc
+2.25 0 Td
+[ (Macro\055Politics) 5 ( ) ] TJ
+/TT0 1 Tf
+0.0396 Tw
+-2.25 -2.29 Td
+(Politically\054 the decision to adopt GMOs in Thailand is) Tj
+0.0009 Tc
+0.0371 Tw
+21.975 0 Td
+( laid out in the vested) Tj
+-0.0001 Tc
+0.0401 Tw
+8.785 0 Td
+( interests of actors at ) Tj
+0.0008 Tc
+0.0734 Tw
+-30.76 -2.3 Td
+[ (not only dom) 9 (estic but also inte) 5 (rna) 5 (t) -1 (ional leve) 5 (ls\056  ) ] TJ
+0.0009 Tc
+0.0748 Tw
+[ (The politic) 5 (s of) 4 ( GMOs in the intern) 6 (ationa) 5 (l tr) 4 (ade) 5 ( ) ] TJ
+0.0003 Tc
+0.0597 Tw
+0 -2.3 TD
+(arena is clearly reflected in long\055standing dis) Tj
+0 Tc
+0.0606 Tw
+18.37 0 Td
+[ (pute between the US\054 a ma) -6 (jor GMOs exporter\054 and ) ] TJ
+0.0006 Tc
+0.0599 Tw
+-18.37 -2.3 Td
+[ (the EU in regard to its moratorium) 8 ( on GMOs\056  ) ] TJ
+0.0003 Tc
+0.0597 Tw
+19.425 0 Td
+[ (Given dom) 8 (i) -2 (nant position of) ] TJ
+0.0005 Tc
+0.0605 Tw
+11.205 0 Td
+[ ( the US in the globa) 4 (l ) ] TJ
+0.001 Tc
+0.079 Tw
+-30.63 -2.3 Td
+[ (arena\054 the E) 7 (U) 3 ( has to relax its appro) 6 (ach by shif) 4 (ti) ] TJ
+0.0004 Tc
+0.0796 Tw
+19.735 0 Td
+(ng toward other indirect types of trade barriers\054 ) Tj
+0.0007 Tc
+0.0596 Tw
+-19.735 -2.3 Td
+[ (safety liab) 6 (i) -1 (lity and labeling requirem) 9 (ents\056  Though it is lik) 6 (ely) 6 ( that m) 9 (o) 1 (re and m) 9 (o) 1 (re countries will ) ] TJ
+0.0004 Tc
+0.2746 Tw
+0 -2.295 TD
+[ (be forced to welcom) 8 (e) -6 ( GM produce\054 the safety and\057or protective m) 8 (easures would be m) 8 (or) -7 (e) -6 ( ) ] TJ
+0.0001 Tc
+0.1849 Tw
+0 -2.3 TD
+[ (stringent as m) 8 (ore obvious segreg) ] TJ
+-0.0006 Tc
+0.1856 Tw
+(ation of GMOs and non\055GMOs\056 ) Tj
+0.0002 Tc
+0.1838 Tw
+[ ( If) 8 ( Thailand were to adopt ) ] TJ
+0.0009 Tc
+0.0241 Tw
+T*
+[ (GMOs\054 given the inte) 5 (rna) 5 (tiona) 5 (l trad) 6 (e politics\054 th) 6 (es) 5 (e ) ] TJ
+0.0001 Tc
+0.0249 Tw
+20.65 0 Td
+(strict trade barriers would definitely offset the ) Tj
+-0.0001 Tc
+0.2701 Tw
+-20.65 -2.3 Td
+[ (benefits from) 8 ( increased export ) ] TJ
+0.0003 Tc
+0.2659 Tw
+13.515 0 Td
+[ (as technically claim) 8 (e) -1 (d\056  Given ) ] TJ
+0.0002 Tc
+0.2698 Tw
+13.665 0 Td
+[ (consum) 8 (ers\047) 5 ( trends of GMOs) -6 ( ) ] TJ
+0.0004 Tc
+0.0888 Tw
+-27.18 -2.3 Td
+[ (reje) 4 (ction) 5 ( in) 5 ( the wor) 3 (l) -2 (d market inc) 4 (l) -2 (uding the) 4 ( US\054 ) ] TJ
+0.001 Tc
+0.0881 Tw
+19.84 0 Td
+[ (Thailand) 6 ( co) 6 (uld ins) 5 (t) -1 (ead) 6 ( be m) 9 (o) 1 (re competitiv) 6 (e b) 6 (y) 6 ( ) ] TJ
+0.0004 Tc
+0.1246 Tw
+-19.84 -2.3 Td
+[ (rem) 8 (a) -1 (ining a non\055GM food producer and focusing on ) ] TJ
+0.0001 Tc
+0.1249 Tw
+22.225 0 Td
+[ (the organic food m) 8 (a) -1 (rket\056  Especially\054 the ) ] TJ
+0.0002 Tc
+-0.001 Tw
+-22.225 -2.3 Td
+(price of organic produce is usually mu) Tj
+0.0001 Tc
+-0.0017 Tw
+15.385 0 Td
+(ch higher than that of GM produce\056 ) Tj
+0.0006 Tc
+0.3685 Tw
+-15.385 -2.3 Td
+[ (W) 9 (ithin Tha) -6 (iland\054 the politics regarding GMOs is) ] TJ
+0.0008 Tc
+0.3692 Tw
+21.705 0 Td
+[ ( sim) 9 (p) -4 (ly the conflicts) ] TJ
+-0.0003 Tc
+0.3703 Tw
+9.255 0 Td
+( between scientific ) Tj
+0.0004 Tc
+0.3446 Tw
+-30.96 -2.3 Td
+[ (communities prom) 8 (oting agro\055tech) 5 (nology by virt) ] TJ
+0.0008 Tc
+0.3432 Tw
+[ (u) 6 (e of agricu) 6 (ltural developm) 9 (ent and NGO) -7 (s ) ] TJ
+0.0003 Tc
+0.4047 Tw
+T*
+[ (opposing G) 8 (MOs for its health and environm) 8 (enta) ] TJ
+-0.0003 Tc
+0.404 Tw
+21.81 0 Td
+(l concerns\056  The inte) Tj
+0.4053 Tw
+9.745 0 Td
+(rests of scientific ) Tj
+0.0009 Tc
+0.0881 Tw
+-31.555 -2.3 Td
+[ (communitie) 5 (s are in line) 5 ( with thei) ] TJ
+0.0866 Tw
+13.645 0 Td
+[ (r values and especially m) 9 (o) 1 (tiva) 5 (t) ] TJ
+0.0007 Tc
+0.088 Tw
+12.745 0 Td
+[ (ed by the comm) 9 (ercializa) 5 (tion o) 6 (f) -1 ( ) ] TJ
+0.0005 Tc
+0.1845 Tw
+-26.39 -2.3 Td
+[ (their knowledge via G) 8 (MOs\056  In fact\054 th) 6 (ese resear) ] TJ
+0 Tc
+0.1841 Tw
+20.92 0 Td
+[ (ch com) 8 (m) 3 (unities are closely tied to external) -7 ( ) ] TJ
+0.0006 Tc
+0.0677 Tw
+-20.92 -2.3 Td
+(actors through research assistan) Tj
+0.0001 Tc
+0.0709 Tw
+12.91 0 Td
+(ce and funding provided and conseque) Tj
+0.0699 Tw
+15.77 0 Td
+(ntly their research agenda ) Tj
+0.0012 Tc
+0.0478 Tw
+-28.68 -2.3 Td
+[ (repres) 5 (ents the inte) 5 (res) 5 (t) -1 ( o) 6 (f) 4 ( trans\055na) 5 (tio) 6 (nal com) 9 (p) 1 (anie) ] TJ
+0.001 Tc
+0.0465 Tw
+19.935 0 Td
+[ (s\056  Despite large am) 9 (ount ) ] TJ
+-0.0001 Tc
+0.0501 Tw
+10.19 0 Td
+(of resources available\054 ) Tj
+0.0007 Tc
+0.0643 Tw
+-30.125 -2.3 Td
+[ (scien) 6 (tif) 4 (ic co) 6 (mmunities\047) 6 ( argum) 9 (ents could not ga) 5 (in m) 9 (o) -4 (mentum) 9 ( in the general pub) 6 (lic\054) 6 ( as com) 9 (p) 1 (ared ) ] TJ
+-0.0003 Tc
+-0.0005 Tw
+T*
+[ (to NGOs) -6 (\047 wi) -7 (th less resource base but) ] TJ
+0.0001 Tc
+-0.0013 Tw
+14.74 0 Td
+[ ( powerful strategies to dom) 8 (i) -2 (nate) ] TJ
+-0.0007 Tw
+12.88 0 Td
+( the public debate on GMOs\056    ) Tj
+ET
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 NRE\056G1\05631\0561 \055 Natural Resources \055 First year Graduate \055 Female \055 NNS \050L1\072 Thai\051 \055 Argumentative Essay) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(4) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+32 0 obj
+<<
+/Length 5573
+>>
+stream
+q
+BT
+0.602 g
+/GS0 gs
+/TT0 1 Tf
+12 0 0 12 73.2 745.5 Tm
+[ (Policy Decision Mem) 8 (o) -5 (  ) ] TJ
+/TT1 1 Tf
+0.0001 Tc
+-0.0017 Tw
+0 -1.15 TD
+(GMOs and the Politics of International Trade) Tj
+/TT0 1 Tf
+-0.0001 Tw
+19.555 0 Td
+[ ( ) -4670 (Resource Policy and Adm) 8 (i) -2 (nistration ) ] TJ
+0 Tc
+0 Tw
+-19.745 -1.15 Td
+( ) Tj
+0.19 -1.15 Td
+( ) Tj
+39 0 Td
+( ) Tj
+-39.19 -55.5 Td
+( ) Tj
+0.0006 Tc
+37.72 0 Td
+(4\0579 ) Tj
+0 g
+0.0008 Tc
+0.0892 Tw
+-37.72 54.35 Td
+[ (The decision could be thus sim) 9 (p) 1 (lified into a polit) ] TJ
+0.0003 Tc
+0.0908 Tw
+20.345 0 Td
+[ (ical arena in which the US plays a m) 8 (a) -1 (jor role ) ] TJ
+0.104 Tw
+-20.345 -2.3 Td
+[ (against domestic NGOs\056  W) 9 (hile the US could gain) ] TJ
+0.0002 Tc
+0.1031 Tw
+20.965 0 Td
+( influence over Thailand in the international ) Tj
+0 Tc
+0.1443 Tw
+-20.965 -2.3 Td
+(trade arena\054 the role of NGOs could be decisive) Tj
+-0.0001 Tc
+0.1451 Tw
+20.18 0 Td
+[ ( in the com) 8 (i) -2 (ng election ) ] TJ
+0.0006 Tc
+0.1427 Tw
+10.135 0 Td
+[ (in next three m) 8 (onths\054 ) ] TJ
+0.0009 Tc
+-0.0021 Tw
+-30.315 -2.3 Td
+[ (which is th) 6 (e subjec) 5 (t of) ] TJ
+0.0003 Tc
+-0.0003 Tw
+8.995 0 Td
+( the next section\056  ) Tj
+/TT1 1 Tf
+0 Tc
+0 Tw
+-8.995 -2.31 Td
+(2\0562) Tj
+/TT2 1 Tf
+( ) Tj
+/TT1 1 Tf
+0.001 Tc
+-0.001 Tw
+2.25 0 Td
+[ (Electora) 6 (l) -1 ( Polit) 4 (ics) 5 ( ) ] TJ
+/TT0 1 Tf
+0.0009 Tc
+0.0041 Tw
+-2.25 -2.29 Td
+[ (For Prim) 9 (e Minis) 5 (t) -1 (er Th) 6 (aksin Shinawatra\054 winin) 6 (g) 1 ( th) 12 (e election m) 9 (i) -1 (ght not be as) ] TJ
+0.0008 Tc
+30.495 0 Td
+[ ( difficu) 6 (lt as) 5 ( achieving) 6 ( ) ] TJ
+0.0003 Tc
+0.0439 Tw
+-30.495 -2.3 Td
+[ (a one\055party governm) 8 (e) -1 (nt\054 which could not be possibl) ] TJ
+0.0446 Tw
+[ (e withou) 5 (t tak) 5 (i) -2 (ng in) 5 (to) 5 ( account the interests of) 8 ( ) ] TJ
+0.001 Tc
+0.0342 Tw
+0 -2.295 TD
+[ (his supporters as well as) 5 ( his constitu) 6 (encies\056  It is) 5 ( clear that th) 6 (e success of the Prim) 9 (e Minis) 5 (t) -1 (er an) 6 (d ) ] TJ
+0.0005 Tc
+0.2095 Tw
+0 -2.3 TD
+[ (his party) 6 ( in) 6 ( the prev) 6 (io) 6 (us electi) ] TJ
+-0.0001 Tc
+0.2084 Tw
+13.12 0 Td
+(on was partly because of his cl) Tj
+0.0003 Tc
+0.2097 Tw
+13.525 0 Td
+[ (ose ties with) 5 ( larg) 5 (e busin) 5 (esses) 5 ( ) ] TJ
+0.1147 Tw
+-26.645 -2.3 Td
+(through financial contributions to the party fo) Tj
+0.1151 Tw
+18.975 0 Td
+[ (r the election ca) -6 (m) 8 (paign\056  Thus\054 on one hand\054 his ) ] TJ
+-0.0001 Tc
+0.1301 Tw
+-18.975 -2.3 Td
+[ (econom) 8 (ic growth\055driven policies\054 including that) ] TJ
+-0.0008 Tc
+0.1308 Tw
+19.76 0 Td
+( of GMOs and the Thailand\055US FTA pact\054 are ) Tj
+0.0011 Tc
+0.0139 Tw
+-19.76 -2.3 Td
+[ (very im) 9 (portant to) 6 ( m) 9 (aintain such) 6 ( re) 5 (la) 5 (tionship) 6 (s\056  ) ] TJ
+0.0127 Tw
+18.98 0 Td
+[ (If) 4 ( GMOs are perm) 9 (itted as) 5 ( im) 9 (plicitly g) 6 (u) 1 (ided by th) 6 (e) 5 ( ) ] TJ
+-0.0001 Tc
+0.1188 Tw
+-18.98 -2.3 Td
+(US\054 those people could s) Tj
+0.1201 Tw
+10.39 0 Td
+[ (ubstantially benefit directly from) 8 ( ) ] TJ
+0.0003 Tc
+0.1187 Tw
+13.91 0 Td
+[ (GMOs and indirectly from) 8 ( the FT) 6 (A ) ] TJ
+0.2496 Tw
+-24.3 -2.3 Td
+(with the US\054 including increase) Tj
+0.2484 Tw
+(d profit of export\055oriented agri) Tj
+-0.0002 Tc
+0.2502 Tw
+26.865 0 Td
+(\055businesses and other special ) Tj
+0.0004 Tc
+-0.0004 Tw
+-26.865 -2.3 Td
+[ (treatm) 8 (ents of Thai export in the US m) 8 (a) -1 (rket\056   ) ] TJ
+-0.0004 Tc
+0.0499 Tw
+T*
+(On the other hand\054 gaining 350 out of 500 seats in ) Tj
+-0.0007 Tc
+0.0507 Tw
+20.8 0 Td
+(the lower house to be ab) Tj
+0.0002 Tc
+0.0448 Tw
+(le to establish a one\055) Tj
+0.0001 Tc
+0.2549 Tw
+-20.8 -2.3 Td
+[ (party governm) 8 (e) -1 (nt is not easy without paying a) ] TJ
+0.0004 Tc
+0.2529 Tw
+20.305 0 Td
+[ (ttention to his consti) 7 (tuencies\056  Though their ) ] TJ
+0.0002 Tc
+0.0481 Tw
+-20.305 -2.3 Td
+[ (satisfactions to the perform) 8 (a) -1 (nce ) ] TJ
+0 Tc
+0.05 Tw
+13.185 0 Td
+[ (of his governm) 8 (e) -6 (nt\054 especially in ) ] TJ
+-0.0002 Tc
+0.0489 Tw
+13.295 0 Td
+[ (regard to econom) 8 (ic growth\054 the ) ] TJ
+0.0008 Tc
+0.1677 Tw
+-26.48 -2.3 Td
+[ (m) 9 (ajority of) 4 ( Thai people) 5 ( are s) 5 (t) -1 (ill reluctant to ) ] TJ
+-0.0002 Tc
+0.1689 Tw
+19.075 0 Td
+(accept GMOs and could pot) Tj
+0.0004 Tc
+0.1671 Tw
+11.89 0 Td
+(entially reflect their ) Tj
+0.1334 Tw
+-30.965 -2.3 Td
+[ (discontent in the com) 8 (i) -2 (ng election\056 ) ] TJ
+0.0006 Tc
+0.1324 Tw
+14.445 0 Td
+[ ( This is very im) 8 (portant\054 sin) ] TJ
+0.0005 Tc
+0.1335 Tw
+11.445 0 Td
+[ (ce m) 8 (o) 1 (st Thais are s) 5 (w) 3 (ing voters\073 ) ] TJ
+0.0003 Tc
+0.0697 Tw
+-25.89 -2.3 Td
+(only those in few rural areas show their partisan ) Tj
+0.0007 Tc
+0.0693 Tw
+20.105 0 Td
+[ (royalty\056  Furtherm) 9 (ore\054 there is a high tendency ) ] TJ
+0.0003 Tc
+0.0247 Tw
+-20.105 -2.3 Td
+(that food safety panic could occur ) Tj
+0.0237 Tw
+13.98 0 Td
+[ (in Thai society from) 8 ( GMOs\054 as pr) ] TJ
+0.0002 Tc
+0.0248 Tw
+13.675 0 Td
+(ecedent of the sp) Tj
+0.0006 Tc
+0.0244 Tw
+6.815 0 Td
+(read of bird ) Tj
+0.0008 Tc
+-0.0008 Tw
+-34.47 -2.3 Td
+[ (flu from) 9 ( chicken\056 ) ] TJ
+ET
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 NRE\056G1\05631\0561 \055 Natural Resources \055 First year Graduate \055 Female \055 NNS \050L1\072 Thai\051 \055 Argumentative Essay) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(5) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+33 0 obj
+<<
+/Length 5687
+>>
+stream
+q
+BT
+0.602 g
+/GS0 gs
+/TT0 1 Tf
+12 0 0 12 73.2 745.5 Tm
+[ (Policy Decision Mem) 8 (o) -5 (  ) ] TJ
+/TT1 1 Tf
+0.0001 Tc
+-0.0017 Tw
+0 -1.15 TD
+(GMOs and the Politics of International Trade) Tj
+/TT0 1 Tf
+-0.0001 Tw
+19.555 0 Td
+[ ( ) -4670 (Resource Policy and Adm) 8 (i) -2 (nistration ) ] TJ
+0 Tc
+0 Tw
+-19.745 -1.15 Td
+( ) Tj
+0.19 -1.15 Td
+( ) Tj
+39 0 Td
+( ) Tj
+-39.19 -55.5 Td
+( ) Tj
+0.0006 Tc
+37.72 0 Td
+(5\0579 ) Tj
+0 g
+0.001 Tc
+0.1648 Tw
+-37.72 54.35 Td
+[ (The politics) 5 ( at m) 9 (acro\055le) 5 (vel could be translated) 6 ( ) ] TJ
+0.0008 Tc
+0.1634 Tw
+19.97 0 Td
+[ (into elec) 5 (tor) 4 (al politics\056  The role of) 4 ( anti\055GMO ) ] TJ
+0.0006 Tc
+0.0035 Tw
+-19.97 -2.3 Td
+(groups could be influential\054 especially during th) Tj
+0.001 Tc
+0.003 Tw
+19.165 0 Td
+[ (e tim) 9 (e of the election cam) ] TJ
+0 Tc
+0.005 Tw
+10.375 0 Td
+(paign\056  Given the public ) Tj
+0.0001 Tc
+0.0479 Tw
+-29.54 -2.3 Td
+[ (sensitivity to GMOs\054 it is a) 4 (l) -2 (so ) ] TJ
+0 Tc
+0.048 Tw
+[ (highly possible that those N) 7 (GOs c) ] TJ
+0.0001 Tc
+0.0499 Tw
+26.41 0 Td
+[ (ould easily m) 8 (obilize substantial ) ] TJ
+0.0004 Tc
+0.1396 Tw
+-26.41 -2.3 Td
+[ (people\054 probably through the m) 8 (e) -1 (di) -7 (a\054 to reject ) 7 (the governm) 8 (e) -1 (nt\054 if GMOs were to be approved\056 ) 140 ( ) ] TJ
+0.1339 Tw
+0 -2.3 TD
+[ (The adoptio) 5 (n of GMOs could also be a sign) 5 (ifi) ] TJ
+0.0005 Tc
+0.132 Tw
+19.46 0 Td
+[ (cant target of the opposition) 6 ( party to attack th) 6 (e ) ] TJ
+0.0006 Tc
+0.2594 Tw
+-19.46 -2.3 Td
+[ (governm) 8 (e) -1 (nt for benefiting his supporters at the e) ] TJ
+0.2601 Tw
+21.3 0 Td
+[ (xpense of m) 8 (a) -1 (jority of Thais\056  This could ) ] TJ
+0.0008 Tc
+0.2075 Tw
+-21.3 -2.3 Td
+[ (significan) 6 (tly) 6 ( affect the possibili) ] TJ
+0.0004 Tc
+0.2076 Tw
+13.265 0 Td
+[ (ty of reelectio) 5 (n\054 since the com) 8 (i) ] TJ
+-0.0001 Tc
+13.37 0 Td
+(ng election could constitute a ) Tj
+0.0006 Tc
+0.1094 Tw
+-26.635 -2.295 Td
+[ (collectiv) 6 (e action arena for the fragm) 8 (e) -1 (nted\054 disper) ] TJ
+0.0005 Tc
+0.1095 Tw
+20.3 0 Td
+[ (se\054 but large general public to becom) 8 (e) -6 ( visible ) ] TJ
+0.0008 Tc
+0.0242 Tw
+-20.3 -2.3 Td
+[ (and inf) 4 (l) -1 (uential in the is) 5 (su) 6 (e\056  In contra) 5 (st to the anti\055GMOs side in the elec) 5 (toral politics\054) 6 ( the role of) 4 ( ) ] TJ
+0.0304 Tw
+T*
+[ (pro\055GMOs actors\054 m) 9 (ainly m) 9 (u) 1 (ltinatio) 6 (nal agri\055businesses\054) ] TJ
+0.0006 Tc
+0.0294 Tw
+22.635 0 Td
+[ ( is silent in the public arena\056  In afraid of) 9 ( ) ] TJ
+0.1543 Tw
+-22.635 -2.3 Td
+[ (producing \047) 6 (b) 1 (ad\047) 6 ( i) -6 (m) 9 (ages) -5 ( in the public eye\054 they ) ] TJ
+0.0002 Tc
+0.1548 Tw
+[ (could only push forwa) -6 (r) -2 (d their interests behind ) ] TJ
+0.0001 Tc
+-0.0001 Tw
+T*
+(politicians through partisan support\056 ) Tj
+/TT1 1 Tf
+0 Tc
+0 Tw
+0 -2.31 TD
+(2\0563) Tj
+/TT2 1 Tf
+( ) Tj
+/TT1 1 Tf
+0.0006 Tc
+-0.0006 Tw
+2.25 0 Td
+[ (Action Channel Polit) 4 (ic) 4 (s ) ] TJ
+/TT0 1 Tf
+0.0001 Tc
+0.0099 Tw
+-2.25 -2.29 Td
+[ (The policy o) 5 (n adoption o) 5 (f) 3 ( GMOs will be directed) ] TJ
+-0.0001 Tc
+0.0086 Tw
+19.89 0 Td
+[ ( through) 5 ( the negotiation) 5 ( of Thailand\055US FTA to ) ] TJ
+0 Tc
+0.03 Tw
+-19.89 -2.3 Td
+(gain other benefits from the free trade\056  Since se) Tj
+-0.0002 Tc
+0.0289 Tw
+19.475 0 Td
+(veral pieces of laws are ) Tj
+0 Tc
+0.0283 Tw
+9.78 0 Td
+[ (subjected to be m) 8 (odified ) ] TJ
+0.0005 Tc
+0.0188 Tw
+-29.255 -2.3 Td
+[ (as result of the FTA\054 the agreem) 8 (ent is) 5 (\054 acco) 6 (rding ) ] TJ
+-0.0002 Tc
+0.0202 Tw
+19.91 0 Td
+[ (to the Constitution\054) 5 ( m) 8 (a) -1 (nd) ] TJ
+0.0005 Tc
+0.0157 Tw
+10.22 0 Td
+[ (ated to the a) 4 (pproval of) 9 ( ) ] TJ
+0.0004 Tc
+0.0056 Tw
+-30.13 -2.3 Td
+[ (the Nation) 5 (a) -1 (l Assem) 8 (bly\054 com) 8 (prising the Represen) 5 (tati) ] TJ
+0.0001 Tc
+0.0049 Tw
+20.91 0 Td
+[ (ve House and the Senate\056  One m) 8 (a) -6 (jor concern ) ] TJ
+0.0005 Tc
+0.0135 Tw
+-20.91 -2.3 Td
+[ (that the US will push into the FTA is) 5 ( the IP r) 4 (i) -2 (ght) ] TJ
+0.0009 Tc
+0.0122 Tw
+19.695 0 Td
+[ ( protec) 5 (tion to) 6 ( include p) 6 (atents on a) 5 (ll living thing) 6 (s) 5 ( ) ] TJ
+0.0002 Tc
+0.4039 Tw
+-19.695 -2.3 Td
+(as required for biotechnological trade\056  Un) Tj
+0.0004 Tc
+0.4021 Tw
+(fortunately\054 the IP ) Tj
+0.0002 Tc
+0.4048 Tw
+28.115 0 Td
+(issue goes beyond GMO ) Tj
+0 Tc
+0.04 Tw
+-28.115 -2.3 Td
+[ (controversies\073 such patent system) 8 ( would not only ) ] TJ
+0.0008 Tc
+0.0392 Tw
+20.24 0 Td
+[ (rais) 5 (e the p) 6 (r) -1 (ices) 5 ( of plan) 6 (t and an) 6 (im) 9 (al breeds\054 bu) 6 (t) -6 ( ) ] TJ
+0.0004 Tc
+-0.0014 Tw
+-20.24 -2.3 Td
+[ (also affect public access to m) 8 (e) -1 (dicine\056 ) ] TJ
+0.0002 Tc
+0.049 Tw
+0 -2.3 TD
+[ (Given PM\047) 5 (s) -1 ( powerful leadership and a m) 8 (a) -1 (jority of) ] TJ
+0.0001 Tc
+0.0482 Tw
+20.375 0 Td
+[ ( the governm) 8 (e) -1 (nt party in the lower house\054 it is ) ] TJ
+0.0009 Tc
+0.1124 Tw
+-20.375 -2.3 Td
+[ (not so d) 6 (i) -1 (f) 4 (f) 4 (i) -1 (cult to pa) 5 (ss the agr) 4 (eem) 9 (ent\056  Th) 6 (is is ) ] TJ
+0.001 Tc
+0.1133 Tw
+19.6 0 Td
+[ (unlike) 5 (l) -1 (y th) 6 (e) 5 ( case) 5 ( in) 6 ( the) 5 ( Senate\054) 6 ( as) 5 ( key sena) 5 (tors) 5 ( ) ] TJ
+ET
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 NRE\056G1\05631\0561 \055 Natural Resources \055 First year Graduate \055 Female \055 NNS \050L1\072 Thai\051 \055 Argumentative Essay) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(6) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+34 0 obj
+<<
+/Length 5536
+>>
+stream
+q
+BT
+0.602 g
+/GS0 gs
+/TT0 1 Tf
+12 0 0 12 73.2 745.5 Tm
+[ (Policy Decision Mem) 8 (o) -5 (  ) ] TJ
+/TT1 1 Tf
+0.0001 Tc
+-0.0017 Tw
+0 -1.15 TD
+(GMOs and the Politics of International Trade) Tj
+/TT0 1 Tf
+-0.0001 Tw
+19.555 0 Td
+[ ( ) -4670 (Resource Policy and Adm) 8 (i) -2 (nistration ) ] TJ
+0 Tc
+0 Tw
+-19.745 -1.15 Td
+( ) Tj
+0.19 -1.15 Td
+( ) Tj
+39 0 Td
+( ) Tj
+-39.19 -55.5 Td
+( ) Tj
+0.0006 Tc
+37.72 0 Td
+(6\0579 ) Tj
+0 g
+0.0001 Tc
+0.0606 Tw
+-37.72 54.35 Td
+[ (working on GMOs and IP issues have developed an infor) -7 (m) 3 (ation network and work closely with ) ] TJ
+0.0005 Tc
+0.0038 Tw
+0 -2.3 TD
+(NGOs and grassroots organizations\056  Since the new pa) Tj
+0.0015 Tc
+0.0022 Tw
+21.79 0 Td
+[ (tent system) 9 ( is still ques) ] TJ
+0.0003 Tc
+0.003 Tw
+9.305 0 Td
+(tionable in regard to ) Tj
+0.0005 Tc
+0.0145 Tw
+-31.095 -2.3 Td
+(the justice viewpoint\054 it would be difficult to lob) Tj
+0.0002 Tc
+0.0148 Tw
+19.495 0 Td
+[ (by those key players in the Senate to agree upon\056 ) 15 ( ) ] TJ
+0.0006 Tc
+0.1035 Tw
+-19.495 -2.3 Td
+[ (Moreover\054 the logic of econom) 8 (ic growth throug) ] TJ
+0.1043 Tw
+19.71 0 Td
+[ (h GMOs se) -5 (em) 9 (s problem) 9 (atically justified\054 given ) ] TJ
+0.0004 Tc
+0.1079 Tw
+-19.71 -2.3 Td
+(alternatives of agricultural deve) Tj
+0.0002 Tc
+0.1098 Tw
+13.02 0 Td
+(lopment\054 e\056g\056 organic agriculture\054 ) Tj
+-0.0004 Tc
+0.1104 Tw
+13.995 0 Td
+(as well as alternatives of free ) Tj
+0.0005 Tc
+0.1907 Tw
+-27.015 -2.3 Td
+[ (trade\054 e\056g\056 multinational pact throu) 6 (gh ) -9 (W) 9 (T) 1 (O\056 ) ] TJ
+0.0004 Tc
+0.1946 Tw
+[ ( Especially\054 the m) 8 (ultilateral FTA th) 5 (rough WTO) -7 ( ) ] TJ
+0.0001 Tc
+0.0149 Tw
+T*
+[ (under Dr\056 S) 6 (upachai Panitchpakdi\054 a ) ] TJ
+0.0002 Tc
+0.0138 Tw
+14.48 0 Td
+[ (Thai leadership\054 m) 8 (i) -2 (ght not be as) ] TJ
+-0.0004 Tc
+0.0144 Tw
+12.9 0 Td
+( hopeless as in previous trade ) Tj
+0.0004 Tc
+0.0338 Tw
+-27.38 -2.295 Td
+(negotiations\054 given a good progress in pushing devel) Tj
+0.0346 Tw
+21.31 0 Td
+[ (oping countries\047) 6 ( interests in the recent W) 9 (T) 1 (O) 8 ( ) ] TJ
+0.0001 Tc
+0 Tw
+-21.31 -2.3 Td
+(negotiation\056 ) Tj
+/TT1 1 Tf
+0 Tc
+0 -2.31 TD
+(3) Tj
+/TT2 1 Tf
+( ) Tj
+/TT1 1 Tf
+-0.0001 Tc
+0.0001 Tw
+1.8 0 Td
+(Administrative Feasibility ) Tj
+/TT0 1 Tf
+0.0003 Tc
+0.1167 Tw
+-1.8 -2.29 Td
+[ (It is equally im) 8 (portant to forese) ] TJ
+0.0005 Tc
+0.1189 Tw
+13.17 0 Td
+[ (e) 4 ( p) 6 (o) 1 (tential administra) 4 (tive) 4 ( s) 5 (cenar) 4 (ios if) 4 ( GMOs were to b) 6 (e) -1 ( f) 4 (r) -1 (ee) 4 (ly ) ] TJ
+0.0002 Tc
+0.3031 Tw
+-13.17 -2.3 Td
+(commercialized\056  Additional to a new patent ) Tj
+-0.0001 Tc
+0.3042 Tw
+20.125 0 Td
+[ (system) 8 (\054 the adoption of GMOs requires the ) ] TJ
+0.0003 Tc
+0.2647 Tw
+-20.125 -2.3 Td
+[ (establishm) 8 (ent of institu) ] TJ
+0.2638 Tw
+9.86 0 Td
+(tions to be responsible for\072 i\051 re) Tj
+0.0007 Tc
+0.2605 Tw
+14.14 0 Td
+[ (search and developm) 9 (ent \050R\046D\051\054 ii\051 ) ] TJ
+0.0004 Tc
+0.2046 Tw
+-24 -2.3 Td
+[ (practice m) 8 (a) -6 (nagem) 8 (e) -1 (nt\227screening\057ap) ] TJ
+0.0009 Tc
+0.2033 Tw
+14.78 0 Td
+[ (proval\054) 6 ( segr) 4 (egation) 6 ( and) 6 ( m) 9 (onitoring) 6 (\054 and iii\051 G) 8 (M lab) 6 (eling) 6 (\056) 6 ( ) 209 ( ) ] TJ
+0.0002 Tc
+0.0548 Tw
+-14.78 -2.3 Td
+(Though newly\055established and existing institutio) Tj
+-0.0001 Tc
+0.0559 Tw
+19.72 0 Td
+(ns\072 BIOTEC\057NBC\054 DOA\054 and FDA\054 are already ) Tj
+0.0011 Tc
+-0.0039 Tw
+-19.72 -2.3 Td
+[ (assigned the) 5 (se tasks\054 res) 5 (p) 1 (ectiv) 6 (ely\054 it is lik) 6 (ely th) ] TJ
+0.0008 Tc
+-0.0028 Tw
+18.86 0 Td
+[ (at serious im) 9 (plem) 9 (entation problem) 9 (s would occur\056 ) ] TJ
+/TT1 1 Tf
+0 Tc
+0 Tw
+-18.86 -2.31 Td
+(3\0561) Tj
+/TT2 1 Tf
+( ) Tj
+/TT1 1 Tf
+2.25 0 Td
+(Internal Conflicts and Resistance ) Tj
+/TT0 1 Tf
+0.0011 Tc
+0.0839 Tw
+-2.25 -2.29 Td
+[ (Several c) 5 (r) -1 (uc) 5 (ial prob) 6 (lem) 9 (s of) 4 ( respectiv) 6 (e agencie) 5 (s implem) 9 (enting the policy) 6 (\054) 1 ( f) 4 (i) -1 (rst of) 4 ( all\054) 6 ( arise f) 4 (r) -1 (om ) ] TJ
+0.0003 Tc
+0.3147 Tw
+0 -2.3 TD
+(potential conflicts between a) Tj
+0.0002 Tc
+12.42 0 Td
+(ssigned responsibilitie) Tj
+0.0001 Tc
+0.3129 Tw
+9.23 0 Td
+(s and existing organizational values and ) Tj
+0 Tc
+0.209 Tw
+-21.65 -2.3 Td
+[ (culture\056  NBC is dom) 8 (inated by ) ] TJ
+-0.0001 Tc
+0.2101 Tw
+13.72 0 Td
+(scientific values an) Tj
+-0.0007 Tc
+0.2107 Tw
+8.08 0 Td
+(d even is originated) Tj
+-0.0004 Tc
+0.2104 Tw
+8.48 0 Td
+[ ( under adm) 7 (i) -3 (nistrative ) ] TJ
+0 Tc
+0.2258 Tw
+-30.28 -2.3 Td
+[ (control of BIOTEC\227t) -7 (he key R\046D agency prom) ] TJ
+0.0005 Tc
+0.2245 Tw
+20.905 0 Td
+(oting GMOs\054 thus resulting in its potential ) Tj
+0.0632 Tw
+-20.905 -2.3 Td
+(disregard of social and environm) Tj
+0.0003 Tc
+0.0655 Tw
+13.425 0 Td
+(ental effects of GMOs and its t) Tj
+0.0002 Tc
+0.0635 Tw
+12.73 0 Td
+(echnological bias\056  Also\054 deeply ) Tj
+0.0003 Tc
+0.2497 Tw
+-26.155 -2.3 Td
+(rooted in agricultural extension culture\227pr) Tj
+-0.0002 Tc
+0.2502 Tw
+18.395 0 Td
+(oviding knowledge\054 technology\054 seeds\054 and other ) Tj
+ET
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 NRE\056G1\05631\0561 \055 Natural Resources \055 First year Graduate \055 Female \055 NNS \050L1\072 Thai\051 \055 Argumentative Essay) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(7) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+35 0 obj
+<<
+/Length 5851
+>>
+stream
+q
+BT
+0.602 g
+/GS0 gs
+/TT0 1 Tf
+12 0 0 12 73.2 745.5 Tm
+[ (Policy Decision Mem) 8 (o) -5 (  ) ] TJ
+/TT1 1 Tf
+0.0001 Tc
+-0.0017 Tw
+0 -1.15 TD
+(GMOs and the Politics of International Trade) Tj
+/TT0 1 Tf
+-0.0001 Tw
+19.555 0 Td
+[ ( ) -4670 (Resource Policy and Adm) 8 (i) -2 (nistration ) ] TJ
+0 Tc
+0 Tw
+-19.745 -1.15 Td
+( ) Tj
+0.19 -1.15 Td
+( ) Tj
+39 0 Td
+( ) Tj
+-39.19 -55.5 Td
+( ) Tj
+0.0006 Tc
+37.72 0 Td
+(7\0579 ) Tj
+0 g
+0.0005 Tc
+-0.0005 Tw
+-37.72 54.35 Td
+[ (m) 8 (eans of production\054 D) 8 (OA see) -6 (m) 8 (s unaware of the pr) ] TJ
+0 Tc
+0 Tw
+20.86 0 Td
+(ivatized knowledge and pot) Tj
+0.0001 Tc
+-0.0017 Tw
+11.025 0 Td
+(ential risks of GM ) Tj
+0.0004 Tc
+0.1479 Tw
+-31.885 -2.3 Td
+(crops\056  Intentional provis) Tj
+0.0008 Tc
+10.45 0 Td
+[ (ion of) 4 ( GM seed in a) 5 ( trial s) 5 (t) -1 (age) 5 ( to) ] TJ
+0.0005 Tc
+0.1495 Tw
+14.355 0 Td
+[ ( a neighb) 6 (or farm) 8 (er that caus) 5 (e) -1 (s th) 6 (e ) ] TJ
+-0.0003 Tc
+0.0119 Tw
+-24.805 -2.3 Td
+(recent leaking of GM) Tj
+0.0007 Tc
+0.0083 Tw
+8.61 0 Td
+[ ( papaya clearly illustrates the m) 9 (i) -1 (ndsets ) ] TJ
+0.0003 Tc
+0.0103 Tw
+15.79 0 Td
+[ (of DOA\056  It) -7 ( is yet possible that DOA ) ] TJ
+0.0007 Tc
+0.0737 Tw
+-24.4 -2.3 Td
+[ (m) 9 (ay resist to policy) 6 ( cha) 5 (nge if) 4 ( GMOs com) 9 (e into a ) ] TJ
+0.0003 Tc
+0.0722 Tw
+20.68 0 Td
+(play\054 since the role of ) Tj
+0.0006 Tc
+0.0719 Tw
+[ (trad) 6 (itional extens) 5 (ion is) 5 ( ) ] TJ
+0.0004 Tc
+0.0408 Tw
+-20.68 -2.3 Td
+(significantly reduced\056  Also\054 ine) Tj
+0.0002 Tc
+0.0423 Tw
+12.95 0 Td
+[ (ffective m) 8 (a) -1 (nagem) 8 (e) -1 (nt of GM) -6 ( crop ) ] TJ
+0.0381 Tw
+13.84 0 Td
+(would potentially be expected\054 ) Tj
+0.0005 Tc
+-0.0005 Tw
+-26.79 -2.3 Td
+[ (due to DOA\047s self\055m) 8 (onitoring system\056 ) ] TJ
+0.0009 Tc
+0.1382 Tw
+0 -2.3 TD
+[ (Sim) 9 (ilar conf) 4 (lic) 5 (ts reg) 6 (ard) 6 (ing the new IP system) 9 ( ) ] TJ
+-0.0001 Tc
+0.1401 Tw
+19.495 0 Td
+(could also be anticipated\056  The policy adopting ) Tj
+0.0001 Tc
+0.1149 Tw
+-19.495 -2.295 Td
+[ (GMOs through FTA implies patent im) 8 (posed on s) ] TJ
+0.0004 Tc
+0.1138 Tw
+[ (eeds and living m) 8 (a) -1 (tters in Thailand\054 which is ) ] TJ
+0 Tc
+0.125 Tw
+T*
+[ (likely to pose serious adm) 8 (i) -2 (nist) ] TJ
+0.0009 Tc
+0.1241 Tw
+12.66 0 Td
+[ (r) 4 (ativ) 6 (e prob) 6 (lem) 9 (s\056  Notwith) 6 (standing sub) 6 (s) 5 (tantial resou) 6 (r) -1 (ces) 5 ( requ) 6 (ire) 5 (d) 6 ( ) ] TJ
+0.0003 Tc
+0.2137 Tw
+-12.66 -2.3 Td
+(for developing its totally new data) Tj
+0.0006 Tc
+0.2144 Tw
+14.765 0 Td
+[ (base\054 its co) 6 (nf) 4 (licts with) 6 ( Thai ) ] TJ
+0.0005 Tc
+0.2132 Tw
+12.35 0 Td
+[ (cultural m) 8 (odel could lead to ) ] TJ
+0.0004 Tc
+0.0171 Tw
+-27.115 -2.3 Td
+(unintentional adverse effect) Tj
+0 Tc
+0.02 Tw
+11.15 0 Td
+(s on domestic biog) Tj
+-0.0001 Tc
+7.58 0 Td
+(enetic resources as well ) Tj
+-0.0005 Tc
+0.018 Tw
+9.795 0 Td
+[ (as indigenous innovations\056 ) 23 ( ) ] TJ
+0.0003 Tc
+0.0947 Tw
+-28.525 -2.3 Td
+(The fact that local biogenetic resources are ) Tj
+0.0922 Tw
+18.08 0 Td
+(public goods and that loca) Tj
+0.0896 Tw
+10.87 0 Td
+(l agricultural innovations ) Tj
+0 Tc
+0.105 Tw
+-28.95 -2.3 Td
+(are not intended for prof) Tj
+0.0008 Tc
+0.1032 Tw
+10.185 0 Td
+[ (it would c) 5 (l) -1 (ear) 4 (ly be co) 6 (nf) 4 (licting) 6 ( with ) ] TJ
+0 Tc
+0.105 Tw
+14.955 0 Td
+[ (the commercial purpose of patent\056 ) 105 ( ) ] TJ
+0.0005 Tc
+0.2095 Tw
+-25.14 -2.3 Td
+[ (As a result\054 dom) 8 (e) -1 (stic resources and knowledge ) ] TJ
+0.0003 Tc
+0.2097 Tw
+20.475 0 Td
+(would be prone to appropriation rather than ) Tj
+-0.0004 Tw
+-20.475 -2.3 Td
+[ (protected by the new IP right system) 8 (\056 ) ] TJ
+/TT1 1 Tf
+0 Tc
+0 Tw
+0 -2.31 TD
+(3\0562) Tj
+/TT2 1 Tf
+( ) Tj
+/TT1 1 Tf
+0.0003 Tc
+-0.0003 Tw
+2.25 0 Td
+[ (High Opera) 5 (tional Demand but Limited Reso) 5 (urces) 5 ( ) ] TJ
+/TT0 1 Tf
+0.0017 Tc
+0.0033 Tw
+-2.25 -2.29 Td
+[ (The m) 10 (o) 2 (st dif) 5 (f) 5 (icult tasks to im) 10 (plem) 10 (ent are GM ) ] TJ
+0.0004 Tc
+0.0062 Tw
+18.655 0 Td
+[ (practice m) 8 (a) -1 (nagem) 8 (e) -1 (nt\227segregation and m) 8 (onitoring ) ] TJ
+-0.0005 Tc
+0.0946 Tw
+-18.655 -2.3 Td
+(responsible by DOA\056  Given no si) Tj
+-0.0003 Tc
+0.0953 Tw
+14.135 0 Td
+(gnificant difference of physical) Tj
+0.0954 Tw
+12.805 0 Td
+[ ( appearance betw) 7 (een GM and ) ] TJ
+0.0002 Tc
+0.1898 Tw
+-26.94 -2.3 Td
+[ (non\055GM crops or produce\054 segregation and m) 8 (on) ] TJ
+0.0005 Tc
+0.1895 Tw
+20.385 0 Td
+[ (itoring tasks are very difficult but extrem) 8 (ely ) ] TJ
+0.0003 Tc
+0.0947 Tw
+-20.385 -2.3 Td
+[ (im) 8 (portant\054 if) 8 ( Thailand still want ) ] TJ
+0.0005 Tc
+0.0899 Tw
+13.46 0 Td
+[ (to keep its organic produce sector in the world m) 8 (a) -1 (rket\056  These ) ] TJ
+0.001 Tc
+0.324 Tw
+-13.46 -2.3 Td
+[ (com) 9 (p) 1 (licated) 6 ( tasks im) 9 (ply dem) 9 (and of addition) 6 (al ) ] TJ
+0.0003 Tc
+0.323 Tw
+20.665 0 Td
+(types of expertise a) Tj
+0.0001 Tc
+0.3232 Tw
+8.72 0 Td
+(nd equipments\054 e\056g\056 in ) Tj
+0.0005 Tc
+0.152 Tw
+-29.385 -2.3 Td
+(monitoring on agricultural ) Tj
+0 Tc
+0.155 Tw
+[ (biodiversity\056  Despite DOA\047) 5 (s) -1 ( large ) ] TJ
+0.0007 Tc
+0.1553 Tw
+26.11 0 Td
+[ (am) 9 (ount of resources in term) 9 ( of ) ] TJ
+-0.0001 Tc
+0.1151 Tw
+-26.11 -2.3 Td
+(quantity of staffs and local offi) Tj
+0.0006 Tc
+0.1114 Tw
+12.935 0 Td
+[ (ces throughout the country\054 the dem) 8 (a) ] TJ
+0.0003 Tc
+0.1159 Tw
+15.4 0 Td
+(nd of staffs with technical ) Tj
+ET
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 NRE\056G1\05631\0561 \055 Natural Resources \055 First year Graduate \055 Female \055 NNS \050L1\072 Thai\051 \055 Argumentative Essay) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(8) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+36 0 obj
+<<
+/Length 5636
+>>
+stream
+q
+BT
+0.602 g
+/GS0 gs
+/TT0 1 Tf
+12 0 0 12 73.2 745.5 Tm
+[ (Policy Decision Mem) 8 (o) -5 ( ) ] TJ
+/TT1 1 Tf
+0.0001 Tc
+-0.0017 Tw
+0 -1.15 TD
+(GMOs and the Politics of International Trade) Tj
+/TT0 1 Tf
+-0.0001 Tw
+19.555 0 Td
+[ ( ) -4670 (Resource Policy and Adm) 8 (i) -2 (nistration ) ] TJ
+0 Tc
+0 Tw
+-19.745 -1.15 Td
+( ) Tj
+0.19 -1.15 Td
+( ) Tj
+39 0 Td
+( ) Tj
+-39.19 -55.5 Td
+( ) Tj
+0.0006 Tc
+37.72 0 Td
+(8\0579 ) Tj
+0 g
+0.001 Tc
+0.114 Tw
+-37.72 54.35 Td
+[ (knowledge in i) -6 (m) 9 (plem) 9 (ent the policy pose a new lim) 9 (it in) ] TJ
+0.0001 Tc
+0.1149 Tw
+23.08 0 Td
+( term of quality of av) Tj
+0.0006 Tc
+0.1144 Tw
+9.045 0 Td
+[ (ailable resources\056 ) 115 ( ) ] TJ
+0.0002 Tc
+0.0898 Tw
+-32.125 -2.3 Td
+[ (W) 9 (ithout trainings\054 add) 5 (itional staffs and necessary) ] TJ
+0.0005 Tc
+0.0895 Tw
+[ ( equipm) 8 (ents\054 which im) 8 (ply huge fin) 6 (a) -1 (ncial cost\054) 6 ( ) ] TJ
+0.0001 Tc
+-0.0009 Tw
+0 -2.3 TD
+(practice of GM crops could not be) Tj
+-0.0013 Tw
+13.72 0 Td
+[ ( m) 8 (a) -1 (naged or controlled properly\056 ) ] TJ
+/TT1 1 Tf
+0 Tc
+0 Tw
+-13.72 -2.31 Td
+(3\0563) Tj
+/TT2 1 Tf
+( ) Tj
+/TT1 1 Tf
+2.25 0 Td
+(Problems of Shared Responsibility ) Tj
+/TT0 1 Tf
+0.0005 Tc
+0.1685 Tw
+-2.25 -2.29 Td
+[ (Problem) 8 (s of coordination am) 8 (ong re) -6 (sponsible agenci) ] TJ
+0.0008 Tc
+0.1654 Tw
+21.655 0 Td
+(es are also likely\054 si) Tj
+0 Tc
+0.1675 Tw
+8.54 0 Td
+(nce Thai bureaucratic ) Tj
+0.04 Tw
+-30.195 -2.3 Td
+(process does not facilitate hor) Tj
+0.0003 Tc
+0.0372 Tw
+12.095 0 Td
+[ (izon comm) 8 (unications acros) ] TJ
+0.0397 Tw
+11.015 0 Td
+[ (s different m) 8 (i) -2 (nistries) ] TJ
+-0.0001 Tc
+0.0384 Tw
+8.355 0 Td
+(\056  The coordination ) Tj
+0.2461 Tw
+-31.465 -2.3 Td
+[ (am) 8 (ong BIOTEC and NBC for R\046) ] TJ
+0.2451 Tw
+14.92 0 Td
+[ (D\054 DOA for practice and m) 8 (onitoring\054 and FDA for GM ) ] TJ
+0.0009 Tc
+0.1941 Tw
+-14.92 -2.295 Td
+[ (labeling has) 5 ( to pass ve) 5 (r) 4 (tica) 5 (lly throu) 6 (gh m) 9 (i) -1 (niste) 5 (r) -1 (ial lev) 6 (el\054 i\056) 6 (e\056) 6 ( Science\054 A) 8 (g) 1 (ricu) 6 (ltur) 4 (e\054 a) 5 (nd Public ) ] TJ
+0.0001 Tc
+0.119 Tw
+T*
+(Health Ministries\054 respectively\056  Lack of coordi) Tj
+0 Tc
+0.12 Tw
+19.655 0 Td
+(nation would potentially l) Tj
+-0.0002 Tc
+0.1168 Tw
+10.665 0 Td
+(ead to overlapping or ) Tj
+0.0001 Tc
+0.3099 Tw
+-30.32 -2.3 Td
+(even conflicting responsibilities among those ag) Tj
+0.0003 Tc
+0.3107 Tw
+20.855 0 Td
+[ (encies having different interests\056  W) 9 (ithout) -7 ( ) ] TJ
+0.0859 Tw
+-20.855 -2.3 Td
+[ (effective co) 5 (mmunicatio) 5 (n\054 common resources\054 incl) ] TJ
+-0.0001 Tc
+0.0851 Tw
+20.335 0 Td
+[ (uding equipm) 8 (ents\054 infor) -7 (m) 8 (ation database could ) ] TJ
+0.0001 Tc
+-0.0011 Tw
+-20.335 -2.3 Td
+(not be shared properly and huge ) Tj
+0.0002 Tc
+-0.0012 Tw
+(amount of resources would be re) Tj
+-0.0001 Tc
+0.0001 Tw
+(quired to acquire their own\056 ) Tj
+0.0005 Tc
+0.1245 Tw
+T*
+[ (Macro\055po) 6 (litics could) 6 ( potentially) 6 ( create d) 6 (i) -2 (fficulti) ] TJ
+0.0011 Tc
+0.1222 Tw
+19.765 0 Td
+[ (e) 5 (s in im) 9 (plementing) 6 ( GM ) ] TJ
+-0.0003 Tc
+0.1253 Tw
+10.265 0 Td
+(approval and labeling\054 ) Tj
+0.0003 Tc
+0.0288 Tw
+-30.03 -2.3 Td
+[ (and even harness im) 8 (plem) 8 (entation off its bio\055safety) ] TJ
+0.028 Tw
+20.385 0 Td
+( concern\056  Beneficiarie) Tj
+-0.0001 Tc
+0.0288 Tw
+9.135 0 Td
+[ (s from) 8 ( GM) -6 (Os are likely) -5 ( ) ] TJ
+0.0007 Tc
+0.0923 Tw
+-29.52 -2.3 Td
+(to lobby politicians that could in) Tj
+0.0003 Tc
+0.0963 Tw
+13.455 0 Td
+[ (fluence DOA\047) 6 (s approval process\056 ) ] TJ
+0.0006 Tc
+0.0927 Tw
+13.81 0 Td
+[ ( Likewise\054 strict\054 com) 8 (pulsory ) ] TJ
+0.0003 Tc
+-0.0003 Tw
+-27.265 -2.3 Td
+[ (labeling could actually be very hard to im) 8 (ple) -6 (m) 8 (ent due to the politics\056 ) ] TJ
+/TT1 1 Tf
+0 Tc
+0 Tw
+0 -2.31 TD
+(4) Tj
+/TT2 1 Tf
+( ) Tj
+/TT1 1 Tf
+0.0004 Tc
+-0.0004 Tw
+1.8 0 Td
+[ (Proposed Strateg) 5 (i) -2 (es) 5 ( ) ] TJ
+/TT0 1 Tf
+0.099 Tw
+-1.8 -2.29 Td
+(Despite a decision NOT to adopt GMOs freely is) Tj
+-0.0001 Tc
+0.1001 Tw
+20.41 0 Td
+[ ( recomm) 8 (ended\054 it could be taken strategically ) ] TJ
+0.0012 Tc
+0.0038 Tw
+-20.41 -2.3 Td
+[ (accord) 6 (ing to) 6 ( particu) 6 (l) -1 (ar d) 6 (ecis) 5 (i) -1 (on chan) 6 (nels\054 either to ) ] TJ
+0.0014 Tc
+0.0023 Tw
+20.48 0 Td
+[ (further its advantage o) 6 (r) -1 ( to m) 9 (itigate) 5 ( its im) 9 (pacts\056  ) ] TJ
+0.0003 Tc
+0.009 Tw
+-20.48 -2.3 Td
+[ (In other words\054 this decision should not be m) 8 (a) -1 (de) -6 ( ) ] TJ
+0.0002 Tc
+0.0098 Tw
+[ (extrem) 8 (ely to one standpoint\056  As one possibility\054 ) ] TJ
+0.0003 Tc
+-0.0008 Tw
+0 -2.3 TD
+(it should not be taken as rejecting the technology itsel) Tj
+-0.001 Tw
+21.54 0 Td
+[ (f\054 but as being aware of its potential adverse) -6 ( ) ] TJ
+-0.0004 Tc
+0.2354 Tw
+-21.54 -2.3 Td
+[ (im) 7 (pacts\056  In the IUCN Congress\054 the decided pos) ] TJ
+0.0002 Tc
+0.2323 Tw
+21.415 0 Td
+(ition could strategically) Tj
+-0.0008 Tc
+0.2345 Tw
+9.91 0 Td
+( be used to create ) Tj
+0.0004 Tc
+0.2946 Tw
+-31.325 -2.3 Td
+(opportunities for Thailand to gain a good envir) Tj
+0.0008 Tc
+0.2942 Tw
+20.825 0 Td
+[ (onm) 9 (ental im) 9 (age as well as to reclaim) 9 ( the ) ] TJ
+ET
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 NRE\056G1\05631\0561 \055 Natural Resources \055 First year Graduate \055 Female \055 NNS \050L1\072 Thai\051 \055 Argumentative Essay) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(9) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+37 0 obj
+<<
+/Length 4760
+>>
+stream
+q
+BT
+0.602 g
+/GS0 gs
+/TT0 1 Tf
+12 0 0 12 73.2 745.5 Tm
+[ (Policy Decision Mem) 8 (o) -5 ( ) ] TJ
+/TT1 1 Tf
+0.0001 Tc
+-0.0017 Tw
+0 -1.15 TD
+(GMOs and the Politics of International Trade) Tj
+/TT0 1 Tf
+-0.0001 Tw
+19.555 0 Td
+[ ( ) -4670 (Resource Policy and Adm) 8 (i) -2 (nistration ) ] TJ
+0 Tc
+0 Tw
+-19.745 -1.15 Td
+( ) Tj
+0.19 -1.15 Td
+( ) Tj
+39 0 Td
+( ) Tj
+-39.19 -55.5 Td
+( ) Tj
+0.0006 Tc
+37.72 0 Td
+(9\0579 ) Tj
+0 g
+0.0002 Tc
+0.2388 Tw
+-37.72 54.35 Td
+(confidence of Thai non\055GM agricultural export\056) Tj
+/TT1 1 Tf
+0.24 Tc
+0 Tw
+20.36 0 Td
+(  ) Tj
+/TT0 1 Tf
+-0.0006 Tc
+0.2406 Tw
+(As one of the world largest organic food ) Tj
+0.0005 Tc
+0.072 Tw
+-20.36 -2.3 Td
+[ (producer\054 T) 6 (h) 1 (ailand could enhance this strength to ) ] TJ
+0 Tc
+0.075 Tw
+20.575 0 Td
+(fully exploit opportunities) Tj
+0.0733 Tw
+10.59 0 Td
+( in the international ) Tj
+0.0003 Tc
+0.2537 Tw
+-31.165 -2.3 Td
+[ (m) 8 (a) -1 (rket\056  Deciding not to a) ] TJ
+0.0001 Tc
+0.2539 Tw
+11.71 0 Td
+[ (dopt GMOs\054 but to prom) 8 (ote orga) ] TJ
+-0.0006 Tc
+0.2556 Tw
+14.43 0 Td
+(nic produce could strategically ) Tj
+0.0003 Tc
+-0.0013 Tw
+-26.14 -2.3 Td
+[ (respond to the worldwide consum) 8 (ers\047) 6 ( awareness ) ] TJ
+-0.0002 Tc
+0.0009 Tw
+19.505 0 Td
+(of GM food as well as bio\055safety concerns\056 ) Tj
+0.001 Tc
+0.174 Tw
+-19.505 -2.3 Td
+[ (In m) 9 (itigatin) 6 (g its politic) 5 (al im) 9 (pacts on the Thai) ] TJ
+0.1731 Tw
+19.31 0 Td
+[ (land\055US tra) 5 (d) 1 (e rela) 5 (tions) 5 (hip as well as cam) 9 (paign) 6 ( ) ] TJ
+0.0002 Tc
+0.0773 Tw
+-19.31 -2.3 Td
+(supporters\054 the decision could be ) Tj
+-0.0004 Tc
+0.0795 Tw
+(taken rather as a delay in GM) Tj
+-0.0007 Tc
+26.08 0 Td
+[ (O comme) -7 (rcialization\056  It sounds ) ] TJ
+0.0002 Tc
+0.0585 Tw
+-26.08 -2.3 Td
+[ (acceptable n) 5 (ot to) 5 ( adopt GMOs until Thailand is read) ] TJ
+0.0003 Tc
+0.058 Tw
+21.46 0 Td
+[ (y) 5 ( for it or even for m) 8 (a) -1 (king such a decision) 5 (\056 ) 58 ( ) ] TJ
+0.0002 Tc
+0.3248 Tw
+-21.46 -2.295 Td
+[ (In fact\054 given controversies on G) 7 (M) -1 (Os\054 the ) ] TJ
+0 Tc
+0.325 Tw
+(ongoing draft of bio\055safety law by appointed ) Tj
+0.0004 Tc
+0.3296 Tw
+0 -2.3 TD
+[ (comm) 8 (ittee of both sides would inevitably be ) ] TJ
+0.0005 Tc
+0.3295 Tw
+20.345 0 Td
+[ (delayed\056  However\054 if com) 8 (p) 1 (leted\054 it would ) ] TJ
+0.0004 Tc
+0.1046 Tw
+-20.345 -2.3 Td
+(significantly reduce controversies\056) Tj
+0.1047 Tw
+13.965 0 Td
+(  Instead of pushing forward the policy before completion of ) Tj
+0.0005 Tc
+0.0323 Tw
+-13.965 -2.3 Td
+(the law\054 PM could take this as a ) Tj
+0.0008 Tc
+0.0332 Tw
+13.245 0 Td
+[ (stra) 5 (tegy to de) 5 (lay) 6 ( the de) 5 (cis) 5 (i) -1 (o) 6 (n) 1 ( as well as to explo) 6 (it su) 6 (ch conf) 4 (lic) 5 (t\055) ] TJ
+0.0005 Tc
+0.0639 Tw
+-13.245 -2.3 Td
+[ (resolu) 6 (tion p) 6 (o) 1 (tential of) 4 ( the law\056  A new patent sy) ] TJ
+0.0008 Tc
+0.0625 Tw
+[ (stem) 9 ( could\054 likewise\054 be ) ] TJ
+0.0002 Tc
+0.0623 Tw
+29.955 0 Td
+(another justification of ) Tj
+0.0001 Tc
+0.0749 Tw
+-29.955 -2.3 Td
+[ (Thailand\047) 5 (s readiness\056  Controvers) ] TJ
+0.0009 Tc
+0.0736 Tw
+13.515 0 Td
+[ (ies) 5 ( over th) 6 (ese issues a) 5 (r) -1 (e lik) 6 (ely to p) 6 (r) -1 (olo) 6 (ng the trade) 5 ( negotia) 5 (tio) 6 (n) 6 ( ) ] TJ
+0.0002 Tc
+0.1898 Tw
+-13.515 -2.3 Td
+[ (process as well\056  Personal comm) 8 (unications wi) ] TJ
+0.0001 Tc
+0.1899 Tw
+19.5 0 Td
+[ (th key leaderships of cam) 8 (paign supporters and ) ] TJ
+0.0002 Tc
+-0.0007 Tw
+-19.5 -2.3 Td
+(those of the US\054 such as Senator Bond\054 in regard ) Tj
+0 Tc
+0 Tw
+19.665 0 Td
+(to the suspension could be helpful\056  This channel ) Tj
+0.0011 Tc
+0.188 Tw
+-19.665 -2.3 Td
+[ (allows in) 6 (clu) 6 (d) 1 (ing the jus) 5 (tif) 4 (ica) 5 (tion of) 9 ( the dec) 5 (i) -1 (sio) 6 (n) ] TJ
+0.1877 Tw
+20.41 0 Td
+[ ( in te) 5 (rm) 9 (s of) 4 ( electo) 6 (r) -1 (al politics to star) 4 (t a new) 8 ( ) ] TJ
+0.0002 Tc
+0.1131 Tw
+-20.41 -2.3 Td
+[ (negotiation after the P) 6 (M) -1 (\047) 5 (s) -1 ( reelection\054 with str) ] TJ
+0 Tc
+0.1133 Tw
+18.715 0 Td
+(onger political capital a) Tj
+-0.0008 Tc
+0.1158 Tw
+9.75 0 Td
+(nd probably a united one\055) Tj
+0.0003 Tc
+-0.0003 Tw
+-28.465 -2.3 Td
+[ (party governm) 8 (e) -1 (nt to push such) ] TJ
+0 Tc
+0 Tw
+12.33 0 Td
+( a controversial policy\056 ) Tj
+ET
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 NRE\056G1\05631\0561 \055 Natural Resources \055 First year Graduate \055 Female \055 NNS \050L1\072 Thai\051 \055 Argumentative Essay) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(10) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+38 0 obj
+<<
+/Length 20488
+>>
+stream
+q
+BT
+/Artifact <<
+/Type /Pagination
+/BBox [ 73.2 707.6759 544.2 764.7841 ]
+/Attached [ /Top ]
+/Subtype /Header
+>> BDC
+/CS0 cs
+0.6 scn
+/TT0 1 Tf
+0.001 Tc
+-0.001 Tw
+12 0 0 12 73.2 752.7 Tm
+[ (P) 2 (oli) -1 (cy D) 4 (eci) 4 (s) 5 (i) -1 (on M) 2 (em) 9 (o) ] TJ
+0 Tc
+0 Tw
+9.22 0 Td
+[ (\227A) 2 (ppe) -1 (ndi) -2 (x  ) ] TJ
+/TT1 1 Tf
+0.001 Tc
+-0.001 Tw
+-9.22 -1.145 Td
+[ (G) -1 (MO) -1 (s an) 3 (d) 2 ( ) 5 (t) -1 (h) 2 (e P) 2 (oli) 4 (t) -1 (i) -1 (cs ) 5 (of In) 2 (t) -1 (ern) 2 (at) 5 (i) 4 (on) 3 (al T) 3 (rad) 3 (e) ] TJ
+/TT0 1 Tf
+0 Tc
+0 Tw
+( ) Tj
+0.001 Tc
+-0.001 Tw
+24.475 0 Td
+[ (R) 3 (esour) 1 (ce P) ] TJ
+0.002 Tc
+-0.002 Tw
+4.53 0 Td
+[ (o) 7 (lic) 1 (y a) 3 (nd A) 8 (d) 7 (m) 10 (ini) 2 (s) 1 (tra) 1 (tion) ] TJ
+0 Tc
+0 Tw
+9.995 0 Td
+( ) Tj
+0 -1.15 TD
+( ) Tj
+-39 -1.15 Td
+( ) Tj
+39 0 Td
+( ) Tj
+EMC
+/Artifact <<
+/Type /Pagination
+/BBox [ 70.92 27.4559 541.92 43.2241 ]
+/Attached [ /Bottom ]
+/Subtype /Footer
+>> BDC
+-39.19 -56.685 Td
+( ) Tj
+37.72 0 Td
+[ (1\057) -2 (1 ) ] TJ
+EMC
+/P <<
+/MCID 0
+>> BDC
+0 scn
+0.002 Tc
+-0.002 Tw
+-37.72 55.535 Td
+[ (W) 6 (hi) 2 (le) 1 ( ) ] TJ
+0 Tc
+0 Tw
+2.71 0 Td
+[ (T) 1 (ha) -1 (i) 3 (l) 3 (a) -1 (nd ) ] TJ
+0.015 Tw
+3.815 0 Td
+[ (i) -2 (s) 4 ( \047) 5 (not) -2 ( r) 3 (e) -1 (a) -1 (dy\047) ] TJ
+0 Tw
+5.045 0 Td
+( ) Tj
+-0.003 Tc
+0.003 Tw
+0.265 0 Td
+[ (for) -8 ( ) ] TJ
+-0.002 Tc
+0.002 Tw
+1.43 0 Td
+[ (GM) -3 (O) ] TJ
+0 Tc
+0 Tw
+[ (s) -1 (\054 ) -15 (t) -2 (he) -1 ( ) ] TJ
+0.001 Tc
+-0.001 Tw
+4.72 0 Td
+[ (r) -1 (e) 5 (cent ) ] TJ
+-0.005 Tc
+0.02 Tw
+2.705 0 Td
+[ (l) -7 (e) -6 (a) -6 (ki) -7 (ng) -5 ( of) ] TJ
+0 Tc
+0 Tw
+4.035 0 Td
+( ) Tj
+0.001 Tc
+0.014 Tw
+0.265 0 Td
+[ (G) 3 (M pa) 1 (p) 6 (aya) 1 ( ) ] TJ
+0.002 Tc
+0.013 Tw
+[ (in) 7 ( the) 8 ( N) 9 (or) 2 (the) 3 (a) 1 (s) 6 (t ) 5 (re) 1 (gi) 7 (on) -1 ( ) ] TJ
+0 Tc
+0.05 Tw
+-24.99 -1.15 Td
+[ (ha) -1 (s) -1 ( pus) -1 (he) -1 (d t) 3 (he) -1 ( G) 2 (M) -1 (O) 2 ( de) -6 (ba) -1 (t) -2 (e) -1 ( ) ] TJ
+0.002 Tc
+0.048 Tw
+[ (to ) 2 (i) 5 (ts) 1 ( d) 7 (e) 1 (c) 1 (is) 6 (ion ) 4 (poi) 4 (n) 7 (t ) ] TJ
+-0.002 Tw
+(in) Tj
+0 Tc
+0 Tw
+20.93 0 Td
+[ ( ) -50 (t) -2 (he) -1 ( ) ] TJ
+-0.002 Tc
+0.052 Tw
+1.825 0 Td
+[ (I) -4 (UC) 5 (N Congr) -10 (e) -3 (s) -3 (s) -3 (\056) ] TJ
+0 Tc
+0 Tw
+6.71 0 Td
+[ ( ) -50 ( ) ] TJ
+0.05 Tw
+0.6 0 Td
+[ (D) 2 (r) -2 (i) -2 (ve) -1 (n by) ] TJ
+0 Tw
+( ) Tj
+0.001 Tc
+0.049 Tw
+4.38 0 Td
+[ (do) -3 (m) 9 (est) -1 (i) -1 (c as) 5 ( ) ] TJ
+0.002 Tc
+0.098 Tw
+-34.445 -1.15 Td
+[ (w) 4 (e) 1 (ll a) 1 (s) 1 ( int) 2 (e) 6 (r) 5 (na) 3 (tiona) 10 (l) ] TJ
+0 Tc
+0 Tw
+[ ( ) -100 (pol) 3 (i) -2 (t) -2 (i) 3 (c) -1 (s) -1 (\054 ) ] TJ
+0.002 Tc
+0.103 Tw
+12.21 0 Td
+[ (P) 3 (rim) 10 (e) 1 ( M) 1 (ini) 2 (s) 6 (te) 1 (r ) ] TJ
+0 Tc
+0.1 Tw
+6.485 0 Td
+[ (of) 3 ( T) 1 (ha) -1 (i) -2 (l) -2 (a) -1 (nd ) ] TJ
+0.002 Tc
+0.098 Tw
+[ (w) 4 (i) 5 (ll ha) 3 (v) ] TJ
+0 Tc
+0.1 Tw
+8.44 0 Td
+[ (e) -1 ( t) -2 (o de) -1 (c) -1 (i) -2 (de) -1 ( w) 2 (he) -1 (t) -2 (h) 5 (e) -1 (r) -2 ( or) -2 ( not) -2 ( t) -2 (o ) ] TJ
+-0.003 Tc
+0.003 Tw
+-27.135 -1.15 Td
+[ (a) -4 (l) -5 (l) -5 (ow) -4 ( c) -4 (om) -3 (me) ] TJ
+0.001 Tc
+-0.001 Tw
+5.415 0 Td
+[ (r) -1 (ci) 4 (al) -1 (i) 4 (zat) 4 (i) -1 (on) 7 ( of) 5 ( G) 3 (MO) 3 (s) ] TJ
+0 Tc
+0 Tw
+[ (\056) -5 ( ) ] TJ
+-5.415 -1.15 Td
+( ) Tj
+/TT1 1 Tf
+0 -1.16 TD
+(D) Tj
+-0.003 Tc
+0.003 Tw
+9.48 0 0 9.48 79.56 628.44 Tm
+[ (E) -1 (C) -9 (IS) -10 (IO) -3 (N) -2 ( ) ] TJ
+0 Tc
+0 Tw
+12 0 0 12 122.1 628.44 Tm
+(M) Tj
+-0.002 Tc
+0.002 Tw
+9.48 0 0 9.48 133.44 628.44 Tm
+[ (A) -1 (K) -2 (ER) ] TJ
+0 Tc
+0 Tw
+12 0 0 12 160.86 628.44 Tm
+( ) Tj
+/TT0 1 Tf
+0.18 Tw
+-7.495 -1.14 Td
+[ (T) 1 (ha) -1 (ks) -1 (i) -2 (n S) 1 (hi) 3 (na) -1 (w) 2 (a) -1 (t) -2 (r) -2 (a) -1 ( be) -1 (c) 4 (a) -1 (m) 8 (e) -1 ( ) -5 (P) 1 (r) -2 (i) -2 (m) 8 (e) -1 ( ) -5 (M) -1 (i) -2 (ni) -2 (s) 4 (t) -2 (e) -1 (r) -2 ( of) 3 ( T) 1 (ha) -1 (i) -2 (l) -2 (a) -1 (nd un) 5 (de) -1 (r) -2 ( t) -2 (he) -1 ( c) -1 (ou) 5 (nt) -2 (r) -2 (y\047) 5 (s) -1 ( ) -5 (m) 8 (o) ] TJ
+0.001 Tc
+-0.001 Tw
+(st) Tj
+0 Tc
+0 Tw
+34.315 0 Td
+( ) Tj
+0.001 Tc
+-0.001 Tw
+0.43 0 Td
+[ (de) 1 (m) 9 (oc) 1 (r) -1 (at) -1 (i) -1 (c ) ] TJ
+0 Tc
+0 Tw
+-34.745 -1.15 Td
+[ (c) -1 (ons) -1 (t) -2 (i) 3 (t) -2 (ut) 3 (i) -2 (on ) ] TJ
+0.001 Tc
+-0.001 Tw
+4.99 0 Td
+[ (eve) 1 (r) -1 ( ) ] TJ
+0 Tc
+0.015 Tw
+1.99 0 Td
+[ (i) -2 (n 2001) ] TJ
+0.001 Tc
+0.014 Tw
+3.04 0 Td
+[ (\054 ) 1 (af) 4 (t) -1 (er) -1 ( ei) -1 (ght) 1 ( ) 5 (ye) 1 (ar) -1 (s i) -1 (n ) 1 (his ) 5 (pol) 1 (i) -1 (t) 4 (i) -1 (ca) 5 (l) -1 ( car) 4 (eer) -1 (\056) ] TJ
+0 Tc
+0.015 Tw
+15.975 0 Td
+(  ) Tj
+0 Tw
+(H) Tj
+0.015 Tw
+1.25 0 Td
+[ (i) -2 (s) -1 ( pa) -1 (r) 3 (t) -2 (y w) 2 (on t) -2 (he) ] TJ
+0 Tw
+6.465 0 Td
+( ) Tj
+0.002 Tc
+0.013 Tw
+0.265 0 Td
+[ (e) 1 (le) 1 (c) 1 (t) 5 (ion ) 4 (w) 4 (ith ) ] TJ
+0.148 Tw
+-33.975 -1.15 Td
+[ (a) 1 (lm) 10 (os) 3 (t a) 1 (n ) 2 (a) 1 (bs) 3 (ol) 2 (ut) 2 (e) 1 ( m) 10 (a) 1 (jor) 2 (ity) ] TJ
+0 Tc
+0 Tw
+11.54 0 Td
+(\227) Tj
+0.15 Tw
+[ (248 ) 5 (out) -2 ( of) 3 ( 500 s) -1 (e) -1 (a) -1 (t) -2 (s) -1 ( ) 5 (i) -2 (n t) -2 (he) 4 ( pa) -1 (r) -2 (l) -2 (i) 3 (a) -1 (m) 8 (e) -1 (nt) ] TJ
+0.002 Tc
+0.148 Tw
+17.125 0 Td
+[ (\056 ) 2 ( S) 3 (ta) 1 (rt) 5 (ing ) 4 (w) 4 (ith ) 2 (a) 1 ( f) 5 (or) 2 (e) 1 (ig) 7 (n) 7 ( ) ] TJ
+0 Tc
+0.06 Tw
+-28.665 -1.15 Td
+[ (m) 8 (i) -2 (ni) -2 (s) -1 (t) -2 (e) -1 (r) -2 ( a) -1 (nd) 5 ( de) -1 (put) -2 (y) ] TJ
+0 Tw
+(\055) Tj
+0.002 Tc
+0.058 Tw
+8.4 0 Td
+[ (pr) 7 (i) 5 (m) 10 (e) 1 ( ) -5 (m) 10 (ini) 2 (s) 1 (te) 1 (r in ) ] TJ
+0 Tc
+0 Tw
+7.315 0 Td
+[ (a) -1 ( ) ] TJ
+0.06 Tw
+0.755 0 Td
+[ (c) -1 (oa) 4 (l) -2 (i) -2 (t) 3 (i) 3 (on gove) -1 (r) -2 (nm) 3 (e) -1 (nt) -2 (\054 he) -1 ( l) 3 (a) -1 (t) -2 (e) 4 (r) 3 ( f) 3 (ounde) -1 (d) ] TJ
+0 Tw
+( ) Tj
+0.06 Tw
+16.065 0 Td
+[ (hi) -2 (s) -1 ( ow) 2 (n pa) -1 (r) -2 (t) -2 (y i) 3 (n ) ] TJ
+0 Tw
+-32.535 -1.15 Td
+(1998 ) Tj
+0.002 Tc
+-0.002 Tw
+2.34 0 Td
+[ (w) 4 (ith) ] TJ
+0 Tc
+0 Tw
+1.78 0 Td
+( ) Tj
+0.09 Tw
+0.34 0 Td
+[ (huge) -1 ( f) 3 (i) -2 (na) -1 (nc) -1 (i) -2 (a) 4 (l) -2 ( r) -2 (e) -1 (s) -1 (our) -2 (c) 4 (e) -1 (s) -1 ( f) 3 (r) -2 (om) 3 ( hi) -2 (s) -1 ( bus) -1 (i) -2 (ne) -1 (s) -1 (s) -1 (\056  ) ] TJ
+0.001 Tc
+0.089 Tw
+[ (T) 2 (o ) 1 (T) 2 (ha) 1 (i) -1 ( vot) 1 (er) 4 (s\054 ) 1 (he) 1 ( ha) 1 (s be) 1 (en ) 1 (seen ) 1 (as t) -1 (he) 1 ( ) ] TJ
+-0.003 Tc
+0.003 Tw
+-4.46 -1.15 Td
+[ (mos) -7 (t) -5 ( ) ] TJ
+0.001 Tc
+-0.001 Tw
+[ (suc) 1 (ces) 5 (sf) 4 (ul\054 ) ] TJ
+0.002 Tc
+-0.002 Tw
+6.805 0 Td
+[ (libe) 3 (r) 5 (a) 1 (l\054 ) ] TJ
+0 Tc
+0 Tw
+3.055 0 Td
+[ (out) -2 (w) 2 (a) -1 (r) -2 (d\055) -2 (l) -2 (oo) 5 (ki) -2 (ng T) 1 (ha) -1 (i) -2 ( l) -2 (e) 4 (a) -1 (de) -1 (r) -2 (s) ] TJ
+0.002 Tc
+-0.002 Tw
+11.84 0 Td
+(\072 ) Tj
+0 Tc
+0 Tw
+[ (ho) 5 (l) -2 (di) 3 (ng a) -1 ( U) 2 (S) 1 ( doc) -6 (t) -2 (or) -2 (a) 4 (t) -2 (e) -1 ( ) ] TJ
+0.002 Tc
+-0.002 Tw
+[ (in c) 8 (ri) 5 (m) 10 (ina) 3 (l jus) 3 (tic) 6 (e) ] TJ
+-0.005 Tc
+0.005 Tw
+17.245 0 Td
+(\054 ) Tj
+0 Tc
+0 Tw
+-38.945 -1.15 Td
+(be) Tj
+0.11 Tw
+0.945 0 Td
+[ (c) -1 (om) 8 (i) -2 (ng t) -2 (he) -1 ( m) 8 (os) -1 (t) -2 ( ) ] TJ
+0.001 Tc
+-0.001 Tw
+[ (suc) 1 (cessf) 4 (ul ) ] TJ
+0 Tc
+0 Tw
+11.715 0 Td
+[ (t) -2 (r) 3 (a) -1 (ns) 4 (na) -1 (t) -2 (i) -2 (ona) 4 (l) -2 ( ) ] TJ
+0.11 Tw
+5.525 0 Td
+[ (bus) 4 (i) -2 (ne) -1 (s) -1 (s) -1 (m) 8 (a) -1 (n\054 a) -1 (nd ) ] TJ
+0 Tw
+[ (a) -1 (ppe) -1 (a) ] TJ
+-0.005 Tc
+0.005 Tw
+9.855 0 Td
+[ (l) -2 (i) -7 (ng ) ] TJ
+0.002 Tc
+-0.002 Tw
+1.91 0 Td
+(to) Tj
+0 Tc
+0 Tw
+0.78 0 Td
+( ) Tj
+0.11 Tw
+0.36 0 Td
+[ (m) 8 (ode) -1 (r) -2 (n t) -2 (e) -1 (c) -1 (hno) 5 (l) -2 (ogy) ] TJ
+-0.005 Tc
+0.005 Tw
+(\054 ) Tj
+0.001 Tc
+-0.001 Tw
+-31.09 -1.15 Td
+[ (and w) 5 (as expe) 2 (ct) -1 (ed ) ] TJ
+-0.003 Tc
+0.003 Tw
+7.31 0 Td
+[ (for) -8 ( ) ] TJ
+0 Tc
+0 Tw
+[ (hi) -2 (s) 4 ( \047C) 2 (E) 1 (O) -3 (\047 vi) -2 (s) -1 (i) -2 (on t) -2 (o br) -2 (i) -2 (ng t) -2 (h) 5 (e) -1 ( r) -2 (e) -1 (c) -1 (ove) -1 (r) -2 (y ) ] TJ
+-0.005 Tc
+0.005 Tw
+(of) Tj
+0 Tc
+0 Tw
+17.585 0 Td
+[ ( T) 1 (ha) -1 (i) -2 ( e) -1 (c) -1 (onom) 3 (y\056  ) -5 (O) 2 (nl) -2 (y ) ] TJ
+0.002 Tc
+-0.002 Tw
+[ (f) 5 (o) -3 (r tw) 4 (o ye) 5 (a) 1 (rs) -4 ( ) ] TJ
+0 Tc
+0 Tw
+-24.895 -1.15 Td
+[ (i) -2 (n ) -15 (t) -2 (h) 5 (e) -1 ( ) ] TJ
+0.015 Tw
+2.53 0 Td
+[ (pos) 4 (i) -2 (t) 3 (i) 3 (on\054 he) -1 ( ) ] TJ
+0.001 Tc
+0.014 Tw
+[ (cou) 7 (l) -1 (d) 6 ( suc) 1 (ce) 5 (ed) ] TJ
+0 Tc
+0 Tw
+10.585 0 Td
+( ) Tj
+0.015 Tw
+0.26 0 Td
+[ (i) -2 (n ) 5 (pul) -2 (l) -2 (i) -2 (ng) 5 ( T) 1 (ha) -1 (i) 3 (l) -2 (a) -1 (nd ou) 5 (t) -2 ( of) 3 ( t) 3 (he) -1 ( 1997) ] TJ
+0 Tw
+(\055) Tj
+0.001 Tc
+0.014 Tw
+14.415 0 Td
+[ (98) 7 ( ) 5 (A) 3 (si) -1 (an ) 1 (f) 4 (i) -1 (na) 1 (nc) 6 (i) -1 (al) 4 ( cr) 4 (i) -1 (si) -1 (s\054) 6 ( f) 4 (or) 5 ( ) ] TJ
+0 Tc
+0.015 Tw
+-27.79 -1.15 Td
+[ (hi) -2 (s) -1 ( boos) -1 (t) 3 ( of) 3 ( T) 1 (ha) -1 (i) -2 (l) -2 (a) -1 (nd\047) 5 (s) -1 ( e) 4 (xpor) -2 (t) -2 ( m) 8 (a) -1 (r) -2 (ke) -1 (t) -2 ( t) -2 (hr) -2 (ough) 5 ( t) -2 (r) 3 (a) 4 (de) -1 ( ne) -1 (got) -2 (i) 3 (a) -1 (t) 3 (i) 3 (ons) -1 ( a) -1 (s) -1 ( w) 2 (e) -1 (l) 3 (l) -2 ( ) 5 (a) -1 (s) -1 ( f) 3 (or) ] TJ
+0 Tw
+31.34 0 Td
+( ) Tj
+0.001 Tc
+-0.001 Tw
+0.265 0 Td
+(a ) Tj
+0 Tc
+0.015 Tw
+0.71 0 Td
+[ (pop) 5 (ul) -2 (i) -2 (s) -1 (t) 3 ( pr) -2 (ogr) 3 (a) -1 (m) -2 ( ) ] TJ
+0.001 Tc
+0.179 Tw
+-32.315 -1.15 Td
+[ (t) -1 (ha) 1 (t) 4 ( f) 4 (eat) -1 (ur) 5 (e) 5 (d ) 1 (che) 1 (ap) 6 ( m) 9 (e) -5 (dical) 4 ( ca) 5 (r) -1 (e\054 ) 6 (a r) -1 (o) 6 (t) -1 (at) 4 (i) -1 (ng ) 2 (c) 5 (r) -1 (edi) 5 (t) -1 ( sch) 6 (em) 4 (e f) 4 (or vi) 5 (l) -1 (l) -1 (ag) 6 (es\054 ) 1 (and) 7 ( a ) 5 (t) -1 (h) 6 (r) -1 (ee) ] TJ
+0 Tc
+0 Tw
+(\055) Tj
+-0.003 Tc
+0.183 Tw
+35.33 0 Td
+[ (y) 2 (e) -4 (a) -4 (r de) -2 (bt) -3 ( ) ] TJ
+0.002 Tc
+0.058 Tw
+-35.33 -1.15 Td
+[ (m) 5 (or) 2 (a) 1 (tor) 2 (ium) 12 ( f) 5 (or) 2 ( s) -4 (m) 10 (a) 1 (ll f) 5 (a) 1 (rm) 10 (e) 1 (rs) 1 (\056 ) 2 ( ) ] TJ
+-0.001 Tc
+0.001 Tw
+[ (Tha) -3 (t) ] TJ
+0 Tc
+0 Tw
+14.74 0 Td
+( ) Tj
+0.06 Tw
+0.31 0 Td
+[ (c) -1 (om) 8 (pr) -2 (e) -1 (he) -1 (ns) -1 (i) -2 (ve) -1 ( pl) -2 (a) -1 (n a) -1 (f) 3 (f) 3 (e) -1 (c) -1 (t) -2 (i) -2 (ng a) -1 ( ) 5 (l) -2 (a) -1 (r) -2 (g) 5 (e) 4 ( nu) -5 (m) 8 (be) -1 (r) -2 ( of) 3 ( ) -5 (pe) -1 (opl) -2 (e) -1 ( ha) -1 (s) 4 ( ) ] TJ
+0 Tw
+-15.05 -1.15 Td
+[ (r) -2 (a) -1 (i) -2 (s) -1 (e) -1 (d h) 5 (i) -2 (s) -1 ( po) 5 (pul) -2 (a) -1 (r) 3 (i) -2 (t) -2 (y i) -2 (n b) 5 (ot) -2 (h ur) -2 (ba) -1 (n\055) ] TJ
+0.001 Tc
+-0.001 Tw
+14.09 0 Td
+[ (b) 6 (us) 1 (i) -1 (ne) 1 (ss an) ] TJ
+0 Tc
+-0.005 Tw
+4.585 0 Td
+[ (d r) -2 (ur) -2 (a) -1 (l) ] TJ
+0 Tw
+2.635 0 Td
+(\055) Tj
+0.002 Tc
+-0.002 Tw
+0.335 0 Td
+[ (a) 1 (g) 7 (ric) 1 (u) 7 (l) 5 (tur) 2 (a) 6 (l s) 1 (e) 1 (c) 6 (tor) 2 (s) 1 (\056) ] TJ
+0 Tc
+0 Tw
+7.88 0 Td
+( ) Tj
+-29.525 -1.15 Td
+( ) Tj
+0.001 Tc
+-0.001 Tw
+0 -1.15 TD
+[ (D) 3 (espit) -1 (e ) ] TJ
+0 Tc
+0 Tw
+[ (t) -2 (he) -1 ( ) ] TJ
+0.005 Tw
+[ (s) -1 (uc) -1 (c) -1 (e) -1 (s) -1 (s) -1 ( of) 3 ( e) 4 (c) -1 (onom) 8 (i) -2 (c) -1 ( pol) -2 (i) -2 (c) -1 (y\054 hi) -2 (s) -1 ( gov) 5 (e) 4 (r) -2 (nm) 8 (e) -1 (nt) ] TJ
+0 Tw
+22.465 0 Td
+( ) Tj
+0.001 Tc
+0.004 Tw
+0.255 0 Td
+[ (w) 3 (as m) 4 (uc) 1 (h ) 1 (cr) -1 (i) -1 (t) 4 (i) -1 (ci) 4 (zed ) 1 (on ) 2 (ci) -1 (v) 6 (i) -1 (l) -1 ( l) 4 (i) -1 (be) 6 (r) -1 (t) -1 (i) 4 (es ) ] TJ
+-0.005 Tc
+0.005 Tw
+[ (a) -6 (nd) -5 ( ) ] TJ
+0 Tc
+0 Tw
+-22.72 -1.15 Td
+[ (gove) -1 (r) -2 (nm) 8 (e) -1 (nt) -2 (\055) ] TJ
+0.06 Tw
+5.11 0 Td
+[ (bus) -1 (i) -2 (ne) -1 (s) -1 (s) 4 ( r) -2 (e) 4 (l) 3 (a) -1 (t) -2 (i) -2 (ons) -1 (h) 5 (i) -2 (p) ] TJ
+0.002 Tc
+0.058 Tw
+[ (\056 ) 2 ( ) 5 (H) 4 (e) 1 ( ha) 3 (s) 1 ( l) 5 (it) 5 (tle) 6 ( tol) 2 (e) 6 (ra) 1 (nc) 8 (e) 1 ( f) 5 (or) 2 ( ) ] TJ
+-0.003 Tc
+0.003 Tw
+[ (c) -4 (ri) -5 (ti) -5 (c) -4 (is) -4 (m) ] TJ
+0 Tc
+0 Tw
+23.485 0 Td
+[ (s) -1 ( ) ] TJ
+0.001 Tc
+0.059 Tw
+0.705 0 Td
+[ (and ) 2 (ha) 1 (s b) 6 (ee) 5 (n ) 1 (accus) 1 (ed) 6 ( of) 10 ( ) ] TJ
+0.002 Tc
+0.068 Tw
+-29.3 -1.15 Td
+[ (a) 1 (tte) 1 (m) 10 (pt) 2 (ing ) 4 (t) 5 (o ) 2 (c) 1 (ont) 4 (ro) 7 (l th) 7 (e) 1 ( m) 10 (e) 1 (d) ] TJ
+0 Tc
+0.07 Tw
+12.105 0 Td
+[ (i) -2 (a) -1 (\054 t) -2 (hr) 3 (ough hi) -2 (s) -1 ( ) ] TJ
+0.001 Tc
+-0.001 Tw
+[ (f) 4 (am) 9 (i) -1 (l) -1 (y) -4 (\047) 6 (s ) ] TJ
+0.069 Tw
+9.71 0 Td
+[ (bus) 2 (i) -1 (ne) 1 (ss\056 ) 1 ( H) 3 (i) -1 (s pol) 6 (i) -1 (ci) -1 (e) 5 (s ar) -1 (e ) ] TJ
+-0.004 Tc
+0.004 Tw
+10.965 0 Td
+[ (a) -5 (l) -6 (so ) ] TJ
+0.001 Tc
+0.069 Tw
+1.93 0 Td
+[ (be) 1 (l) -1 (i) -1 (ev) 6 (ed ) 1 (t) 4 (o) 6 ( ) ] TJ
+0 Tc
+0.03 Tw
+-34.71 -1.15 Td
+[ (be) -1 ( i) -2 (n t) -2 (he) ] TJ
+0 Tw
+3.51 0 Td
+( ) Tj
+0.001 Tc
+-0.001 Tw
+0.28 0 Td
+[ (sel) 4 (f) ] TJ
+0 Tc
+0 Tw
+1.44 0 Td
+(\055) Tj
+0.001 Tc
+-0.001 Tw
+0.335 0 Td
+[ (i) -1 (nter) 4 (est) ] TJ
+0 Tc
+0 Tw
+2.95 0 Td
+( ) Tj
+0.03 Tw
+0.28 0 Td
+[ (of) 3 ( hi) -2 (s) -1 ( c) -1 (a) -1 (bi) -2 (ne) 4 (t) -2 ( t) 3 (ha) -1 (t) -2 ( i) -2 (s) -1 ( c) -1 (om) 8 (pr) -2 (i) -2 (s) -1 (e) -1 (d of) ] TJ
+0 Tw
+13.735 0 Td
+( ) Tj
+0.001 Tc
+0.029 Tw
+0.28 0 Td
+[ (seve) 1 (r) 4 (al) -1 ( f) 4 (orm) 9 (er) -1 ( l) -1 (e) -5 (ade) 1 (r) -1 (s of) 5 ( big ) 1 (bus) 2 (i) -1 (ne) 1 (sse) 5 (s\054 ) ] TJ
+-0.001 Tw
+-22.81 -1.15 Td
+[ (f) 4 (r) -1 (o) -4 (m) 9 ( ) -5 (m) 9 (edia\054 f) 5 (i) -1 (na) 1 (nc) 1 (e\054 te) 5 (l) 4 (ecom) 10 (s\054 to a) 1 (gri) -1 (cu) 6 (l) -1 (t) -1 (ur) 5 (al) -1 ( \050) ] TJ
+0 Tc
+0 Tw
+18.855 0 Td
+[ (p) 5 (r) 3 (oduc) -1 (e) -1 ( \046) -2 ( s) -1 (e) 4 (e) 4 (d\051) -2 ( i) -2 (ndus) -1 (t) 3 (r) -2 (y\056) 5 ( ) ] TJ
+-18.855 -1.15 Td
+( ) Tj
+/TT1 1 Tf
+0 -1.16 TD
+(D) Tj
+-0.003 Tc
+0.003 Tw
+9.48 0 0 9.48 79.56 338.64 Tm
+[ (E) -1 (C) -9 (IS) -10 (IO) -3 (N) -2 ( ) ] TJ
+0 Tc
+0 Tw
+12 0 0 12 122.04 338.64 Tm
+(P) Tj
+-0.003 Tc
+0.003 Tw
+9.48 0 0 9.48 129.42 338.64 Tm
+[ (O) -3 (IN) -9 (T) ] TJ
+0 Tc
+0 Tw
+12 0 0 12 153.72 338.64 Tm
+( ) Tj
+/TT0 1 Tf
+-6.9 -1.14 Td
+(T) Tj
+0.085 Tw
+0.61 0 Td
+[ (he) -1 ( I) -2 (U) 2 (C) 2 (N) 2 ( W) 4 (or) -2 (l) -2 (d C) 2 (ons) -1 (e) -1 (r) -2 (va) -1 (t) 3 (i) -2 (on C) 2 (o) 5 (ngr) -2 (e) -1 (s) -1 (s) ] TJ
+0 Tw
+16.335 0 Td
+[ (\054 ) -85 (c) -1 (om) 8 (pr) -2 (i) -2 (s) -1 (i) -2 (ng) 5 ( ) ] TJ
+0.001 Tc
+-0.001 Tw
+5.415 0 Td
+[ (de) 1 (l) 4 (e) 5 (ga) 1 (t) -1 (es ) ] TJ
+0.084 Tw
+4.055 0 Td
+[ (of) 5 ( st) 4 (at) 4 (es\054 ) 1 (gove) 3 (r) -1 (nm) 10 (ent age) 1 (n) 6 (ci) -1 (es) 5 (\054) -4 ( ) ] TJ
+0 Tc
+0.025 Tw
+-26.415 -1.15 Td
+[ (N) 2 (G) 2 (O) 2 (s) -1 (\054 gl) -2 (oba) -1 (l) -2 ( bus) 4 (i) -2 (ne) -1 (s) -1 (s) 4 ( l) 3 (e) -1 (a) -1 (de) -1 (r) -2 (s) 4 ( a) -1 (nd p) 5 (ol) -2 (i) -2 (t) 3 (i) -2 (c) -1 (i) 3 (a) -1 (ns) -1 ( ov) 5 (e) -1 (r) -2 ( ) 5 (t) -2 (he) -1 ( w) 2 (or) 3 (l) -2 (d) 5 (\054 w) 2 (i) -2 (l) -2 (l) 3 ( be) 4 ( ) ] TJ
+-0.003 Tc
+0.003 Tw
+[ (he) -7 (ld) ] TJ
+0 Tc
+0 Tw
+29.94 0 Td
+( ) Tj
+0.025 Tw
+0.275 0 Td
+[ (i) -2 (n B) 2 (a) -1 (ngko) 5 (k f) 3 (or) -2 ( de) -1 (ba) 4 (t) 3 (e) ] TJ
+0 Tw
+8.975 0 Td
+( ) Tj
+-39.19 -1.15 Td
+(on ) Tj
+0.045 Tw
+1.29 0 Td
+[ (114 m) 8 (ot) -2 (i) -2 (ons) ] TJ
+0 Tw
+5.015 0 Td
+( ) Tj
+0.04 Tw
+0.29 0 Td
+[ (t) -2 (o de) -1 (c) -1 (i) -2 (d) 5 (e) ] TJ
+0 Tw
+3.68 0 Td
+( ) Tj
+0.002 Tc
+0.033 Tw
+0.29 0 Td
+[ (the) 3 ( ) -5 (f) 5 (ut) 2 (ur) 2 (e) 1 ( di) 2 (re) 1 (c) 6 (tion ) -1 (of) 7 ( IU) 4 (C) 4 (N) ] TJ
+0 Tc
+0 Tw
+11.595 0 Td
+(\227) Tj
+0.045 Tw
+[ (T) 1 (he) -6 ( W) 9 (or) -2 (l) ] TJ
+0.04 Tw
+4.905 0 Td
+[ (d C) 2 (ons) -1 (e) -1 (r) -2 (va) -1 (t) 3 (i) -2 (on U) 2 (ni) -2 (on\056  ) ] TJ
+-0.004 Tc
+0.004 Tw
+[ (T) -3 (he) -9 (se ) ] TJ
+0 Tc
+0 Tw
+-27.065 -1.15 Td
+[ (not) -2 (i) -2 (ons) -1 ( ) ] TJ
+0.04 Tw
+3.235 0 Td
+[ (i) -2 (nc) 4 (l) 3 (ude) -1 ( a) -1 (n ) 5 (i) -2 (s) -1 (s) -1 (ue) 4 ( on w) 2 (he) -1 (t) -2 (he) 4 (r) -2 ( ) 5 (t) -2 (he) -1 ( I) -2 (U) 2 (C) 2 (N) 2 ( s) 4 (houl) -2 (d e) -1 (nc) -1 (ou) 5 (r) -2 (a) -1 (ge) -1 ( a) 4 ( m) 8 (or) -2 (a) -1 (t) -2 (or) -2 (i) -2 (um) 8 ( on f) 3 (u) -5 (r) -2 (t) -2 (he) -1 (r) 3 ( r) -2 (e) 4 (l) -2 (e) -1 (a) 4 (s) -1 (e) 4 ( ) ] TJ
+0.165 Tw
+-3.235 -1.15 Td
+[ (of) 3 ( G) 2 (M) -1 (O) 2 (s) -1 (\054 ) -5 (or) -2 ( he) -1 (l) -2 (p e) 4 (s) -1 (t) -2 (a) 4 (bl) -2 (i) -2 (s) -1 (h a) -1 ( s) -1 (o) 5 (un) 5 (d body of) 3 ( k) -5 (now) 2 (l) -2 (e) -1 (dge) -1 ( o) 5 (n e) -1 (nvi) -2 (r) -2 (onm) 8 (e) -1 (nt) -2 (a) -1 (l) -2 ( ) 5 (r) -2 (i) -2 (s) -1 (k) 5 (s) -1 ( a) 4 (nd i) -2 (m) 8 (pa) -1 (c) -1 (t) -2 (s) -1 (\056) -5 (  ) ] TJ
+0.02 Tw
+0 -1.15 TD
+[ (H) 2 (ow) 2 (e) -1 (ve) -1 (r) -2 (\054 i) -2 (t) -2 ( ) ] TJ
+0.002 Tc
+0.018 Tw
+5.01 0 Td
+[ (is) 1 ( l) 5 (ike) 3 (ly) ] TJ
+0 Tc
+0 Tw
+3.22 0 Td
+( ) Tj
+-0.003 Tc
+0.003 Tw
+0.265 0 Td
+[ (t) -5 (ha) -7 (t ) ] TJ
+-0.008 Tc
+0.008 Tw
+1.77 0 Td
+[ (me) -14 (m) -5 (be) -17 (r) -10 (s) ] TJ
+0 Tc
+0 Tw
+3.665 0 Td
+( ) Tj
+0.02 Tw
+0.27 0 Td
+[ (of) 3 ( t) -2 (he) -1 ( w) 2 (or) -2 (l) -2 (d\047) 5 (s) -1 ( ) 5 (l) -2 (a) -1 (r) -2 (ge) -1 (s) 4 (t) -2 ( c) -1 (ons) 4 (e) -1 (r) -2 (va) -1 (t) 3 (i) -2 (on or) -2 (g) 5 (a) -1 (ni) -2 (z) -1 (a) 4 (t) -2 (i) -2 (on ) ] TJ
+0 Tw
+[ (w) 7 (oul) -2 (d ) ] TJ
+0.001 Tc
+-0.001 Tw
+22.115 0 Td
+[ (cal) 4 (l) ] TJ
+0 Tc
+0 Tw
+1.445 0 Td
+( ) Tj
+-0.003 Tc
+0.003 Tw
+0.27 0 Td
+[ (for) -3 ( ) ] TJ
+0.001 Tc
+-0.001 Tw
+-38.03 -1.15 Td
+[ (a ha) 1 (l) -1 (t) -1 ( ) 5 (t) -1 (o the) 1 ( ) 5 (r) -1 (el) -1 (e) 5 (ase of) 5 ( ) ] TJ
+-0.002 Tc
+0.002 Tw
+[ (GM) -3 (O) ] TJ
+0.001 Tc
+-0.001 Tw
+(s\056) Tj
+0 Tc
+0 Tw
+12.025 0 Td
+( ) Tj
+-12.025 -1.15 Td
+( ) Tj
+0.03 Tw
+T*
+[ (F) 1 (or) -2 ( hi) -2 (s) -1 ( ) ] TJ
+0 Tw
+[ (op) 5 (e) -1 (n) 5 (i) -2 (ng ) -30 (s) ] TJ
+0.001 Tc
+-0.001 Tw
+7.005 0 Td
+[ (pe) 1 (e) 5 (ch) ] TJ
+0 Tc
+0 Tw
+2.33 0 Td
+( ) Tj
+0.03 Tw
+0.28 0 Td
+[ (f) 3 (or) -2 ( t) -2 (he) 4 ( c) -1 (onf) 3 (e) 4 (r) -2 (e) -1 (nc) -1 (e) ] TJ
+0.002 Tc
+0.028 Tw
+7.33 0 Td
+[ (\054 ) 2 (P) 8 (rim) 10 (e) 1 ( M) 1 (ini) 7 (s) 1 (te) 6 (r ) ] TJ
+0 Tc
+0.025 Tw
+[ (of) 3 ( T) 1 (ha) -1 (i) -2 (l) -2 (a) -1 (nd) 5 ( ) ] TJ
+0.001 Tc
+0.029 Tw
+11.8 0 Td
+[ (i) -1 (s f) 9 (aci) -1 (ng) ] TJ
+0 Tc
+0 Tw
+3.445 0 Td
+( ) Tj
+-0.003 Tc
+0.033 Tw
+0.28 0 Td
+[ (a) 1 ( di) -3 (l) -5 (e) 1 (mma) -4 ( i) -5 (n ) -3 (hi) -8 (s) -4 ( ) ] TJ
+0 Tc
+0 Tw
+-32.47 -1.15 Td
+[ (de) -1 (c) -1 (i) -2 (s) 4 (i) -2 (on ) ] TJ
+0.001 Tc
+0.284 Tw
+3.87 0 Td
+[ (on) 7 ( com) 5 (m) 9 (er) -1 (ci) -1 (al) -1 (i) -1 (za) 5 (t) -1 (i) -1 (on) 7 ( of) 5 ( ) 5 (G) 3 (MO) 3 (s i) -1 (n ) 6 (T) 2 (ha) 1 (i) -1 (l) -1 (and) ] TJ
+0 Tc
+0.28 Tw
+18.99 0 Td
+[ (\056) 5 ( ) -5 ( S) 1 (houl) -2 (d ) -5 (he) -1 ( a) -1 (nnounc) -1 (e) -1 ( ) ] TJ
+0.285 Tw
+10.525 0 Td
+[ (o) 5 (n s) -1 (uppor) -2 (t) 3 (i) -2 (n) 5 (g ) ] TJ
+0.001 Tc
+0.004 Tw
+-33.385 -1.15 Td
+[ (com) 5 (m) 4 (er) -1 (ci) -1 (al) 4 (i) 4 (zat) -1 (i) -1 (on) 7 ( of) 5 ( G) 3 (MO) 3 (s i) -1 (n ) 1 (t) -1 (he) 6 ( I) 4 (U) 3 (C) 3 (N) 3 ( con) ] TJ
+-0.001 Tw
+18.4 0 Td
+(gress) Tj
+0 Tc
+0.005 Tw
+2.055 0 Td
+[ (\077) -6 (  I) -2 (f) 3 ( s) -1 (o\054 ho) 5 (w) 2 ( c) -1 (oul) -2 (d he) -1 ( m) 13 (a) -1 (na) -1 (ge) -1 ( t) -2 (o ove) -1 (r) -2 (c) -1 (om) 8 (e) -1 ( t) -2 (he) -1 ( ) ] TJ
+0.32 Tw
+-20.455 -1.15 Td
+[ (oppos) -1 (i) -2 (t) -2 (i) -2 (o) 5 (n) 5 (\077) -1 (  O) 2 (r) -2 ( ) 5 (i) -2 (f) 3 ( no) 5 (t) -2 (\054 how) 2 ( c) -1 (ou) 5 (l) 3 (d he) -1 ( ) ] TJ
+0.315 Tw
+17.285 0 Td
+[ (r) -2 (e) -1 (s) -1 (po) 5 (nd ) -5 (t) -2 (o t) -2 (he) -1 ( C) 2 (ongr) -2 (e) -1 (s) -1 (s) -1 ( ) -5 (r) 3 (e) 4 (ga) -1 (r) -2 (di) -2 (ng) ] TJ
+0 Tw
+14.99 0 Td
+( ) Tj
+0.32 Tw
+0.57 0 Td
+[ (t) -2 (he) 4 ( w) 2 (i) -2 (de) -1 (s) -1 (pr) 3 (e) -1 (a) 4 (d) -5 ( ) ] TJ
+0.02 Tw
+-32.845 -1.15 Td
+[ (c) -1 (ont) -2 (a) -1 (m) 8 (i) -2 (na) -1 (t) -2 (i) 3 (on of) 3 ( G) 2 (M) -1 ( pa) -1 (pa) -1 (ya) -1 ( f) 3 (r) -2 (om) 8 ( t) -2 (he) -1 ( s) -1 (t) -2 (a) 4 (t) -2 (e) ] TJ
+0 Tw
+17.61 0 Td
+(\055) Tj
+0.02 Tw
+0.33 0 Td
+[ (r) -2 (un ) 5 (e) -1 (xpe) -1 (r) -2 (i) -2 (m) 8 (e) -1 (nt) -2 ( t) 3 (ha) -1 (t) -2 ( i) -2 (s) ] TJ
+0 Tw
+8.805 0 Td
+( ) Tj
+0.002 Tc
+0.018 Tw
+0.27 0 Td
+[ (s) 1 (t) 5 (il) 5 (l in) 7 ( re) 1 (gul) 4 (a) 6 (r ) ] TJ
+0 Tc
+0.02 Tw
+[ (ope) 4 (r) -2 (a) -1 (t) 3 (i) -2 (on) 5 (\077) -6 (  ) ] TJ
+-0.002 Tc
+0.002 Tw
+(Not) Tj
+0 Tc
+0 Tw
+12.175 0 Td
+( ) Tj
+-39.19 -1.15 Td
+[ (t) -2 (o m) 8 (e) -1 (nt) -2 (i) -2 (on ) ] TJ
+0.002 Tc
+-0.007 Tw
+[ (c) 1 (ur) 2 (re) 1 (nt) 2 ( e) 1 (le) 6 (c) 1 (ti) 5 (on ) ] TJ
+-0.002 Tw
+11.055 0 Td
+[ (pol) 4 (it) 5 (ic) 1 (s) 1 ( a) 6 (nd pr) 6 (e) 1 (s) 1 (s) 1 (ur) 7 (e) 1 (s) 6 ( f) 5 (ro) -3 (m) 10 ( int) 2 (e) 1 (rn) 7 (a) 1 (tiona) 10 (l s) 1 (oc) 8 (ie) 6 (tie) 1 (s) 1 (\056 ) ] TJ
+0 Tc
+0 Tw
+20.3 0 Td
+( ) Tj
+-31.355 -1.15 Td
+( ) Tj
+EMC
+ET
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 NRE\056G1\05631\0561 \055 Natural Resources \055 First year Graduate \055 Female \055 NNS \050L1\072 Thai\051 \055 Argumentative Essay) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(11) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+39 0 obj
+<<
+/FirstChar 0
+/Widths [ 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 250 333 555 500 500 1000 833 278 333 333 500 570 250 333 250 278 500 500 500 500 500 500 500 500 500 500 333 333 570 570 570 500 930 722 667 722 722 667 611 778 778 389 500 778 667 944 722 778 611 778 722 556 667 722 722 1000 722 722 667 333 278 333 581 500 333 500 556 444 556 444 333 500 556 278 333 556 278 833 556 500 556 556 444 389 333 556 500 722 500 500 444 394 220 394 520 350 500 350 333 500 500 1000 500 500 333 1000 556 333 1000 350 667 350 350 333 333 500 500 350 500 1000 333 1000 389 333 722 350 444 722 250 333 500 500 500 500 220 500 333 747 300 500 570 333 747 500 400 549 300 300 333 576 540 333 333 300 330 500 750 750 750 500 722 722 722 722 722 722 1000 722 667 667 667 667 389 389 389 389 722 722 778 778 778 778 778 570 778 722 722 722 722 722 611 556 500 500 500 500 500 500 722 444 444 444 444 444 278 278 278 278 500 556 500 500 500 500 500 549 500 556 556 556 556 500 556 500 ]
+/Encoding /WinAnsiEncoding
+/Type /Font
+/BaseFont /TimesNewRomanPS-BoldMT
+/LastChar 255
+/FontDescriptor 20 0 R
+/Subtype /TrueType
+>>
+endobj
+40 0 obj
+<<
+/FirstChar 0
+/Widths [ 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 250 333 408 500 500 833 778 180 333 333 500 564 250 333 250 278 500 500 500 500 500 500 500 500 500 500 278 278 564 564 564 444 921 722 667 667 722 611 556 722 722 333 389 722 611 889 722 722 556 722 667 556 611 722 722 944 722 722 611 333 278 333 469 500 333 444 500 444 500 444 333 500 500 278 278 500 278 778 500 500 500 500 333 389 278 500 500 722 500 500 444 480 200 480 541 350 500 350 333 500 444 1000 500 500 333 1000 556 333 889 350 611 350 350 333 333 444 444 350 500 1000 333 980 389 333 722 350 444 722 250 333 500 500 500 500 200 500 333 760 276 500 564 333 760 500 400 549 300 300 333 576 453 333 333 300 310 500 750 750 750 444 722 722 722 722 722 722 889 667 611 611 611 611 333 333 333 333 722 722 722 722 722 722 722 564 722 722 722 722 722 722 556 500 444 444 444 444 444 444 667 444 444 444 444 444 278 278 278 278 500 500 500 500 500 500 500 549 500 500 500 500 500 500 500 500 ]
+/Encoding /WinAnsiEncoding
+/Type /Font
+/BaseFont /TimesNewRomanPSMT
+/LastChar 255
+/FontDescriptor 41 0 R
+/Subtype /TrueType
+>>
+endobj
+41 0 obj
+<<
+/FontBBox [ -568 -307 2000 1007 ]
+/StemV 80
+/Descent -307
+/XHeight 448
+/Flags 34
+/FontStretch /Normal
+/Ascent 1007
+/FontName /TimesNewRoman
+/Type /FontDescriptor
+/FontWeight 400
+/ItalicAngle 0
+/FontFamily (Times New Roman)
+/CapHeight 662
+>>
+endobj
+42 0 obj
+<<
+/Length 5628
+>>
+stream
+q
+BT
+/Artifact <<
+/Type /Pagination
+/BBox [ 73.2 711.406 546.195 764.7841 ]
+/Attached [ /Top ]
+/Subtype /Header
+>> BDC
+/CS0 cs
+0.6 scn
+/TT0 1 Tf
+0.001 Tc
+-0.001 Tw
+12 0 0 12 73.2 752.7 Tm
+[ (P) 2 (oli) -1 (cy D) 4 (eci) 4 (s) 5 (i) ] TJ
+0 Tc
+0 Tw
+5.36 0 Td
+[ (on M) -1 (e) -1 (m) 8 (o) -5 (\227L) 1 (i) -2 (s) -1 (t) -2 ( of) 3 ( A) 2 (bbr) -2 (e) -1 (vi) -2 (a) 4 (t) -2 (i) -2 (ons) 4 ( ) ] TJ
+/TT1 1 Tf
+0.002 Tc
+-0.002 Tw
+-5.36 -1.145 Td
+[ (GM) 1 (Os) ] TJ
+0 Tc
+0 Tw
+2.895 0 Td
+( ) Tj
+-0.001 Tc
+0.001 Tw
+[ (an) -1 (d ) 5 (t) -3 (he) -2 ( Pol) -4 (i) 2 (t) -3 (i) -3 (c) -2 (s) -2 ( ) 5 (of) -4 ( I) -2 (nt) -3 (e) -2 (r) -2 (nat) 1 (i) 2 (on) -1 (al) -4 ( T) 1 (r) -2 (ad) -1 (e) ] TJ
+/TT0 1 Tf
+0 Tc
+0 Tw
+16.66 0 Td
+( ) Tj
+0.002 Tc
+-0.002 Tw
+4.92 0 Td
+[ (R) 4 (e) 1 (s) 1 (our) 4 (c) 1 (e) 1 ( P) 3 (o) 7 (lic) 1 (y a) 3 (nd A) 8 (d) 7 (m) 10 (ini) 2 (s) 1 (tra) 1 (tion) ] TJ
+0 Tc
+0 Tw
+14.525 0 Td
+( ) Tj
+19.98 0 0 19.98 541.2 717.54 Tm
+( ) Tj
+EMC
+/Artifact <<
+/Type /Pagination
+/BBox [ 70.92 27.4559 541.92 43.2241 ]
+/Attached [ /Bottom ]
+/Subtype /Footer
+>> BDC
+12 0 0 12 70.92 31.14 Tm
+( ) Tj
+6.75 0 Td
+( ) Tj
+30.97 0 Td
+[ (1\057) -2 (1 ) ] TJ
+EMC
+/P <<
+/MCID 0
+>> BDC
+0 scn
+/TT1 1 Tf
+-37.72 55.57 Td
+(L) Tj
+-0.003 Tc
+0.006 Tw
+9.48 0 0 9.48 78.9 697.98 Tm
+[ (IS) -10 (T) -1 ( O) -3 (F) -6 ( ) ] TJ
+0 Tc
+0 Tw
+12 0 0 12 112.2 697.98 Tm
+(A) Tj
+-0.002 Tc
+0.002 Tw
+9.48 0 0 9.48 120.84 697.98 Tm
+[ (B) -6 (B) 1 (R) -8 (EV) -1 (I) -5 (A) -1 (T) -6 (I) 1 (O) -9 (N) -8 (S) ] TJ
+0 Tc
+0 Tw
+12 0 0 12 193.74 697.98 Tm
+( ) Tj
+/TT0 1 Tf
+-10.235 -2.285 Td
+( ) Tj
+-0.002 Tc
+0.002 Tw
+0 -1.15 TD
+[ (BI) -4 (OT) -1 (E) -1 (C) ] TJ
+0 Tc
+0 Tw
+3.61 0 Td
+[ ( ) -2890 (N) 2 (a) -1 (t) -2 (i) -2 (ona) -1 (l) -2 ( C) 2 (e) 4 (nt) -2 (e) -1 (r) -2 ( f) 3 (or) -2 ( G) 2 (e) -1 (n) 5 (e) -1 (t) -2 (i) -2 (c) -1 ( E) 1 (ng) 5 (i) -2 (ne) -1 (e) 4 (r) -2 (i) -2 (ng a) -1 (nd B) 2 (i) -2 (o) 5 (t) -2 (e) -1 (c) -1 (hnol) -2 (ogy) 5 ( ) ] TJ
+-0.002 Tc
+0.002 Tw
+-3.61 -1.15 Td
+(DOA) Tj
+0 Tc
+0 Tw
+2.165 0 Td
+( ) Tj
+0.002 Tc
+-0.002 Tw
+4.585 0 Td
+[ (D) 4 (e) 1 (pa) 3 (rtm) 10 (e) 1 (nt) 2 ( of) 7 ( A) 4 (gr) 2 (ic) 1 (ul) 2 (tu) 7 (re) ] TJ
+0 Tc
+0 Tw
+10.66 0 Td
+( ) Tj
+-0.001 Tc
+0.001 Tw
+-17.41 -1.15 Td
+(EU) Tj
+0 Tc
+0 Tw
+1.335 0 Td
+( ) Tj
+5.415 0 Td
+[ (E) 1 (ur) -2 (ope) -1 (a) -1 (n U) 2 (ni) -2 (on ) ] TJ
+-0.002 Tc
+0.002 Tw
+-6.75 -1.15 Td
+[ (F) -1 (DA) ] TJ
+0 Tc
+0 Tw
+2 0 Td
+[ ( ) -4500 (F) 1 (ood a) -1 (nd D) 2 (r) -2 (ug A) 2 (d) -5 (m) 8 (i) -2 (ni) -2 (s) -1 (t) 3 (r) -2 (a) -1 (t) 3 (i) -2 (on) 5 ( ) ] TJ
+-0.001 Tc
+0.001 Tw
+-2 -1.15 Td
+(FTA) Tj
+0 Tc
+0 Tw
+1.89 0 Td
+( ) Tj
+0.001 Tc
+-0.006 Tw
+4.86 0 Td
+[ (F) 2 (r) -1 (ee T) -3 (r) -1 (ade) 1 ( A) 3 (greem) 9 (ent) ] TJ
+0 Tc
+0 Tw
+( ) Tj
+-0.002 Tc
+0.002 Tw
+-6.75 -1.15 Td
+(GM) Tj
+0 Tc
+0 Tw
+1.61 0 Td
+( ) Tj
+0.002 Tc
+-0.007 Tw
+5.14 0 Td
+[ (G) 4 (e) 1 (ne) 3 (tic) 1 (a) 6 (lly ) 2 (M) 1 (odi) 4 (f) 5 (ie) 1 (d) ] TJ
+0 Tc
+0 Tw
+8.58 0 Td
+( ) Tj
+-0.002 Tc
+0.002 Tw
+-15.33 -1.15 Td
+[ (GM) -3 (O) ] TJ
+0 Tc
+0 Tw
+2.335 0 Td
+( ) Tj
+-0.005 Tw
+4.415 0 Td
+[ (G) 2 (e) -1 (ne) -1 (t) -2 (i) -2 (c) -1 (a) 4 (l) -2 (l) -2 (y M) -1 (odi) -2 (f) 3 (i) -2 (e) -1 (d O) -3 (r) 3 (ga) -1 (ni) -2 (s) -1 (m) ] TJ
+0 Tw
+12.775 0 Td
+( ) Tj
+0.002 Tc
+-0.002 Tw
+-19.525 -1.15 Td
+(IP) Tj
+0 Tc
+0 Tw
+0.89 0 Td
+( ) Tj
+5.86 0 Td
+(I) Tj
+0.002 Tc
+-0.007 Tw
+0.335 0 Td
+[ (nt) 2 (e) 6 (lle) 1 (c) 6 (tua) 8 (l P) 3 (rope) 5 (rty) ] TJ
+0 Tc
+0 Tw
+7.855 0 Td
+( ) Tj
+-0.002 Tc
+0.002 Tw
+-14.94 -1.15 Td
+[ (I) -4 (UCN) ] TJ
+0 Tc
+0 Tw
+2.445 0 Td
+[ ( ) -4055 (W) 4 (or) -2 (l) -2 (d C) 2 (ons) -1 (e) -1 (r) -2 (va) -1 (t) 3 (i) -2 (on U) 2 (ni) 3 (on ) ] TJ
+-0.002 Tc
+0.002 Tw
+-2.445 -1.15 Td
+(NBC) Tj
+0 Tc
+0 Tw
+2.055 0 Td
+( ) Tj
+0.002 Tc
+-0.002 Tw
+4.695 0 Td
+[ (N) 4 (a) 1 (tiona) 5 (l B) 4 (i) 5 (o) ] TJ
+0 Tc
+0 Tw
+5.14 0 Td
+(\055) Tj
+0.001 Tc
+-0.001 Tw
+0.335 0 Td
+[ (saf) 4 (et) -1 (y C) 4 (om) 5 (m) 4 (i) -1 (t) -1 (t) -1 (ee) ] TJ
+0 Tc
+0 Tw
+7.08 0 Td
+( ) Tj
+-0.002 Tc
+0.002 Tw
+-19.305 -1.15 Td
+(NGO) Tj
+0 Tc
+0 Tw
+2.165 0 Td
+( ) Tj
+-0.002 Tc
+0.002 Tw
+4.585 0 Td
+(Non) Tj
+0 Tc
+0 Tw
+1.72 0 Td
+[ (\055) -2 (G) 2 (ove) -1 (r) -2 (nm) 8 (e) -1 (nt) -2 (a) -1 (l) -2 ( O) 2 (r) -2 (ga) -1 (ni) -2 (z) -1 (a) -1 (t) 3 (i) -2 (on) 5 ( ) ] TJ
+-0.001 Tc
+0.001 Tw
+-8.47 -1.15 Td
+(PM) Tj
+0 Tc
+0 Tw
+1.445 0 Td
+( ) Tj
+0.002 Tc
+-0.002 Tw
+5.305 0 Td
+[ (P) 3 (rim) 10 (e) 1 ( M) 1 (ini) 2 (s) 6 (te) 1 (r) ] TJ
+0 Tc
+0 Tw
+6.025 0 Td
+( ) Tj
+-0.002 Tc
+0.002 Tw
+-12.775 -1.15 Td
+[ (R\046) -4 (D) ] TJ
+0 Tc
+0 Tw
+( ) Tj
+0.001 Tc
+-0.001 Tw
+6.75 0 Td
+[ (R) 3 (esear) -1 (ch a) 1 (n) 6 (d D) 4 (eve) 1 (l) -1 (opm) 6 (ent) ] TJ
+0 Tc
+0 Tw
+10.995 0 Td
+( ) Tj
+-0.002 Tc
+0.002 Tw
+-17.745 -1.15 Td
+(US) Tj
+0 Tc
+0 Tw
+1.28 0 Td
+( ) Tj
+0.002 Tc
+-0.002 Tw
+5.47 0 Td
+[ (U) 4 (ni) 2 (te) 1 (d S) 5 (ta) 6 (te) 6 (s) 1 ( of) 7 ( A) -1 (m) 10 (e) 1 (ric) 1 (a) ] TJ
+0 Tc
+0 Tw
+10.135 0 Td
+( ) Tj
+-0.004 Tc
+0.004 Tw
+-16.885 -1.15 Td
+[ (WT) -3 (O) ] TJ
+0 Tc
+0 Tw
+2.275 0 Td
+( ) Tj
+0.002 Tc
+-0.002 Tw
+4.475 0 Td
+[ (W) 6 (or) 2 (ld T) 5 (ra) 1 (d) 7 (e) 1 ( O) 4 (rga) 3 (ni) 2 (z) 1 (a) 6 (ti) 5 (on) ] TJ
+0 Tc
+0 Tw
+10.605 0 Td
+( ) Tj
+-17.355 -1.15 Td
+( ) Tj
+0 -1.82 TD
+( ) Tj
+0 -2.965 TD
+( ) Tj
+0 -2.97 TD
+( ) Tj
+0 -2.965 TD
+( ) Tj
+EMC
+ET
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 NRE\056G1\05631\0561 \055 Natural Resources \055 First year Graduate \055 Female \055 NNS \050L1\072 Thai\051 \055 Argumentative Essay) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(12) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+43 0 obj
+<<
+/FirstChar 0
+/Widths [ 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 250 333 555 500 500 1000 833 278 333 333 500 570 250 333 250 278 500 500 500 500 500 500 500 500 500 500 333 333 570 570 570 500 930 722 667 722 722 667 611 778 778 389 500 778 667 944 722 778 611 778 722 556 667 722 722 1000 722 722 667 333 278 333 581 500 333 500 556 444 556 444 333 500 556 278 333 556 278 833 556 500 556 556 444 389 333 556 500 722 500 500 444 394 220 394 520 350 500 350 333 500 500 1000 500 500 333 1000 556 333 1000 350 667 350 350 333 333 500 500 350 500 1000 333 1000 389 333 722 350 444 722 250 333 500 500 500 500 220 500 333 747 300 500 570 333 747 500 400 549 300 300 333 576 540 333 333 300 330 500 750 750 750 500 722 722 722 722 722 722 1000 722 667 667 667 667 389 389 389 389 722 722 778 778 778 778 778 570 778 722 722 722 722 722 611 556 500 500 500 500 500 500 722 444 444 444 444 444 278 278 278 278 500 556 500 500 500 500 500 549 500 556 556 556 556 500 556 500 ]
+/Encoding /WinAnsiEncoding
+/Type /Font
+/BaseFont /TimesNewRoman,Bold
+/LastChar 255
+/FontDescriptor 20 0 R
+/Subtype /TrueType
+>>
+endobj
+44 0 obj
+<<
+/FirstChar 0
+/Widths [ 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 778 250 333 408 500 500 833 778 180 333 333 500 564 250 333 250 278 500 500 500 500 500 500 500 500 500 500 278 278 564 564 564 444 921 722 667 667 722 611 556 722 722 333 389 722 611 889 722 722 556 722 667 556 611 722 722 944 722 722 611 333 278 333 469 500 333 444 500 444 500 444 333 500 500 278 278 500 278 778 500 500 500 500 333 389 278 500 500 722 500 500 444 480 200 480 541 350 500 350 333 500 444 1000 500 500 333 1000 556 333 889 350 611 350 350 333 333 444 444 350 500 1000 333 980 389 333 722 350 444 722 250 333 500 500 500 500 200 500 333 760 276 500 564 333 760 500 400 549 300 300 333 576 453 333 333 300 310 500 750 750 750 444 722 722 722 722 722 722 889 667 611 611 611 611 333 333 333 333 722 722 722 722 722 722 722 564 722 722 722 722 722 722 556 500 444 444 444 444 444 444 667 444 444 444 444 444 278 278 278 278 500 500 500 500 500 500 500 549 500 500 500 500 500 500 500 500 ]
+/Encoding /WinAnsiEncoding
+/Type /Font
+/BaseFont /TimesNewRoman
+/LastChar 255
+/FontDescriptor 41 0 R
+/Subtype /TrueType
+>>
+endobj
+xref
+0 45
+0000000000 65535 f 
+0000000009 00000 n 
+0000000141 00000 n 
+0000000242 00000 n 
+0000000291 00000 n 
+0000000680 00000 n 
+0000001031 00000 n 
+0000001394 00000 n 
+0000001757 00000 n 
+0000002120 00000 n 
+0000002483 00000 n 
+0000002847 00000 n 
+0000003211 00000 n 
+0000003575 00000 n 
+0000003927 00000 n 
+0000004317 00000 n 
+0000004707 00000 n 
+0000028590 00000 n 
+0000028627 00000 n 
+0000028921 00000 n 
+0000030125 00000 n 
+0000030391 00000 n 
+0000031589 00000 n 
+0000031854 00000 n 
+0000037675 00000 n 
+0000037760 00000 n 
+0000038203 00000 n 
+0000038474 00000 n 
+0000039023 00000 n 
+0000044893 00000 n 
+0000045063 00000 n 
+0000045314 00000 n 
+0000051215 00000 n 
+0000056841 00000 n 
+0000062581 00000 n 
+0000068170 00000 n 
+0000074074 00000 n 
+0000079763 00000 n 
+0000084576 00000 n 
+0000105118 00000 n 
+0000106326 00000 n 
+0000107524 00000 n 
+0000107784 00000 n 
+0000113465 00000 n 
+0000114669 00000 n 
+trailer
+<<
+/Size 45
+/Root 3 0 R
+/Info 2 0 R
+>>
+startxref
+115863
+%%EOF

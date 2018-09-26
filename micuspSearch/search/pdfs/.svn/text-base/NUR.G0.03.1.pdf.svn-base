@@ -1,0 +1,2419 @@
+%PDF-1.3
+1 0 obj
+<<
+/Kids [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R ]
+/Type /Pages
+/Count 9
+>>
+endobj
+2 0 obj
+<<
+/Producer (Python PDF Library \055 http\072\057\057pybrary\056net\057pyPdf\057)
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+>>
+endobj
+4 0 obj
+<<
+/Parent 1 0 R
+/Contents 13 0 R
+/Resources <<
+/ExtGState <<
+/GS1 14 0 R
+>>
+/Font <<
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+/TT2 15 0 R
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Type /Page
+>>
+endobj
+5 0 obj
+<<
+/Parent 1 0 R
+/Contents 17 0 R
+/Resources <<
+/ExtGState <<
+/GS1 14 0 R
+>>
+/Font <<
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+/TT2 15 0 R
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Type /Page
+>>
+endobj
+6 0 obj
+<<
+/Parent 1 0 R
+/Contents 18 0 R
+/Resources <<
+/ExtGState <<
+/GS1 14 0 R
+>>
+/Font <<
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+/TT2 15 0 R
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Type /Page
+>>
+endobj
+7 0 obj
+<<
+/Parent 1 0 R
+/Contents 19 0 R
+/Resources <<
+/ExtGState <<
+/GS1 14 0 R
+>>
+/Font <<
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+/TT2 15 0 R
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Type /Page
+>>
+endobj
+8 0 obj
+<<
+/Parent 1 0 R
+/Contents 20 0 R
+/Resources <<
+/ExtGState <<
+/GS1 14 0 R
+>>
+/Font <<
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+/TT2 15 0 R
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Type /Page
+>>
+endobj
+9 0 obj
+<<
+/Parent 1 0 R
+/Contents 21 0 R
+/Resources <<
+/ExtGState <<
+/GS1 14 0 R
+>>
+/Font <<
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+/TT2 15 0 R
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Type /Page
+>>
+endobj
+10 0 obj
+<<
+/Parent 1 0 R
+/Contents 22 0 R
+/Resources <<
+/ExtGState <<
+/GS1 14 0 R
+>>
+/Font <<
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+/TT2 15 0 R
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Type /Page
+>>
+endobj
+11 0 obj
+<<
+/Parent 1 0 R
+/Contents 23 0 R
+/Resources <<
+/ExtGState <<
+/GS1 14 0 R
+>>
+/Font <<
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+/TT2 15 0 R
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Type /Page
+>>
+endobj
+12 0 obj
+<<
+/Parent 1 0 R
+/Contents 24 0 R
+/Resources <<
+/ExtGState <<
+/GS1 14 0 R
+>>
+/Font <<
+/F1 <<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+/TT2 15 0 R
+/TT4 25 0 R
+>>
+/ProcSet [ /ImageC /Text /PDF /ImageI /ImageB ]
+>>
+/Rotate 0
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Type /Page
+>>
+endobj
+13 0 obj
+<<
+/Length 5305
+>>
+stream
+q
+/GS1 gs
+BT
+/TT2 1 Tf
+12 0 0 12 90 744.96 Tm
+0 g
+17.75 Tc
+0 Tw
+(   ) Tj
+0 -1.15 TD
+0 Tc
+( ) Tj
+19.5 -1.85 TD
+( ) Tj
+-12.37 -2.415 TD
+0.0003 Tc
+0.0017 Tw
+[ (What W) 9.1 (o) -4.7 (m) 8.1 (e) -5.9 (n W) 9.1 (a) -0.9 (nt\072 Comprehensive Contracep) 5.3 (tive Coverage ) ] TJ
+ET
+175.56 678.06 296.88 0.60004 re
+f
+BT
+12 0 0 12 475.44 679.98 Tm
+0 Tc
+0 Tw
+( ) Tj
+-12.62 -2.415 TD
+( ) Tj
+-16.5 -2.415 TD
+0.0007 Tc
+0.1585 Tw
+[ (As stated p) 5.7 (e) -0.5 (r th) 5.7 (e Cons) 4.9 (titu) 5.7 (tion of) 3.7 ( the Unite) ] TJ
+18.025 0 TD
+0.1594 Tw
+[ (d S) 6.8 (t) -1.6 (ate) 4.4 (s) -0.2 ( of) 3.6 ( Americ) 4.4 (a\054 citize) 4.4 (ns of) 3.6 ( the ) ] TJ
+-21.025 -2.415 TD
+0.0005 Tc
+0.0725 Tw
+[ (country are entitled to life\054 lib) ] TJ
+12.315 0 TD
+-0.0003 Tc
+0.0753 Tw
+[ (erty and the pursuit of happine) ] TJ
+12.615 0 TD
+0.0001 Tc
+0.0736 Tw
+[ (ss\056  Yet\054 these fundam) 7.9 (e) -6 (ntal ) ] TJ
+-24.93 -2.415 TD
+0.0005 Tc
+0.0695 Tw
+[ (beliefs on which this country was based are of) ] TJ
+19.07 0 TD
+0.001 Tc
+0.069 Tw
+[ (ten disrega) 4.8 (r) -1 (d) 6 (e) -0.2 (d with resp) 6 (ect to wom) 8.8 (e) -5.1 (n in ) ] TJ
+-19.07 -2.415 TD
+0.129 Tw
+[ (the grand sc) 4.8 (hem) 8.8 (e) -0.2 ( of) 4 ( health policy\056  W) 9.8 (h) 1 (en oral contra) 4.8 (ceptiv) 6 (e) -0.1 ( pills be) 4.8 (ca) 4.8 (m) 8.8 (e) -5.2 ( available\054 it ) ] TJ
+T*
+0.0006 Tc
+0.1531 Tw
+[ (gave wom) 8.4 (e) -5.6 (n a novel m) 8.4 (eans by which to take ) ] TJ
+19.58 0 TD
+0 Tc
+0.155 Tw
+[ (control of their sexual destiny\056  T) 5.8 (oday\054 ) ] TJ
+-19.58 -2.415 TD
+0.0007 Tc
+0.0068 Tw
+[ (technology and science have give) ] TJ
+13.49 0 TD
+0.01 Tw
+[ (n wom) 8.4 (e) -0.6 (n more options in term) 8.4 (s of reproductive control\056 ) 10.6 ( ) ] TJ
+-13.49 -2.415 TD
+0.0004 Tc
+0.0096 Tw
+[ (However th) 5.4 (e incons) 4.6 (istency in cov) 5.4 (e) -0.8 (rage of contraceptives by) 5.4 ( health insu) 5.4 (rance prov) 5.4 (id) 5.4 (ers in ) ] TJ
+T*
+0.0001 Tc
+0.444 Tw
+[ (the United States leaves m) 7.9 (a) -1.1 (ny wom) 7.9 (e) -1.1 (n w) ] TJ
+18.87 0 TD
+0.4429 Tw
+[ (ithout the m) 7.9 (e) -1 (ans to effectively utilize ) ] TJ
+-18.87 -2.415 TD
+0.0005 Tc
+-0.0012 Tw
+[ (contraceptiv) 5.5 (e) -0.7 (s and in this way places lim) 8.3 (its on ) ] TJ
+18.885 0 TD
+0.0006 Tc
+[ (wom) 8.4 (e) -0.6 (n in term) 8.4 (s of reproductive control\056   ) ] TJ
+-18.885 -2.415 TD
+0.0008 Tc
+0.0834 Tw
+[ ( ) -2665.8 (W) 9.6 (ith the in) 5.8 (herent b) 5.8 (i) -1.4 (as of the health car) ] TJ
+19.17 0 TD
+0.0004 Tc
+0.0846 Tw
+[ (e system) 8.2 ( within th) 5.4 (e socioecon) 5.4 (o) -4.6 (m) 8.2 (i) -1.8 (c strata ) ] TJ
+-19.17 -2.41 TD
+0.0007 Tc
+0.0063 Tw
+[ (regard) 5.7 (ing access to con) 5.7 (t) -1.5 (raceptives\054 th) 5.7 (ere com) 8.5 (e) ] TJ
+18.635 0 TD
+-0.0002 Tc
+0.0102 Tw
+[ ( implications of who ) ] TJ
+8.535 0 TD
+0.0008 Tc
+0.0075 Tw
+[ (should) 5.8 ( and shou) 5.8 (ld not ) ] TJ
+-27.17 -2.415 TD
+0.0006 Tc
+0.3329 Tw
+[ (be bearing child) 5.6 (ren\056  For wom) 8.4 (e) -0.6 (n who recei) ] TJ
+19.555 0 TD
+0.3331 Tw
+[ (ve health insurance th) 5.6 (rough Medicaid) 5.6 ( ) ] TJ
+-19.555 -2.415 TD
+0.0003 Tc
+0.0638 Tw
+[ (coverage in) 5.3 (cludes alm) 8.1 (o) -4.7 (st every form of cont) ] TJ
+18.215 0 TD
+0.0008 Tc
+0.0642 Tw
+[ (raceptiv) 5.8 (e\056  Yet for wom) 8.6 (e) -0.4 (n in the work) 5.8 (force ) ] TJ
+-18.215 -2.415 TD
+0.0006 Tc
+0.0635 Tw
+[ (who receive health insurance th) 5.6 (roug) 5.6 (h their em) 8.4 (pl) ] TJ
+19.715 0 TD
+0.0644 Tw
+[ (oyer\054 it is of) 8.6 (ten found th) 5.6 (at such po) 5.6 (licies ) ] TJ
+-19.715 -2.415 TD
+-0.0003 Tc
+0.0553 Tw
+[ (do not cover contraceptives\056  This disparity l) ] TJ
+18.205 0 TD
+0.0008 Tc
+0.0542 Tw
+[ (eads) 5 ( to an uns) 5 (tated belief) 3.8 ( tha) 4.6 (t) -1.4 ( som) 8.6 (e) -0.4 ( women ) ] TJ
+-18.205 -2.415 TD
+0.0009 Tc
+0.0571 Tw
+[ (are m) 8.7 (o) 0.9 (re suited to have child) 5.9 (re) ] TJ
+12.65 0 TD
+-0.0004 Tc
+0.0585 Tw
+[ (n\056  \050King and Meyer\054 9\051  A m) 7.4 (a) ] TJ
+12.615 0 TD
+0.0011 Tc
+0.0564 Tw
+[ (jor f) 4.1 (actor) 4.1 ( in the res) 5.3 (t) -1.1 (riction) 6.1 ( ) ] TJ
+-25.265 -2.415 TD
+0.0006 Tc
+0.0685 Tw
+[ (of access to) 5.6 ( contraceptives is the d) 5.6 (e) -0.6 (m) 8.4 (ographic ) ] TJ
+19.285 0 TD
+0.0005 Tc
+0.0678 Tw
+[ (that is generally beli) ] TJ
+8.345 0 TD
+0.0004 Tc
+0.0679 Tw
+[ (eved to utilize them\054 ) ] TJ
+-27.63 -2.415 TD
+0.0005 Tc
+0.1285 Tw
+[ (in particular\054 teenagers and unm) 8.3 (arried wom) 8.3 (e) -0.7 (n\056 ) ] TJ
+19.66 0 TD
+0.0003 Tc
+0.128 Tw
+[ ( However\054 little t) ] TJ
+7.165 0 TD
+-0.0007 Tc
+0.1307 Tw
+[ (hought is given to the ) ] TJ
+-26.825 -2.415 TD
+0.0012 Tc
+0.1975 Tw
+[ (f) 4.2 (act tha) 5 (t) -1 ( wo) 6.2 (m) 9 (e) 0 (n in all stages) 5.4 ( of) 4.2 ( th) 6.2 (eir lif) ] TJ
+17.305 0 TD
+0.0006 Tc
+0.1969 Tw
+[ (e requ) 5.6 (ire and are entitle) ] TJ
+10.235 0 TD
+0.0004 Tc
+0.1971 Tw
+[ (d to the freedom of ) ] TJ
+ET
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 NUR\056G0\05603\0561 \055 Nursing \055 Final Year Undergraduate \055 Female \055 NNS \050L1\072 Tamil\051 \055 Argumentative Essay) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(1) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+14 0 obj
+<<
+/OPM 1
+/Type /ExtGState
+/SM 0.02
+/OP false
+/SA false
+/op false
+>>
+endobj
+15 0 obj
+<<
+/FirstChar 32
+/Widths [ 250 0 408 0 0 833 0 0 333 333 0 0 250 333 250 0 500 500 500 500 500 500 500 500 500 500 278 0 0 0 0 444 0 722 667 667 722 611 556 722 722 333 389 722 611 889 722 722 556 0 667 556 611 722 722 944 0 722 0 0 0 0 0 0 0 444 500 444 500 444 333 500 500 278 278 500 278 778 500 500 500 500 333 389 278 500 500 722 500 500 444 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 333 444 444 ]
+/Encoding /WinAnsiEncoding
+/Type /Font
+/BaseFont /TimesNewRomanPSMT
+/LastChar 148
+/FontDescriptor 16 0 R
+/Subtype /TrueType
+>>
+endobj
+16 0 obj
+<<
+/FontBBox [ -568 -307 2000 1007 ]
+/StemV 82
+/Descent -216
+/XHeight -546
+/Flags 34
+/FontStretch /Normal
+/Ascent 891
+/FontName /TimesNewRomanPSMT
+/Type /FontDescriptor
+/FontWeight 400
+/ItalicAngle 0
+/FontFamily (Times New Roman)
+/CapHeight 656
+>>
+endobj
+17 0 obj
+<<
+/Length 5038
+>>
+stream
+q
+/GS1 gs
+BT
+/TT2 1 Tf
+12 0 0 12 90 744.96 Tm
+0 g
+17.75 Tc
+0 Tw
+(   ) Tj
+0 -1.15 TD
+0 Tc
+( ) Tj
+0 -1.85 TD
+0.0001 Tc
+0.3789 Tw
+[ (reproductive control\056  Studies have found ) ] TJ
+19.085 0 TD
+0.0009 Tc
+0.3791 Tw
+[ (that the reproductive ) ] TJ
+9.68 0 TD
+-0.0001 Tc
+0.3801 Tw
+(control strategies ) Tj
+-28.765 -2.415 TD
+0 Tc
+0.1641 Tw
+[ (em) 7.8 (ployed by health care providers vary for ) ] TJ
+18.665 0 TD
+-0.0002 Tc
+0.1652 Tw
+[ (wom) 7.6 (e) -1.4 (n at different socioeconom) 7.6 (ic levels\056 ) ] TJ
+-18.665 -2.415 TD
+0.0003 Tc
+-0.0028 Tw
+(\050King and Meyer\054 10\051  ) Tj
+3 -2.415 TD
+0.2477 Tw
+[ (Given the history of sterilization abus) ] TJ
+16.33 0 TD
+0.2503 Tw
+[ (e in the united states am) 8.2 (ong poor and ) ] TJ
+-19.33 -2.415 TD
+0.0005 Tc
+-0.0012 Tw
+[ (m) 8.3 (i) -1.7 (nority populations\054 it com) 8.3 (e) -0.7 (s as no surprise that) ] TJ
+19.73 0 TD
+0 Tc
+-0.0008 Tw
+( there continue to be questions regarding ) Tj
+-19.73 -2.415 TD
+0.0004 Tc
+0.1196 Tw
+[ (the m) 8.2 (e) -0.8 (thods of reproductive control recomm) ] TJ
+18.455 0 TD
+0.0007 Tc
+0.1193 Tw
+[ (ended by health care providers\056 \050King and ) ] TJ
+-18.455 -2.415 TD
+0.0004 Tc
+0.0076 Tw
+[ (Meyer\054 11\051  While certain opti) ] TJ
+12.205 0 TD
+0.0087 Tw
+[ (ons may be m) 8.1 (o) 0.3 (re cost effici) ] TJ
+11.115 0 TD
+0.0002 Tc
+0.0098 Tw
+[ (ent for wom) 8 (e) -1 (n) -4.8 ( who m) 8 (u) 0.2 (st worry) -4.8 ( ) ] TJ
+-23.32 -2.415 TD
+-0.0001 Tc
+0.1701 Tw
+[ (about finances\054 when health care providers ) ] TJ
+18.37 0 TD
+-0.0004 Tc
+0.1704 Tw
+[ (m) 7.4 (a) -1.6 (ke assum) 7.4 (p) -0.4 (tions or direct their attention ) ] TJ
+-18.37 -2.415 TD
+0.0009 Tc
+0.3381 Tw
+[ (towards a certain con) 5.9 (t) 3.7 (racep) 5.9 (tive o) 5.9 (p) 0.9 (tion ba) ] TJ
+18.17 0 TD
+0.0001 Tc
+0.339 Tw
+[ (s) 4.3 (e) -1.1 (d) 5.1 ( on finances alone\054 these wom) 7.9 (e) -6.1 (n are ) ] TJ
+-18.17 -2.415 TD
+0.0006 Tc
+0.0694 Tw
+[ (imm) 8.4 (e) -0.6 (diately restricted by a notion that they) ] TJ
+17.875 0 TD
+-0.0002 Tc
+0.0709 Tw
+[ ( are not capable of finding the contraceptive ) ] TJ
+-17.875 -2.415 TD
+0.0009 Tc
+0.0019 Tw
+[ (that is right for them) 8.7 ( due to fi) ] TJ
+11.83 0 TD
+0.0004 Tc
+0.0021 Tw
+(nancial constraints\056  Whether it ) Tj
+12.735 0 TD
+0.002 Tc
+0.001 Tw
+[ (b) 7 (e) 0.8 ( sta) 5.8 (t) -0.2 (ed d) 7 (i) -0.2 (re) 5.8 (ctly as with) 7 ( the ) ] TJ
+-24.565 -2.415 TD
+0.0009 Tc
+0.3141 Tw
+[ (blatan) 5.9 (t s) 5.1 (t) -1.3 (erilization) 5.9 ( m) 8.7 (o) -4.1 (vem) 8.7 (e) -0.3 (nts adm) 8.7 (i) -1.3 (nistered) ] TJ
+18.91 0 TD
+-0.0004 Tc
+0.3145 Tw
+[ ( within populations of) 7.6 ( lower class and ) ] TJ
+-18.91 -2.415 TD
+0.0009 Tc
+0.3941 Tw
+[ (m) 8.7 (i) -1.3 (nority wom) 8.7 (e) -0.3 (n\054 or indirectly w) 8.1 (ith inde) ] TJ
+18.035 0 TD
+-0.0001 Tc
+0.3951 Tw
+[ (pendently funded foundations targeted at) -7.3 ( ) ] TJ
+-18.035 -2.41 TD
+0 Tc
+0.3187 Tw
+[ (population control within the demographi) ] TJ
+17.94 0 TD
+0.0006 Tc
+0.3179 Tw
+[ (c of poor Am) 8.4 (erican wom) 8.4 (e) -0.6 (n\054 there lies a ) ] TJ
+-17.94 -2.415 TD
+0.0004 Tc
+0.0836 Tw
+[ (significant difference in the availability a) ] TJ
+16.895 0 TD
+0 Tc
+0.085 Tw
+[ (nd acceptance of birth ) ] TJ
+9.445 0 TD
+-0.0003 Tc
+0.0828 Tw
+[ (control among differ) -7.3 (e) -1.5 (nt ) ] TJ
+-26.34 -2.415 TD
+0.0002 Tc
+-0.0002 Tw
+[ (classes of wom) 8 (e) -1 (n\056   ) ] TJ
+3 -2.415 TD
+0.0005 Tc
+0.1495 Tw
+[ (A study conducted in Illino) 5.5 (i) -1.7 (s highlighted the d) 5.5 (i) -1.7 (chotom) 8.3 (y between contracep) 5.5 (tive ) ] TJ
+-3 -2.415 TD
+0.0008 Tc
+0.0767 Tw
+[ (options and availability am) 8.6 (ong socioeconom) 8.6 (ic) ] TJ
+18.93 0 TD
+0.0005 Tc
+0.0801 Tw
+[ ( classes\056  In 1995\054 Illino) 5.5 (i) 3.3 (s\054 along with the ) ] TJ
+-18.93 -2.415 TD
+0.0001 Tc
+0.4049 Tw
+[ (rest of the country did not have a st) ] TJ
+17.355 0 TD
+0.0004 Tc
+0.4006 Tw
+[ (ate m) 8.2 (a) -0.8 (ndate requiring employers to cover ) ] TJ
+-17.355 -2.415 TD
+0.0011 Tc
+0.0339 Tw
+[ (contra) 4.9 (ceptio) 6.1 (n) 1.1 ( in their he) 4.9 (alth insu) 6.1 (ran) 6.1 (ce polic) ] TJ
+17.765 0 TD
+0.0005 Tc
+0.0351 Tw
+[ (y for em) 8.3 (ployees\056 \050King and Meyer\054 13\051  This ) ] TJ
+-17.765 -2.415 TD
+0.0002 Tc
+0.0198 Tw
+[ (left the am) 8 (ount of coverage if any up to in) ] TJ
+17.035 0 TD
+-0.0001 Tc
+0.0201 Tw
+[ (dividual em) 7.7 (ployers\056  Upon phone interviews of ) ] TJ
+-17.035 -2.415 TD
+0.0005 Tc
+0.273 Tw
+[ (the large) 4.3 (s) -0.3 (t em) 8.3 (ployers in the) 4.3 ( sta) 4.3 (t) -1.7 (e\054) 5.5 ( it was ) ] TJ
+18.43 0 TD
+-0.0006 Tc
+0.2756 Tw
+[ (found that while a greater percentage of ) ] TJ
+ET
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 NUR\056G0\05603\0561 \055 Nursing \055 Final Year Undergraduate \055 Female \055 NNS \050L1\072 Tamil\051 \055 Argumentative Essay) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(2) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+18 0 obj
+<<
+/Length 5162
+>>
+stream
+q
+/GS1 gs
+BT
+/TT2 1 Tf
+12 0 0 12 90 744.96 Tm
+0 g
+17.75 Tc
+0 Tw
+(   ) Tj
+0 -1.15 TD
+0 Tc
+( ) Tj
+0 -1.85 TD
+0.0003 Tc
+0.3007 Tw
+[ (em) 8.1 (ployers covered perm) 8.1 (anent m) 8.1 (e) -0.9 (thods of bi) ] TJ
+19.295 0 TD
+0.298 Tw
+[ (rth control such as tubal ligation\054 few ) ] TJ
+-19.295 -2.415 TD
+0.0015 Tc
+0.0835 Tw
+[ (covered any) 6.5 ( f) 4.5 (o) 1.5 (rm) 9.3 ( of) 4.5 ( non\055perm) 9.3 (anent birth cont) ] TJ
+19.07 0 TD
+0.001 Tc
+0.0831 Tw
+[ (ro) 6 (l such as co) 6 (ntrac) 4.8 (e) -0.2 (ptiv) 6 (e pills\056 \050King and ) ] TJ
+-19.07 -2.415 TD
+0.0005 Tc
+0.0145 Tw
+[ (Meyer\054 13\051 In contrast\054 it was found that Me) ] TJ
+17.855 0 TD
+0.0002 Tc
+0.0148 Tw
+[ (dicaid plans had been providing coverage for ) ] TJ
+-17.855 -2.415 TD
+0.0007 Tc
+0.1193 Tw
+[ (fam) 8.5 (ily plan) 5.7 (ning serv) 5.7 (ices even before it ) ] TJ
+16.55 0 TD
+0.1183 Tw
+[ (becam) 8.5 (e federally m) 8.5 (a) -0.5 (ndated that state M) 4.9 (e) 4.5 (dicaid ) ] TJ
+-16.55 -2.415 TD
+0.1181 Tw
+[ (program) 8.4 (s include them) 8.4 ( in thei) ] TJ
+12.47 0 TD
+-0.0007 Tc
+0.1197 Tw
+[ (r plan\056 \050King and Meyer\054 14\051) ] TJ
+12.105 0 TD
+0.0003 Tc
+[ ( Yet\054 for w) 7.5 (o) -4.7 (m) 8.1 (e) -0.9 (n who work ) ] TJ
+-24.575 -2.415 TD
+0.0796 Tw
+[ (part\055tim) 8.2 (e\054 employer\055based insurance is not an) ] TJ
+18.68 0 TD
+[ ( option and they are no longer eligible for) -6.6 ( ) ] TJ
+-18.68 -2.415 TD
+0.0007 Tc
+0.1378 Tw
+[ (Medica) 4.5 (id\056  W) 4.5 (o) -4.3 (m) 8.5 (e) -0.5 (n in this s) 4.9 (itua) 4.5 (tion) 5.7 ( of) 3.7 (ten go) ] TJ
+18.625 0 TD
+-0.0006 Tc
+0.1406 Tw
+[ ( uninsured and are required to pay out of ) ] TJ
+-18.625 -2.415 TD
+0.0001 Tc
+0.4579 Tw
+[ (pocket for contracep) 5.1 (tives\056  In response ) ] TJ
+18.44 0 TD
+0.0003 Tc
+0.4597 Tw
+[ (to) 5.3 ( this\054) 5.3 ( federally funded program) 8.1 (s and ) ] TJ
+-18.44 -2.415 TD
+0.0283 Tw
+[ (governm) 8.2 (e) -0.8 (nt\055subsidized clinics began to offer ) ] TJ
+18.45 0 TD
+0.0011 Tc
+0.0289 Tw
+[ (contracep) 6.1 (tive op) 6.1 (tions at a m) 8.9 (u) 1.1 (ch lower cost\054 ) ] TJ
+-18.45 -2.415 TD
+0.0007 Tc
+0.0643 Tw
+[ (with the belief that reproductiv) ] TJ
+12.66 0 TD
+0.0644 Tw
+[ (e control would reduce the num) 8.4 (b) ] TJ
+13.52 0 TD
+0.0004 Tc
+0.0646 Tw
+[ (er of unwanted births in ) ] TJ
+-26.18 -2.415 TD
+0.0002 Tc
+0.0889 Tw
+[ (the lower strata of the socioeconom) 8 (ic ladder\056) ] TJ
+18.49 0 TD
+-0.0003 Tc
+0.0895 Tw
+[ ( \050King and Meyer\054 15\051 Such actions impl) -7.5 (y) -5.3 ( ) ] TJ
+-18.49 -2.415 TD
+0.0006 Tc
+0.1194 Tw
+[ (an earnest and continuing interest in lim) 8.4 (iting ) ] TJ
+18.99 0 TD
+0.0005 Tc
+[ (the birth rate of individuals requiring the ) ] TJ
+-18.99 -2.415 TD
+0.0007 Tc
+0.0743 Tw
+[ (assis) 4.9 (t) -1.5 (ance o) 5.7 (f) 3.7 ( Medicaid\056  The inconsistency in access to contracep) 5.7 (tives b) 5.7 (e) -0.5 (tween working) 5.7 ( ) ] TJ
+0 -2.41 TD
+0.0001 Tc
+0.0299 Tw
+[ (wom) 7.9 (e) -1.1 (n and wom) 7.9 (e) -1.1 (n on Medicaid leaves questions) ] TJ
+20.055 0 TD
+0.0006 Tc
+0.0285 Tw
+[ ( rega) 4.4 (rding) 5.6 ( the m) 8.4 (o) 0.6 (tive for such different ) ] TJ
+-20.055 -2.415 TD
+0.2437 Tw
+[ (courses of action\056  It has been thought that) ] TJ
+18.89 0 TD
+0.2444 Tw
+[ ( in the realm) 8.4 ( of capitalist society\054 such ) ] TJ
+-18.89 -2.415 TD
+0.0004 Tc
+0.3696 Tw
+[ (m) 8.2 (easures were taken to allev) 5.4 (i) -1.8 (ate the fear) ] TJ
+18.495 0 TD
+0.001 Tc
+0.3677 Tw
+[ ( of the rich) 6 ( that ) ] TJ
+8.205 0 TD
+-0.0001 Tc
+0.3701 Tw
+[ (the poor would soon ) ] TJ
+-26.7 -2.415 TD
+0 Tc
+0 Tw
+(overpopulate the country\056  ) Tj
+10.745 0 TD
+0.0001 Tc
+-0.0001 Tw
+(\050King and Meyer\054 12\051 ) Tj
+-7.745 -2.415 TD
+0.0002 Tc
+0.1648 Tw
+[ ( ) 165 ( ) 165 (Furtherm) 8 (ore\054 up until the 1980\222s there has been evidence of low incom) 8 (e) -0.9 ( and ) ] TJ
+-3 -2.415 TD
+-0.0003 Tc
+0.2303 Tw
+[ (poor patients com) 7.5 (i) -2.5 (ng into the hospital for ot) ] TJ
+19.17 0 TD
+0.0001 Tc
+0.2289 Tw
+[ (her procedures and leaving the hospital ) ] TJ
+-19.17 -2.415 TD
+0.0002 Tc
+0.0339 Tw
+[ (sterilized\056 \050King and Meyer\054 11\051 W) 9 (ith such ) ] TJ
+17.7 0 TD
+0.0009 Tc
+0.0331 Tw
+[ (rec) 4.7 (e) 4.7 (n) 0.9 (t evid) 5.9 (ence of) 3.9 ( unwanted ste) 4.7 (r) -1.1 (iliza) 4.7 (tion) 5.9 ( due ) ] TJ
+-17.7 -2.415 TD
+0.0004 Tc
+0.1654 Tw
+[ (to the decisions of m) 8.2 (e) -0.8 (dical professionals w) ] TJ
+18.22 0 TD
+0.001 Tc
+0.163 Tw
+[ (ith debatab) 6 (l) -1.2 (e motives\054 the apprehens) 5.2 (i) -1.2 (o) 6 (n) 1 ( of ) ] TJ
+-18.22 -2.415 TD
+0.0009 Tc
+0.4151 Tw
+[ (wom) 8.7 (e) -0.3 (n in this circumstance is u) 5.9 (ndersta) ] TJ
+17.84 0 TD
+0.0006 Tc
+0.4158 Tw
+[ (nd) 5.6 (able\056   Ultimately\054 when) 5.6 ( it com) 8.4 (e) -0.6 (s to ) ] TJ
+ET
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 NUR\056G0\05603\0561 \055 Nursing \055 Final Year Undergraduate \055 Female \055 NNS \050L1\072 Tamil\051 \055 Argumentative Essay) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(3) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+19 0 obj
+<<
+/Length 5070
+>>
+stream
+q
+/GS1 gs
+BT
+/TT2 1 Tf
+12 0 0 12 90 744.96 Tm
+0 g
+17.75 Tc
+0 Tw
+(   ) Tj
+0 -1.15 TD
+0 Tc
+( ) Tj
+0 -1.85 TD
+-0.0002 Tc
+0.1242 Tw
+[ (reproductive control the question rem) 7.6 (a) -1.4 (ins with ) ] TJ
+19.675 0 TD
+0.0007 Tc
+0.1243 Tw
+[ (whom) 8.5 ( does the authorit) ] TJ
+9.785 0 TD
+-0.0009 Tc
+0.1259 Tw
+[ (y really lie\077  In ) ] TJ
+-29.46 -2.415 TD
+0.0005 Tc
+0.0695 Tw
+[ (term) 8.3 (s of reproductive control\054 it) ] TJ
+13.025 0 TD
+-0.0002 Tc
+0.0685 Tw
+[ ( is clear that the personal is ) ] TJ
+11.615 0 TD
+-0.0005 Tc
+0.0705 Tw
+[ (truly political for as long as ) ] TJ
+-24.64 -2.415 TD
+0.0005 Tc
+0.0737 Tw
+[ (the health care system) 8.3 ( r) -6.5 (e) -0.7 (lies on the convoluted) ] TJ
+19.225 0 TD
+0.0009 Tc
+0.0716 Tw
+[ ( system) 8.7 ( of pr) -6.1 (ivate in) ] TJ
+8.465 0 TD
+-0.0003 Tc
+0.0753 Tw
+(surance policies that ) Tj
+-27.69 -2.415 TD
+0.0001 Tc
+0.0799 Tw
+[ (are free of federal m) 7.9 (a) -1.1 (ndates\054 wom) 7.9 (e) -1.1 (n will ha) ] TJ
+18.15 0 TD
+0.0002 Tc
+0.0789 Tw
+[ (ve d) 5.2 (i) -2 (fferential access and treatm) 8 (e) -1 (nt when it ) ] TJ
+-18.15 -2.415 TD
+0.0003 Tc
+-0.0011 Tw
+[ (com) 8.1 (e) -0.9 (s to their reproductive options\056   ) ] TJ
+3 -2.415 TD
+-0.0004 Tw
+[ (It m) 8.2 (u) 0.4 (st be said however that in recent year) ] TJ
+17.005 0 TD
+0.0005 Tc
+-0.0017 Tw
+(s\054 steps have been ta) Tj
+8.135 0 TD
+0.0001 Tc
+-0.0001 Tw
+(ken to create public ) Tj
+-28.14 -2.415 TD
+-0.0001 Tc
+0.1634 Tw
+[ (policy that provides more coverage for wo) ] TJ
+17.975 0 TD
+-0.0002 Tc
+0.1652 Tw
+[ (m) 7.6 (e) -6.4 (n\056  As of 2003\054 20 of the 50 states had ) ] TJ
+-17.975 -2.415 TD
+0.0008 Tc
+0.1372 Tw
+[ (enforced co) 5.8 (ntraceptiv) 5.8 (e coverage fo) 5.8 (r all insu) ] TJ
+18.275 0 TD
+0.0002 Tc
+0.1385 Tw
+[ (rance policies in the st) ] TJ
+9.5 0 TD
+0 Tc
+0.1383 Tw
+[ (ate\056 \050Gold\054 5\051 Since) -6.2 ( ) ] TJ
+-27.775 -2.415 TD
+0.0004 Tc
+0.0081 Tw
+[ (then greater efforts have been m) 8.2 (a) -0.8 (de by fe) -5.8 (m) 8.2 (i) ] TJ
+17.69 0 TD
+0.0096 Tw
+[ (nist groups and w) 7.6 (o) -4.6 (m) 8.2 (e) -0.8 (n em) 8.2 (ployees in order to ) ] TJ
+-17.69 -2.415 TD
+0.0006 Tc
+0.0452 Tw
+[ (get em) 8.4 (ployers to provide m) 8.4 (o) 0.6 (re comprehensive c) ] TJ
+19.55 0 TD
+0.0003 Tc
+0.0447 Tw
+[ (overage of contraceptives\056  Yet\054 this still) -6.9 ( ) ] TJ
+-19.55 -2.415 TD
+0.0006 Tc
+0.1284 Tw
+[ (leaves) 4.8 ( 30 s) 4.8 (t) 3.4 (ates in which wom) 8.4 (e) ] TJ
+13.275 0 TD
+0 Tc
+0.1287 Tw
+[ (n continue to be subjected ) ] TJ
+11.335 0 TD
+-0.0001 Tc
+0.1291 Tw
+[ (to the unstated bias of who ) ] TJ
+-24.61 -2.415 TD
+0.0003 Tc
+0.0039 Tw
+(should be having children due to the inconsiste) Tj
+18.83 0 TD
+0 Tc
+0.0025 Tw
+(nt insurance contracep) Tj
+9 0 TD
+0.0004 Tc
+0.0021 Tw
+(tive coverage within ) Tj
+-27.83 -2.415 TD
+-0.0004 Tw
+(the workforce\056 ) Tj
+0 -2.41 TD
+-0.0003 Tc
+0.3003 Tw
+[ ( ) -2450 (In addition to deepening and reinforc) ] TJ
+19.35 0 TD
+-0.0002 Tc
+0.3002 Tw
+[ (ing class lines\054 when em) 7.6 (ployers cover ) ] TJ
+-19.35 -2.415 TD
+-0.0001 Tc
+0.0811 Tw
+[ (contraception differentially\054 the options of wo) ] TJ
+18.79 0 TD
+0.0006 Tc
+0.0806 Tw
+[ (men in term) 8.4 (s of what works best for their ) ] TJ
+-18.79 -2.415 TD
+0.0003 Tc
+0.1747 Tw
+[ (body are restricted\056  Such lack of com) 8.1 (p) 0.3 (rehe) ] TJ
+18.61 0 TD
+0.1746 Tw
+[ (nsive coverage serves to reduce costs for ) ] TJ
+-18.61 -2.415 TD
+0.0008 Tc
+0.5442 Tw
+[ (em) 8.6 (ployers and lim) 8.6 (its) 5 ( acces) 5 (s to) 5.8 ( newer form) 8.6 (s of contraceptiv) 5.8 (es\056) 5.8 (  \050Dailard) 5.8 (\054 2\051 ) 545 ( ) 545 ( ) ] TJ
+T*
+0.0007 Tc
+0.0085 Tw
+[ (Contracep) 5.7 (tive coverage has been found to be in) ] TJ
+19.1 0 TD
+0.0005 Tc
+0.0087 Tw
+[ (adequate in n) 5.5 (e) -0.7 (arly all 50 states\056 \050King) 5.5 ( and ) ] TJ
+-19.1 -2.415 TD
+0.0002 Tc
+0.2698 Tw
+[ (Meyer\054 12\051 Em) 8 (ployers often work with union) ] TJ
+19.81 0 TD
+0 Tc
+0.27 Tw
+[ (s to decide what type of coverage is ) ] TJ
+-19.81 -2.415 TD
+0.0006 Tc
+0.3152 Tw
+[ (appropriate for their em) 8.4 (ployees\056  \050King a) ] TJ
+18.26 0 TD
+-0.0001 Tc
+[ (nd Meyer\054 24\051 Financial capabilities and ) ] TJ
+-18.26 -2.415 TD
+0.0004 Tc
+0.0166 Tw
+[ (requirem) 8.2 (e) -0.8 (nts vary from com) 8.2 (p) 0.4 (any to com) 8.2 (p) 0.4 (any\054 ) ] TJ
+18.89 0 TD
+0.0136 Tw
+[ (le) -5.8 (ading to inadequate and patchy coverage ) ] TJ
+-18.89 -2.415 TD
+0.0011 Tc
+0.0072 Tw
+[ (of contracep) 6.1 (tives am) 8.9 (ong other things) 5.3 (\056  Despite ) ] TJ
+18.955 0 TD
+0.0006 Tc
+0.0094 Tw
+[ (th) 5.6 (e fact that w) 7.8 (o) -4.4 (m) 8.4 (e) -0.6 (n repres) 4.8 (ent a s) 4.8 (i) -1.6 (gnificant ) ] TJ
+ET
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 NUR\056G0\05603\0561 \055 Nursing \055 Final Year Undergraduate \055 Female \055 NNS \050L1\072 Tamil\051 \055 Argumentative Essay) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(4) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+20 0 obj
+<<
+/Length 5441
+>>
+stream
+q
+/GS1 gs
+BT
+/TT2 1 Tf
+12 0 0 12 90 744.96 Tm
+0 g
+17.75 Tc
+0 Tw
+(   ) Tj
+0 -1.15 TD
+0 Tc
+( ) Tj
+0 -1.85 TD
+-0.0002 Tc
+0.1902 Tw
+[ (portion of most unions\054 negotiations often a) ] TJ
+18.605 0 TD
+-0.0004 Tc
+0.1895 Tw
+[ (ffect wom) 7.4 (e) -1.6 (n negatively as the views and ) ] TJ
+-18.605 -2.415 TD
+0.0005 Tc
+0 Tw
+[ (needs of m) 8.3 (e) -0.7 (n are accepted as the p) 5.5 (e) -0.7 (rvasive norm) 8.3 (\056) 0.5 (   ) ] TJ
+3 -2.415 TD
+0.1137 Tw
+[ (As there are no federal m) 8.3 (a) -0.7 (ndates that requ) ] TJ
+17.715 0 TD
+0.0001 Tc
+0.1136 Tw
+[ (ire contraceptive coverage by private ) ] TJ
+-20.715 -2.415 TD
+0.0002 Tc
+0.0898 Tw
+[ (insurance companies\054 employers) ] TJ
+13.205 0 TD
+-0.0002 Tc
+0.0877 Tw
+[ ( tend to view contraceptive ) ] TJ
+11.515 0 TD
+-0.0003 Tc
+0.0886 Tw
+[ (coverage as an unnecessary ) ] TJ
+-24.72 -2.415 TD
+0.0009 Tc
+0.0131 Tw
+[ (extra th) 5.9 (at will only raise costs\056) ] TJ
+12.305 0 TD
+0.0004 Tc
+0.0146 Tw
+[ ( \050Dailard\054 12\051 Cost being the ) ] TJ
+11.79 0 TD
+0.0007 Tc
+0.0159 Tw
+[ (prim) 8.5 (ary factor in determ) 8.5 (ining ) ] TJ
+-24.095 -2.415 TD
+0.0602 Tw
+[ (the am) 8.4 (ount of coverage\054 even when em) 8.4 (ployers) ] TJ
+19 0 TD
+0.0004 Tc
+0.0596 Tw
+[ ( cover contraceptives\054 not all m) 8.2 (e) -0.8 (thods are ) ] TJ
+-19 -2.415 TD
+0.0002 Tc
+0.1728 Tw
+[ (included\056 \050Rodriguez\054 14\051 This inherently li) ] TJ
+18.29 0 TD
+-0.0001 Tc
+0.1751 Tw
+[ (mits the options of fe) -6.2 (m) 7.7 (a) -1.3 (l) -7.3 (e) -1.3 ( em) 7.7 (ployees and ) ] TJ
+-18.29 -2.415 TD
+0 Tc
+0.015 Tw
+[ (forces them) 7.8 ( to choose a m) 7.8 (e) -1.2 (thod of contracep) ] TJ
+18 0 TD
+-0.0005 Tc
+0.0162 Tw
+[ (tion that the company deem) 7.3 (s fit which m) 7.3 (i) -2.7 (ght ) ] TJ
+-18 -2.415 TD
+0.0011 Tc
+0.0889 Tw
+[ (very well dif) 4.1 (f) 4.1 (e) -0.1 (r f) 4.1 (r) -0.9 (om the what the wom) 8.9 (a) -0.1 (n m) 8.9 (i) -1.1 (gh) ] TJ
+19.775 0 TD
+0.0004 Tc
+0.0896 Tw
+[ (t have chosen if she had all the options ) ] TJ
+-19.775 -2.415 TD
+0 Tc
+0.5 Tw
+[ (available on the m) 7.8 (a) -1.2 (rket today\056 \050Rodrigue) ] TJ
+18.875 0 TD
+0.0008 Tc
+0.4983 Tw
+[ (z\054 14\051  Com) 8.6 (p) 0.8 (anies h) 5.8 (a) -0.4 (ve argu) 5.8 (ed) 5.8 ( that ) ] TJ
+-18.875 -2.415 TD
+0.0006 Tc
+0.0054 Tw
+[ (contraceptive m) 8.4 (e) -0.6 (thods fr) -6.4 (inge on volatile issues ) ] TJ
+19.1 0 TD
+0.0043 Tw
+(such as abortion and so are unfavorable to ) Tj
+-19.1 -2.415 TD
+0.0003 Tc
+0.1247 Tw
+[ (be addressed\056 \050W) 9.1 (hite\054 275\051  W) 9.1 (ith the public) ] TJ
+18.335 0 TD
+0.0001 Tc
+0.1241 Tw
+[ ( im) 7.9 (age and the com) 7.9 (p) 0.1 (any\222s interests on the ) ] TJ
+-18.335 -2.415 TD
+0.0004 Tc
+0.0546 Tw
+[ (forefront of every m) 8.2 (ove\054 em) 8.2 (ployers look past ) ] TJ
+18.76 0 TD
+0.0539 Tw
+[ (the benefits that m) 8.1 (a) -0.9 (y be provided for their ) ] TJ
+-18.76 -2.41 TD
+0.0007 Tc
+0.0393 Tw
+[ (workers\056  Particularly\054 wom) 8.5 (e) -0.5 (n are placed at ) ] TJ
+17.93 0 TD
+0.0009 Tc
+0.0391 Tw
+[ (a dis) 5.1 (a) -0.3 (dvantage as their need) 5.9 (s) 5.1 ( are overloo) 5.9 (ked) 5.9 ( ) ] TJ
+-17.93 -2.415 TD
+0.0005 Tc
+0.0951 Tw
+[ (for the advancem) 8.3 (ent of the com) 8.3 (p) 0.5 (any as a whol) ] TJ
+19.42 0 TD
+0.0013 Tc
+0.0944 Tw
+[ (e\056  Yet\054 thes) 5.5 (e sam) 9.1 (e) 0.1 ( m) 9.1 (o) 1.3 (ral obje) 5.1 (c) 0.1 (tion) 6.3 (s) 0.5 ( are) 5.1 ( ) ] TJ
+-19.42 -2.415 TD
+0.0007 Tc
+0.183 Tw
+[ (not held) 5.7 ( when it com) 8.5 (e) -0.5 (s to the lower rung) 5.7 (s ) ] TJ
+18.68 0 TD
+0.0009 Tc
+0.1831 Tw
+[ (of the socioe) 4.8 (conom) 8.7 (i) -1.3 (c lad) 5.9 (d) 0.9 (er as) 5.1 ( Med) 5.9 (i) 3.7 (caid) 5.9 ( ) ] TJ
+-18.68 -2.415 TD
+0.0003 Tc
+0.0997 Tw
+[ (provides comprehensive coverage for contracep) ] TJ
+19.565 0 TD
+0.0008 Tc
+0.0992 Tw
+[ (tives\056  So where the governm) 8.6 (e) -0.4 (nt has no ) ] TJ
+-19.565 -2.415 TD
+0.0004 Tc
+0.1246 Tw
+[ (moral objection to providing such services to) ] TJ
+18.815 0 TD
+0.0002 Tc
+0.1248 Tw
+[ ( those utilizing Medi) ] TJ
+8.685 0 TD
+0.0003 Tc
+[ (caid\054 e) -5.9 (m) 8.1 (ployers take ) ] TJ
+-27.5 -2.415 TD
+0.0014 Tc
+-0.0026 Tw
+[ (issue with th) 6.4 (e m) 9.2 (o) 1.4 (ral im) 9.2 (plicati) ] TJ
+11.89 0 TD
+0.0001 Tc
+-0.0001 Tw
+(ons of giving contraceptive covera) Tj
+13.83 0 TD
+0.0004 Tc
+-0.002 Tw
+[ (ge to their em) 8.2 (ployees\056    ) ] TJ
+-22.72 -2.415 TD
+0.0005 Tc
+0.0995 Tw
+[ (Studies as recent as 20) 5.5 (03 show that with com) 8.3 (p) -4.5 (rehensiv) 5.5 (e contraceptiv) 5.5 (e coverage ) ] TJ
+-3 -2.415 TD
+0.001 Tc
+-0.0017 Tw
+[ (there is actu) 6 (a) -0.2 (lly no inc) 4.8 (r) -1 (e) 4.8 (a) -0.2 (se in insu) 6 (ra) 4.8 (nce pr) ] TJ
+17.31 0 TD
+0.0007 Tc
+-0.0007 Tw
+[ (em) 8.5 (ium) 8.5 (s) -5.1 ( and over tim) 8.5 (e\054 e) -5.5 (m) 8.5 (ployers actually end ) ] TJ
+-17.31 -2.415 TD
+0 Tc
+0.07 Tw
+[ (up saving m) 7.8 (oney\054 as there are fe) ] TJ
+13.325 0 TD
+-0.0002 Tc
+0.0685 Tw
+[ (wer unintended pregnancies\056 \050G) ] TJ
+12.975 0 TD
+0.0002 Tc
+0.0681 Tw
+[ (old\054 6\051  In fact\054 the cos) -5.6 (t) -7 ( ) ] TJ
+ET
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 NUR\056G0\05603\0561 \055 Nursing \055 Final Year Undergraduate \055 Female \055 NNS \050L1\072 Tamil\051 \055 Argumentative Essay) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(5) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+21 0 obj
+<<
+/Length 5323
+>>
+stream
+q
+/GS1 gs
+BT
+/TT2 1 Tf
+12 0 0 12 90 744.96 Tm
+0 g
+17.75 Tc
+0 Tw
+(   ) Tj
+0 -1.15 TD
+0 Tc
+( ) Tj
+0 -1.85 TD
+0.0002 Tc
+0.1348 Tw
+[ (of insurance coverage w) 7.4 (ithout con) 5.2 (t) -2 (racepti) ] TJ
+17.315 0 TD
+0.1341 Tw
+[ (ve co) 5.2 (verage was found to be on average 15\055) ] TJ
+-17.315 -2.415 TD
+0 Tc
+0.47 Tw
+[ (17\045 higher\056 \050Dailard\054 13\051  W) 8.9 (ith such un) ] TJ
+19.415 0 TD
+0.0007 Tc
+0.4693 Tw
+[ (deniable ev) 5.7 (idence of) ] TJ
+9.215 0 TD
+-0.0003 Tc
+0.4686 Tw
+[ ( the benefits of ) ] TJ
+-28.63 -2.415 TD
+0 Tc
+0.0425 Tw
+[ (contraceptive coverage\054 money ) ] TJ
+12.845 0 TD
+0.0001 Tc
+0.0432 Tw
+[ (can no longer be used as an ) ] TJ
+11.545 0 TD
+-0.0002 Tc
+0.0439 Tw
+[ (avenue by which women are ) ] TJ
+-24.39 -2.415 TD
+0.0007 Tc
+0.0326 Tw
+[ (restric) 4.5 (t) -1.5 (ed in) 5.7 ( their contrac) 4.5 (e) -0.5 (p) ] TJ
+11.07 0 TD
+0.0009 Tc
+0.0332 Tw
+[ (tive choices\056  W) 9.7 (h) 0.9 (at once was a ) ] TJ
+12.8 0 TD
+0.0008 Tc
+0.0329 Tw
+[ (pr) 3.8 (ivate m) 8.6 (a) -0.4 (tter must com) 8.6 (e) -0.4 ( into ) ] TJ
+-23.87 -2.415 TD
+0.0003 Tc
+-0.0009 Tw
+[ (the public arena in order to provide wom) 8.1 (e) -0.9 (n w) ] TJ
+18.27 0 TD
+0.0001 Tc
+-0.0007 Tw
+(ith the choices they are entitled to\056   ) Tj
+-15.27 -2.415 TD
+0.0005 Tc
+0.2245 Tw
+[ (In addition to class lines\054 the gap in ) ] TJ
+16.23 0 TD
+0.2235 Tw
+[ (gender equality is apparent through the ) ] TJ
+-19.23 -2.415 TD
+0.2195 Tw
+[ (universal coverage of erectile dysf) 8.5 (uncti) ] TJ
+16.66 0 TD
+0.2205 Tw
+[ (on m) 8.3 (e) -0.7 (dication for m) 8.3 (e) -0.7 (n under em) 8.3 (ployer\055based ) ] TJ
+-16.66 -2.415 TD
+0.001 Tc
+0.139 Tw
+[ (insuranc) 4.8 (e and the inconsisten) 6 (t) -1.2 ( cov) 6 (e) -0.2 (rage f) 4 (o) 1 (r ) ] TJ
+18.405 0 TD
+0.14 Tw
+[ (contraceptiv) 6 (es) 5.2 ( for wom) 8.8 (e) -0.2 (n\056  Such disparity) 6 ( ) ] TJ
+-18.405 -2.415 TD
+0.0002 Tc
+0.1254 Tw
+[ (suggests a need for change in terms of ma) ] TJ
+17.785 0 TD
+0.0004 Tc
+0.1246 Tw
+[ (ndated policy for contraceptive coverage by ) ] TJ
+-17.785 -2.415 TD
+0 Tc
+0.07 Tw
+[ (health insurance providers\056  ) ] TJ
+11.575 0 TD
+0.0002 Tc
+0.0698 Tw
+[ (\050W) 9 (hite\054 301\051  W) 9 (ithin weeks of the appearance of Viagra on ) ] TJ
+-11.575 -2.415 TD
+0.0006 Tc
+0.0986 Tw
+[ (pharm) 8.4 (acy shelves\054 m) 8.4 (e) -0.6 (n had began to file laws) ] TJ
+19.08 0 TD
+0.0011 Tc
+0.0979 Tw
+[ (uits aga) 4.9 (i) -1.1 (nst insuranc) 4.9 (e c) 4.9 (o) -3.9 (m) 8.9 (p) 1.1 (anies th) 6.1 (at did ) ] TJ
+-19.08 -2.415 TD
+0 Tc
+0.38 Tw
+[ (not cover the erectile dysfunction pill unde) ] TJ
+19.435 0 TD
+-0.0002 Tc
+0.3802 Tw
+[ (r their plan\056  In contrast\054 while oral ) ] TJ
+-19.435 -2.415 TD
+0.0007 Tc
+0.0184 Tw
+[ (contraceptiv) 5.7 (e) -0.5 ( pills have been on shelves sin) ] TJ
+17.63 0 TD
+0.0194 Tw
+[ (ce 19) 5.6 (64\054 the first lawsuit against an insurance ) ] TJ
+-17.63 -2.41 TD
+0.1043 Tw
+[ (com) 8.5 (p) 0.7 (any on the basis o) 5.7 (f) 3.7 ( inadequate cove) ] TJ
+17.075 0 TD
+0.0008 Tc
+0.1029 Tw
+[ (rage w) 8 (a) -0.4 (s not filed until 2000\054 nearly 50 y) 5.8 (ears ) ] TJ
+-17.075 -2.415 TD
+0.0005 Tc
+-0.0005 Tw
+(after its initial intr) Tj
+7.255 0 TD
+0.0003 Tc
+-0.0003 Tw
+[ (oduction\056   \050W) 9.1 (hite\054 273\051 ) ] TJ
+-4.255 -2.415 TD
+0.0002 Tc
+0.1898 Tw
+[ (Further\054 due to inadequate coverage\054 ) ] TJ
+15.81 0 TD
+0.0001 Tc
+0.1899 Tw
+[ (wom) 7.9 (e) -1.1 (n are often required to pay out\055of\055) ] TJ
+-18.81 -2.415 TD
+0.0004 Tc
+0.0846 Tw
+[ (pocket for contraceptives\056 This leads to a very ) ] TJ
+19.38 0 TD
+[ (distinct disparity in ) ] TJ
+8.235 0 TD
+-0.0001 Tc
+0.0851 Tw
+[ (health care expenses ) ] TJ
+-27.615 -2.415 TD
+0.0005 Tc
+0.02 Tw
+[ (for m) 8.3 (e) -0.7 (n and wom) 8.3 (e) -0.7 (n\056  It has been found that ) ] TJ
+17.895 0 TD
+-0.0002 Tc
+0.0193 Tw
+[ (women pay 68\045 more in out\055of\055pocket costs ) ] TJ
+-17.895 -2.415 TD
+0.0005 Tc
+0.0559 Tw
+[ (on average than m) 8.3 (e) -0.7 (n\056 \050White\054 278\051 W) 9.3 (h) 0.5 (ile great ) ] TJ
+19.555 0 TD
+0.0006 Tc
+0.0544 Tw
+[ (efforts are m) 8.4 (a) -0.6 (de by e) -5.6 (m) 3.4 (ployers to reduce ) ] TJ
+-19.555 -2.415 TD
+0.0005 Tc
+-0.0012 Tw
+[ (their own costs\054 these co) 5.5 (sts are then di) ] TJ
+15.335 0 TD
+0.0014 Tc
+-0.0039 Tw
+[ (rec) 5.2 (tly tran) 6.4 (sf) 4.4 (erred to) ] TJ
+7.89 0 TD
+-0.0003 Tc
+-0.0022 Tw
+[ ( individual wom) 7.5 (e) -1.5 (n\056 ) -7.5 ( ) ] TJ
+-20.225 -2.415 TD
+0.0007 Tc
+0.0234 Tw
+[ (The fact of the m) 8.5 (a) -0.5 (tter is th) ] TJ
+10.755 0 TD
+0.0228 Tw
+[ (at the necessity of con) 5.7 (t) 3.5 (racep) 5.7 (tives h) 5.7 (a) -0.5 (s been dow) 7.9 (nplayed ) ] TJ
+-13.755 -2.415 TD
+0.0743 Tw
+[ (and ignored) 5.7 ( for so long that m) 8.5 (a) -0.5 (instream) 8.5 ( soci) ] TJ
+18.385 0 TD
+0.0004 Tc
+0.0758 Tw
+[ (ety has com) 8.2 (e) -0.8 ( to believ) ] TJ
+9.245 0 TD
+0.0008 Tc
+0.0742 Tw
+[ (e th) 5.8 (at contracep) 5.8 (tives ) ] TJ
+ET
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 NUR\056G0\05603\0561 \055 Nursing \055 Final Year Undergraduate \055 Female \055 NNS \050L1\072 Tamil\051 \055 Argumentative Essay) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(6) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+22 0 obj
+<<
+/Length 5616
+>>
+stream
+q
+/GS1 gs
+BT
+/TT2 1 Tf
+12 0 0 12 90 744.96 Tm
+0 g
+17.75 Tc
+0 Tw
+(   ) Tj
+0 -1.15 TD
+0 Tc
+( ) Tj
+0 -1.85 TD
+0.0006 Tc
+0.1144 Tw
+[ (for wom) 8.4 (e) -0.6 (n reflect a lifestyle cho) 5.6 (i) -1.6 (ce that has ) ] TJ
+18.7 0 TD
+0.0008 Tc
+0.1134 Tw
+[ (no) 5.8 ( place in th) 5.8 (e realm) 8.6 ( of health insurance\056 ) 114.2 ( ) ] TJ
+-18.7 -2.415 TD
+0.0003 Tc
+0.1634 Tw
+[ (Yet the same argum) 8.1 (ent can be applied to othe) ] TJ
+19.58 0 TD
+0.0014 Tc
+0.1636 Tw
+[ (r) 4.4 ( presc) 5.2 (r) -0.6 (ip) 6.4 (tio) 6.4 (ns tha) 5.2 (t) -0.8 ( ) ] TJ
+8.24 0 TD
+-0.0001 Tc
+0.1634 Tw
+[ (are given sim) 7.7 (p) -0.1 (l) -7.3 (y) -0.1 ( to ) ] TJ
+-27.82 -2.415 TD
+0.0006 Tc
+0.3294 Tw
+[ (allev) 5.6 (i) -1.6 (ate sy) 5.6 (mptom) 8.4 (s) -0.2 ( and not prov) 5.6 (ide a real) ] TJ
+18.695 0 TD
+-0.0003 Tc
+0.3303 Tw
+[ ( cure\056  Often tim) 7.5 (es\054 employers dism) 7.5 (is) -6.1 (s) -6.1 ( ) ] TJ
+-18.695 -2.415 TD
+0.0004 Tc
+0.0287 Tw
+[ (contraceptiv) 5.4 (e) -0.8 (s as an) 5.4 ( extra cost claim) 8.2 (i) -1.8 (ng that ) ] TJ
+18.11 0 TD
+0.0011 Tc
+0.0272 Tw
+[ (they are no) 6.1 (t \223m) 8.9 (edically) ] TJ
+9.445 0 TD
+0.0013 Tc
+0.027 Tw
+[ ( nec) 5.1 (e) 5.1 (ssary\224\056  \050W) 10.2 (hite\054 ) ] TJ
+-27.555 -2.415 TD
+-0.0001 Tc
+0.0551 Tw
+[ (279\051 Yet\054 there seem) 7.7 (s to be a very thin line ) ] TJ
+18 0 TD
+0.0002 Tc
+0.0531 Tw
+[ (that separates w) 7.4 (h) 0.2 (at is ) ] TJ
+8.985 0 TD
+0.0001 Tc
+0.0549 Tw
+[ (\223m) 7.9 (edically necessary\224 ) ] TJ
+-26.985 -2.415 TD
+0.0004 Tc
+0.3453 Tw
+[ (from) 8.2 ( what is convenient\056  There are m) 8.2 (a) -0.8 (ny) ] TJ
+19.135 0 TD
+0.0002 Tc
+0.3438 Tw
+[ ( instances in which contraceptives are) -6 ( ) ] TJ
+-19.135 -2.415 TD
+0.0007 Tc
+0.0485 Tw
+[ (prescribed as a m) 8.5 (e) -0.5 (dical necessity\056  S) 6.9 (u) 0.7 (ch situ) ] TJ
+18.065 0 TD
+0.0009 Tc
+0.0491 Tw
+[ (atio) 5.9 (ns includ) 5.9 (e the prev) ] TJ
+9.235 0 TD
+-0.0006 Tc
+0.0506 Tw
+[ (ention of pregnancies ) ] TJ
+-27.3 -2.415 TD
+0.0006 Tc
+0.1136 Tw
+[ (that are kno) 5.6 (wn to be co) 5.6 (mplicated\054) 5.6 ( and the ) ] TJ
+17.88 0 TD
+0 Tc
+0.1141 Tw
+[ (regulation of hormonal im) 7.8 (ba) -6.2 (lances and as a ) ] TJ
+-17.88 -2.415 TD
+0.25 Tw
+[ (preventative m) 7.8 (easure against ovarian cancer\056 ) ] TJ
+19.455 0 TD
+0.0004 Tc
+0.2488 Tw
+[ ( \050W) 9.2 (hite\054 280\051  Yet\054 in this patriarchal ) ] TJ
+-19.455 -2.415 TD
+0.001 Tc
+0.103 Tw
+[ (socie) 4.8 (t) -1.2 (y\054 m) 8.8 (a) -0.2 (le\055dom) 8.8 (inance extends) 5.2 ( in) 6 (to the rea) 4.8 (l) ] TJ
+18.85 0 TD
+-0.0001 Tc
+0.1051 Tw
+[ (m of wom) 7.7 (e) -1.3 (n\222) -7.1 (s rights\054 ) ] TJ
+9.225 0 TD
+0.0004 Tc
+0.0996 Tw
+[ (limiting the co) 5.4 (ntrol ) ] TJ
+-28.075 -2.415 TD
+0.0002 Tc
+0.0748 Tw
+[ (that a wom) 8 (a) -1 (n has on her own repr) ] TJ
+14.105 0 TD
+0.0731 Tw
+[ (oductive rights\056  It ) ] TJ
+7.88 0 TD
+0.0006 Tc
+0.0704 Tw
+[ (is truly unfortunate that in today\222s) -5.2 ( ) ] TJ
+-21.985 -2.415 TD
+0 Tc
+0.05 Tw
+[ (society\054 wom) 7.8 (e) -1.2 (n continue to be ) ] TJ
+12.68 0 TD
+0.0007 Tc
+0.0493 Tw
+[ (subjected) 5.7 ( to) 5.7 ( sexism) 8.5 ( when it ) ] TJ
+11.54 0 TD
+0.0001 Tc
+0.0499 Tw
+[ (com) 7.9 (e) -1.1 (s to decisions regarding ) ] TJ
+-24.22 -2.415 TD
+0.0009 Tc
+0.0396 Tw
+[ (their own bodies\056  W) 9.7 (o) -4.1 (m) 8.7 (e) -0.3 (n m) 8.7 (u) 0.9 (st be viewed by so) ] TJ
+19.865 0 TD
+0.0003 Tc
+0.0388 Tw
+[ (ciety as individuals that have the ability ) ] TJ
+-19.865 -2.41 TD
+0.0002 Tc
+0.1698 Tw
+[ (to m) 8 (a) -1 (ke competent and rational decisions when it com) 8 (e) -1 (s to their reproductive health\054 ) ] TJ
+0 -2.415 TD
+0.0006 Tc
+0.1685 Tw
+[ (unhindered by lim) 8.4 (itations set forth by em) 8.4 (ployer) ] TJ
+20.135 0 TD
+0.0004 Tc
+0.1676 Tw
+[ (s and insurance com) 8.2 (p) 0.4 (anies looking to ) ] TJ
+-20.135 -2.415 TD
+0.0008 Tc
+-0.0008 Tw
+[ (save m) 8.6 (oney\056   ) ] TJ
+T*
+0.0009 Tc
+0.0278 Tw
+[ ( ) -2721.3 (It is true) 4.7 ( tha) 4.7 (t) -1.3 ( the) 4.7 ( outlook) 5.9 ( f) 3.9 (o) 0.9 (r wom) 8.7 (e) -0.3 (n in ) ] TJ
+19.005 0 TD
+0 Tc
+0.03 Tw
+[ (term) 7.8 (s of getting the c) ] TJ
+8.605 0 TD
+0.0005 Tc
+0.0261 Tw
+[ (overage they need in ) ] TJ
+-27.61 -2.415 TD
+-0.0001 Tc
+0.0651 Tw
+[ (the near future is positive\056  In the last few ) ] TJ
+17.5 0 TD
+-0.0002 Tc
+0.0652 Tw
+[ (years\054 public policies have been set forth that ) ] TJ
+-17.5 -2.415 TD
+0.0012 Tc
+0.0038 Tw
+[ (attem) 9 (p) 1.2 (t to in) 6.2 (tegrate th) 6.2 (e needs of wom) 9 (e) 0 (n in em) 9 (pl) -6 (oyer\055bas) 5.4 (ed insurance p) 6.2 (l) -1 (a) 5.1 (n) 1.2 (s\056  Specifically\054) 6.2 ( ) ] TJ
+T*
+0.0006 Tc
+0.1394 Tw
+[ (in recen) 5.6 (t years\054 the United States Equal Opportunity Comm) 8.4 (ission has deem) 8.4 (ed it to be) -5.6 ( ) ] TJ
+T*
+0.0034 Tw
+[ (sexually discrim) 8.5 (i) -1.5 (natory for an em) 8.5 (ployer to not) ] TJ
+18.635 0 TD
+0.0012 Tc
+0.0028 Tw
+[ ( in) 6.2 (clude con) 6.2 (t) -1 (raceptiv) 6.2 (es in) 6.2 ( their p) 6.2 (r) -0.8 (escrip) 6.2 (tion) 6.2 ( ) ] TJ
+-18.635 -2.415 TD
+0.0003 Tc
+0.0997 Tw
+[ (plan for health insurance\056 \050D) ] TJ
+11.87 0 TD
+0.0006 Tc
+0.0989 Tw
+[ (ailard\054 13\051  However\054 m) 8.4 (o) 0.6 (re changes need to be m) 8.4 (a) -0.6 (de on a) -5.6 ( ) ] TJ
+ET
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 NUR\056G0\05603\0561 \055 Nursing \055 Final Year Undergraduate \055 Female \055 NNS \050L1\072 Tamil\051 \055 Argumentative Essay) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(7) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+23 0 obj
+<<
+/Length 5097
+>>
+stream
+q
+/GS1 gs
+BT
+/TT2 1 Tf
+12 0 0 12 90 744.96 Tm
+0 g
+17.75 Tc
+0 Tw
+(   ) Tj
+0 -1.15 TD
+0 Tc
+( ) Tj
+0 -1.85 TD
+0.0007 Tc
+0.0443 Tw
+[ (federal lev) 5.7 (e) -0.5 (l such that th) 5.7 (ere need not be a di) ] TJ
+18.05 0 TD
+0.0003 Tc
+0.0439 Tw
+[ (sparity in access to or cost of contraceptives) 4.5 ( ) ] TJ
+-18.05 -2.415 TD
+0.0008 Tc
+0.2142 Tw
+[ (am) 8.6 (ong gender\054 or class lines\056  This require) ] TJ
+18.49 0 TD
+0.0004 Tc
+0.2138 Tw
+[ (s action on every level\054 starting with the ) ] TJ
+-18.49 -2.415 TD
+0 Tc
+0.27 Tw
+[ (wom) 7.8 (e) -1.2 (n who are affected by th) 5 (ese decis) 4.2 (i) -2.2 (ons ) ] TJ
+19.51 0 TD
+0.0005 Tc
+0.2678 Tw
+[ (every tim) 8.3 (e they v) 5.5 (i) -1.7 (sit their h) 5.5 (e) -0.6 (alth care ) ] TJ
+-19.51 -2.415 TD
+0.0002 Tc
+-0.0002 Tw
+(professional\056    ) Tj
+3 -2.415 TD
+-0.0014 Tw
+(Since the advent of reproduc) Tj
+11.495 0 TD
+0.0007 Tc
+-0.0023 Tw
+[ (tive control m) 8.5 (e) -0.5 (thods\054 wom) 8.5 (e) -0.4 (n ) ] TJ
+11.91 0 TD
+0.0004 Tc
+-0.0004 Tw
+(have struggled to find a ) Tj
+-26.405 -2.415 TD
+[ (balance b) 5.4 (e) -0.8 (tween what they need an) 5.4 (d what they) ] TJ
+18.8 0 TD
+-0.0001 Tc
+-0.0024 Tw
+( can get\056  Inadequate insurance coverage ) Tj
+-18.8 -2.415 TD
+0.0007 Tc
+-0.0007 Tw
+[ (of contracep) 5.7 (tives no) 5.7 (t only lim) 8.5 (its wom) 8.5 (e) -0.5 (n in th) ] TJ
+18.19 0 TD
+0.0003 Tc
+-0.0011 Tw
+[ (eir reproductive options\054 bu) 5.3 (t it also allo) 5.3 (ws ) ] TJ
+-18.19 -2.415 TD
+(society to construct barriers along class and ) Tj
+17.695 0 TD
+0.0001 Tc
+-0.0001 Tw
+[ (gender lines\056  Given the vast dem) 7.9 (ographic of ) ] TJ
+-17.695 -2.415 TD
+0.0006 Tc
+-0.0016 Tw
+[ (wom) 8.4 (e) -0.6 (n that are affected by cont) ] TJ
+12.86 0 TD
+0.001 Tc
+-0.0032 Tw
+[ (ra) 4.8 (ce) 4.8 (ptive lim) 8.8 (itations\054 it is su) 6 (r) 4 (p) 1 (rising tha) 4.8 (t) -1.2 ( the issue d) 6 (i) -1.2 (d not ) ] TJ
+-12.86 -2.415 TD
+-0.0025 Tw
+[ (enter the pu) 6.1 (blic realm) 8.9 ( earlier\056  W) 10 (h) 1.1 (ile m) 8.9 (o) ] TJ
+16.265 0 TD
+0.0003 Tc
+-0.0013 Tw
+(ral objections and religious beliefs have ) Tj
+-16.265 -2.415 TD
+0.0002 Tc
+-0.0002 Tw
+(effectively swept the issues surrounding cont) Tj
+18.025 0 TD
+0 Tc
+0 Tw
+(raceptive use and distribution\054 such views ) Tj
+-18.025 -2.415 TD
+0.0003 Tc
+-0.0003 Tw
+[ (must be separated from) 8.1 ( the political sphere ) ] TJ
+17.47 0 TD
+0.0007 Tc
+0 Tw
+[ (in o) 5.7 (r) 3.7 (der to r) 3.7 (e) -0.5 (ins) 4.9 (t) 3.5 (ate wom) 8.5 (e) -0.5 (n with the po) 5.7 (wer ) ] TJ
+-17.47 -2.415 TD
+0.0002 Tc
+-0.0013 Tw
+(and freedom that they are entitled to\056  It t) Tj
+16.39 0 TD
+0.0003 Tc
+-0.0003 Tw
+[ (ook years of personal turm) 8.1 (oil for wom) 8.1 (e) -0.9 (n of al) -6.9 (l ) ] TJ
+-16.39 -2.41 TD
+0.0002 Tc
+-0.0002 Tw
+[ (ages and various socioeconom) 8 (i) -2 (c levels be) ] TJ
+16.69 0 TD
+0.0007 Tc
+0.0001 Tw
+[ (fore a s) 4.9 (t) 3.5 (atem) 8.5 (ent was m) 8.5 (a) -0.5 (de regarding the ) ] TJ
+-16.69 -2.415 TD
+0.0005 Tc
+-0.0021 Tw
+[ (inadequacy and disparity eviden) ] TJ
+12.92 0 TD
+0.001 Tc
+-0.003 Tw
+[ (t in the health in) 6 (surance sy) 6 (st) ] TJ
+11.355 0 TD
+0.0009 Tc
+0.0003 Tw
+[ (em) 8.7 ( in term) 8.7 (s of contracep) 5.9 (tive ) ] TJ
+-24.275 -2.415 TD
+-0.0023 Tw
+[ (coverage\056  T) 6.7 (h) 0.9 (is is the un) 5.9 (f) 3.9 (o) 0.9 (rtunate rea) 4.7 (lity of) ] TJ
+17.275 0 TD
+0.0008 Tc
+-0.0015 Tw
+[ ( living) 5.8 ( in a patria) 4.6 (rc) 4.6 (hal soc) 4.6 (i) -1.4 (ety where m) 8.6 (oney ) ] TJ
+-17.275 -2.415 TD
+0.0003 Tc
+-0.0017 Tw
+[ (talks m) 8.1 (o) 0.3 (re loudly then most other types of ) ] TJ
+17.16 0 TD
+-0.0016 Tw
+[ (action\056  Yet\054 this cannot stop wom) 8.2 (e) -0.7 (n at all ) ] TJ
+-17.16 -2.415 TD
+0.0004 Tw
+[ (levels of society from) 8.2 ( making their voices ) ] TJ
+17.085 0 TD
+0.0001 Tc
+-0.0007 Tw
+(heard and their opinions count\056   Given the ) Tj
+-17.085 -2.415 TD
+0.0004 Tc
+-0.0004 Tw
+[ (advances m) 8.2 (a) -0.8 (de by society in term) 8.2 (s of civil libe) ] TJ
+18.77 0 TD
+0.0001 Tc
+-0.0001 Tw
+(rties and women\222s rights\054) Tj
+10.11 0 TD
+0.0011 Tc
+-0.0031 Tw
+[ ( it seem) 8.9 (s that it is ) ] TJ
+-28.88 -2.415 TD
+0.0006 Tc
+-0.0006 Tw
+[ (just a m) 8.4 (a) -0.6 (tter of tim) 8.4 (e before contraceptive ) ] TJ
+16.75 0 TD
+0.0002 Tc
+-0.001 Tw
+(freedom and personal control is given the ) Tj
+-16.75 -2.415 TD
+0.0004 Tc
+-0.0016 Tw
+(attention it deserves on the stage of change\056  ) Tj
+17.94 0 TD
+-0.0014 Tw
+[ (Nevertheless\054 imm) 8.2 (e) -0.8 (diate steps m) 8.2 (u) 0.4 (st be taken ) ] TJ
+-17.94 -2.415 TD
+0 Tc
+0 Tw
+(by individuals and interest groups alike ) Tj
+15.995 0 TD
+0.0005 Tc
+-0.0019 Tw
+(to create these tides of change\056   ) Tj
+ET
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 NUR\056G0\05603\0561 \055 Nursing \055 Final Year Undergraduate \055 Female \055 NNS \050L1\072 Tamil\051 \055 Argumentative Essay) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(8) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+24 0 obj
+<<
+/Length 3238
+>>
+stream
+q
+/GS1 gs
+BT
+/TT2 1 Tf
+12 0 0 12 90 744.96 Tm
+0 g
+17.75 Tc
+0 Tw
+(   ) Tj
+0 -1.15 TD
+0 Tc
+( ) Tj
+15.46 -1.85 TD
+0.0009 Tc
+-0.0009 Tw
+[ (W) 4.7 (o) 0.9 (rks Cited) ] TJ
+ET
+275.52 707.04 60.96 0.59998 re
+f
+BT
+12 0 0 12 336.48 708.96 Tm
+0 Tc
+0 Tw
+( ) Tj
+-20.54 -2.415 TD
+0.0004 Tc
+-0.0012 Tw
+[ (Dailard\054 Cy) 5.4 (nthia\056  \223The Cost of Contracep) ] TJ
+16.94 0 TD
+0.0006 Tc
+-0.0016 Tw
+[ (tive In) 5.6 (surance Cov) 5.6 (e) -0.6 (rage\056\224  The Guttm) 8.4 (acher ) ] TJ
+ET
+424.26 678.06 78.24 0.60004 re
+f
+BT
+12 0 0 12 127.08 651.0001 Tm
+0.0005 Tc
+-0.0005 Tw
+(Report on Public Policy) Tj
+ET
+127.08 649.08 115.08 0.60004 re
+f
+BT
+12 0 0 12 242.16 651.0001 Tm
+0.0003 Tc
+-0.0028 Tw
+(  6\0561 \0502003\051\072 12\05513\056 ) Tj
+-12.68 -2.415 TD
+0.0001 Tc
+-0.0001 Tw
+(Gold\054 Rachel Benson\056  \223The Need for and the Cost of Mandating Private Insurance ) Tj
+3.09 -2.415 TD
+0.0004 Tc
+-0.0004 Tw
+[ (Coverage of Contracep) 5.4 (tion\056\224  The Guttm) 8.2 (acher Report on Pub) 5.4 (lic Policy ) ] TJ
+ET
+271.38 591.12 199.32 0.60004 re
+f
+BT
+12 0 0 12 470.7 593.04 Tm
+-0.001 Tc
+0.001 Tw
+( 2\0563 ) Tj
+-28.635 -2.415 TD
+-0.0004 Tc
+0.0004 Tw
+(\0501998\051\072 5\0558 ) Tj
+-3.09 -2.415 TD
+0.0002 Tc
+-0.0002 Tw
+(King\054 Leslie\054 and Meyer\054 Madonna Harrington\056 ) Tj
+19.17 0 TD
+0.0001 Tc
+-0.0011 Tw
+( \223The Politics of Reproductive Benefits\072 ) Tj
+-16.08 -2.415 TD
+0 Tc
+0 Tw
+(U\056S\056 Insurance Coverage of) Tj
+11.075 0 TD
+0.0002 Tc
+-0.001 Tw
+[ ( Contraceptive and Infertility Treatm) 8 (ents\056\224  Ge) -6 (nder ) ] TJ
+ET
+470.88 504.18 35.4 0.60001 re
+f
+BT
+12 0 0 12 127.08 477.12 Tm
+0.0007 Tc
+-0.0007 Tw
+(and Society) Tj
+ET
+127.08 475.2 56.4 0.60001 re
+f
+BT
+12 0 0 12 183.48 477.12 Tm
+-0.0002 Tc
+-0.001 Tw
+(  11\0561 \0501997\051\072 8\05530 ) Tj
+-7.79 -2.415 TD
+0.0002 Tc
+-0.0027 Tw
+(Rodriguez\054 Pablo\056 \042Contraception and in) Tj
+16.24 0 TD
+0.0001 Tc
+-0.0026 Tw
+[ (surance coverage\056 \042 Fe) -6 (m) 7.9 (a) -1.1 (le Patient) ] TJ
+ET
+381.66 446.22 71.7 0.60001 re
+f
+BT
+12 0 0 12 453.36 448.14 Tm
+0.0008 Tc
+-0.0008 Tw
+(  \072 The ) Tj
+-27.19 -2.415 TD
+0.0002 Tc
+-0.0009 Tw
+[ (Fe) -6 (m) 8 (a) -1 (le Patient S50 \0502005\051\072 14\05516\056    ) ] TJ
+-3.09 -2.415 TD
+0.0001 Tc
+-0.0001 Tw
+(White\054 Jennifer\056  \223The Contraception Misc) Tj
+17.085 0 TD
+0 Tc
+0 Tw
+[ (onception\072 W) 8.8 (hy Contraceptives Should Be ) ] TJ
+-13.995 -2.415 TD
+0.0007 Tc
+-0.0007 Tw
+[ (Covered By Em) 8.5 (ployer Insurance ) ] TJ
+13.39 0 TD
+0.0001 Tc
+-0.0013 Tw
+[ (Plan) 5.1 (s\056\224  Hofstra Law Review) ] TJ
+ET
+328.02 359.28 99.9 0.60001 re
+f
+BT
+12 0 0 12 427.92 361.2 Tm
+0.0004 Tc
+-0.0004 Tw
+(  31\0561 \0502004\051\072 273\055) Tj
+-25.07 -2.41 TD
+0 Tc
+0 Tw
+(302\056 ) Tj
+/TT4 1 Tf
+-3.09 -2.425 TD
+( ) Tj
+ET
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+BT
+/F1 8 Tf
+14.4 TL
+ET
+0.12549 0.12549 1 rg
+BT
+1 0 0 1 30 30 Tm
+(Michigan Corpus of Upper\055level Student Papers\056 Version 1\0560 Ann Arbor\054 MI\056 Copyright \050c\051 2009 Regents of the University of Michigan) Tj
+T*
+ET
+BT
+1 0 0 1 30 762 Tm
+(MICUSP Version 1\0560 \055 NUR\056G0\05603\0561 \055 Nursing \055 Final Year Undergraduate \055 Female \055 NNS \050L1\072 Tamil\051 \055 Argumentative Essay) Tj
+T*
+ET
+BT
+/F1 10 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 587 762 Tm
+(9) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+25 0 obj
+<<
+/FirstChar 32
+/Widths [ 250 ]
+/Encoding /WinAnsiEncoding
+/Type /Font
+/BaseFont /TimesNewRomanPS-BoldMT
+/LastChar 32
+/FontDescriptor 26 0 R
+/Subtype /TrueType
+>>
+endobj
+26 0 obj
+<<
+/FontBBox [ -558 -307 2000 1026 ]
+/StemV 136
+/Descent -216
+/XHeight -546
+/Flags 34
+/FontStretch /Normal
+/Ascent 891
+/FontName /TimesNewRomanPS-BoldMT
+/Type /FontDescriptor
+/FontWeight 700
+/ItalicAngle 0
+/FontFamily (Times New Roman)
+/CapHeight 656
+>>
+endobj
+xref
+0 27
+0000000000 65535 f 
+0000000009 00000 n 
+0000000119 00000 n 
+0000000220 00000 n 
+0000000269 00000 n 
+0000000608 00000 n 
+0000000947 00000 n 
+0000001286 00000 n 
+0000001625 00000 n 
+0000001964 00000 n 
+0000002303 00000 n 
+0000002643 00000 n 
+0000002983 00000 n 
+0000003335 00000 n 
+0000008693 00000 n 
+0000008778 00000 n 
+0000009328 00000 n 
+0000009592 00000 n 
+0000014683 00000 n 
+0000019898 00000 n 
+0000025021 00000 n 
+0000030515 00000 n 
+0000035891 00000 n 
+0000041560 00000 n 
+0000046710 00000 n 
+0000050001 00000 n 
+0000050181 00000 n 
+trailer
+<<
+/Size 27
+/Root 3 0 R
+/Info 2 0 R
+>>
+startxref
+50451
+%%EOF

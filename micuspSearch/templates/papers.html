@@ -1,0 +1,67 @@
+
+<html>
+	<head>
+		<title>MICUSP Paper Classification</title>
+
+		<link rel="stylesheet" type="text/css" href="/classify/css/blue.css"/>
+		<link rel="stylesheet" type="text/css" href="/classify/css/classify.css"/>
+		<script type="text/javascript" src="/classify/js/jquery-1.3.2.min.js"> </script>
+		<script type="text/javascript" src="/classify/js/jquery.tablesorter.js"></script>
+
+		<script type="text/javascript">
+		$(document).ready(function() {		
+			$("#paperlist").tablesorter();
+		});	
+		</script>
+	</head>
+
+	<body>
+
+	<div id="header">
+		<span class="title">MICUSP Paper Classification</span>
+		<a href="new">Classify a new paper</a>
+
+		<span>|</span>
+
+		<span>User: {{ user.username }} </span>
+		<a href="/classify/logout">logout</a>
+	</div>
+
+</h3>
+	{% if classified_papers	%}
+	<h4> You have classified {{ classified_papers|length }} papers </h4>
+		<table id="paperlist" class="tablesorter">
+			<thead>
+				<tr>
+				<th>Paper</th>
+				<th>Unsure</th>
+				<th>Comments</th>
+				<th>Date classified</th>
+				</tr>
+			</thead>
+			<tbody>
+		{% for p in classified_papers %}
+			<tr>
+			   <td><a href="edit/{{ p.id }}">Paper {{ p.paperID.id }}</a></td>
+			   <td>
+                               {% if p.unsure %}
+				XX
+			       {% endif %}
+			   </td>
+			   <td>
+			      {{ p.comment }}
+			   </td>
+			   <td>{{ p.edited }}</td>
+			</tr>	
+		{% endfor %}
+			</body>
+		</table>
+	{% else %}
+		<p>NO PAPERS CLASSIFIED</p>
+	{% endif %}
+
+	
+	
+	</body>
+
+</html>

@@ -1,0 +1,77 @@
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="/classify/css/smoothness/jquery-ui-1.7.1.custom.css"/>
+		<link type="text/css" rel="stylesheet" href="/classify/css/classify.css"/>
+		<script src="/classify/js/jquery-1.3.2.min.js"> </script>
+		<script src="/classify/js/jquery-ui-1.7.1.custom.min.js"> </script>	
+		<script type="text/javascript">
+
+		$(document).ready(function() {
+
+		});
+
+		</script>
+
+
+	</head>
+
+
+	<body>
+		<div id="header">
+			<span class="title"> Paper {{ paper.id }} </span>
+		
+			<a href="/classify/paper">papers list</a>
+			<span class="sep">|</span> 
+			<span>User {{ user.username }} </span>
+			<a href="/classify/logout">logout</a>
+		</div>
+<div id="tabs">
+<!--
+<ul>
+	<li><a href="#tab1"><span>Classification</span></a></li>
+	<li><a href="#tab2"><span>Paper</span></a></li>
+</ul>
+-->
+<div id="tab1">
+
+<form action="" method="POST">
+
+
+<input type="hidden" name="id_paperID" value="{{ paper.id }}" id="id_paperID" />
+
+<table>
+<thead>
+	<tr>
+		<th>Primary</th>
+		<th>Secondary</th>
+		<th>Features</th>
+		<th>Comments</th>
+	</tr>
+</thead>
+<tbody>
+<tr>
+	<td>{{ form.primary }}
+	<br/><br/>
+	Unsure {{ form.unsure }}
+	<br/><br/>
+	<input type="submit" value="Submit" />
+
+	</td>
+	<td>{{ form.secondary }} </td>
+	<td>{{ form.features }} </td>
+	<td>{{ form.comment }} </td>
+</tr>
+</tbody>
+</table>
+
+</form>
+	
+</div>
+
+<div id="tab2">
+<embed src="/classify/view/{{ paper.filename }}" width="100%" height="80%">
+
+</embed>
+</div>
+</body>
+</html>

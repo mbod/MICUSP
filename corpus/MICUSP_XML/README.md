@@ -4,27 +4,28 @@
 
 * File names include:
     * Discipline
-          * Biology (BIO)
-          * Civil & Environmental Engineering (CEE)
-            * Economics (ECO)
-            * Education (EDU)
-            * English (ENG)
-            * History & Classical Studies (HIS)
-            * Industrial & Operations Engineering (IOE)
-            * Linguistics (LIN)
-            * Mechanical Engineering (MEC)
-            * Natural Resources & Environment (NRE)
-            * Nursing (NUR)
-            * Philosophy (PHI)
-            * Physics (PHY)
-            * Political Science (POL)
-            * Psychology (PSY)
-            * Sociology(SOC)
+         * Biology (BIO)
+         * Civil & Environmental Engineering (CEE)
+         * Economics (ECO)
+         * Education (EDU)
+         * English (ENG)
+         * History & Classical Studies (HIS)
+         * Industrial & Operations Engineering (IOE)
+         * Linguistics (LIN)
+         * Mechanical Engineering (MEC)
+         * Natural Resources & Environment (NRE)
+         * Nursing (NUR)
+         * Philosophy (PHI)
+         * Physics (PHY)
+         * Political Science (POL)
+         * Psychology (PSY)
+         * Sociology(SOC)
      * Student Level
-	    * Senior Undergrad (G0)
-	    * 1st Year Graduate (G1)
- 	    * 2nd Year Graduate (G2)
-            * 3rd Year Graduate (G3)
+         * Senior Undergrad (G0)
+	 * 1st Year Graduate (G1)
+ 	 * 2nd Year Graduate (G2)
+         * 3rd Year Graduate (G3)
+
      * And paper number within these
 
   for example:

@@ -3,7 +3,7 @@
 * The corpus files in this directory are in TEI compliant XML and organized by discipline.
 
 * File names include:
-       * Discipline
+    * Discipline
           * Biology (BIO)
           * Civil & Environmental Engineering (CEE)
             * Economics (ECO)
@@ -20,12 +20,12 @@
             * Political Science (POL)
             * Psychology (PSY)
             * Sociology(SOC)
-	* Student Level
+     * Student Level
 	    * Senior Undergrad (G0)
 	    * 1st Year Graduate (G1)
  	    * 2nd Year Graduate (G2)
             * 3rd Year Graduate (G3)
-	* And paper number within these
+     * And paper number within these
 
   for example:
   ```

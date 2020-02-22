@@ -3,9 +3,9 @@
 * The corpus files in this directory are in TEI compliant XML and organized by discipline.
 
 * File names include:
-	* Discipline
-            * Biology (BIO)
-            * Civil & Environmental Engineering (CEE)
+       * Discipline
+          * Biology (BIO)
+          * Civil & Environmental Engineering (CEE)
             * Economics (ECO)
             * Education (EDU)
             * English (ENG)

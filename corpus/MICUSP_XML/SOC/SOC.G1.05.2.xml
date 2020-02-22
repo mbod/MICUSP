@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Freud and Weber</title>
+        <author>anonymized</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Version 1.0</edition>
+      </editionStmt>
+      <extent>insert_extent</extent>
+      <publicationStmt>
+        <idno>SOC.G1.05.2</idno>
+        <publisher>The University of Michigan</publisher>
+        <pubPlace>Ann Arbor, Michigan, USA</pubPlace>
+        <date>2007</date>
+        <availability>
+          <p>The MICUSP project is owned by the Regents of the University of Michigan, who hold the copyright. The database has been developed by the English Language Institute. The original text submissions are stored electronically in the English Language Institute and may be consulted by bona fide researchers under special arrangements. The database is available by password on the World Wide Web for study, teaching and research purposes. Copies of the text files may be distributed, as long as either this statement of availability or the citation given below appears in the text. However, if any portion of this material is to be used for commercial purposes, such as for textbooks or tests, permission must be obtained in advance and a license fee may be required. For further information about copyright permissions, please inquire at micusp@umich.edu.</p>
+          <p>The recommended citation for MICASE is: Ädel, A., J. M. Swales, and J. Sielaff. (2007) The Michigan Corpus of Upper-level Student Papers. Ann Arbor, MI: The Regents of the University of Michigan.</p>
+        </availability>
+      </publicationStmt>
+      <seriesStmt>
+        <title>The Michigan Corpus of Upper-level Student Papers (MICUSP)</title>
+      </seriesStmt>
+      <sourceDesc>
+        <p>This document derives from an unpublished, student-authored paper contributed in electronic format.</p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>For information on corpus compilation and encoding practices, see the MICUSP Handbook.</p>
+      </projectDesc>
+      <classDecl>
+        <taxonomy>
+          
+          <category><catDesc>departments</catDesc><category id="BIO"><catDesc>Biology</catDesc></category><category id="CEE"><catDesc>Civil and Environmental Engineering</catDesc></category><category id="CLS"><catDesc>Classical Studies</catDesc></category><category id="ECO"><catDesc>Economics</catDesc></category><category id="EDU"><catDesc>Education</catDesc></category><category id="ENG"><catDesc>English</catDesc></category><category id="IOE"><catDesc>Industrial and Operational Engineering</catDesc></category><category id="LIN"><catDesc>Linguistics</catDesc></category><category id="MEC"><catDesc>Mechanical Engineering</catDesc></category><category id="NRE"><catDesc>Natural Resources</catDesc></category><category id="NUR"><catDesc>Nursing</catDesc></category><category id="PHI"><catDesc>Philosophy</catDesc></category><category id="PHY"><catDesc>Physics</catDesc></category><category id="POL"><catDesc>Political Science</catDesc></category><category id="PSY"><catDesc>Psychology</catDesc></category><category id="SOC"><catDesc>Sociology</catDesc></category></category>
+          <category>
+            <catDesc>student levels</catDesc>
+            <category id="G0"><catDesc>senior undergraduate</catDesc></category>
+            <category id="G1"><catDesc>first-year graduate</catDesc></category>
+            <category id="G2"><catDesc>second-year graduate</catDesc></category>
+            <category id="G3"><catDesc>third-year graduate and up</catDesc></category>
+          </category>
+          <category>
+            <catDesc>student-reported text types</catDesc>
+            <category id="CaseStudy"><catDesc>case study</catDesc></category>
+            <category id="Critique"><catDesc>critique</catDesc></category>
+            <category id="LiteratureReview"><catDesc>literature review</catDesc></category>
+            <category id="ResearchProposal"><catDesc>research proposal</catDesc></category>
+            <category id="ResponsePaper"><catDesc>response paper</catDesc></category>
+            <category id="TechnicalOrLabReport"><catDesc>technical report or lab report</catDesc></category>
+            <category id="TermPaper"><catDesc>term paper</catDesc></category>
+            <category id="OtherTextType"><catDesc>other</catDesc></category>
+          </category>
+          <category>
+            <catDesc>approximate preparation times</catDesc>
+            <category id="OneToThreeDays"><catDesc>1-3 days</catDesc></category>
+            <category id="FourToTenDays"><catDesc>4-10 days</catDesc></category>
+            <category id="TwoToThreeWeeks"><catDesc>2-3 weeks</catDesc></category>
+            <category id="ThreeToSixWeeks"><catDesc>3-6 weeks</catDesc></category>
+            <category id="OneFullSemester"><catDesc>one full semester</catDesc></category>
+          </category>
+          <category>
+            <catDesc>sources of feedback</catDesc>
+            <category id="NoFeedback"><catDesc>no feedback from others</catDesc></category>
+            <category id="PrimaryInstructor"><catDesc>primary course instructor</catDesc></category>
+            <category id="GSI"><catDesc>Graduate Student Instructor (teaching assistant)</catDesc></category>
+            <category id="WritingTutor"><catDesc>writing tutor</catDesc></category>
+            <category id="FriendOrClassmate"><catDesc>friend or classmate</catDesc></category>
+            <category id="OtherFeedback"><catDesc>other</catDesc></category>
+          </category>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>Paper submitted to instructor in Nov 2005</creation>
+      <particDesc>
+        <person id="P266" sex="m" age="TwentyFourToThirty">
+          <affiliation>Sociology</affiliation>
+          <firstLang>English</firstLang>
+          <dominantLang>English</dominantLang>
+          <englishInPrimarySchool value="YES"/>
+          <englishInSecondarySchool value="YES"/>
+          <englishInUndergraduate value="YES"/>
+        </person>
+      </particDesc>
+      <textClass><catRef target="SOC G1 Report ResponsePaper OneToThreeDays FriendOrClassmate"><classification><primary>Report</primary><secondary>Critique/Evaluation</secondary></classification><classification><primary>Critique/Evaluation</primary><secondary>Report</secondary></classification><features> <feature type="Reference to sources"/> </features></catRef></textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change>
+        <date>2009-01-09</date>
+        <respStmt><name>Geoffrey Ho</name><resp>coder</resp></respStmt>
+        <item>manual adjustment of tags</item>
+      </change>
+      <change>
+        <date>2007-05-22</date>
+        <respStmt><name>Gregory Garretson</name><resp>programmer</resp></respStmt>
+        <item>initial (automated) encoding in XML</item>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+<body>
+
+<div type="opener">
+  <head> Theories of Freud and Weber</head>
+<p/>
+</div>
+<div type="main">
+<p>﻿Sigmund Freud (1856-1939) and Max Weber (1864-1920) were contemporaries whose theories of psychological and social development complement each other. In <i type="title">Civilization and its Discontents</i>, Freud argues for the frustration of man’s basic instincts by the very culture he creates. Yet although Freud envisions a ceaseless struggle between <i type="term">eros</i> and death at the core of civilization, he fails—in my view—to finish the story of how this struggle drives culture forward, such that creation vs. destruction is not a zero-sum game. In <i type="title">Politics as a Vocation</i> and <i type="title">Science as a Vocation</i>, Weber takes Freud one step further. Weber appears to take national and cultural institutions as his units of analysis, finding the roots of humanity’s ills in the self-perpetuating mess of entrenched bureaucracies and in scientific approaches inadequate to deep questions of meaning. But Weber, unlike Freud, finds a definite path forward in the aggressive, anti-social possibilities of the human will. It is precisely in the troughs of Freudian pessimism that Weber offers a kind of rocky hope: aggression and violence appear as the motors of culture, bringing to being new ideas, possibilities, and beauty. In the end, Weber completes Freud’s precarious, unfinished teleology: the darkness in humanity is great, but it is darkness ultimately in service of light. </p>
+<p>      I divide this paper into two main sections: in this first section I discuss <i type="title">Civilization and its Discontents</i>,<ptr type="footnote" target="fn1"/> and in the second I move on to Weber. In Chapters 2 through 5 of <i type="title">Civilization</i>, Freud introduces the pleasure principle, builds on this principle to explain the value and difficulties of love, and paints aggression as an attempt to gain pleasure by other means. In Chapter 6, however, Freud shrinks from considering whether instinctive aggression might have a constructive role to play in driving culture forward. Instead, Freud frames aggression as a manifestation of the death drive, and he places the death drive on par with <i type="term">eros</i> among the <i>ur</i>-urges of humanity. In fact, the teleology that ultimately emerges from <i type="title">Civilization</i> is decidedly negative: caught between two drives, man, and consequently human society, seems bound to go nowhere fast.</p>
+<p>	The foundation of Freud’s philosophy is Hobbesian, and once the nature of man’s psychological motivation is understood, the consequences for his behavior are not hard to understand. At root, humans want to be happy—that is it, that is all. <q type="quote">What decides the purpose of life is simply the program of the pleasure principle … this principle dominates the operation of the mental apparatus from the start</q> (Freud 1962, 25). Freud, like Hobbes, believes that individuals would be happiest if their every need could be satisfied, but that given the existence of other people with equally voracious desires, this is not possible. In fact, it seems that many needs—for food, shelter, and sex—are best satisfied in conjunction with other people. Thus, beginning with more-or-less enduring sexual unions of two individuals, progressively larger units of civilization are built up, and progressively more of the physical needs of humans are satisfied—at least for those in a position to enjoy the benefits of civilization to their fullest.</p>
+<p>	But where Hobbes understands social life and the state simply as a logical solution to the problem of uncertain existence in nature, Freud hypothesizes a yet deeper and more powerful <i type="foreign">raison d’etre</i> for society. The instrument <i>par excellence</i> in the evolution of culture and civilization is love. Originating in the sexual desire of one person for another (which itself is a means to the special pleasure of both sex and procreation), love is channeled through progressive stages of civilization into affection between siblings, distant kin, friends, and even fellow citizens. <q type="quote">The love which founded the family continues to operate in civilization … in its modified form as aim-inhibited affection</q> (Freud 1962, 49). Love so channeled binds humans together more effectively even than Hobbesian <q type="quote">bonds of common work and common interests</q> (Freud 1962, 55).</p>
+<p>	But love is far from unproblematic. In particular, ever more expansive directives of love become problematic in proportion to their distance from love’s libidinal origins. Hardest of all for humans to swallow is the Christian directive—the essence of which antedates Christianity—to love one’s neighbors as oneself, and even to love one’s enemies. For Freud, there is just no way that humans, driven by the pleasure principle, can ever be brought truly to love anyone as much as themselves. In fact, man’s Hobbesian core constantly impels him to seek pleasure through dominating his neighbors, as well as loving them. A neighbor is thus <q type="quote">not only a potential helper or sexual object, but also someone who tempts [humans] to satisfy their aggressiveness on him, to exploit his capacity for work without compensation, to use him sexually without his consent</q> (Freud 1962, 58). This aggressive drive, rooted in the pleasure principle, is always present. Love can control it, but not do away with it, and sometimes the directives of love are too much to bear.</p>
+<p>	At the end of Chapter 5 of <i type="title">Civilization</i>, the theoretical door is still open for Freud to find a <i>useful</i> role for aggression. Love binds, aggression rends: perhaps in some way they help each other? But in Chapter 6, Freud slams this door shut. He ups the ante: aggression towards others becomes the mere outward manifestation of a shadowy <q type="quote">death drive</q> that prowls the heart of man. <i type="term">Eros</i> and death are locked in an eternal struggle, and many human behaviors—like sadism—are best explained as an alloy of both. Moreover, the death drive, stymied by the norms of civilized society, is ultimately turned back inwards when, as the conscience, or super-ego, it patrols the self for the very aggression that constitutes its own essence. But in taking such a pessimistic view, Freud does not consider at least one important question. If <i type="term">eros</i> and death are so evenly matched, then how is it that civilization exists at all? Why is human history not a zero-sum game?</p>
+<p>	These last questions are addressed by Weber in his essays, <i type="title">Politics as a Vocation</i> and <i type="title">Science as a Vocation</i>.<ptr type="footnote" target="fn2"/> Weber proposes a teleology similar in many respects to that of Freud, in that the natural direction of human societies seems to be toward ever-increasing order, bureaucratization and cultural calcification. This tendency that Weber identifies, towards unwieldy, inexorable integration of political and social units, corresponds roughly to Freud’s <i type="term">eros</i>, which he defines as <q type="quote">the instinct to preserve living substance, and join it into ever larger units</q> (Freud 1962, 65). But where Freud sees the counterpart to <i type="term">eros</i>, the death drive, as completely destructive, Weber views political and intellectual/scientific violence as ultimately <i>con</i>structive, helping to clear the ground so that new growth can take root.</p>
+<p>	The narrative that Weber spins in <i type="title">Politics</i> is one that Freud would probably recognize.  States progress through increasingly complicated stages, beginning with the autocratic leader, who owns the means of administration, and in whose person are concentrated many of the powers of the state. Economic development creates new possibilities for the state, and new challenges; the state responds by delegating responsibility for different spheres of government to classes of expert officials. Lawyers (jurists), clergy, humanist literati, and nobility, all have their parts to play. The end result in all spheres is an essentially independent bureaucratic officialdom to whom much of the power of governing falls. Weber certainly does not want to give the impression that the transition from autocracy to bureaucracy is a smooth one, without resistance. <q type="quote">The prince, coming into … the position of a dilettante, sought to extricate himself from the unavoidably increasing weight of the expertly trained officials … [and] this latent struggle between expert officialdom and autocratic rule existed everywhere</q> (Weber 1958, 88). But the evolution in governance does happen, whether with the good will of <q type="soCalled">losers</q> in the process or not. Moreover, the evolution of governance is mirrored by a parallel evolution of the political process underlying the state. From a club of notables, to <q type="quote">an organization with salaried employees,</q> to <q type="quote">a tremendous apparatus of apparently democratic organizations,</q> the modern political party grows in power, size, and complexity,<ptr type="footnote" target="fn3"/> ultimately giving rise to <q type="quote">plebiscitarian</q> democracy, or rule of the mob (Weber 1958, 114). </p>
+<p>      Thus the context of modern politics is a combination of rigid bureaucracies within the state and gatekeeping party organizations external to the state. This combination has a stifling effect on leadership; as Weber says, <q type="quote">today one cannot see … along what avenue opportunities can be put for satisfactory political tasks.</q> Is there any way out? Is there any way of bursting the chains with which the aggregating force of <i type="term">eros</i> has bound politics? Indeed, a similar question can be asked, at a certain point in Weber’s <i type="title">Science</i>, of the stifling effect on intellectual/scientific inquiry of <q type="quote">prophetic <i type="term">pneuma</i>, which in former times swept through the great communities like a firebrand, welding them together</q> (Weber 1958, 155). Is there any force that can counter the human impulse to rally around the prophets of unifying religious systems, the great peddlers of meaning in a disenchanted world?</p>
+<p>	Weber’s solution for stifling unity, overactive <i type="term">eros</i>, is for <i>leaders</i> in all areas of life to take bold action, undeterred by the ethical mores of the mob. This solution comes across most clearly in <i type="title">Politics</i>, where Weber, like Freud, seizes on the Sermon on the Mount as emblematic of the sort of ethical precepts that groups rely upon to weld their members together. And just as Freud labels <q type="quote">love they neighbor</q> impossible to obey, Weber holds that the true leader, the one called to live for politics, cannot be bothered consistently to utilize conventional ethical means in attaining his ends. <q type="quote">The decisive means <i>for</i> politics is violence,</q> for violence enables the leader to silence the bureaucracy, and to set his nation on a new and glorious path (Weber 1958, 121). Moreover, Weber clearly understands the forces of change and newness to be in constructive conflict with those of unity and stability, for <q type="quote">the genius or demon of politics lives in an inner tension with the god of love</q> (Weber 1958, 126). <i type="term">Eros</i>, for Weber as for Freud, is responsible for many of the good things that civilized people enjoy: security of an organized police and military, prosperity of advanced economic policies. But Weber sees that the instinct to <i>destruction</i>, not <i type="term">eros</i>, is what allows leaders, in politics and science, to see past the status quo, and to show the way to ever higher states of being.</p>
+<p>	Are the teleologies of Freud and Weber an improvement over their predecessors? In many ways, yes. Freud’s consideration of love is a valuable injection of emotion into Hobbes’ rational choice, and Weber is right to recognize the connections between aggression and innovation. But Weber’s philosophy of governance echoes Plato’s <q type="quote">noble lie,</q> and the dangerous possibilities of Heidegger’s rectory address hang in retrospect over any theorist who, like Weber, rejects the <q type="quote">yearning and tarrying</q> of traditional belief systems for the utilitarian political reasoning of the modern age.</p>
+</div>
+
+
+<div type="closer">
+<div type="bibliography">
+<head>References</head>
+<listBibl>
+
+<bibl>Freud, Sigmund. 1962. Civilization and its Discontents. Translated and edited by James Strachey. New York: Norton.</bibl>
+<bibl>Weber, Max. 1958. From Max Weber: essays in sociology. Translated and edited by H.H. Gerth and C. Wright Mills. New York: Oxford.</bibl>
+</listBibl>
+</div>
+
+
+<div type="footnotes">
+<note type="footnote" id="fn1">1 Referred to hereafter as Civilization.</note>
+<note type="footnote" id="fn2">2 Referred to hereafter as Politics and Science.</note>
+<note type="footnote" id="fn3">3 Weber considers separately political parties in England, America, and Germany, but his analyses of each are too complicated for me to consider here.</note>
+</div>
+
+</div>
+
+</body>
+</text>
+</TEI.2>

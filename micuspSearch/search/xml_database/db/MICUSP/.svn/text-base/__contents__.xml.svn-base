@@ -1,6 +1,0 @@
-<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/MICUSP" owner="admin" group="dba" mode="750" created="2009-01-19T14:14:28-05:00" version="1">
-    <subcollection name="queries" filename="queries"/>
-    <subcollection name="xml" filename="xml"/>
-    <subcollection name="papers" filename="papers"/>
-    <subcollection name="xslt" filename="xslt"/>
-</collection>

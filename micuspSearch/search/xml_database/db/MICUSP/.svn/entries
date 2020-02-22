@@ -1,55 +1,0 @@
-8
-
-dir
-403
-http://elicorpora.info:8080/svn/micusp-search/micusp/search/xml_database/db/MICUSP
-http://elicorpora.info:8080/svn
-
-
-
-2010-12-03T16:33:18.520336Z
-402
-micusp
-
-
-svn:special svn:externals svn:needs-lock
-
-
-
-
-
-
-
-
-
-
-
-b51d07f0-856a-4f1b-8b93-dc9f36a6b9b9
-
-xml
-dir
-
-__contents__.xml
-file
-
-
-
-
-2010-12-03T16:44:46.000000Z
-6c1b41c2d88bba4e9f474188fd78c0eb
-2010-12-03T16:33:18.520336Z
-402
-micusp
-
-papers
-dir
-
-xslt
-dir
-
-js
-dir
-
-queries
-dir
-

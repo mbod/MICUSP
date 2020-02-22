@@ -22,8 +22,8 @@
          * Sociology(SOC)
      * Student Level
          * Senior Undergrad (G0)
-	 * 1st Year Graduate (G1)
- 	 * 2nd Year Graduate (G2)
+         * 1st Year Graduate (G1)
+         * 2nd Year Graduate (G2)
          * 3rd Year Graduate (G3)
 
      * And paper number within these
